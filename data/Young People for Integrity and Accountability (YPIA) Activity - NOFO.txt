@@ -1,0 +1,2108 @@
+ 
+
+Horizontal_RGB_600 
+
+
+Issue Date: July 14, 2022 
+
+Deadline for Questions: July 28, 2022 at 07:30 AM Harare Time 
+
+Closing Date: August 18, 2022 at 07:30 AM Harare Time 
+
+ 
+
+Subject: Notice of Funding Opportunity Number: 72061322RFA00004 
+
+ 
+
+Program Title: Young People for Integrity and Accountability (YPIA) Activity 
+
+ 
+
+Federal Assistance Listing Number: 98.001 
+
+ 
+
+Ladies/Gentlemen: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+cooperative agreement from qualified entities to implement the Partnership for Justice Young 
+People for Integrity and Accountability (YPIA) program. Eligibility for this award is not 
+restricted. 
+
+ 
+
+USAID intends to make an award to the applicant who best meets the objectives of this funding 
+opportunity based on the merit review criteria described in this NOFO subject to a risk 
+assessment. Eligible parties interested in applying are encouraged to read this NOFO thoroughly 
+to understand the type of program sought, application submission requirements and selection 
+process. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. It is the responsibility of the applicant to regularly check 
+the website to ensure they have the latest information pertaining to this notice of funding 
+opportunity and to ensure that the NOFO has been received from the internet in its entirety. 
+USAID bears no responsibility for data errors resulting from transmission or conversion process. 
+If you have difficulty registering on www.grants.gov or accessing the NOFO, please contact the 
+Grants.gov Helpdesk at 1-800-518-4726 or via email at support@grants.gov for technical 
+assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable 
+unique entity identifier and System for Award Management (SAM) requirements detailed in 
+Section D.6.f. The registration process may take many weeks to complete. Therefore, applicants 
+are encouraged to begin registration early in the process. 
+
+ 
+
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished 
+to all potential applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the 
+part of the Government nor does it commit the Government to pay for any costs incurred in 
+preparation or submission of comments/suggestions or an application. Applications are submitted 
+at the risk of the applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J. Zeb Simpson 
+
+Agreement Officer 
+
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+Section A – Program Description 
+
+ 
+
+4 
+
+Section B – Federal Award Information 
+
+ 
+
+13 
+
+Section C – Eligibility Information 
+
+ 
+
+15 
+
+Section D – Application and Submission Information 
+
+ 
+
+16 
+
+Section E – Application Review Information 
+
+ 
+
+27 
+
+Section F – Federal Award Administration Information 
+
+ 
+
+29 
+
+Section G – Federal Awarding Agency Contacts 
+
+ 
+
+33 
+
+Section H – Other Information 
+
+ 
+
+34 
+
+Annex 1 
+
+ 
+
+35 
+
+Annex 2 
+
+ 
+
+36 
+
+Annex 3 
+
+ 
+
+37 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+Introduction 
+
+The United States Agency for International Development in Zimbabwe (USAID/Zimbabwe) 
+anticipates awarding a five-year, $12 million activity called Young People for Integrity and 
+Accountability (YPIA). The cooperative agreement to be awarded under this Notice of Funding 
+Opportunity (NOFO) will contribute to results under Development Objective (DO3) of 
+USAID/Zimbabwe’s five-year Country Development Cooperation Strategy (CDCS) 2016-20220F1 
+and the three DOs of the 2022-2027 CDCS. U.S. and non-U.S. organizations may participate 
+under this Notice of Funding Opportunity. 
+
+1 For access to USAID/Zimbabwe’s CDCS, please visit: https://www.usaid.gov/zimbabwe/cdcs 
+
+2 Institutions are drawn from private and public spheres at the sub-national level. 
+
+3 See https://www.usaid.gov/sites/default/files/documents/1868/200mbo.pdf 
+
+ 
+
+Overall Purpose 
+
+The purpose of this activity is to strengthen the ability of young people and key institutions at the 
+sub-national level to improve good governance and public integrity. The objectives of this activity 
+are to: 
+
+1. Build knowledge, attitudes, and capacities of young people to shun corruption. 
+2. Build and strengthen the capacity of sub-national institutions1F2 as champions for anti-
+corruption reform and policy implementation. 
+3. Increase the efficacy of anti-corruption actors in public and private spheres at sub-national 
+levels to identify, monitor, report, and address corrupt practices. 
+
+
+USAID/Zimbabwe is committed to encouraging a culture of rule of law and constitutionalism in 
+Zimbabwe by supporting interventions that strengthen institutional independence, transparency, 
+and accountability. The activity seeks to find innovative ways to engage the full spectrum of state 
+and non-state justice sector actors and institutions at the national and subnational levels. 
+USAID/Zimbabwe is committed to fighting corruption and promoting good governance in 
+Zimbabwe. For USAID, corruption means the abuse of entrusted authority for private gain2F3 and 
+the Agency further recognizes that all forms of corruption undermine development and 
+
+
+democracy. Our support seeks to strengthen both private (e.g. business sector) and public 
+institutions (e.g. health, education and other social services) working to promote good 
+governance. The activity seeks innovative ways to empower citizens in general and young people 
+in particular, to fight corruption; facilitate access to information; strengthen sub-national 
+institutions and promote rule of law with the ultimate aim of reducing both grand and petty 
+corruption in Zimbabwe. 
+
+II. BACKGROUND AND PROBLEM ANALYSIS 
+
+Corruption in Zimbabwe is endemic; it is the enemy of development, progress, and democracy. 
+The impacts of corruption in Zimbabwe manifest in poor public service delivery (such as health 
+care, agriculture, infrastructure, and other services), minimal public trust in government 
+institutions, and low citizen participation in local or national governance and democratic 
+processes. Zimbabwe consistently ranks as one of the most corrupt countries in the world; the 
+2021 Transparency International Corruption Perception Index shows the country ranks 157th out 
+of 180 countries. These high levels of corruption weaken systems and structures which in turn 
+make citizens poorer as they lack access to fair opportunities and they then default to participating 
+in corrupt activities, making corruption the norm and not the exception. 
+
+Recent findings on corruption in Zimbabwe show that illicit cross-border financial transactions 
+cost Zimbabwe up to a staggering $3 billion a year, and intra-country fraud associated with cartels 
+could cost up to $1 billion every year. According to a 2020 report by the International Crisis 
+Group, up to $1.5 billion worth of gold per year is illegally smuggled out of the country; billions 
+of dollars in diamonds go unaccounted for; and in 2018 Zimbabwe’s auditor-general noted that 
+82% of government expenditure had financial irregularity in one form or another. In a report 
+released by the Zimbabwe Anti-Corruption Commission (ZACC), Harare metropolitan province 
+accounted for 93% of all corruption cases received in 20203F4. These findings provide a glimpse 
+into the country’s potential for revenue generation, absent corruption. They also show how 
+corruption deprives the country and its people of economic prosperity. 
+
+4 https://www.afrobarometer.org/publication/ad477-zimbabweans-fear-retaliation-reporting-corruption-compounds-pandemic-within/ 
+
+For any efforts to fight corruption to succeed, more Zimbabweans, regardless of their political and 
+religious affiliation, economic and social status, or place of residence, need to demonstrate their 
+commitment to the cause and contribute to needed reforms. At this point there is insufficient 
+pressure from these groups and citizens, contributing to a lack of political will by the country’s 
+leadership and key government institutions to fight corruption. While Zimbabwe is party to four 
+regional and international conventions on combating corruption, and the local laws - including the 
+Constitution, Prevention of Corruption Act, and the Criminal Code - provide a framework for the 
+prevention, detection, and prosecution of corruption-related offenses, Zimbabwe’s failure to 
+domesticate regional and international conventions, align its laws to and implement the 
+
+
+Constitution, and effectively enforce existing corruption laws demonstrates a lack of political will 
+to fight corruption. 
+
+The current legal and policy institutional framework, while comprehensive, remains too weak to 
+deal with both petty and grand corruption cases. For instance, poor remuneration of staff in public 
+institutions make them susceptible to bribes. Grand corruption cases often fail because of poor 
+case handling and the absence of whistleblower protection. The more complex cases that involve 
+local, regional, and international networks facilitating resource accumulation through illicit 
+activities across health, economic, humanitarian and governance sectors require a well-trained 
+workforce, strong support mechanisms, and political will on the part of the government to solve 
+and facilitate asset recovery. 
+
+Zimbabwe’s informal economy brings in different sets of rules and challenges. Often these rules 
+make it easy for both petty and grand corruption to be the norm rather than the exception. A 
+closer look at the informal nature of activities across the humanitarian, economic, health, and 
+democracy sectors show that Zimbabweans are building their own separate rules of engagement 
+that seek to facilitate production and unlock livelihood opportunities. Unfortunately, the more the 
+country entrenches itself in informality the more it will be difficult to build a culture that values 
+integrity and shuns corruption. 
+
+III. ACTIVITY DESCRIPTION 
+
+ 
+
+Goal 
+
+The activity’s goal is to build political will and a culture of integrity among Zimbabwean young 
+people while strengthening the capacity of institutions to fight corruption. 
+
+USAID has shared a working theory of change, but we invite Applicants to propose a theory of 
+change that reflects the approach and methodology they will pursue. The proposed theory of 
+change will be reviewed throughout the life of the project and, as appropriate, revised to reflect 
+emerging learning about the most effective ways for USAID to support local systems and locally-
+led change. Applicants must present a holistic project that addresses all the objectives described 
+below and any attendant sub-objectives. 
+
+Programmatic objectives and anticipated results detailed below have been intentionally drafted in 
+a broad manner to leave room for the Applicants to present their own understanding of the 
+problem and approaches for addressing it. Applicants are encouraged to submit innovative 
+activities and creative ideas on how to advance the activity’s overall goal and its objectives. 
+Applicants should include a description of how they will monitor the technical approach proposed 
+and provide a list of notional results and indicators for each objective and sub-objective. The 
+applicant should design an innovative subgrants program that explicitly contributes to 
+achievement of the objectives and results outlined below. The subgranting component should also 
+strengthen the technical capacities of subgrantees on programmatic anti-corruption issues as well 
+as their organizational capacity for sustainability. 
+
+
+Objectives and Anticipated Results 
+
+Applicants will achieve the following objectives: 
+
+Objective 1: Build knowledge, attitudes, and capacities of young people to shun corruption. 
+
+In Zimbabwe, as in many other countries on the lower end of the Corruption Perception Index,4F5 
+citizens are outraged by grand corruption, but there is little stigma associated with petty 
+corruption designed to navigate bureaucratic processes. Many citizens perceive this type of 
+corruption as facilitative and preferable to an overbearing bureaucracy. The aim of the objective is 
+to raise awareness, influence behavior, and shift cultural norms on corruption. The economic 
+meltdown has forced many young people to aspire to get rich quickly at the expense of integrity 
+and hard work. This objective will strengthen the capacity of young people to serve as advocates 
+of anti-corruption reforms and shun corruption in their everyday lives. It will also help to raise 
+citizen expectations about the expected behavior of public and private entities usually implicated 
+in corrupt activities. By focusing on the impacts of corruption on the lives of young people, 
+women, and girls, the activity will build a body of knowledge on how corruption entrenches 
+gender inequality and minimizes opportunities for youth advancement, which will be crucial for 
+introspection and evidence-based advocacy by citizens to enable long-term change. 
+
+5 Available at <https://www.transparency.org.uk/corruption-perceptions-index-2021-UK-
+score?gclid=CjwKCAjwu_mSBhAYEiwA5BBmf2BmKIwlvNdu_-OWv4IXcdJ4jk94E_POdv95fSF4j7lAC-
+XPMrvslRoCe1IQAvD_BwE> 
+
+The activity should cultivate an attitude of rejecting corruption among Zimbabwean young people 
+and of pressuring duty-bearers to avoid it. It will also ‘connect the dots’ linking the absence of 
+economic opportunities and social services to corruption. Thus, it will work towards helping 
+youth move away from the view that corruption is an immutable feature of the social and 
+economic landscape in Zimbabwe. The activity will also support opportunities to positively 
+impact gender knowledge, attitudes and practices in anti-corruption initiatives. Additionally, it 
+will focus on how corruption undermines the quality and quantity of public services by reducing 
+resources available and ultimately exacerbating social and gender disparities. Thus, Applicants 
+should identify various tools to reach youth and women with messages that will help erode social 
+tolerance of corruption. 
+
+Anticipated results: 
+
+● Youth knowledge and understanding of corruption and its costs increases; 
+● Youth are able to use information gleaned from the media on corruption activities to hold 
+leaders and their peers to account; and 
+
+
+
+Objective 2: To build and strengthen the capacity of local institutions5F6 as agencies for 
+reform and policy implementation. 
+
+6 “Institutions” refers to both formal and informal entities that have interests in and/or power on or around corruption 
+issues in a given community. Applicants are thus encouraged to be deliberate in their selection. 
+
+This objective recognizes that a lot of the work around anti-corruption in Zimbabwe has and 
+continues to focus on the national level; therefore, activities under this objective will identify, 
+build, empower, and strengthen accountability mechanisms at the sub-national level. To this end, 
+proposed interventions should identify innovative engagement platforms, actors, and institutions 
+(including but not limited to universities, traditional leaders, local business associations, or faith-
+based organizations) at the sub-national level to champion anti-corruption behavior change. 
+Applicants should design interventions which take into account different local actors, traditions 
+and customs; as well as the strengths and weaknesses of targeted institutions in a given locality to 
+inform proposed interventions. Under this objective political economy analysis on local-level 
+corruption networks will inform work planning and interventions. In undertaking the local-level 
+analysis, Applicants are encouraged to connect corrupt activities at that level, their enablers, and 
+bigger networks at the sub-national, national, and transnational levels. The nature and form of 
+corruption at the sub-national level where this activity will seek to strengthen local accountability 
+mechanisms and build coalitions against corruption is often informed by national and 
+transnational opportunities and dynamics. 
+
+Applicants should propose illustrative geographic focus areas as well as sub-national target 
+institutions that would enable achievement of intended activity results. Area and institution 
+proposals should be informed by political will to address corruption, level of community 
+cohesion, nature of corruption in a given locality, significance of the institution in combating sub-
+national-level corruption, and replicability and scalability, among other factors. Applications 
+should justify proposed areas and institutions. USAID will work with the successful applicant to 
+finalize selection and approval of geographic focus areas as well as target sub-national institutions 
+after awarding during work planning. 
+
+Anticipated results: 
+
+● Build capacity of an institution (e.g. university) to conduct vulnerability-to-corruption 
+assessments for public and private actors to better inform their programming; 
+● CSOs conduct political economy analyses that trace and map out corruption networks and 
+apply findings to their work planning; and 
+● Private sector actors/associations at the sub-national level are able to build the capacity of 
+members to identify, report, and/or hold their peers to account on any corrupt activity. 
+
+
+ 
+
+
+Objective 3: Increase the efficacy of anti-corruption actors to identify, monitor, report, and 
+engage in addressing corruption practices. 
+
+This objective seeks to create an informed coalition of the willing, that openly discusses the 
+consequences of corruption, appropriately proposes, and advocates for necessary reforms, and 
+educates others on investments to change behavior as a way to reduce opportunities for 
+corruption. This objective moves beyond the first and second objective in that it seeks to bring 
+multiple actors to a position of acting and engaging with stakeholders at multiple levels. And, to 
+make corruption an issue that brings together all Zimbabweans regardless of their political or 
+religious affiliation or economic status, to pause and reflect on actions to reduce opportunities for 
+corruption and to advocate for reforms. Interventions should propose creative ways that allow for 
+multi-sectoral actors to identify, monitor, report and engage in addressing corrupt practices at the 
+sub-national level. Through this objective, the activity will help to raise citizen expectations about 
+the behavior of public officials and create incentives for more responsive and transparent 
+institutions at the local level. The activity will employ a multi-stakeholder approach using 
+traditional and non-traditional actors. Coalitions will be composed of broad sets of actors, to 
+potentially include trade unions, the media, universities, faith-based organizations, networks, and 
+the private sector. The applicant should develop anti-corruption initiatives focusing on the 
+“demand” side i.e., citizens and related stakeholders who need to hold governments to account for 
+their actions. 
+
+Anticipated results: 
+
+● Alliance of cross-sectoral actors fighting corruption identified and capacitated; 
+● Citizens empowered to use the mechanisms available for citizen oversight of public and 
+private entities implicated in corrupt activities; 
+● Empowered citizens and civil society organizations to contribute to anti-corruption policy-
+making processes; 
+● Innovative tools and mechanisms on reporting corruption cases to relevant authorities 
+developed; and 
+● Local institutions and policies that hinder transparency and accountability reformed by 
+proactive citizen engagement. 
+
+
+ 
+
+IV. ACTIVITY PARAMETERS AND GUIDING PRINCIPLES 
+
+Results under these objectives will be achieved through close, strategic collaboration with various 
+local and international partners. The activity must be designed and implemented with the 
+following guiding principles and tenets: 
+
+Strategic alignment: In support of USAID/Zimbabwe’s CDCS, the proposed activity will 
+contribute to the Mission’s IRs under DO3 (“Improved accountable, democratic governance that 
+serves an engaged citizenry”) and the three DOs3 in the draft 2022-2027 CDCS. 
+
+Evidence-based programming: To achieve the objectives, potential partners should use 
+evidence-based programming to inform and strengthen the focus and results of the activity. Thus, 
+where possible, the successful implementing partner should incorporate results from existing 
+research before embarking on activities and consistently monitor and evaluate whether planned 
+interventions are delivering the intended results, documenting decision-points throughout the life 
+
+
+of the activity. This aspect is closely related to monitoring, evaluation, and learning described 
+below. 
+
+Local systems, local ownership and sustainability: Consistent with Program Cycle principles 
+defined in ADS 201.3.1.2, the activity should strengthen local systems so that local actors 
+continue to sustain key results after the activity ends. The activity should be designed to align 
+with the priorities of local actors and communities in which anti-corruption activities are taking 
+place. The successful Applicant will describe how the activity will engage with local systems. For 
+more information on this approach, see Local Systems: A Framework for Supporting Sustained 
+Development.6F7 Applicants, as is necessary and appropriate, should provide capacity strengthening 
+- for themselves, for sub-partners - either directly or by drawing on other DG partners, as 
+appropriate, to achieve programmatic results. 
+
+7 Local Systems: A Framework for Supporting Sustained Development, available at 
+https://www.usaid.gov/sites/default/files/documents/1870/LocalSystemsFramework.pdf 
+
+Gender integration: Promoting gender equality and advancing, in particular, the status of 
+women and girls is vital to achieving USAID’s development objectives. It is USAID policy that 
+all Applicants must integrate gender into their interventions. Therefore, the Applicant will be 
+expected to demonstrate compliance with USAID ADS 205 and should explicitly state how this 
+activity supports the gender policies and strategies of the United States and actuates the 
+Zimbabwean Constitution. Successful Applicants will respond to the questions below to ensure 
+gender integration is adequately incorporated in the activity. 
+
+● How will the Applicant incorporate gender analysis at multiple stages of project 
+implementation? 
+● What activities are needed to ensure more equitable gender access and participation in the 
+program? 
+● How do the actions and decisions of institutions impact different genders? 
+
+
+ 
+
+Proposed interventions should explicitly recognize gender in a substantive and integrated manner. 
+The Applicant is expected to examine cultural perceptions, economic barriers, and other factors 
+that affect women and men in terms of their influence as well as capacity to engage and act 
+individually or collectively. Applicants should articulate how specific approaches will affect 
+gender dynamics, how the program will capitalize on the unique contributions of women and men 
+to protecting rights and all measures taken to assure equitable gender participation in the project. 
+
+In addition, the Applicant must ensure that gender issues are suitably integrated into all 
+components of the program. The Applicant will be required to undertake deliberate efforts to 
+ensure that interventions under this program do not discriminate based on sex, age, 
+ability/disability, gender identity, sexual orientation, or any other factor consistent with USAID 
+regulation. To the extent possible, the Applicant is required to encourage the equal participation 
+of men and women in all aspects of this activity. 
+
+ 
+
+
+Inclusion and Diversity: Applicants must integrate an analysis of the barriers and opportunities 
+for youth into programming and develop innovative ways to engage and empower young men and 
+women. This will include ensuring that civil society organizations – and not just those focused on 
+youth development – have the tools and the strategies necessary to employ and engage youth and 
+ensure their ability to claim rights or have their voices heard. 
+
+Promotion and respect of diversity and inclusion are key priorities for the Biden-Harris 
+administration, including promoting and protecting the rights of persons with disabilities around 
+the world. The activity will integrate people with disabilities (PWDs) in the design and 
+implementation to ensure that the rights and needs of PWDs are proactively included at all levels. 
+In implementing activities, USAID will encourage partners to include PWD not just as program 
+participants but also as employees and stakeholders, and, where possible, meetings should be held 
+at accessible venues and disability-friendly materials developed. 
+
+The implementing partner must ensure intentional reach is achieved in other marginalized groups 
+and communities, such as LGBTQI individuals or groups, ethnic or linguistic minorities, as well 
+as communities usually not serviced by mainstream civil society organizations (CSOs). 
+
+Cross-sectoral collaboration and partner selection: USAID/Zimbabwe’s country strategy 
+framework elevates the importance of bringing an integrated lens to its development assistance, 
+and the activity is anticipated to play an important role in identifying and pursuing synergies with 
+other USAID/Zimbabwe and U.S. government programs. Such cross-sectoral linkages with 
+Mission-supported accountability, anti-corruption and citizen engagement activities are needed to 
+ensure complementarity and to avoid duplication. To leverage USAID investments and 
+efficiencies, wherever feasible, the activity will also seek to collaborate with other 
+USAID/Zimbabwe projects and/or areas where the Mission has significant investments. Where 
+feasible, the activity will collaborate with the health, food security, and economic growth 
+activities to identify programming opportunities to foster accountability in identified areas. 
+
+V. COORDINATION WITH OTHER DONORS, IMPLEMENTERS AND 
+
+STAKEHOLDERS 
+
+ 
+
+Donors: USAID/Zimbabwe DG activities are complemented by funding and programming from 
+other donors within the citizen engagement and accountability space. These include the European 
+Commission (EC), Canada, Australia, the United Kingdom, the Netherlands, Sweden, Germany, 
+and Switzerland. The proposed approach should demonstrate awareness of, potential linkages to, 
+and coordination plans with any ongoing donor initiatives. In particular, the EC and Sweden are 
+directly engaged in anti-corruption work; this RFA has been designed with consideration of those 
+activities, but applications must clearly articulate complementarity and plans to coordinate to 
+maximize synergies and avoid duplication. 
+
+USAID implementing partners: USAID expects the implementing partner to coordinate closely 
+with other USAID-supported activities in Zimbabwe. Implementing partners will be expected to 
+work together to identify and capitalize on synergies and to coordinate to avoid potential 
+redundancies. The Mission and the DG Office convene periodic Chiefs of Party meetings to 
+promote cross-partner and cross-sectoral collaboration and coordination in which the successful 
+applicant should plan to participate, but partners are expected to seek, identify, and seize 
+
+
+opportunities to leverage efforts apart from these convenings. As new programs come on-line, 
+USAID may guide the implementing partner to collaborate with particular USAID programs. 
+
+Stakeholder coordination: USAID/Zimbabwe expects Applicants to propose a list of potential 
+stakeholders (these might include government institutions and non-governmental organizations) 
+to engage under this activity. The selected implementing partner for this award will be expected, 
+cognizant of extant US law and policy, to engage these and other key actors to explore potential 
+opportunities for collaboration with them and other stakeholders/donors, leveraging and 
+cooperating where appropriate and always avoiding duplication or wasteful redundancy. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION A] 
+
+ 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+USAID intends to award one (1) Cooperative Agreement pursuant to this notice of funding 
+opportunity. Subject to funding availability and at the discretion of the Agency, USAID intends 
+to provide $12 million in total USAID funding over a five (5) year period. 
+
+ 
+
+2. Start Date and Period of Performance for Federal Awards 
+
+
+ 
+
+The anticipated period of performance is five (5) years. The estimated start date is October 1, 
+2022 
+
+ 
+
+3. Substantial Involvement 
+
+
+ 
+
+USAID will be substantially involved in the implementation of the cooperative agreement 
+awarded under this RFA. Such substantial involvement will include: 
+
+● Approval of annual work plans and any amendments or changes thereto; 
+● Approval of any subawards, both those proposed in the application and any that may arise 
+during implementation of the activity; 
+● Approval of partners staff proposed to fill Key Personnel positions; 
+● Monitoring to permit specific kinds of direction or redirection of the work because of the 
+interrelationships with other projects or activities; 
+● Agency and recipient collaboration when the implementing partner’s successful 
+accomplishment of program objectives would benefit from USAID’s technical knowledge; 
+and 
+● Collaborative involvement in selection of advisory committee members, should the 
+program establish an advisory committee providing programmatic technical advice to the 
+implementing partner. 
+
+
+ 
+
+5. Authorized Geographic Code 
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 935. 
+This code includes any area or country including the recipient country, but excluding any country 
+that is a prohibited source 
+
+ 
+
+6. Nature of the Relationship between USAID and the Recipient 
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Young People for 
+Integrity and Accountability (YPIA) activity which is authorized by Federal statute. The 
+successful Recipient will be responsible for ensuring the achievement of the program objectives 
+and the efficient and effective administration of the award through the application of sound 
+management practices. The Recipient will assume responsibility for administering Federal funds 
+in a manner consistent with underlying agreements, program objectives, and the terms and 
+conditions of the Federal award. 
+
+
+7. Selection of Instrument 
+
+
+ 
+
+The purpose of the Young People for Integrity and Accountability activity is to strengthen the 
+capacity of young people and key institutions at the sub-national level to promote good 
+governance and public integrity. Further, the activity's goal is to build political will and a culture 
+of integrity among Zimbabwean youth while strengthening the capacity of institutions to fight 
+corruption. The activity seeks to find innovative ways to empower citizens in general and young 
+people in particular, to fight corruption; facilitate access to information; strengthen sub-national 
+institutions and promote rule of law with the ultimate aim of reducing both grand and petty forms 
+of corruption in Zimbabwe. 
+
+ 
+
+Market research was conducted during the planning phase. The results showed that Zimbabwe has 
+a number of local organizations whose mandate aligns with the activity objectives. In addition, 
+various international organizations, including US organizations, have the capacity to implement 
+the proposed activity working with local organizations. 
+
+ 
+
+The Agency’s programmatic needs would be best met by providing funds to an organization to 
+support its own project. Working with an organization or consortia whose mandate, experience 
+and expertise align with the activity objectives increases the local ownership and sustainability of 
+the intervention's results. This could also foster more collaborative partnerships between 
+organizations. 
+
+ 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+
+ 
+
+Eligibility for this NOFO is not restricted. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+ 
+
+There is no required cost share with this activity. 
+
+ 
+
+3. Other 
+
+ 
+
+Any one entity/organization may submit one (1) application for funding in response to this NOFO 
+as a prime awardee. 
+
+[END OF SECTION C] 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+1. Agency Point of Contact 
+
+
+ 
+
+Name: Debra Nengomasha 
+
+Title: Acquisition and Assistance Specialist 
+
+Email: dnengomasha@usaid.gov with copies to harareprocure@usaid.gov 
+
+Alternate Point of Contact 
+
+Name: Solomon Chang 
+
+Title: Acquisition and Assistance Specialist 
+
+Email:schang@usaid.gov 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions regarding this NOFO should be submitted to dnengomasha@usaid.gov and 
+harareprocure@usaid.gov no later than the date and time indicated on the cover letter, as 
+amended. Any information given to a prospective applicant concerning this NOFO will be 
+furnished promptly to all other prospective applicants as an amendment to this NOFO, if that 
+information is necessary in submitting applications or if the lack of it would be prejudicial to any 
+other prospective applicant. 
+
+ 
+
+3. General Content and Form of Application 
+
+
+Applicants are expected to review, understand, and comply with all aspects of the NOFO. 
+
+Preparation of Applications: 
+
+ 
+
+Each applicant must furnish the information required by this NOFO. Applications must be 
+submitted in two separate parts: the Technical Application and the Business (Cost) Application. 
+This subsection addresses general content requirements applying to the full application. Please 
+see subsections 5 and 6, below, for information on the content specific to the Technical and 
+Business (Cost) applications. The Technical application must address technical aspects only 
+while the Business (Cost) Application must present the costs, and address risk and other related 
+issues. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a cover page containing the 
+following information: 
+
+● Name of the organization(s) submitting the application. 
+● Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address). 
+● Program name. 
+● Notice of Funding Opportunity number. 
+
+
+
+● Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ 
+under ADS 303. 
+
+
+ 
+
+Any erasures or other changes to the application must be initialed by the person signing the 
+application. Applications signed by an agent on behalf of the applicant must be accompanied by 
+evidence of that agent’s authority, unless that evidence has been previously furnished to the 
+issuing office. 
+
+ 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve 
+only as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part 
+of the merit review criteria. 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. Government except for evaluation purpose, should mark the title page with the 
+following legend: 
+
+“This application includes data that shall not be disclosed outside the U.S. Government and shall 
+not be duplicated, used, or disclosed – in whole or in part – for any purpose other than to evaluate 
+this application. If, however, a grant is awarded to this Applicant as a result of – or in connection 
+with – the submission of this data, the U.S. Government shall have the right to duplicate, use, or 
+disclose the data to the extent provided in the resulting grant. This restriction does not limit the 
+U.S. Government’s right to use information contained in this data if it is obtained from another 
+source without restriction. The data subject to this restriction are contained in sheets {insert sheet 
+numbers} and, mark each sheet of data it wished to restrict with the following legend: 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of 
+this application.” 
+
+Applicants should retain for their records one (1) copy of the application and all enclosures which 
+accompany it. 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve 
+only as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part 
+of the merit review criteria. 
+
+Applications must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent 
+sections. Please ensure that applications comply with the page limitations. 
+● Written in English 
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12 point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive 
+page numbers, date of submission, and applicant’s name. 
+● 10 point font can be used for graphs and charts. Tables however, must comply with the 12 
+point Times New Roman requirement. 
+
+
+
+● Submitted via Microsoft Word or PDF formats, except budget files which must be 
+submitted in Microsoft Excel. 
+● The estimated start date identified in Section B of this NOFO must be used in the cost 
+application. 
+● The technical application must be a searchable and editable Word or PDF format as 
+appropriate. 
+● The Cost Schedule MUST include an Excel spreadsheet with all cells unlocked and no 
+hidden formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in 
+addition to the Excel version at the applicant’s discretion, however, the official cost 
+application submission is the unlocked Excel version. 
+● The Cost schedule MUST be accompanied by a budget narrative in Word Format. 
+
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so 
+may be considered as being non-responsive and may be evaluated accordingly. Applicants should 
+retain a copy of the application and all enclosures for their records. 
+
+ 
+
+4. Application Submission Procedures 
+
+Applications in response to this NOFO must be submitted no later than the closing date and time 
+indicated on the cover letter, as amended. Late applications will not be reviewed nor considered. 
+
+Applications must be submitted by email to dnengomasha@usaid.gov with a copy to 
+harareprocure@usaid.gov. Email submissions must include the NOFO number and applicant’s 
+name in the subject line heading. In addition, for an application sent by multiple emails, the 
+subject line must also indicate whether the email relates to the technical or cost application, and 
+the desired sequence of the emails and their attachments (e.g. "No. 1 of 4", etc.). For example, if 
+your cost application is being sent in two emails, the first email should have a subject line that 
+states: "[NOFO number], [organization name], Cost Application, Part 1 of 2". 
+
+USAID’s preference is that the technical application and the cost application each be submitted as 
+consolidated email attachments, e.g. that you consolidate the various parts of a technical 
+application into a single document before sending it. If this is not possible, please provide 
+instructions on how to collate the attachments. USAID will not be responsible for errors in 
+compiling electronic applications if no instructions are provided or are unclear. 
+
+After submitting an application electronically, applicants should immediately check their own 
+email to confirm that the attachments were indeed sent. If an applicant discovers an error in 
+transmission, please send the material again and note in the subject line of the email or indicate in 
+the file name if submitted via grants.gov that it is a "corrected" submission. Do not send the same 
+email more than once unless there has been a change, and if so, please note that it is a "corrected" 
+email. 
+
+Applicants are reminded that email is NOT instantaneous, and in some cases delays of several 
+hours occur from transmission to receipt. Therefore, applicants are requested to send the 
+application in sufficient time ahead of the deadline. For this NOFO, the initial point of entry to the 
+government infrastructure is the USAID mail server. 
+
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, 
+applicants are discouraged from sending files in this format as USAID/Zimbabwe cannot 
+guarantee their acceptance by the internet server. File size must not exceed 25MB. 
+
+5. Technical Application Format 
+
+The technical application should be specific, complete, and presented concisely. The application 
+must demonstrate the applicant's capabilities and expertise with respect to achieving the goals of 
+this program. The application should take into account the requirements of the program and merit 
+review criteria found in this NOFO. 
+
+It should be in English, Times New Roman, 12-point font, and at a minimum, must contain the 
+following all of which count towards the 20-page limit (unless specified otherwise): 
+
+Cover Page: (one page - does not count toward the 20-page limit) 
+
+The cover page must include: 
+
+● Name and address of organization(s)/institution(s) involved with the lead or primary 
+applicant clearly identified. 
+
+● Any proposed sub-grantees clearly listed. 
+
+● The total estimated cost, the dollar amount requested from USAID. 
+
+● Contact person (lead contact name, title, telephone numbers, and e-mail 
+information). Applicants should also clearly state whether the identified contact 
+person has the authority to negotiate on behalf of the applicant, and, if not, the 
+contact information for the appropriate person with authority to negotiate should 
+also be listed. 
+
+Table of Contents: (not to exceed one page - does not count toward the page limit) 
+
+Acronym List: (not included in page limitation). 
+
+Executive Summary: (maximum one page) 
+
+The Executive Summary must provide a high-level overview of key elements of the Technical 
+Application. 
+
+Technical Application: (20 pages maximum, including Executive Summary) 
+
+Applicants must organize the narrative sections of their technical applications in the same order as 
+the evaluation criteria and include the major components below. 
+
+1. Technical Approach 
+
+The Technical and Implementation Approach is the most important part of the proposed 
+activity. This section should provide a clear overall vision and operational strategy to 
+achieve the expected results of the activity. It should include the applicant’s analysis of the 
+important challenges, priority needs, and key activities. 
+
+
+ 
+
+Applicants are required to propose a comprehensive approach to achieve the activity’s results and 
+ensure that interventions are sustainable. A high level of coordination with other USG-funded 
+awards and other development partners must be demonstrated. Deliberate avoidance of 
+duplication and redundancies in assistance must be documented in the application. 
+
+Applicants have flexibility to propose their own solutions to the program components that will 
+achieve the anticipated results, which are described under Section III of the Program Description 
+and should guide applicants in preparing their applications. The applicant should design an 
+innovative subgrants program to achieve the activity objectives and provide the required technical 
+assistance to enable the selected subgrantees to successfully implement activities. USAID 
+encourages applicants to propose innovative approaches to create incentives for program success 
+and sustainability. 
+
+The applicant will be evaluated not only on how it meets the expected results but on progress 
+towards ensuring sustainability as well. Special consideration will be given to innovative 
+alliances. The applicant is expected to develop all assistance activities with the guiding principles 
+and programmatic considerations in mind which are stated under Section IV of the Program 
+Description. A draft first six- or twelve-month workplan should demonstrate the Applicant’s 
+vision, approach, results, and sustainability plan. 
+
+2. Key Personnel and Management Approach 
+
+The Applicant should provide an overview of the proposed key personnel, their qualifications and 
+experience requirements, and, as appropriate, relevant curriculum vitae and references. This 
+includes the rationale and appropriateness of key personnel, the division of labor between in-
+country and home office personnel in the event the applicant is or proposes to partner with an 
+organization(s) based outside of Zimbabwe, and the division of responsibilities and authorities 
+between prime and sub-partners. This section should also include how the applicant will organize 
+its staff, including subpartners, to achieve the goals and objectives of the RFA while properly and 
+responsibly managing USAID funds. Proposed award management plans, including 
+organizational charts with roles and reporting lines, are encouraged. 
+
+3. Monitoring, Evaluation and Learning (MEL) Plan 
+
+Applicants are encouraged to propose in their MEL plan a set of benchmarks to be achieved 
+against a set of qualitative and quantitative indicators. It is expected that all indicators, when 
+practical, be disaggregated by gender and that specific attention be paid to strategies for better 
+including women and girls as direct program beneficiaries. Knowledge of data management 
+systems may be included in the Applicant’s submission when discussing the tracking of 
+information. 
+
+4. Past performance and Experience 
+
+Applicants should provide evidence, including past performance references for similar 
+procurements, that the applicant and any proposed subpartners have the ability to successfully 
+
+
+carry out a project comparable in scope and complexity to the RFA. USAID/Zimbabwe will 
+incorporate organizational experience in the evaluation criteria 
+
+6. Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. 
+While no page limit exists for the full cost application, applicants are encouraged to be as concise 
+as possible while still providing the necessary details. The business (cost) application must 
+illustrate the entire period of performance, using the budget format shown in the SF-424A. 
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary 
+for the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.206. 
+Applicants should not submit any additional information with their initial application. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated below this 
+listing with the letters for each requirement): 
+
+ 
+
+a) Cover Page (See Section D.3 above for requirements) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+b) SF 424 Form(s) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard Forms 
+can be accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+Instructions for SF-
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424-
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424a-
+instructions.html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424b-
+instructions.html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+c) Required Certifications and Assurances 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+application: 
+
+ 
+
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+(2) Assurances for Non-Construction Programs (SF-424B) 
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+d) Budget and Budget Narrative 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later versions) 
+with visible formulas and references and must be broken out by project year, including 
+itemization of the federal and non-federal (cost share) amount. Files must not contain any hidden 
+or otherwise inaccessible cells. Budgets with hidden cells lengthen the cost analysis time required 
+to make award, and may result in a rejection of the cost application. 
+
+ 
+
+The Budget Narrative MUST be a separate Word document that contains sufficient detail to allow 
+USAID to understand the proposed costs. The applicant must ensure the budgeted costs address 
+any additional requirements identified in Section F, such as Branding and Marking. The Budget 
+Narrative must be thorough, including sources for costs to support USAID’s determination that 
+the proposed costs are fair and reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the applicant and any 
+potential sub-applicants for the entire period of the program. See Annex 1 for Summary 
+Budget Template 
+● Detailed Budget, including a breakdown by year, sufficient to allow the Agency to 
+determine that the costs represent a realistic and efficient use of funding to implement the 
+applicant’s program and are allowable in accordance with the cost principles found in 2 
+CFR 200 Subpart E. 
+● Detailed Budgets for each sub-recipient, for all federal funding, broken out by budget 
+category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a 
+minimum: 
+
+ 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. The applicant’s budget must include position title, salary rate, level of 
+effort, and salary escalation factors for each position. Allowances, when proposed, must be 
+broken down by specific type and by position. Applicants must explain all assumptions in the 
+Budget Narrative. The Budget Narrative must demonstrate that the proposed compensation is 
+reasonable for the services rendered and consistent with what is paid for similar work in other 
+activities of the applicant. Applicants must provide their established written policies on 
+personnel compensation. If the applicant’s written policies do not address a specific element 
+
+
+
+of compensation that is being proposed, the Budget Narrative must describe the rationale used 
+and supporting market research. 
+
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an 
+agency of the U.S. Government, the applicant must use such rate and provide evidence of its 
+approval. If an applicant does not have a fringe benefit rate approved, the applicant must 
+propose a rate and explain how the applicant determined the rate. In this case, the Budget 
+Narrative must include a detailed breakdown of all items of fringe benefits (e.g., 
+superannuation, gratuity, etc.) and the costs of each, expressed in U.S. dollars and as a 
+percentage of salaries. 
+
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the number of 
+trips, the origin and destination, the number of individuals traveling, and the duration of the 
+trips. Per Diem and associated travel costs must be based on the applicant’s normal travel 
+policies. When appropriate please provide supporting documentation as an attachment, such 
+as company travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property – Must 
+include information on estimated types of equipment, models, supplies and the cost per unit 
+and quantity. The Budget Narrative must include the purpose of the equipment and supplies 
+and the basis for the estimates. The Budget Narrative must support the necessity of any rental 
+costs and reasonableness in light of such factors as: rental costs of comparable property, if 
+any; market conditions in the area; alternatives available; and the type, life expectancy, 
+condition, and value of the property leased. 
+
+
+ 
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200 for assistance in determining whether the sub-tier entity is a 
+subrecipient or contractor. The subrecipient budgets must align with the same requirements 
+as the applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+6) Construction – If applicable 
+
+
+ 
+
+7) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any 
+other miscellaneous costs which directly benefit the program proposed by the applicant. The 
+applicant should indicate the subject, venue and duration of any proposed conferences and 
+seminars, and their relationship to the objectives of the program, along with estimates of costs. 
+Otherwise, the narrative should be minimal. 
+
+
+ 
+
+8) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or will 
+charge all costs directly. In order to better understand indirect costs please see Subpart E of 2 
+CFR 200. The application must identify which approach they are requesting and provide the 
+applicable supporting information. 
+
+ 
+
+ 
+
+ 
+
+
+e) Prior Approvals in accordance with 2 CFR 200.407 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of any 
+cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+f) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the 
+time of award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+● Name of organization 
+● Confirmation that the subrecipient does not appear on the Treasury Department’s Office 
+of Foreign Assets Control (OFAC) list 
+● Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+● Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+● Confirmation that the subrecipient is not suspended or debarred 
+● Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.332(b) 
+● Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+g) SAM Requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all System for 
+Award Management (SAM) requirements. Each applicant (unless the applicant is an individual 
+or Federal awarding agency that is exempted from requirements under 2 CFR 25.110(b) or (c), or 
+has an exception approved by the Federal awarding agency under 2 CFR 25.110(d)) is required 
+to: 
+
+ 
+
+1. Be registered in SAM before submitting its application. SAM is streamlining processes, 
+eliminating the need to enter the same data multiple times, and consolidating hosting to make 
+the process of doing business with the government more efficient (www.beta.sam.gov). 
+2. Continue to maintain an active SAM registration with current information at all times during 
+which it has an active Federal award or an application or plan under consideration by a 
+Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are encouraged 
+to begin the process early. If an applicant has not fully complied with the requirements above by 
+the time USAID is ready to make an award, USAID may determine that the applicant is not 
+qualified to receive an award and use that determination as a basis for making an award to another 
+applicant. 
+
+
+SAM registration: http://www.beta.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick Start 
+Guide and a video on how to obtain an NCAGE code, on www.beta.sam.gov, navigate to Help, 
+then to International Registrants. 
+
+ 
+
+h) History of Performance 
+
+ 
+
+Past Performance and Experience - This section will address the following: 
+
+● Brief description of the applicant’s organizational history and experience 
+● Examples of accomplishments and results in developing and implementing similar 
+programs; 
+● Relevant experience with proposed approaches; 
+● Institutional strength as represented by breadth and depth of experienced personnel in 
+program relevant disciplines and areas; and 
+● Explanation of how lessons learned will be applied in achieving the goals of the program. 
+
+
+ 
+
+The applicant must provide information regarding its recent history of performance for all its 
+cost-reimbursement contracts, grants, or cooperative agreements involving similar or related 
+programs, not to exceed three (3) years, as follows: 
+
+● Name of the Awarding Organization; 
+● Award Number; 
+● Activity Title; 
+● A brief description of the activity; 
+● Period of Performance; 
+● Award Amount; 
+● Reports and findings from any audits performed in the last three (3)years; and 
+● Name of at least two (2) updated professional contacts who most directly observed the 
+work at the organization for which the service was performed with complete current 
+contact information including telephone number, and e-mail address for each proposed 
+individual. 
+
+
+ 
+
+If the applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general information 
+on its performance. USAID reserves the right to obtain relevant information concerning an 
+applicant’s history of performance from any sources and may consider such information in its 
+review of the applicant’s risk. The Agency may request additional information and conduct a pre-
+award survey if it determines that it is necessary to inform the risk assessment. 
+
+ 
+
+i) Branding Strategy & Marking Plan 
+
+ 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking 
+Plan to be evaluated and approved by the Agreement Officer and incorporated when the award is 
+signed. 
+
+ 
+
+ 
+
+
+j) Funding Restrictions 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the explicit 
+written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.5 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+k) Conscience Clause 
+
+ 
+
+This NOFO will not obligate HIV/AIDS funds. 
+
+ 
+
+l) Conflict of Interest Pre-Award Term (August 2018) 
+
+ 
+
+a. Personal Conflict of Interest 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization 
+or an employee of the organization has a relationship with an 8 Agency official involved 
+in the competitive award decision-making process that could affect that Agency official’s 
+impartiality. The term “conflict of interest” includes situations in which financial or other 
+personal considerations may compromise, or have the appearance of compromising, the 
+obligations and duties of a USAID employee or recipient employee. 
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits an SF-424. 
+Should the applicant discover a previously undisclosed conflict of interest after submitting 
+the application, the applicant must disclose the conflict of interest to the AO no later than 
+ten (10) calendar days following discovery. 
+
+ 
+
+b. Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are aware 
+of that may provide the applicant with an unfair competitive advantage in competing for this 
+financial assistance award. Examples of an unfair competitive advantage include but are not 
+limited to situations in which an applicant or the applicant’s employee gained access to non-
+public information regarding a federal assistance funding opportunity, or an applicant or 
+applicant’s employee was substantially involved in the preparation of a federal assistance funding 
+opportunity. USAID will promptly take appropriate action upon receiving any such notification 
+from the applicant. 
+
+ 
+
+[END OF SECTION D] 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. Evaluation criteria and scoring: 
+
+ 
+
+Technical applications will be evaluated against the criteria below. Technical Approach is most 
+important. Key Personnel and Management Approach, Monitoring and Evaluation Approach, and 
+Organizational Experience will be equally weighted. The Cost Application will not be scored. 
+
+● Technical Approach 
+● Key Personnel & Management Approach 
+● Organizational Experience 
+● Monitoring, Evaluation, and Learning Plan 
+
+
+ 
+
+Criteria #1: Technical Approach 
+
+The overall quality and sustainability of the technical approach and how likely it is to achieve the 
+proposed results/outcomes and to contribute to the objective(s) for this program description and 
+USAID/Zimbabwe’s strategy. 
+
+Criteria #2: Key Personnel and Management Approach 
+
+The quality of the management approach and extent to which it proposes an efficient 
+organizational architecture that will effectively implement the activity. This includes the 
+quality and appropriateness of the proposed key personnel, the division of labor between in-
+country and home office personnel in the event the applicant is or proposes to partner with 
+an organization(s) based outside of Zimbabwe, and the division of responsibilities and 
+authorities between prime and sub-partners. 
+
+Criteria #3: Organizational Experience 
+
+As per ADS 303.3.9, “[a]n applicant’s [past] performance can serve as an indicator of the 
+quality of its future performance.” Thus, USAID will evaluate the extent to which the 
+applicant’s Past Performance reflects the quality of the applicant’s work on relevant present 
+or past projects of similar scope, magnitude of effort, timeliness of performance, cost 
+control, effectiveness of key personnel, and complexity. 
+
+ 
+
+An Applicant’s performance will not be evaluated favorably or unfavorably when: 
+
+• The applicant lacks relevant performance history, 
+• Information on performance is not available, or 
+• The applicant is a member of a class of applicants where there is provision not to 
+rate the class against a sub factor. 
+
+
+ 
+
+Criteria #4: Monitoring, Evaluation, and Learning Plan 
+
+The Applicant should provide an overview of the proposed Monitoring and Evaluation 
+Strategy and draft Monitoring and Evaluation Plan for the activity. The draft MEL plan 
+table itself should be included as an annex. Indicators and annual targets in the MEL plan 
+should directly relate to the technical assistance and support to be provided. 
+
+ 
+
+ 
+
+
+2.Review and Selection Process 
+
+ 
+
+The required format and content for the application are described in Section D. The applications 
+will be evaluated using an adjectival rating system, in accordance with the selection criteria set 
+forth below, by a Selection Committee (SC) comprised of USAID employees, other U.S. 
+Government representatives, and/or host country experts. The SC will make a recommendation 
+regarding which applicant should receive the award. 
+
+ 
+
+Prior to negotiating an actual award, the Agreement Officer will review the apparently successful 
+applicant’s budget to ensure that costs are in compliance with OMB’s and USAID’s policies. The 
+costs proposed must be determined to be reasonable, based on the Cost Application and other 
+information before award can be made. 
+
+ 
+
+Award will be made to the responsible applicant whose application is determined to be the best 
+based on the criteria specified in this NOFO. The Agreement Officer must also evaluate the risk 
+of the apparently successful applicant and is charged with the final determination of whether to 
+make an award to the apparently successful applicant. Among other issues, the apparently 
+successful applicant’s history of performance will be reviewed using the reference information 
+contained in the Technical Application, along with any other information deemed relevant by the 
+Agreement Officer or Selection Committee. 
+
+ 
+
+The Agreement Officer is the only individual who may legally obligate the U.S. Government to 
+the expenditure of public funds. No costs chargeable to the proposed Agreement may be incurred 
+before receipt of either an Agreement signed by the Agreement Officer or a specific, written 
+authorization form the Agreement Officer. 
+
+ 
+
+3. Business Review 
+
+ 
+
+The Agency will evaluate the cost application of the applicant(s) under consideration for an award 
+as a result of the merit criteria review to determine whether the costs are allowable in accordance 
+with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a pre-
+award survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.208). 
+
+[END OF SECTION E] 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential applicants are hereby 
+notified of these requirements and conditions for the award. 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations. 
+
+ 
+
+For US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for U.S. Non-
+governmental organizations. 
+
+ 
+
+For non-US organizations: Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+ 
+
+See Annex 2, for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+ 
+
+3. Reporting Requirements 
+
+
+ 
+
+The Recipient shall be subject to the following reporting requirements: 
+
+ 
+
+● Financial Reporting: 
+
+
+ 
+
+As permitted by 2 CFR 200.327, the Recipient must submit quarterly financial reports to USAID 
+within 30 calendar days following the end of each quarter utilizing the Office of Management and 
+Budget SF-425. Financial reports are due January 31, April 30, July 31, and October 31. The SF-
+425 (and SF-42Sa, if necessary) must be submitted via electronic format to the Agreement 
+Officer's Representative (AOR), the Agreement Officer (AO), and the USAID Office of Financial 
+Management. The Federal Financial Report (FFR/SF-425) is available in PDF or Excel format at 
+the following OMB website: https://www.usaid.gov/forms/sf-425 
+
+ 
+
+● Performance Reporting 
+
+
+ 
+
+i) The following reports are required: 
+
+a. Annual Work/Implementation Plans 
+
+b. MEL Plan 
+
+c. Quarterly success 
+
+d. Semi-Annual and Annual Performance Reports 
+
+e. Branding and Marking Plan 
+
+f. Final Report 
+
+g. Close-Out Plan 
+
+
+ 
+
+a. Annual Work Plans: The Recipient is expected to submit a draft first year 
+workplan with the application and subsequent annual work plans 30 days before the 
+beginning of the annual reporting period, which aligns with the USG fiscal year, for 
+approval by USAID’s Agreement Officer’s Representative (AOR). Work plans and 
+changes and/or revisions thereto shall describe the activities to be conducted during 
+the period at a greater level of detail than the Program Description but shall not serve 
+to change the Program Description. All work plans and changes/revisions thereto 
+shall cross-reference the applicable section(s) in the Program Description. 
+Workplans will include, among others, programmatic targets, results metrics, context 
+indicators, performance indicators (standard, custom (qualitative and quantitative), 
+and key assumptions, to be jointly agreed in consultation with the USAID AOR. 
+Periodic reviews will provide regular check-in points to review progress, reflect on 
+changes in the context, and decide on appropriate programmatic adjustments. 
+Depending upon operational circumstances, some components of the Program 
+Description may not be activated through the work plan or may be activated through 
+incremental work plan revisions. 
+
+ 
+
+b. Monitoring, Evaluation, and Learning (MEL) Plan: The MEL plan must 
+include how the applicant will learn during implementation and describe how it 
+intends to adapt its management and implementation approaches based on its learning 
+platform. Within 30 days of award, the Recipient will submit a draft MEL plan to the 
+AOR. The MEL plan shall cover the full period of this Cooperative Agreement and 
+include the process for collecting and analyzing baseline data. USAID will review the 
+draft MEL plan and provide comments/suggestions within 30 days of receipt. The 
+Recipient will then submit one copy of the final MEL plan to the AOR for approval 
+in writing not later than 15 days from receipt of USAID's comments/suggestions. The 
+MEL plan will include specific benchmarks and indicators for measuring progress for 
+all activities that are ongoing, including DO-related Performance Monitoring Plan 
+and Performance Plan & Report indicators specified in the PD and 
+USAID/Zimbabwe’s performance management plan along with additional 
+benchmarks and indicators developed by the Recipient. The MEL plan will also 
+highlight how data collected will show the impact and effectiveness of program 
+approaches and methodologies employed and how the data will contribute toward 
+enhancing understanding of best practices in the sector. The MEL plan should show 
+feedback loops that allow the program to use monitoring and evaluation information 
+for decision making within the program. Measurement will focus on both output and 
+outcome data as well as on higher levels of impact to demonstrate the effects and 
+results of program activities. For each objective, there should be at least two to three 
+qualitative outcome-oriented indicators. All data should be disaggregated by sex, 
+disability, age, and geography, whenever applicable. 
+
+ 
+
+The MEL Plan will be updated and revised as necessary annually in conjunction with 
+the Annual Implementation/Work Plan, most specifically related to annual indicator 
+targets. 
+
+
+c. Quarterly success stories: The successful applicant will submit at least 
+one story of general interest (or success story) every three months, including 
+data that demonstrates the impact of programming on individuals and 
+institutions in Zimbabwe. These may be submitted at any time during the 
+three-month period. 
+
+Each story will be no longer that two pages and will include a photo and where 
+appropriate, informed consent regarding use of the photo. Priority should be 
+given to stories which demonstrate how gender gaps, and/or the unique needs 
+and interests of males and females, have been addressed. 
+
+d. Semi-Annual Performance Reports: The Recipient will submit semi-annual 
+performance reports within 30 days of the close of the reporting period. These reports 
+will indicate progress achieved towards benchmarks, highlight tangible results, 
+identify any problems encountered in implementation, and propose remedial actions 
+as appropriate. In addition to meeting the performance reporting requirements, these 
+cumulative reports must include data collected to measure progress against the M&E 
+plan and the documentation of "success stories". Reports will be submitted 
+electronically to the AOR and the Development Experience Clearinghouse (DEC); 
+submission instructions can be found at http://dec.usaid.gov. The reports must be 
+reviewed and cleared by the AOR prior to submission to the DEC. 
+
+e. Branding and Marking Plan: The apparently successful applicant will be 
+asked to provide a Branding Strategy and Marking Plan to be evaluated and 
+approved by the Agreement Officer and incorporated when the award is signed. 
+
+f. Final Report: No later than 45 days after the completion date of the 
+Agreement, the Recipient must prepare a completion report which highlights 
+accomplishments against work plans, gives the final status of the benchmarks and 
+objectives, addresses lessons learned during implementation, and suggests ways to 
+resolve identified constraints. This is in line with requirements as set in 22 CFR 
+226.51. The report should provide recommendations for follow-on work that might 
+complement the completed work and details of close-out and transition plans. The 
+Recipient shall submit an electronic version as well as two copies of the final report 
+to the AO and AOR. One additional copy of the report must be sent to the 
+Development Experience Clearinghouse (DEC); submission instructions can be 
+found at http://dec.usaid.gov. Final Report must be reviewed and cleared by the AOR 
+prior to submitting to DEC. 
+
+ 
+
+g. Close-Out Plan: Three months prior to the completion date of the Agreement, 
+the Recipient will submit a demobilization plan for AOR's approval. The Close-out 
+Plan will include, at a minimum, an illustrative property disposition plan, a plan for 
+the phase-out of in-country operations, a delivery schedule for all reports or other 
+documents requested and a timetable for completing all required actions in the Close-
+out Plan, including the submission date of the final property disposition plan to the 
+Agreement Officer. 
+
+
+4. Environmental Compliance 
+
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered and that USAID includes 
+environmental sustainability as a central consideration in designing and carrying out its 
+development programs. 
+
+ 
+
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) 204, which require, in part, that the potential environmental 
+impacts of USAID-financed activities are identified prior to a final decision to proceed and 
+that appropriate environmental safeguards are adopted for all activities. No activity funded 
+under this Cooperative Agreement will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented 
+in an Initial Environmental Examination (IEE), or Environmental Assessment (EA) duly 
+signed by the Bureau Environmental Officer (BEO). Hereinafter, such documents are 
+described as “approved Regulation 216 environmental documentation.” 
+
+ 
+
+The activity environmental compliance obligations under these regulations are specified in 
+the IEE http://gemini.info.usaid.gov/repository/pdf/39281.pdf posted on the USAID 
+Environmental compliance database http://gemini.info.usaid.gov/. The applicant shall be 
+responsible for implementing all IEE conditions pertaining to activities to be funded under 
+this solicitation. 
+
+1) In addition, the Recipient must comply with host country environmental 
+regulations unless otherwise directed in writing by USAID. In case of conflict 
+between host country and USAID regulations, the latter shall govern. 
+
+
+ 
+
+As part of its initial Work Plan, and Annual Work Plans thereafter, the Recipient, in 
+collaboration with the USAID Agreement Officer’s Representative and Mission 
+Environmental Officer or Bureau Environmental Officer, as appropriate, shall review all 
+ongoing and planned activities under this Cooperative Agreement to determine if they are 
+within the scope of the approved Regulation 216 environmental documentation 
+
+ 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+1. NOFO Points of Contact 
+
+ 
+
+Any questions regarding this NFO may be addressed 
+to: 
+
+ 
+
+Debra Nengomasha 
+
+Acquisition & Assistance Specialist 
+Email: dnengomasha@usaid.gov 
+
+ 
+
+With a copy to: harareprocure@usaid.gov. 
+
+ 
+
+Alternate Point of Contact: 
+
+Solomon Chang 
+
+Acquisition & Assistance Specialist 
+
+Email: schang@usaid.gov 
+
+ 
+
+The Agreement Officer for this award is: 
+
+Zeb Simpson 
+Email: jsimpson@usaid.gov 
+
+The Financial Office for this award is: 
+
+ 
+
+Financial Management Office USAID/Zimbabwe 
+
+No. 2 Lorraine Drive, Westgate 
+
+Harare, Zimbabwe 
+
+Email: harareinvoice@usaid.gov 
+
+ 
+
+2. Acquisition and Assistance Ombudsman 
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all 
+organizations who are doing or wish to do business with USAID. Please visit this page for 
+additional information: https://www.usaid.gov/work-usaid/acquisition-assistance-ombudsman 
+
+ 
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of 
+public funds. Any award and subsequent incremental funding will be subject to the availability of 
+funds and continued relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. Government except for evaluation purpose, should mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed, duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, an award 
+is made as a result of – or in connection with – the submission of this data, the U.S. 
+Government will have the right to duplicate, use, or disclose the data to the extent provided in 
+the resulting award. This restriction does not limit the U.S. Government’s right to use 
+information contained in this data if it is obtained from another source without restriction. The 
+data subject to this restriction are contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page 
+of this application.” 
+
+ 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+ 
+
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Attached. 
+
+ 
+
+ 
+
+[END OF ANNEX 1] 
+
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+(Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award 
+will also contain “required as applicable” Standard Provisions: 
+
+ 
+
+Please note that the resulting award will include all standard provisions (both mandatory 
+and required as applicable) in full text. 
+
+ 
+
+ 
+
+ 
+
+[END OF ANNEX 2] 
+
+ 
+
+ 
+
+
+ANNEX 3 - ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+ 
+
+ADS Automated Directives System 
+
+AO Agreement Officer 
+
+AOR Agreement Officer's Representative 
+
+CDCS Country Development Cooperation Strategy 
+
+COP Chief Of Party 
+
+CSO Civil Society Organizations 
+
+EC European Commission 
+
+FAA Foreign Assistance Act 
+
+GOZ Government of Zimbabwe 
+
+IR Intermediate Result 
+
+JSI Justice Systems and Institutions 
+
+M&E Monitoring and Evaluation 
+
+MEL Monitoring Evaluation and Learning Plan 
+
+NOFO Notice of Funding Opportunity 
+
+PWDs People with Disabilities 
+
+RFA Request for Application 
+
+SAM System for Award Management 
+
+TA Technical Assistance 
+
+USAID United States Agency for International Development 
+
+YPIA Young People for Integrity and Accountability 
+
+USG United States Government 
+
+ZACC Zimbabwe Anti-Corruption Commission 
+
+ 
+
+ 
+
+ 
+
+[END OF ANNEX 3] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

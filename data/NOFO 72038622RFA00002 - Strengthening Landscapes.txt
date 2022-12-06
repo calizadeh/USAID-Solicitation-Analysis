@@ -1,0 +1,3288 @@
+TABLE OF CONTENTS 
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION 4 
+
+ 
+
+SECTION B – FEDERAL AWARD INFORMATION 10 
+
+ 
+
+SECTION C – ELIGIBILITY INFORMATION 13 
+
+ 
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 15 
+
+ 
+
+SECTION E: APPLICATION REVIEW INFORMATION 24 
+
+ 
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 29 
+
+ 
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+38 
+
+ 
+
+SECTION H: OTHER INFORMATION 39 
+
+ 
+
+ANNEX 1:1 PRELIMINARY GENDER ANALYSIS PLAN 41 
+
+ 
+
+ 
+
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+A.1 Authorizing Legislation 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as amended. The 
+resulting award will be subject to 2 CFR 200 – Uniform Administrative Requirements, Cost Principles, 
+and Audit Requirements for Federal Awards, and USAID’s supplement, 2 CFR 700, as well as the 
+additional requirements found in Section F. 
+
+A.2 Program Framework 
+
+A.2.1 Purpose 
+
+The purpose of the Strengthening Landscape Management and Conservation Activity is to work in concert 
+with the Government of India (GoI) to enhance the management of ecological landscapes for biodiversity 
+conservation, human well being and climate benefits, contributing to reduced greenhouse gas emissions, 
+improved carbon sequestration, and enhanced environmental benefits for the country. Through this 
+activity, USAID/India and the Ministry of Environment, Forest and Climate Change (MoEFCC) will 
+strengthen management practices in targeted landscapes by: (1) improving the management of protected 
+areas and their corridors for wildlife conservation and other ecological benefits; (2) improving inclusive 
+livelihoods from ecosystem services and (3) strengthening the conditions for institutionalizing landscape 
+conservation. 
+
+A.2.2 Background 
+
+India is considered one of 17 megadiverse countries and is home to a wide array of ecosystems that play 
+a pivotal role both in conserving biodiversity and sequestering atmospheric carbon. Across its nearly 3.3 
+million square kilometers of area, India’s topographic and climatic ranges - from sea level to 8,586 meters 
+and from 300 to more than 3,000 millimeters of precipitation per year on average1 to produce great 
+ecosystem diversity that harbors 6.5-7 percent of globally recorded species of flora and fauna.2 
+
+1 Center for Science and Environment analysis of rainfall data for 110 years (1901-2011) published by Indian Meteorological 
+Department, dated 27 April 2013. 
+
+2 MEF. 2009. State of Environment Report India 2009. Environmental Information System, Ministry of Environment and 
+Forests, Government of India. Prepared by George C Varughese, Dr. K Vijaya Lakshmi, Anand Kumar, and Neelam Rana of 
+Development Alternatives. pg. 50 
+
+3 MoEFCC. 2019. Implementation of India’s National Biodiversity Action Plan: An Overview, 2019. Ministry of Environment, 
+Forest and Climate Change, Government of India. Chapter 2. pp. 9-22. 
+
+India is part of four of the world’s 35 identified biodiversity hotspots with “exceptional concentrations of 
+plant endemism and experiencing high rates of habitat loss” and one of eight primary global centers of 
+origin of cultivated plants as well as 140 wild breeds of livestock and poultry. 
+
+India has identified ten biogeographic zones based on its topographic and climatic variations. Within each 
+zone, one or more major ecosystem types occur. These are forest, grassland, desert, aquatic, and montane 
+ecosystem types.3 India’s forests are classified into four major groups based on annual mean temperatures: 
+tropical, subtropical, temperate, and alpine, further subdivided into 16 forest types based on precipitation 
+
+
+and characteristics of their tree species. Detailed descriptions of each forest type are available in 
+
+Each of these unique landscapes provide a multitude of ecosystem services and benefits for Indian society 
+and the globe. And yet, most if not all of these landscapes face a range of challenges. While national forest 
+cover is increasing overall, there is ongoing degradation in some key landscapes due to pressures from 
+population and persistent poverty. Grasslands are decreasing despite their critical importance supporting 
+rhinos, elephants, and other large and small wildlife - from tigers to pheasants - necessary for ecological 
+integrity in addition to providing critical grazing lands for millions of agro-pastoral communities. India’s 
+freshwater aquatic ecosystems are nearing crisis levels of degradation from pollution with dangerous 
+toxins and over-extraction for agricultural, industrial, municipal, and other uses. Sea level rise attributed 
+to climate change is affecting coasts and their ecosystems, along with warmer sea temperatures altering 
+the distribution patterns of marine life and contributing to coral bleaching events, and ocean acidification 
+negatively impacting shellfish and corals. Finally, deserts are growing and alpine meadows are shrinking. 
+A 2019 analysis by USAID provides further detail on the many challenges facing India’s ecosystems. 
+
+Recognizing these challenges, India has made a number of national and international commitments that 
+demonstrate the government’s resolve in furthering the conservation of its globally important biodiversity 
+and contribute toward ambitiously addressing the climate crisis. These commitments include: 
+
+1. A set of National Biodiversity Targets aligned with the Aichi targets agreed by all parties to the 
+Convention on Biological Diversity. For example, Target 6 calls for 20% of the geographic area 
+of the country to be “conserved effectively and equitably” through designating and managing a 
+system of protected areas that represent the ecological diversity described above, and instituting 
+area-based conservation measures that are integrated into the wider landscapes and seascapes.4 
+2. At the 14th Conference of Parties to the United Nations Convention to Combat Desertification 
+held in New Delhi in 2019, Prime Minister Narendra Modi announced that India will restore an 
+additional 5 million hectares of degraded land by 2030, raising the land to be restored in India to 
+26 million hectares. India was one of the first countries to commit to the 2030 Sustainable 
+Development Goal target of achieving land degradation neutrality. 
+3. In its Nationally Determined Contribution (NDC) submitted to the United Nations Framework 
+Convention on Climate Change (UNFCCC), India committed to create an additional carbon sink 
+of 2.5 to 3 billion tons of CO2 equivalent through additional forest and tree cover by 2030. 
+
+
+4 MoEFCC. 2014. National Biodiversity Action Plan (NBAP): Addendum 2014 to NBAP 2008. Ministry of Environment, Forest 
+and Climate Change, Government of India. pp. 26-27 
+
+The legislative, policy, and regulatory framework for natural resources conservation and management in 
+India is founded on Article 48A of the Constitution: “The State shall endeavor to protect and improve the 
+environment and to safeguard the forests and wildlife of the country.” Nationally, the GoI has implemented 
+a range of legal and policy frameworks that are aimed at the protection and management of the 
+
+
+environment, wildlife, biodiversity, and forests in India, such as the Wildlife (Protection) Act of 1972, last 
+amended in 2006; the Environment (Protection) Act, 1986; the Forest (Conservation) Act of 1980. 
+Although the forest and biodiversity policy addresses some of the gender and social inequity issues, 
+women and Indgenous Peoples continue to be disadvantaged by several legal and social frameworks and 
+they, traditionally, do not have access to pertinent information regarding their applicability and associated 
+consequences if violated. 
+
+One of the key priorities of the GoI is to enhance and bolster investments in developmental programs 
+related to water resources, the Himalayas, coastal regions, health, and disaster management– all of which 
+are sectors that are susceptible to the impacts of climate change. Additionally, the GoI aims to mobilize 
+additional funds, from a range of stakeholders, to help address the resource gap needed to implement 
+climate change mitigation strategies. 
+
+A.2.3 Challenges 
+
+Several of India’s natural landscapes and resources are threatened by anthropogenic factors such as 
+deforestation, degradation, and over-exploitation. Each of these unique challenges creates more and more 
+pressure on the natural world and makes ecosystems less resilient, more susceptible to the impacts of 
+climate change, and less effective at mitigating greenhouse gas emissions. As landscapes become more 
+degraded, they are unable to provide the same ecosystem goods and services. Additionally, India is home 
+to several forest-dwelling tribal communities, including the Koyas, Konda Reddies, Kondhs, Savaras, 
+Valmikis, Soligas and Parajas in the Eastern Ghats and many in the North Eastern Region The loss of 
+forests and land degradation disproportionately affects these and many other communities that depend on 
+natural landscapes for their dwellings and livelihoods. Furthermore, an increase in habitat degradation and 
+fragmentation leads to an increased likelihood of human-wildlife conflict (HWC), which results in cultural, 
+social, and economic damages and human life losses. 
+
+India’s landscapes and biodiversity are threatened by anthropogenic factors that threaten to negatively 
+affect India’s rich ecology. One salient example of this is challenges created by climate change, i.e. rising 
+temperatures can change ecosystems over time, thereby affecting the types of species that can live and 
+grow in a particular region. Additionally, prolonged rainfall can contribute to increased incidences of 
+flooding, resulting in increased rates of mortality for wildlife and facilitating the spread of diseases. Since 
+climate change can create fluctuations in the normal temperature ranges for ecosystems, this can have long 
+lasting consequences, especially for particular species. In India, some impacts of climate change include: 
+changes in the migratory patterns, physiological changes, and changes in the types of flora and fauna that 
+can grow in a region– all of which have severe impacts on the natural environment. 
+
+Another challenge facing India’s natural world is increased incidences of human-wildlife conflict (HWC) 
+and more fragmented landscapes from linear infrastructure. Linear infrastructure is defined as man-made 
+objects, such as railways, roads, electrical networks that fragment natural habitats. HWC poses a risk to 
+the health, safety, and livelihoods for thousands of Indians, especially for those living in rural communities 
+and those from marginalized backgrounds, including women and indigneous communities. Oftentimes, 
+women are disproportionately impacted by HWC, since they are more likely to forage in the forest for 
+firewood and food. Women and men play different gendered roles and have different responsibilities and 
+impacts, despite the commonly held belief that men and women are impacted equally by HWC. 
+
+
+Habitat fragmentation can also increase the risk of the spillover of zoonotic diseases. Different land use 
+decisions, such as building roads or converting more forests for agriculture, increase forest fragmentation 
+and lead to greater exploitation of wildlife and exposure to wildlife-borne diseases. A first line of defense, 
+then, may be to maintain the ecological integrity of priority landscapes and ensure healthy ecosystems for 
+humans, domesticated animals, and wildlife. 
+
+The myriad of challenges outlined above also play a role in releasing greenhouse gas emission and 
+reducing the carbon sequestration capabilities of India’s landscapes. Forests, grasslands, mangroves, and 
+other ecosystems play a pivotal role in carbon sequestration. Such ecosystems are vulnerable to changes 
+in land-use, fragmentation, sea level rise, temperature changes, and other factors, which results in 
+increased emissions and reduced ability of ecosystems to capture and store carbon. 
+
+Given the range of challenges affecting India’s natural landscape, the goal of this activity is to work with 
+the GoI and other stakeholders to enhance and improve the management of India’s protected areas and 
+their corridors for biodiversity and wildlife conservation, human well-being, and climate benefits, helping 
+to reduce greenhouse gas emissions, improving carbon sequestration– all of which will result in enhanced 
+climate benefits for the country. The Theory of Change and Key Objectives, underscored below, highlight 
+how the objectives of this activity will accomplish the intended goal. 
+
+ 
+
+A.2.4 Theory of Change: 
+
+IF management of protected areas and their corridors for wildlife conservation and other ecological 
+benefits is improved; 
+
+AND inclusive livelihoods from ecosystem services are improved; 
+
+AND an enabling environment is created for institutionalizing landscape conservation; 
+
+THEN there will be enhanced management of ecological landscapes for biodiversity conservation, human 
+well being, and climate benefits such as reduced greenhouse gas emissions and improved carbon 
+sequestration. 
+
+A.2.5 Objectives and Illustrative Outcomes 
+
+There are three main objectives for this activity: (1) Improved management of protected areas and their 
+corridors for wildlife conservation and other ecological benefits; (2) Improved inclusive livelihoods from 
+ecosystem services, and (3) Strengthened conditions for institutionalizing landscape conservation. 
+
+Objective 1: Improved management of connected landscapes for wildlife habitat and other 
+ecological benefits 
+
+This objective aims to enhance the capabilities of protected areas (PA) staff to more effectively and 
+efficiently manage their respective landscapes for both wildlife conservation and climate benefits. This 
+component focuses on examining the factors that hinder effective management and finding solutions to 
+those challenges. Illustrative outcomes might include implementation of new strategies and action plans, 
+including to improve connectivity between protecting areas and to prevent emerging zoonotic diseases at 
+the source; assessed management effectiveness of protected areas; strengthened and new systems to 
+monitor ecosystems and forest health and climate impacts; human wildlife conflict addressed and 
+
+
+minimized; and awareness raised and behavior changed on the benefits of ecological integrity for human 
+
+Objective 2: Improved Livelihoods from Ecosystem Services 
+
+Current understanding surrounding the economic, social, and cultural value associated with ecosystem 
+services is insufficient. Illustrative outcomes under this component will provide critical information about 
+the value of these services to address some of the gaps in understanding. These efforts will focus on ways 
+to improve livelihoods and increase income that forest dependent communities - predominantly women 
+and Indigenous Peoples - derive from ecosystem services. Illustrative outcomes may include stronger 
+systems for monitoring of carbon, water, and other ecosystems services from ecological landscapes; 
+strengthened capacity to conduct valuations of carbon, water, and other ecosystem services; prioritized 
+actions to incentivise forest and wildlife conservation that increases income for forest dependent 
+communities; functioning payment for ecosystem services or carbon market projects (e.g. REDD+) in 
+selected landscapes; and increased understanding of the factors that limit or contribute to health of target 
+wildlife populations across a mosaic of intact to degraded ecosystems to reduce the risk of zoonotic 
+spillover. 
+
+Objective 3: Strengthen conditions for institutionalizing landscape conservation for human and 
+climate benefits 
+
+This objective aims to strengthen conditions or create an enabling environment for institutionalizing 
+landscape conservation. This approach will ensure that systems and processes are in place to sustain 
+Objectives 1 and 2 beyond the life of the project as well as ensuring the potential for the GoI to scale 
+successful conservation actions more widely across India. Illustrative outcomes may include strengthened 
+platforms for learning and exchange of information among protected area managers and with other 
+stakeholders; strengthened knowledge management and information dissemination systems and their 
+wider application; and mobilization of additional resources, including from the private sector. 
+
+Geographic Scope: 
+
+The Strengthening Landscape Management and Conservation Activity will be undertaken in terrestrial 
+ecosystems, most likely located in the Central Indian Landscapes. The geographic state selection can be 
+anywhere in that region and the final geographic selection will be determined during the co-creation, in 
+collaboration with the MoEFCC and USAID. For this Activity, the Central Indian Landscapes include 
+regions in the following states: Rajasthan, Madhya Pradesh, Jharkhand, Chhattisgarh, Odisha, Telangana, 
+Andhra Pradesh, and Maharashtra. 
+
+ 
+
+A.2.7: Links to Agencies Priorities 
+
+This activity links to USAID/India’s CDCS outlined priorities on improving the management of protected 
+areas in India and promoting biodiversity conservation. These actions would also help to bolster carbon 
+sequestration in selected landscapes and also deepen the understanding of the contribution of ecosystem 
+services for Indian society. Collectively, these actions will improve regional natural resource management 
+in the country. 
+
+This activity also contributes toward implementation of the USAID Climate Strategy, the USAID 
+Biodiversity Policy, the USAID Policy on Promoting the Rights of Indigenous Peoples (PRO-IP), the 
+
+
+USAID Private Sector Engagement Policy, and USAID priorities on inclusive development and working 
+with under-represented communities. 
+
+A2.8: Guiding Principles 
+
+Gender and Social Inclusion: 
+
+USAID’s gender and social analysis for this activity shows that loss of biodiversity and its consequences 
+affect women and men in different ways. Also the roles, knowledge, and skills of tribal/rural men and 
+women differ with respect to forest use and management. Women, and tribal communities have a 
+disproportionate impact that needs special attention. 
+
+This activity will maximize the impacts of the interventions by equally focusing on and viewing women 
+and men, and scheduled castes and tribes communities members, from the forest-dependent communities 
+as valuable participants in forest and biodiversity conservation and management, whose knowledge, 
+leadership and decision making can have transformative effects on local communities and national 
+policies. The efforts will be designed, in consultation with these communities, to and will benefit everyone 
+equally and equitably. Development efforts must, therefore, be aimed towards three interrelated goals: (1) 
+enhancing effective forest and biodiversity measures, (2) addressing diverse needs of forest dependent 
+groups, and (3) achieving socially inclusive and equitable development outcomes for affected individuals, 
+regardless of their gender, socioeconomic, and caste status. 
+
+This activity will also follow USAID’s Free, Prior, and Informed Consent (FPIC) Framework, as outlined 
+in the PRO-IP Policy and the International Human Rights standards that state, 'all peoples have the right 
+to self-determination’ using the available resources. The Policy reflects USAID’s commitment to 
+supporting inclusive and sustainable development by: advancing human dignity by protecting and 
+empowering Indigenous Peoples, while safeguarding their environments and communities. Interventions 
+should be designed after sufficiently understanding the governance, culture, and cosmovision of the 
+communities that are culturally pertinent. This will help to support the communities in their own efforts to 
+inform, educate, strengthen their own identity, values, social cohesion, and development. 
+
+As a result, in this activity, an outlook should be adopted to yield advantages for a range of marginalized 
+communities and benefit both sexes in all their diversity, including the landless, scheduled tribes, persons 
+with disabilities, and youth. 
+
+Please see Annex 1 for detailed information on gender and social inclusion. 
+
+Sustainability: 
+
+A key component of the Strengthening Landscape Management and Conservation activity focuses on the 
+sustainability of the interventions. USAID defines sustainability as how the project will be supported and 
+can continue without donor funding. 
+
+ 
+
+Coordination 
+
+USAID/India will utilize a co-creation approach with the successful applicant to finalize the program 
+description and the consortium framework. The successful applicant will also be expected to engage 
+with the Government of India, MoEFCC, and other relevant stakeholders. Finally, this activity will also 
+coordinate with other USAID-funded activities and leverage the work of other relevant actors and 
+stakeholders to ensure complementarity and avoid duplication of efforts. 
+
+[END OF SECTION A] 
+
+
+ 
+
+SECTION B – FEDERAL AWARD INFORMATION 
+
+ 
+
+B.1 ESTIMATED FUNDS AVAILABLE AND NUMBER OF AWARDS CONTEMPLATED 
+
+
+
+
+ 
+
+USAID intends to award one Cooperative Agreement pursuant to this notice of funding opportunity. 
+Subject to funding availability and at the discretion of the Agency, USAID intends to provide 
+$20,000,000 in total USAID funding over a five-year period. USAID reserves the right to change funding 
+amounts and terms of the resulting Cooperative Agreement as a result of availability of funds and U.S. 
+Government requirements. 
+
+B.2 EXPECTED PERFORMANCE INDICATORS, TARGETS, BASELINE DATA AND 
+DATA COLLECTION 
+
+ 
+
+USAID/India intends for the activity to be subject to rigorous monitoring and evaluation, to (a) ensure 
+the intended results and impact are being generated, and (b) inform the activity management if, and when, 
+course corrections may be necessary – an important consideration, given that this is a new activity and 
+partnership. The recipient should also conduct several periodic analyses to better understand certain 
+aspects and issues within the award’s domain. 
+
+ 
+
+Performance monitoring and evaluation will be included by the Applicant while designing their technical 
+approach. USAID may conduct additional monitoring and evaluation through external contract(s). A 
+detailed Monitoring &Evaluation (M&E) design will be developed upon completion of the design and 
+will include appropriate Standard Foreign Assistance Indicators (F indicators). 
+
+ 
+
+USAID/India recognizes that development efforts yield positive change more quickly if they are 
+coordinated and collaborative, test promising new approaches in a continuous search for improvement, 
+and build on what works, while eliminating what does not. The recipient must therefore implement a 
+Collaboration, Learning and Adaptation (CLA) approach to continuously assess the activity’s causal 
+pathways, target outcomes, and adjust the interventions and approach as necessary to yield the most 
+effective course of action. The CLA Plan must clearly relate to the Monitoring Evaluation and Learning 
+(MEL) Plan. 
+
+Anticipated Results and Indicators 
+
+ 
+
+The activity will contribute to strengthening the conditions for institutionalizing landscape conservation, 
+to enhance the capabilities of protected areas staff for effective and efficient management of landscapes 
+for both wildlife conservation and climate benefit and to improve inclusive livelihoods from ecosystem 
+services. 
+
+ 
+
+The Concept Paper shall propose intermediate results that will help inform its content areas and 
+initiatives. Applicants are expected to propose activities that are appropriate and relevant to the situation. 
+Potential indicators are outlined below, but the final list of indicators will be developed during cocreation: 
+
+
+
+ 
+
+○ Number of people using climate information or implementing risk reducing actions to improve 
+resilience to climate change as supported by USG assistance 
+
+
+
+
+ 
+
+○ GHG Emissions Greenhouse gas (GHG) emissions, estimated in metric tons of CO2 equivalent, 
+reduced, sequestered, or avoided through clean energy activities supported by USG assistance 
+
+
+
+
+ 
+
+○ Institutional Capacity Number of institutions with improved capacity to address sustainable 
+landscapes issues as supported by USG assistance National governmental Sub-national 
+governmental Other 
+
+
+
+
+ 
+
+○ Sustainable Landscapes Beneficiaries Number of people receiving livelihood co-benefits 
+(monetary or non-monetary) associated with the implementation of USG sustainable landscapes 
+activities 
+
+
+
+
+ 
+
+○ Sustainable Landscapes Hectares Number of hectares under improved management expected to 
+reduce greenhouse gas emissions as a result of USG assistance Protection, Forests Protection, 
+Non-forests Restoration, Forests Restoration, Non-forests Management, Forests Management, 
+Non-forest 
+
+
+
+
+ 
+
+○ Number of hectares of biologically significant areas showing improved biophysical conditions 
+as a result of USG assistance 
+
+
+
+
+ 
+
+○ Number of hectares of biologically significant areas under improved natural resource 
+management as a result of USG assistance 
+
+
+
+
+ 
+
+○ Number of people with improved economic benefits derived from sustainable natural resource 
+management and/or biodiversity conservation as a result of USG assistance 
+
+
+
+
+ 
+
+○ Number of people trained in sustainable natural resources management and/or biodiversity 
+conservation as a result of USG assistance 
+
+
+
+
+ 
+
+○ Number of laws, policies, or regulations that address biodiversity conservation and/or other 
+environmental themes officially proposed, adopted or implemented as a result of USG assistance 
+
+
+
+
+ 
+
+○ Number of people that apply improved conservation law enforcement practices, as a result of 
+USG assistance 
+
+
+
+
+ 
+
+○ Number of people consulted to plan for livelihood needs related to sustainable landscape with 
+USG support [Disaggregation: sex, social structure] 
+
+
+
+
+ 
+
+○ Number of people trained in adaptive strategies (e.g., sustainable agriculture, water management, 
+etc.) with USG support [Disaggregation: sex, social structure] 
+
+
+
+
+ 
+
+ 
+
+Annual Pause and Reflect session to inform annual reporting and the following year work plans. These 
+Pause and Reflect sessions serve to review what types of interventions may be necessary to adjust course. 
+
+
+A mid-term and final evaluation will be conducted by a third party as per USAID guidelines. The midterm 
+evaluation will be undertaken in year two of the project implementation to assess the activity Theory 
+of Change (TOC), risks and assumptions, and review the progress towards expected results and make 
+mid-course corrections, if needed. The evaluation will measure processes, early progress on getting 
+results, modification in the project implementation, if any. 
+
+B.3 START DATE AND PERIOD OF PERFORMANCE 
+
+The period of performance anticipated herein is five (5) years. The estimated start date of the award is 
+March 1, 2023. 
+
+ 
+
+B.4 SUBSTANTIAL INVOLVEMENT 
+
+In accordance with ADS 303.3.11, USAID will remain substantially involved over the life of the 
+Cooperative Agreement to assist the Recipient in achieving the expected outcomes and results of the 
+program. Some examples of potential areas of substantial involvement during performance include the 
+following: 
+
+ 
+
+● Approval of recipient's implementation plans during performance; 
+
+● Approval of key recipient personnel; and 
+
+● Joint participation will be necessary to ensure achievement of key objectives during the 
+
+performance of the activity. 
+
+ 
+
+NOTE: This Substantial Involvement section is subject to change following the Co-Creation Workshop and 
+submission of the Final Application of Phase 
+
+ 
+
+B.5 AUTHORIZED GEOGRAPHIC CODE 
+
+ 
+
+The authorized geographic code for the procurement of services and commodities is 937. Code 937 is 
+defined as the United States, the recipient country (India), and developing countries, but excluding any 
+country that is a prohibited source. There are currently no prohibited source countries, but the list is 
+updated regularly and can be found here: 
+http://www.usaid.gov/sites/default/files/documents/1864/310mac.pdf. 
+
+ 
+
+B.6. NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to transfer 
+funds to accomplish a public purpose of support or stimulation of Strengthening Landscape Management 
+and Conservation Activity which is authorized by Federal statute. The successful Recipient will be 
+responsible for ensuring the achievement of the program objectives and the efficient and effective 
+administration of the award through the application of sound management practices. The Recipient will 
+assume responsibility for administering Federal funds in a manner consistent with underlying 
+agreements, program objectives, and the terms and conditions of the Federal award. 
+
+ 
+
+ 
+
+[END OF SECTION B] 
+
+
+SECTION C – ELIGIBILITY INFORMATION 
+
+ 
+
+C.1 ELIGIBLE APPLICANTS 
+
+Eligibility for this NOFO is unrestricted, open to all eligible and qualified entities. An organization 
+may submit only one (1) application under this notice of funding opportunity. However, 
+organizations participating as a member of a consortium may elect to participate in another 
+consortium under a different Concept Paper. 
+
+ 
+
+Pursuant to 2CFR 200.400(g), it is USAID policy not to award profit under assistance instruments 
+such as Cooperative Agreements. While for-profit organizations may participate, pursuant to 2 CFR 
+700.13(a)(1), Prohibition against Profit, no profit will be paid to any for- profit entity receiving or 
+administering Federal financial assistance as a recipient or subrecipient. 
+
+ 
+
+USAID welcomes organizations that have not previously received financial assistance from USAID 
+to submit their applications. 
+
+C.2 LEVERAGE 
+
+Leverage is defined as anything of value that is measured, financial contributions, third party 
+contributions, donated services or property, or intellectual property. The Strengthening Landscape 
+Management and Conservation requires the applicant to leverage resources from both the private 
+and public resources. The resources leveraged from both the sectors will enable the activity to 
+engage in interventions that are of shared interest and will enable the interventions to be continued 
+after the Activity ends. At a minimum, the applicant is required to leverage 10% of the award amount 
+from other sources, external to the United States Government. For more information about leverage, 
+please refer to section E.2.1 Merit Review. 
+
+C.3. OTHER 
+
+C.3.1. SAM REGISTRATION 
+
+Applicants must have successfully registered in SAM (System for Award Management) prior to 
+submitting a full application. Applicants must also provide a valid UEI number in the SF424 form 
+to be submitted along with a full application. For those who have previously registered in SAM, 
+they must renew and maintain an active SAM registration during the time they have concept notes 
+or applications under consideration by a Federal awarding agency or during active Federal award. 
+SAM registration is not required in the Phase 1 or Phase 2; however, applicants are advised to start 
+the process now. 
+
+C.3.2. PRE-AWARD RISK ASSESSMENT 
+
+The Apparently Successful Applicant (ASA) will be responsible for ensuring achievement of the 
+objectives described in the NOFO. Thus, an ASA must be a responsible entity. Prior to making an 
+award under this NOFO, USAID may perform a pre-award survey for organizations that are new to 
+working with USAID or for organizations with outstanding audit findings. Accounting systems, 
+audit issues and management capability questions may be reviewed as part of this process. 
+
+
+Depending on the result of the risk assessment, USAID may determine to execute the award, not 
+execute the award, or award with “specific conditions” (2 CFR 200.207). If notified by USAID that 
+a pre-award survey is necessary, applicants must prepare in advance to provide the required 
+information and documents. A pre-award survey does not commit USAID to make an award to any 
+organization. 
+
+ 
+
+The Agreement Officer (AO) will decide on whether to subject the ASA to a pre-award survey, and 
+based on the results, will make a determination if the prospective recipient is a responsible entity, 
+whether the prospective recipient has the necessary organization, experience, accounting, and 
+operational controls, financial resources, and technical skills – or ability to obtain them – in order 
+to achieve the objectives of the program and comply with the terms and conditions of the award. 
+The Agreement Officer reserves the right to perform a pre-award survey for any entity. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+ 
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+ 
+
+D.1 AGENCY POINT OF CONTACT 
+
+ Cheryl Hodge-Snead 
+
+Title: Agreement Officer 
+
+Email: indiarco@usaid.gov 
+
+D.2 QUESTIONS AND ANSWERS 
+
+Questions regarding this NOFO should be submitted indiarco@usaid.gov, with a copy to aguytonblanton@
+usaid.gov and clal@usaid.gov no later than the date and time indicated on the cover letter, 
+as amended. Unless otherwise notified by an amendment to the NOFO, no questions will be accepted 
+after the due date. Any information given to a prospective applicant concerning this NOFO will be 
+furnished promptly to all other prospective applicants as an amendment to this NOFO, if that 
+information is necessary in submitting applications or if the lack of it would be prejudicial to any 
+other prospective applicant. 
+
+Applicants must not submit questions to any other USAID staff. All the submission of questions 
+application files submitted must be compatible with Microsoft (MS) Office in a MS Windows 
+environment and/or Adobe Acrobat (.pdf). The subject of each e-mail must read as follows: NOFO # 
+72038622RFA00002 - Strengthening Landscape Management and Conservation Activity. 
+
+ 
+
+D.3 GENERAL CONTENT AND FORM OF APPLICATION 
+
+ 
+
+Applicants are to review, understand and comply with all aspects of this NOFO. Applicants must 
+ensure all necessary documents are complete and received at USAID on time. Failure to do so will 
+result in the submission being considered non-responsive and will not be reviewed. All submissions 
+received by the stated deadlines in the NOFO and determined responsive will be reviewed in 
+accordance with the review criteria contained in Section E of this NOFO. 
+
+ 
+
+Each applicant must furnish the information required by this NOFO. Applications for each phase 
+must be submitted in accordance with the instructions provided under Section D. Any erasures or 
+other changes to the application must be initiated by the person signing the application. Applications 
+signed by an agent on behalf of the applicant must be accompanied by evidence of that agent’s 
+authority, unless that evidence has been previously furnished to the issuing office. 
+
+ 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve only 
+as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part of the 
+merit review criteria. USAID will not review any pages in excess of the page limits noted in the 
+subsequent sections. Please ensure that applications comply with the page limitations. 
+
+ 
+
+Submissions must be in electronic format. Applicants’ authorized representatives are to sign their 
+names (manually or digitally) on the cover pages of their submissions, as well as in required 
+
+
+certifications. For a submission to be considered timely, the electronic transmission must be 
+submitted by email to 
+
+ 
+
+Applicants not selected for the consecutive phase will be notified at the end of each phase. Depending 
+on the number of applicants, the AO may or may not respond to requests for additional information 
+from unsuccessful applicants. 
+
+D.3.1 Overall Selection Process 
+
+Under this NOFO, there will be a three-phase process that is described below: 
+
+Phase 1 - Concept Paper and Oral Presentation: 
+
+Conditional Acceptance of Concept Paper: Applicants are to first submit a concept paper for an 
+initial review. All concept papers received in response to this NOFO will be evaluated by a USAID 
+Merit Review Committee (MRC) for responsiveness to the merit review/evaluation criteria outlined 
+in Section E. After all concept papers are evaluated, only applicants whose concept paper is 
+conditionally accepted (based on the Merit Review Criteria) will be invited to present their 
+concept paper. This process is to identify concept papers that align with the intended objectives of 
+the NOFO. The process ends for all applicants whose concept paper was not conditionally 
+accepted and no further consideration will be given to the applicant(s). 
+
+ 
+
+Oral Presentations: Applicants whose Concept Paper was conditionally accepted (based on the 
+Merit Review Criteria in Section E) will be invited to present orally on the specific areas of their 
+concept that need further detailing. The Oral Presentation will provide USAID an opportunity to 
+better understand the concept and its approach to the solution, as well as to pose clarifying 
+questions.This will be two weeks approximately after being notified that their Concept Papers were 
+conditionally accepted. 
+
+ 
+
+The Oral Presentation will be held through video conferencing or in person, depending on the location 
+of the applicant. The technical as well as format requirements for this phase will be made available 
+to the selected applicants invited to the Oral Presentation. The Applicant’s Concept Paper author/s 
+and lead Technical Representatives must be part of the presentation team. After the presentations, 
+USAID will use the Merit Review Criteria to determine the Applicant’s concept paper that is 
+acceptable (See Section E) to move to the next Phase, The Co-Creation Workshop. 
+
+ 
+
+Approximately two weeks after the oral presentations are completed, only the applicant whose Oral 
+Presentation of Concept Paper presentation is successful will be invited to a co-creation workshop - 
+Phase 2. 
+
+ 
+
+NOTE: USAID reserves the right to consider co-creating with all applicant(s) whose concept papers 
+were conditionally accepted up until the award is made. For example, should a viable solution not 
+materialize with the applicant whose concept paper was accepted, USAID will commence co-creation 
+with the next viable applicant. USAID will provide a written summary feedback to applicant(s) who 
+
+
+will remain in the conditionally acceptable category to those applicant/s who were invited for an oral 
+presentation. Those applicant(s) whose concept paper was not accepted will have the opportunity to 
+
+ 
+
+ 
+
+USAID reserves the right to accept a concept paper that fully meets the requirements of the NOFO, 
+not hold oral presentations, and proceed directly to Phase 2 - Co-creation. 
+
+ 
+
+ 
+
+Phase 2- Co-Creation Workshop: Approximately two weeks after notification of acceptable 
+concept paper, a one-week co-creation workshop (virtual/in person) will be hosted by USAID. The 
+applicant whose concept paper was accepted will be invited to submit a draft Program Description 
+and participate in a co-creation workshop. Specific details will be included in the invitational letter. 
+The purpose of the co-creation workshop is to design a mutually sustainable Program Description 
+using a participatory process that assumes some degree of shared power and decision making. 
+Participants in this co-creation workshop will include the applicant, USAID, and potentially other 
+stakeholders such as representatives from MoEFCC. 
+
+ 
+
+Phase 3 - Full Application (RFA): At the end of the co-creation workshop, the applicant will be 
+requested to submit a full application including the technical and detailed cost application. The full 
+application will elaborate the project's theory of change and proposed key results and indicators. The 
+full application also requires the applicant to complete specific USG forms and to provide additional 
+information that USAID/India will need to move forward with an appropriate implementing 
+instrument. The full application will be reviewed for its technical merit against the full application 
+merit review/evaluation criteria by the Merit Review Committee. USAID will continue to work with 
+the applicant(s) to strengthen the Full Application, if additional information is required, prior to 
+making an award. 
+
+ 
+
+NOTE: No funding will be made to any applicant prior to the award of the Cooperative Agreement. 
+The Applicants are responsible for all costs incurred prior to the award of the Cooperative Agreement, 
+including costs incurred during all the phases - concept paper preparation, oral presentation, cocreation 
+and pre-award. Please note that USAID reserves the right to make no award under this NOFO 
+at any stage of the process. 
+
+ 
+
+D.4. APPLICATION FORMATS: 
+
+Each applicant must furnish the information required by this NOFO. This subsection addresses 
+content requirements applying to this NOFO. Please see subsections D.5 and D.6, below, for 
+information on the content specific to the application. 
+
+ 
+
+Concept papers must be submitted by email to indiarco@usaid.gov, with a copy to aguytonblanton@
+usaid.gov and clal@usaid.gov no later than the date and time indicated on the cover letter, 
+as amended. Email submissions must include the NOFO number and applicant’s name in the subject 
+line heading. 
+
+
+After sending the concept paper electronically, applicants should immediately check their own email 
+to confirm that the attachments were indeed sent. If an applicant discovers an error in transmission, 
+please send the material again and note in the subject line of the email that it is a "corrected" 
+submission. Do not send the same email more than once unless there has been a change, and if so, 
+please note that it is a "corrected" email. 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several hours 
+occur from transmission to receipt. Therefore, applicants are requested to send the application in 
+sufficient time ahead of the deadline. For this NOFO, the initial point of entry to the government 
+infrastructure is the USAID mail server. 
+
+ 
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, applicants 
+are discouraged from sending files in this format as USAID/India cannot guarantee their acceptance 
+by the internet server. 
+
+ 
+
+Application must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent sections. 
+Please ensure that applications comply with the page limitations. 
+
+● Written in English. 
+
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12 point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive page 
+numbers, date of submission, and applicant’s name. 
+
+● a 10 point font can be used for graphs and charts. Tables however, must comply with the 12 
+point Times New Roman requirement. 
+
+● Submitted via Microsoft Word or PDF formats. 
+
+● Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do 
+so may be considered as being non-responsive and may be evaluated accordingly. Applicants 
+should retain a copy of the application and all enclosures for their records. 
+
+ 
+
+ 
+
+DO NOT SUBMIT: Promotional literature and materials regarding the Applicant or other unsolicited 
+material. 
+
+ 
+
+D.4.1. PHASE 1: Concept Paper Format 
+
+ 
+
+The concept paper is to be specific, complete, and presented concisely. The concept must 
+demonstrate the applicant’s capabilities and expertise with respect to achieving the goals of this 
+program. The concept is to consider the requirements of the program and merit review criteria found 
+in this NOFO. 
+
+Applicants should also ensure that their concept paper contains the following aspects: 
+
+● List of Acronyms (does not count towards page limitation) 
+● Table of Contents (does not count towards page limitation) 
+
+
+No other documents/annexures are being requested currently; USAID will inform the applicants 
+about additional documentation required in subsequent phases, if needed. 
+
+
+A Concept Paper can be no more than a maximum of Eight (8) pages, where the applicant provides an 
+overview of its idea. Please see Concept Paper Instructions below. Applicants must submit a Concept 
+Paper by the deadline specified in this NOFO. USAID will review Concept Papers against merit review 
+criteria detailed in Section E of this NOFO 
+
+Concept Paper must include a cover page containing the following information: 
+
+A. Concept Paper Cover Page (does not count towards page limitation): 
+
+
+The concept paper must include a cover page containing the following information: 
+
+● Proposed Activity Name/Title; 
+
+● Period of Performance (i.e., start date and end date); 
+
+● Total Amount of Funding Requested from USAID; 
+● Total amount leveraged, including from what source(s); 
+
+
+● Applicant Organization Name; 
+
+● Applicant Contact Person (name, phone, e-mail); 
+● Full Address for Applicant Organization; 
+● Type of Organization [please include certification of incorporation] (e.g., US. non-US, 
+multilateral, private, for-profit, nonprofit, etc) date of incorporation; 
+
+
+● Notice of Funding Opportunity number; 
+
+● (if Applicable) Name(s) of Partner(s) Organization(s) 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve only 
+as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part of the 
+merit review criteria. 
+
+ 
+
+B. Include major sections and page numbering to easily cross-reference and identify the 
+information below. 
+
+
+ 
+
+C. Concept Technical Approach: (5 pages) 
+
+
+Concept papers should describe your organization’s approach for tackling the challenges and 
+objectives described in Section A of the NOFO. Collectively, these interventions should 
+achieve improved regional natural resource management in India and contribute towards the 
+implementation of the USAID Climate Strategy, the USAID Biodiversity Policy, the USAID 
+Policy on Promoting the Rights of Indigenous Peoples (PRO-IP), the USAID Private Sector 
+Engagement Policy, and USAID priorities on inclusive development and working with underrepresented 
+communities. 
+
+ 
+
+Concept papers must address the following: 
+
+● Provide a broad framing and describe the organization’s approach to addressing the 
+challenges detailed in Section A of the NOFO. 
+● Describe the interventions the organization will take to meet the stated objectives in 
+Section A of the NOFO and describe the anticipated results and/or impact of the 
+proposed intervention. 
+
+
+
+● Provide a high-level narrative Theory of Change (ToC) that describes the logic behind 
+how the proposed interventions will lead to the stated results and articulates 
+underlying assumptions. 
+● Outline a strategy to coordinate with other USAID and donor biodiversity, sustainable 
+landscapes, and relevant environmental programming. 
+● Highlight the proposed approach to leverage funds, the various sources of leveraged 
+funds, and the associated percentage. 
+● Though the final geographic scope will be determined with the MoEFCC and USAID, 
+applicants must provide a reasonable justification for the selected intervention 
+locations. 
+
+
+ 
+
+D. Organizational Structure and Management: (1.5 pages) 
+
+
+Provide a description of the management approach for this activity that shows the relationship 
+within the team and between partner organizations (as applicable). As applicable, articulate 
+the role of each member of the consortium and their respective contributions. Describe how 
+your proposed concept will partner with and leverage experience(s) from local Indian 
+organizations. Additionally, identify four to five positions that would be critical to 
+accomplishing the outcomes outlined in the Concept Technical Approach and describe the 
+qualifications for each role and why the role is critical to successful implementation of the 
+project . 
+
+ 
+
+ 
+
+E. Institutional Capacity and History of Performance: (1.5 pages) 
+
+
+Describe the institutional capacity – technical, managerial, and financial – to carry out the 
+proposed intervention. Describe your organization’s relevant previous experiences, from the 
+past five years, working on projects related to landscape management and wildlife 
+conservation, highlighting the timeframe, scale, and geographic region for each project. As 
+applicable, provide information on institutional capacity and strengths of consortium 
+members. 
+
+F. Name and Signature of authorized individual (does not count towards page limitation): 
+
+
+Any erasures or other changes to the concept paper must be initialed by the person signing. A 
+concept paper signed by an agent on behalf of the applicant must be accompanied by evidence 
+of that agent’s authority unless that evidence has been previously furnished to the issuing 
+office. 
+
+D.5. REQUIREMENTS FOR A FULL APPLICATION (For Information Purpose Only) 
+
+NOTE: ONLY THOSE APPLICANT(S) WHO ARE SUCCESSFUL AT PHASE 2 WILL BE 
+REQUESTED TO SUBMIT A FULL APPLICATION. NO FULL APPLICATION IS 
+REQUIRED AT THIS TIME. 
+
+ 
+
+Please note additional requirements below that must be met prior to award and as part of the Full 
+Application evaluation stage: 
+
+ 
+
+
+ (a) Business (cost) Application Format 
+
+NO Business (Cost) Application Is Required At Phase 1 or 2. The following information is 
+provided for information purposes only for the applicant(s) that will be required to submit a full 
+application after successful co-creation at Phase 2. 
+
+(b) Certifications and Assurances 
+
+As part of Phase 3 (Full Application stage), the Applicant must complete the following documents, 
+upon request by the AO: 
+
+ (1) “Certifications, Assurances, Representations, and Other Statements of the Recipient” ADS 
+303mav document found at http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+
+(2) Assurances for Non-Construction Programs (SF-424B) 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+ 
+
+ (c) Unique Entity Identifier (UEI) and SAM Requirements 
+
+ USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifier (earlier known as DUNS number) and System for Award Management (SAM) 
+requirements. If requested to submit information as part of Phase 3, the applicant(s) (unless the 
+applicant is an individual or Federal awarding agency that is exempted from requirements under 2 
+CFR 25.110(b) or (c), or has an exception approved by the Federal awarding agency under 2 CFR 
+25.110(d)) is required to: 
+
+ 1. Provide a valid UEI number for the applicant and all proposed sub-recipients (if any). 
+
+2. Be registered in SAM prior to the issuance of an award. (www.sam.gov). 
+
+3. Continue to maintain an active SAM registration with current information at all times during 
+which it has an active Federal award or an application or plan under consideration by a federal 
+awarding agency. 
+
+The registration process may take many weeks to complete. Therefore, applicants are encouraged 
+to begin the process early. If an applicant has not fully complied with the requirements above by 
+the time USAID is ready to make an award, USAID may determine that the applicant is not 
+qualified to receive an award and use that determination as a basis for making an award to another 
+applicant. 
+
+ 
+
+UEI/DUNS number: http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+
+Applicants can find additional resources for registering in SAM, including a Quick Start Guide 
+and a video on how to obtain an NCAGE code, on www..sam.gov, navigate to Help, then to 
+International Registrants. 
+
+ 
+
+(d) Funding Restrictions 
+
+Profit is not allowable for recipients or subrecipient(s) under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+Construction will not be authorized under this award. 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the explicit 
+written approval of the Agreement Officer. Except as may be specifically approved in advance by 
+the AO, all commodities and services that will be reimbursed by USAID under this award must 
+be from the authorized geographic code specified in Section B.6 of this NOFO and must meet the 
+source and nationality requirements set forth in 22 CFR 228. 
+
+ 
+
+(e) Consortium arrangements 
+
+If the Applicant has established a consortium or another legal relationship among its partners, the 
+Cost/Business application must include a copy of the legal relationship between the parties. The 
+agreement should include a full discussion of the relationship between the Applicant and Sub- 
+Applicant(s) including identification of the Applicant with whom USAID will work with for 
+purposes of Agreement administration, identity of the Applicant which will have accounting 
+responsibility, how Agreement effort will be allocated and the express agreement of the principals 
+thereto to be held jointly and severally liable for the acts or omissions of the other. 
+
+ 
+
+(f) Negotiation 
+
+Upon consideration of award or during the negotiations leading to an award, Applicants may be 
+required to submit additional documentation deemed necessary for the Agreement Officer to make 
+an affirmative determination of responsibility. Applicants should not submit the information below 
+with their applications! The information in this section is provided so that Applicant may become 
+familiar with additional documentation that may be requested by the Agreement Officer: 
+
+● Bylaws, constitution, and articles of incorporation, if applicable. 
+
+● Whether the organizational travel, procurement, financial management, accounting 
+manual and personnel policies and procedures, especially regarding salary, 
+promotion, leave, differentials, etc., submitted under this section have been reviewed 
+and approved by any agency of the Federal Government, and if so, provide the 
+name, address, and phone number of the cognizant reviewing official. The Applicant 
+should provide copies of the same. 
+
+ 
+
+ 
+
+
+(f) Conflict of Interest Pre-Award Term (August 2018) 
+
+ 
+
+(a) Personal Conflict of Interest 
+
+ 
+
+1) An actual or appearance of a conflict of interest exists when an applicant 
+
+organization or an employee of the organization has a relationship with an Agency 
+
+official involved in the competitive award decision-making process that could 
+
+affect that Agency official’s impartiality. The term “conflict of interest” includes 
+
+situations in which financial or other personal considerations may compromise, or 
+
+have the appearance of compromising, the obligations and duties of a USAID 
+
+employee or recipient employee. 
+
+ 
+
+2) The applicant must provide conflict of interest disclosures when it submits an SF- 
+
+424. Should the applicant discover a previously undisclosed conflict of interest after 
+
+submitting the application, the applicant must disclose the conflict of interest to the 
+
+AO no later than ten (10) calendar days following discovery. 
+
+ 
+
+(b) Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they 
+
+are aware of that may provide the applicant with an unfair competitive advantage in 
+
+competing for this financial assistance award. Examples of an unfair competitive 
+
+advantage include but are not limited to situations in which an applicant or the 
+
+applicant’s employee gained access to non-public information regarding a federal 
+
+assistance funding opportunity, or an applicant or applicant’s employee was 
+
+substantially involved in the preparation of a federal assistance funding opportunity. 
+
+USAID will promptly take appropriate action upon receiving any such notification 
+
+from the applicant. 
+
+ 
+
+[ END OF SECTION D] 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+E.1 CRITERIA 
+
+ 
+
+All applications will be reviewed in accordance with the review criteria set forth below. The merit 
+review criteria prescribed here are tailored to the requirements of this particular NOFO. Applicants 
+should note that these criteria serve to: (a) identify the significant matters which the applicants should 
+address in their applications, and (b) set the standard against which all applications will be evaluated 
+
+ 
+
+Merit Review Factors will be evaluated relative to each other, as described here and prescribed by 
+the Technical Application Format. 
+
+ 
+
+E.2 REVIEW AND SELECTION PROCESS 
+
+ 
+
+PHASE 1: CONCEPT PAPER & ORAL PRESENTATION 
+
+ 
+
+Concept Paper: The concept paper will be reviewed by a Merit Review Committee according to the 
+criteria described below. The purpose of this review is to ensure that the applicant incorporates 
+interventions that will build upon and expand USAID’s and the Government of India’s (GoI) efforts 
+to enhance the management of ecological landscapes for biodiversity conservation, human well being 
+and climate benefits, contributing to reduced greenhouse gas emissions, improved carbon 
+sequestration, and enhanced environmental benefits for the country. A concept paper is determined 
+to be acceptable if it proposes a sound approach and USAID has Strong Confidence that the applicant 
+understands the requirement and will be successful in performing with no government intervention 
+based on the criteria below, which are listed in descending order of importance. 
+
+ 
+
+The Agreement Officer makes the final determination and is the only individual who may legally 
+commit the U.S. Government to the expenditure of public funds. No costs chargeable to the proposed 
+Agreement may be incurred before receipt of either an Agreement signed by the Agreement Officer 
+or a specific, written authorization from the Agreement Officer. 
+
+Oral Presentations: Successful applicants whose application was conditionally accepted (based on 
+the Merit Review Criteria) will be invited to present their concept. The purpose of the presentation is 
+to better understand the concept and its approach to the solution, as well as provide USAID an 
+opportunity to pose clarifying questions. After the presentations, USAID will use the Merit Review 
+Criteria to assign a final rating to applicants. The outcomes of the presentation will be used to 
+determine which concept paper moves forward to the Co-Creation stage. 
+
+NOTE: USAID reserves the right to consider co-creating with all applicant(s) whose concept papers 
+were conditionally accepted up until the award is made. For example, should a viable solution not 
+materialize with the applicant whose concept paper was accepted, USAID will commence co-creation 
+with the next viable applicant. USAID will provide a written summary feedback to applicant(s) who 
+will remain in the conditionally acceptable category to those applicant/s who were invited for an oral 
+presentation. Those applicant(s) whose concept paper was not accepted will have the opportunity to 
+request additional information. The process ends for applicants who were notified that their 
+concept paper was not accepted. No further consideration will be given to the applicant(s). 
+
+
+NOTE: After concept paper/s have been accepted, detailed activity design discussions between 
+USAID and the applicant will begin and continue throughout the remainder of the process. 
+
+NOTE: USAID reserves the right to accept a concept paper that fully meets the requirements of the 
+NOFO, not hold oral presentations, and proceed directly to Phase 2 - Co-creation. 
+
+ 
+
+USAID will not be responsible for costs associated with presentation. 
+
+PHASE 2: CO-CREATION WORKSHOP 
+
+USAID/India may host either an in-person or via video conference co-creation workshop depending 
+on COVID-19 restrictions. The applicant will be sent an invitation letter requesting a draft Program 
+Description and notifying the applicant of the date, time, and venue for the workshop. Specific details 
+will be included in the invitational letter. Participants will include the applicant, USAID, and 
+potentially other stakeholders such as MoEFCC. The applicant is required to include their personnel 
+who will be actually implementing the proposed activity. 
+
+ 
+
+No funding will be made available prior to the award of the Cooperative Agreement. Applicants, 
+including the organization selected to collaboratively develop the Program Description, are 
+responsible for all costs related to the oral presentation phase and the co-creation workshop. Once the 
+award is signed, the implementing partner may start incurring costs. Applicants not selected for the 
+consecutive phase will be notified at the end of each phase. Unsuccessful applicants may request 
+additional information following such notification. 
+
+USAID reserves the right to make no award under this NOFO at any stage of the process. 
+
+PHASE 3: REQUEST FOR FULL APPLICATION 
+
+At the end of the Co-Creation, Applicant(s) will be requested to submit a full application that 
+incorporates the feedback from USAID and the MoEFCC during the co-creation workshop. The Full 
+Application should include, at a minimum, expanded information on the Applicant’s Technical 
+Approach and Organizational Management and Staffing. In addition, the Full Application will expand 
+on the Theory of Change and articulate the applicant’s strategies for implementing a Monitoring, 
+Evaluation and Learning methodology, including an emphasis on adaptive management. The 
+Applicant must also demonstrate how it will apply learning and adaptive management techniques to 
+inform program management and key decisions. USAID will provide additional information about 
+the full application. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+E.2.1 MERIT REVIEW 
+
+ 
+
+Phase 1 – Concept Paper 
+
+USAID will conduct a merit review of all concept papers received that comply with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following criteria, 
+and the technical approach will be weighted more heavily, while the other factors will be weighted 
+equally. 
+
+Merit Review 
+Criteria 
+
+Definition 
+
+Technical 
+Approach 
+
+The extent to which the applicant's technical approach, 
+interventions, results, and narrative Theory of Change 
+demonstrate an understanding of the context, a feasible means 
+to achieve the activity goals, and an innovative and scalable 
+approach to enhance the management of ecological landscapes 
+for biodiversity conservation, human well being, and climate 
+benefits, contributing to reduced greenhouse gas emissions, 
+improved carbon sequestration, and enhanced environmental 
+benefits for the country. 
+
+Organizational 
+Structure and 
+Management 
+
+The extent to which the applicant demonstrates an adaptable 
+and flexible management approach that highlights the unique 
+contributions of each partner organization (as applicable); the 
+management approach for personnel, an organizational 
+approach that details a sound strategy to work with local 
+Indian organizations; and proposed set of positions that 
+demonstrate an adequate mix of skills to successfully 
+implement the technical approach and accomplish the 
+activity objectives. 
+
+ 
+
+
+
+
+Institutional Capacity 
+and History of 
+Performance 
+
+The extent to which the applicant and their consortium (as 
+applicable) demonstrates the relevant technical and 
+management expertise to successfully implement the project. 
+
+
+
+USAID reserves the right to pose clarifying questions and conduct discussions with any applicant but 
+may not opt to do so if it believes it has sufficient information in the concept paper itself. Posing 
+clarifying questions and conducting discussions with one applicant does not obligate USAID to do 
+so with all applicants. 
+
+USAID anticipates two (2) possible results from the Concept Paper merit review process: 
+
+● CONDITIONALLY ACCEPTABLE - Concept paper is evaluated and based on the merit 
+review criteria the applicant is found to propose a good approach and USAID has Good 
+Confidence that the applicant understands the requirement, and will be successful in 
+performing with little or no government intervention. Applicant(s) whose concept paper is 
+conditionally accepted are required to attend an oral presentation to present their concept 
+paper to receive further consideration. 
+● UNACCEPTABLE: Concept Paper is UNACCEPTABLE when evaluated against the merit 
+review criteria and is found to propose an unsound approach and USAID has Low Confidence 
+that the applicant understands the requirements. The applicant(s) will be unsuccessful in 
+implementing the program. If UNACCEPTABLE, USAID declines the concept paper. Due 
+to the number of concept papers received, USAID is not able to provide details on why the 
+concept paper was not selected. 
+
+
+After the oral presentation, USAID will determine whether or not the presented concepts address the 
+strategic objectives outlined in Section A of the NOFO. Only concepts that are acceptable will move 
+forward to the Co-Creation Workshop. 
+
+● ACCEPTABLE - Concept paper is ACCEPTABLE when the applicant proposes a sound 
+approach and USAID has Strong Confidence that the applicant understands the requirements 
+and will be successful in performing with no government intervention. Applicants can only 
+be rated as ACCEPTABLE after the applicant(s) has orally presented a concept. 
+
+
+ 
+
+Leverage: 
+
+Leverage is resources that a non-traditional USAID partner brings to a public-private partnership, i.e. 
+the portion not being borne by USAID. These non-traditional resource partners are typically NOT 
+receiving USAID funds. It can be a variety of forms - anything of value that is measured, financial 
+contributions, third party contributions, donated services or property, or intellectual property. USAID 
+is seeking to leverage additional resources from both the private and public sectors for the activity’s 
+implementation. The resources leveraged from both sectors will enable the activity to engage in 
+interventions that are of shared interest and that are sustainable and will enable the interventions to 
+
+
+be continued after the activity ends. For this activity, USAID seeks the mobilization of resources of 
+
+ 
+
+ 
+
+[ END OF SECTION E] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1 Federal Award Notices 
+
+ 
+
+Notice of award signed by the Agreement Officer is the authorized document, which will be 
+transmitted to the successful Applicant following the selection. This will be sent to the authorized 
+agent of the successful Applicant electronically. The notice may be determined by the Agreement 
+Officer, identify clarifying questions and request for a revised application by a specified date prior to 
+finalization of the Cooperative Agreement. USAID reserves the right to award without requesting 
+clarification or additional detail on the application. Once all outstanding issues have been resolved, 
+the Agreement Officer will send the draft Cooperative Agreement to the Apparent recipient for 
+review, comments and or acceptance to be followed by full execution of the Cooperative Agreement. 
+
+ 
+
+Award of the agreement contemplated under this NOFO cannot be made until funds are appropriated, 
+allocated and committed through internal USAID procedures. While USAID anticipates that these 
+procedures will be successfully completed, potential applicants are hereby notified of these 
+requirements and conditions of the award. The Agreement Officer is the only individual who may 
+legally commit the Government to the expenditure of public funds. 
+
+ 
+
+Applicants are advised that costs incurred prior to receipt of either a fully executed Agreement (in 
+electronic or print form) or a specific, written authorization from the Agreement Officer are not 
+allowable and therefore are ineligible for reimbursement under the Agreement. 
+
+ 
+
+The Agreement Officer will also provide written notification electronically to the unsuccessful 
+Applicants’ Points of Contact. Requests for additional information from unsuccessful Applicants will 
+not be considered. 
+
+ 
+
+F.2 Administrative & National Policy Requirements 
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following policies 
+and regulations. 
+
+ 
+
+For U.S. Non-governmental organizations 
+
+● 2 CFR 700 (https://www.ecfr.gov/cgi-bin/textidx?
+SID=531ffcc47b660d86ca8bbc5a64eed128&mc=true&node=pt2.1.700&rgn=div5 ) 
+
+● 2 CFR 200 (https://ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title02/2cfr200_main_02.tpl ) 
+
+● ADS 303maa, Standard Provisions for U.S. Non-governmental Organizations 
+(https://www.usaid.gov/sites/default/files/documents/1868/303maa.pdf ) 
+
+ 
+
+See Section H , for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+
+ 
+
+USAID/India Office of Acquisition and Assistance (OAA) will administer this award. The 
+Agreement Officer (AO) will designate an Agreement Officer’s Representative (AOR) to review, 
+concur and/or approve on items outlined in Substantial Involvement (Section B.4 of this NOFO). 
+
+ 
+
+F.3 REPORTING REQUIREMENTS 
+
+ 
+
+The Recipient will adhere to all reporting requirements listed below; further, US Non-governmental 
+organizations need to be in compliance with 2 CFR 200 and 2 CFR 700 (specifically 2 CFR 200.327- 
+329). 
+
+ 
+
+The Recipient will submit all reports by the due date for approval from the Agreement Officer’s 
+Representative (AOR). The Recipient will consult with the AOR on the format and content prior to 
+submission. In addition to the reports below, the AOR may request additional information to 
+contribute to the internal USAID project reviews. 
+
+ 
+
+F.3.1. Performance Reporting 
+
+ 
+
+Reports and Deliverables 
+
+Due Dates 
+
+Activity Start-up Plan 
+
+Within 30 calendar days after the award. The plan should 
+outline the Recipients plan for staffing, start-up workshop 
+and work plan and MEL plan preparation. 
+
+Start-up workshop 
+
+Within 75 calendar days after award to inform activity 
+theory of change, work plan and MEL plan 
+
+Annual Work Plan 
+
+A draft first year work plan – 60 calendar days after 
+award (note: first year work plan should go from activity 
+start date through the end oaf the next fiscal year so may 
+be longer or shorter than 12 months depending on the 
+date of the award.) 
+
+ 
+
+Subsequent annual work plans – October 1st of each 
+calendar year 
+
+Activity Monitoring, Evaluation 
+and Learning (MEL) Plan 
+
+30 calendar days after finalization of the first year work 
+plan 
+
+ Quarterly Progress Report 
+
+30 calendar days after the end of the quarter 
+
+Gender and Social Inclusion Plan 
+
+60 calendar days from the date of the award 
+
+
+
+
+Reports and Deliverables 
+
+Due Dates 
+
+Activity Start-up Plan 
+
+Within 30 calendar days after the award. The plan should 
+outline the Recipients plan for staffing, start-up workshop 
+and work plan and MEL plan preparation. 
+
+Start-up workshop 
+
+Within 75 calendar days after award to inform activity 
+theory of change, work plan and MEL plan 
+
+Annual Work Plan 
+
+A draft first year work plan – 60 calendar days after 
+award (note: first year work plan should go from activity 
+start date through the end oaf the next fiscal year so may 
+be longer or shorter than 12 months depending on the 
+date of the award.) 
+
+ 
+
+Subsequent annual work plans – October 1st of each 
+calendar year 
+
+Activity Monitoring, Evaluation 
+and Learning (MEL) Plan 
+
+30 calendar days after finalization of the first year work 
+plan 
+
+ Quarterly Progress Report 
+
+30 calendar days after the end of the quarter 
+
+Annual Pause and Reflect 
+Sessions 
+
+Planned and facilitated to help prepare work plan and 
+annual performance report 
+
+6. Annual Performance Report 
+
+October 15th of each year 
+
+7. Final Report 
+
+30 calendar days prior to the end of the award 
+
+
+
+ 
+
+● Start-up Workshop - Within seventy five days post-award the Recipient will hold a 
+workshop that includes USAID staff and relevant partners to guide development of the first 
+year work plan, activity theory of change and anticipated outcomes, and MEL plan. The 
+workshop will also serve to define requirements and format for deliverables and reporting. 
+The objective of the workshop is to provide a dedicated forum for the activity consortium, 
+USAID staff and other relevant partners to collaborate to refine the submitted technical 
+approach, theory of change and anticipated outcomes, and MEL Plan. The cost of this 3-5 day 
+workshop should be included in the applicant's cost proposal. Note, at the discretion of the 
+AOR, this workshop may include or be done collectively with other mission implementing 
+partners working on forest and biodiversity conservation. 
+
+ 
+
+● Annual Work Plan - The annual work plan details how the Recipient will use the work plan 
+year effectively to achieve the activity’s objective. The work plan serves as a guide to program 
+implementation and, once approved, represents an agreement as to the objectives and timing 
+
+
+
+of specific tasks and interventions. The work plan is intended to be an annual roadmap for 
+USAID and the Recipient. It should be closely aligned to the theory of change agreed upon 
+during the start-up workshop, and clearly explain how the actions and outputs will lead to the 
+expected outcomes identified in the theory of change. More details on the format of the 
+implementation plan will be provided after the award. 
+
+
+ 
+
+● Activity Monitoring and Evaluation Plan (MEL) - The Applicant must prepare a clear 
+Monitoring, Evaluation and Learning (MEL) methodology for this activity that facilitates 
+adaptive learning and management. The MEL plan must provide an overview of the project’s 
+objectives, theory of change and strategic approaches; indicate the custom and standard 
+indicators that will be used to monitor progress towards achieving the stated objectives; and 
+define the processes to monitor, analyze and evaluate progress. The plan should outline 
+opportunities for learning and adaptive management throughout all stages of the project and 
+include in its learning agenda evaluations or studies to assess and inform the roll out of 
+interventions. More details on the format of the MEL plan will be provided after the award. 
+
+
+ 
+
+● Quarterly Performance Reports - The Recipient will submit brief quarterly performance 
+reports to reflect progress, the activities of the preceding three months and lessons learned. 
+The report must describe the tasks completed in the last three months relative to what was 
+anticipated in the approved work plan, and will assess the overall activity impact to date 
+relative to the performance indicator targets and results defined in the activity theory of 
+change. More details on the format of the quarterly performance reports will be provided after 
+the award. 
+
+ 
+
+● Gender Consideration - To the greatest extent possible, the Recipient should seek to include 
+both men and women in all aspects of this program including participation and leadership in 
+e.g., meetings, training, etc. The Recipient mus t collect, analyze and submit to USAID sexdisaggregated 
+data and proposed actions that will address any identified gender-related issues. 
+
+ 
+
+In order to ensure that USAID assistance makes the maximum optimal contribution to gender 
+equality, performance management systems and evaluations must include gender-sensitive 
+indicators and sex-disaggregated data when the technical analyses supporting the Agreement 
+demonstrates that: 
+
+▪ The different roles and status of women and men affect the activities to be undertaken, and 
+
+▪ The anticipated results of the work would affect women and men differently. 
+
+ 
+
+● Annual Pause and Reflect Sessions (APR) - Annual pause and reflect (APR) sessions should 
+precede and inform the development of the annual work plan and annual performance report. 
+These will form the basis for a management review conducted by USAID and program staff 
+to assess: program directions, priorities, achievements, and prior year implementation results; 
+management and implementation impediments; and recommendations for adaptive 
+management actions. The format, participation and final output of the APR will be defined 
+through consultation with the AOR and can entail a series of internal meetings, a multi-day 
+workshop, or a brief report to summarize learning and major conclusions about the 
+effectiveness of the actions and strategic approaches to achieve the activity purpose. The APR 
+may be used to suggest refinements or updates to the activity theory of change, MEL plan, 
+
+
+
+and subsequent annual work plans. Note, at the discretion of the AOR, APRs may include or 
+be done collectively with other mission implementing partners working on forest and 
+biodiversity conservation. 
+
+
+ 
+
+● Annual Performance Report - Annual performance reports will summarize actions, 
+progress and results during the year in relation to the approved work plan and the activity 
+theory of change it supports. The report should include lessons learned, proposed adaptive 
+management shifts, and proposed updates to the theory of change. The annual performance 
+report will be used by USAID to assess the status of activity implementation. Each annual 
+performance report will include an assessment as to whether the activity strategic approaches 
+and actions are leading to the activity purpose. The annual performance report will cover all 
+of the items included in the bi-annual performance report, with a focus on the Activity results 
+over the entire year. More details on the format of the annual performance report will be 
+provided after the award. 
+
+
+ 
+
+● Close-out Plan - No later than six (6) months prior to the completion date of the agreement, 
+the Recipient will submit a close-out plan for the Agreement Officer (AO) approval. The 
+close-out plan shall include: 
+
+
+● Draft property disposition plan 
+
+● Plan for the phase-out of in-country operations 
+
+● Delivery schedule for all reports or other deliverables required under the agreement 
+
+ ● Timetable for completing all required actions in the close-out plan, including submission 
+date of the final property disposition plan to the AO. 
+
+ 
+
+● Final Report - The Final Report must discuss all strategic approaches and results from the 
+start of the award through its completion. More details on the format of the final report will 
+be provided after the award. 
+
+
+ 
+
+(b) Financial Reporting: 
+
+ 
+
+(1) Quarterly Financial Report 
+
+ 
+
+The Recipient must submit the Federal Financial Form (SF-425) quarterly, no later than 30 days 
+after the end of the quarter, via electronic format to the U.S. Department of Health and Human 
+Services (http://www.dpm.psc.gov). The Recipient must submit a copy of SF‐425 at the same time 
+to the Agreement Officer Representative (AOR) and the Controller. 
+
+ 
+
+Electronic copies of SF-425 and instructions for using it can be found at: 
+
+http://www.whitehouse.gov/omb/grants/standard_forms/ff_report.pdf 
+
+http://www.forms.gov/bgfPortal/docDetails.do?dId=15149 
+
+http://www.whitehouse.gov/omb/grants/standard_forms/ffr_instructions.pdf” 
+
+ 
+
+(2) Final Financial Report 
+
+ 
+
+Within 90 days following the estimated completion date of this award, the Recipient must submit to 
+the: (a) USAID/Washington, M/CFO/CMP-LOC Unit; (b) Agreement Officer (manila-roaa- 
+
+
+
+
+ 
+
+(3) Foreign Tax Reports 
+
+ 
+
+Reporting of foreign taxes under this agreement shall follow the standard provision entitled 
+“Reporting Host Government Taxes (December 2014)” of this award document. 
+
+ 
+
+Host government taxes are not allowable where the Agreement Officer provides the necessary 
+means to the recipient to obtain an exemption or refund of such taxes, and the recipient fails to take 
+reasonable steps to obtain such exemption or refund. Otherwise, taxes are allowable in accordance 
+with the Standard Provision, “Applicability of 2 CFR 200 and 2 CFR 700 (December 2014),” and 
+must be reported as required in this provision. 
+
+The Recipient must include this reporting requirement in all applicable sub-agreements, including 
+subawards and contracts. 
+
+ 
+
+F.4 Program Income 
+
+ 
+
+If the successful applicant is a non-profit organization, any program income generated under the 
+award will be added to USAID funding (and any cost-sharing that may be provided, if applicable), 
+and used for program purposes. However, pursuant to 2 CFR 200.307 Program Income, if the 
+successful Applicant is a for-profit or commercial organization, any program income generated 
+under the award will be deducted from the U.S. Government share of this award to determine the 
+amount of USAID funding. 
+
+ 
+
+Program income will be subject to 2 CFR 200.307 for U.S. NGOs or the standard provision entitled 
+Program Income for non-U.S. NGOs. If the successful Applicant is/are a PIO, any program income 
+generated under the award will be added to USAID funding (and any non-USAID funding that may 
+be provided) and used for program purposes. 
+
+ 
+
+F.5 Environmental Compliance 
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of USAID’s 
+activities on the environment be considered and that USAID include environmental sustainability as 
+a central consideration in designing and carrying out its development programs. This mandate is 
+codified in Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System (ADS) 
+Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ads/200/), which, in part, require that the 
+potential environmental impacts of USAID-financed activities are identified prior to a final decision 
+to proceed and that appropriate environmental safeguards are adopted for all activities. 
+
+ 
+
+1a) Respondent environmental compliance obligations under these regulations and procedures are 
+specified in the following paragraphs of this Notice of Funding Opportunity. 
+
+ 
+
+1b) In addition, the recipient must comply with host country environmental regulations unless 
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+regulations, the latter shall govern. 
+
+
+ 
+
+1c) No activity funded under this award will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+environmental compliance document (Request for Categorical Exclusion (RCE), Initial 
+Environmental Examination (IEE), or Environmental Assessment (EA)) that will be duly signed by 
+the Bureau Environmental Officer (BEO). (Hereinafter, such documents are described as “approved 
+Regulation 216 environmental documentation.”) 
+
+ 
+
+An Initial Environmental Examination (IEE) will be prepared and approved during the co-creation 
+and finalization of various components for this activity. Prior to award, USAID will get the IEE 
+approved by BEO and also make it publicly available in the USAID’s environmental compliance 
+database. The IEE will cover activities expected to be implemented under this award. The recipient 
+shall be responsible for implementing all IEE conditions pertaining to activities to be funded after the 
+award. 
+
+ 
+
+2a) As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient, in 
+collaboration with the USAID Cognizant Technical Officer and Mission Environmental Officer or 
+Bureau Environmental Officer, as appropriate, shall review all ongoing and planned activities under 
+this award to determine if they are within the scope of the approved Regulation 216 environmental 
+documentation. 
+
+ 
+
+2b) If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written USAID 
+approval of environmental documentation amendments. 
+
+ 
+
+2c) Any ongoing activities found to be outside the scope of the approved Regulation 216 
+environmental documentation shall be halted until an amendment to the documentation is submitted 
+and written approval is received from USAID. 
+
+ 
+
+ 3) If the approved Regulation 216 documentation is (1) an IEE that contains one or more Negative 
+Determinations with conditions and/or (2) an Environmental Assessment (EA), the recipient shall: 
+
+ 
+
+3a) Unless the approved Regulation 216 documentation contains a complete environmental 
+mitigation and monitoring plan (EMMP) or a project mitigation and monitoring (M&M) plan, the 
+recipient shall prepare an EMMP or M&M Plan describing how the recipient will, in specific terms, 
+implement all IEE and/or EA conditions that apply to proposed project activities within the scope of 
+the award. The EMMP or M&M Plan shall include monitoring the implementation of the conditions 
+and their effectiveness. 
+
+ 
+
+3b) Integrate a completed EMMP or M&M Plan into the initial work plan. 
+
+ 
+
+3c) Integrate an EMMP or M&M Plan into subsequent Annual Work Plans, making any necessary 
+adjustments to activity implementation in order to minimize adverse impacts to the environment. 
+
+ 
+
+
+4a) Cost and technical applications must reflect environmental compliance costs and approaches. 
+
+ 
+
+4b) Recipient will be expected to comply with all conditions specified in the approved IEE and/or 
+EA. 
+
+ 
+
+4c) If an IEE, as developed, includes a Positive Determination for one or more activities, the recipient 
+will be required to develop and submit an EA addressing these activities. 
+
+ 
+
+5a) USAID anticipates that environmental compliance and achieving optimal development outcomes 
+for the proposed activities will require environmental management expertise. Respondents to the 
+NOFO should therefore include as part of their application their approach to achieving environmental 
+compliance and management, to include: 
+
+ 
+
+5b) The respondent’s approach to implementing an IEE or EA. 
+
+ 
+
+5c) The respondent’s approach to providing necessary environmental management expertise, 
+including examples of past experiences of environmental management of similar activities. 
+
+ 
+
+5d) The respondent’s illustrative budget for implementing the environmental compliance activities. 
+For the purposes of this solicitation, applicants should reflect illustrative costs for environmental 
+compliance implementation and monitoring in their cost proposal. 
+
+ 
+
+F.6 Branding & Marking 
+
+ 
+
+It is a federal statutory and regulatory requirement that all USAID programs, projects, activities, 
+public communications, and commodities that USAID partially or fully funded under a USAID grant 
+or cooperative agreement or other assistance award or sub-award, must be marked appropriately 
+overseas with the USAID identity. See Section 641, Foreign Assistance Act of 1961, as amended and 
+2 CFR 700.16. 
+
+ 
+
+Under the regulation, USAID requires the submission of a Branding Strategy and a Marking Plan by 
+the Apparently Successful Applicant, as defined in the regulation. A Branding Implementation 
+Strategy and Marking Plan must be in accordance with USAID Branding and Marking Plan as 
+required per ADS 320 at the following link: 
+
+https://www.usaid.gov/sites/default/files/documents/1868/320.pdf 
+
+ 
+
+The Branding and Marking Plan may include a request for a waiver or exceptions to marking 
+requirements established in 2 CFR 700.16. The Agreement Officer is responsible for evaluating and 
+approving the Branding Strategy and Marking Plan (including any request for exceptions and waiver) 
+of the ASA, consistent with the provisions ”Branding Strategy”, “Marking Plan”, and “Marking of 
+USAID-funded Assistance Awards” contained in AAPD 05-11 and in 2 CFR 700.16. Please note that 
+in contrast to “exception” to marking requirements, waivers based on circumstances in the host 
+
+
+country must be approved by the Mission Director or other USAID Principal Officers, see 1 CFR 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+ 
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+ 
+
+G.1 AGENCY POINT OF CONTACT(POC) FOR QUESTIONS 
+
+ 
+
+Agency Point of Contact 
+
+Name: Ashaki Guyton-Blanton 
+
+Title: Acquisition and Assistance Specialist 
+
+ 
+
+Above is the Point of contact (POC) for questions while the funding opportunity is open. 
+
+ 
+
+All prospective Applicants must send their questions in writing by the due date and time specified on 
+the cover page of this NOFO, so that a reply can reach all prospective Applicants before the 
+submission of their Initial Concept Note. Oral explanations or instructions given before the award 
+will not be binding. Any information given to a prospective Applicant concerning this NOFO will be 
+furnished promptly to all other prospective Applicants as an amendment of this NOFO if that 
+information is necessary in submitting applications or if a lack of the information would be prejudicial 
+to any other prospective Applicants. 
+
+ 
+
+Any questions concerning this NOFO must be submitted in writing to indiarco@usaid.gov with a 
+copy to aguyton-blanton@usaid.gov and clal@usaid.gov. In the subject line please indicate 
+“Questions Regarding the NOFO# 72038622RFA00002”. Applicants will retain for their records 
+one copy of all enclosures which accompany their application. 
+
+ 
+
+G.2 Acquisition and Assistance Ombudsman 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all organizations 
+who are doing or wish to do business with USAID. Please visit this page for additional information: 
+https://www.usaid.gov/work-usaid/acquisition-assistanceombudsman. 
+
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov. 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+ 
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement Officer is 
+the only individual who may legally commit the Government to the expenditure of public funds. Any 
+award and subsequent incremental funding will be subject to the availability of funds and continued 
+relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used by the 
+U.S. Government except for evaluation purposes, should mark the cover page with the following: “This 
+application includes data that must not be disclosed, duplicated, used, or disclosed – in whole or in part 
+– for any purpose other than to evaluate this application. If, however, an award is made as a result of – 
+or in connection with – the submission of this data, the U.S. Government will have the right to 
+duplicate, use, or disclose the data to the extent provided in the resulting award. This restriction does not 
+limit the U.S. Government’s right to use information contained in this data if it is obtained from another 
+source without restriction. The data subject to this restriction are contained in sheets {insert sheet 
+numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this 
+application.” 
+
+ 
+
+Additional information available to Applicants includes: 
+
+ 
+
+1. ADS 201.3.15.3; USAID’s Gender Equality and Female Empowerment Policy 
+(http://pdf.usaid.gov/pdf_docs/pdact200.pdf) 
+
+ 
+
+2. USAID India’s Country Development Cooperation Strategy https://www.usaid.gov/india/cdcs 
+
+ 
+
+3. USAID’s Climate Change and Development Strategy 2012-2018 (2012). 
+(http://www.usaid.gov/climate/strategy) 
+
+a. USAID’s Adaptation to Climate Variability and Change: A Guidance Manual 
+
+for Development Planning (2007). Basic introduction to how to think about 
+
+integrating climate change into development programs, using a six-step process to 
+
+engage stakeholders and analyze vulnerabilities and adaptation options. 
+
+(http://www.usaid.gov/climate/adaptation/resources ). 
+
+ 
+
+4. USAID’s Global Climate Change Initiative. (http://www.usaid.gov/climate/us-gcci ). 
+
+ 
+
+5. USAID Standard Provisions: 
+
+(i) ADS 303mab, Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+https://www.usaid.gov/sites/default/files/documents/303mab.pdf 
+
+ 
+
+(ii) ADS 303mab, Standard Provisions for U.S. Non-governmental Organizations. 
+
+https://www.usaid.gov/sites/default/files/documents/303maa.pdf 
+
+
+ 
+
+6. Certifications, Assurances, Other Statement of the Recipient 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the Recipient” ADS 
+303mav document found at https://www.usaid.gov/sites/default/files/documents/303mav.pdf 
+
+(2) Assurances for Non-Construction Programs (SF-424B) 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if your 
+organization's systems have been certified by USAID/Washington's Office of Acquisition and 
+Assistance (M/OAA). 
+
+ 
+
+ 
+
+ 
+
+ATTACHMENTS: 
+
+1. Annex 1: Preliminary Gender Equality and Social Inclusion Analysis. 
+
+ 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+ANNEX 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+????è 
+
+
+U.S. Agency for International Development (USAID) / India 
+
+GENDER and Social Inclusion ANALYSIS 
+
+ 
+
+ 
+
+Program/Project/Activity Data: 
+
+ 
+
+Activity/Project Title: 
+
+Strengthening Landscape Management and Conservation 
+
+Solicitation #: 
+
+Contract /Award Number (if known): TBD 
+
+Geographic Location : India (States yet to be identified) 
+
+Originating Bureau/Office: USAID/India, General Development Office 
+
+Funding Amount: $20 million 
+
+ 
+
+Life of Project Amount: 20 Million 
+
+Implementation Start/End: 09/2022-09/2027 
+
+ 
+
+Prepared By: Chigozie Okwu/Ritika Chopra 
+
+Date Prepared: Feb 01-March 10, 2022 
+
+
+
+ 
+
+I. BACKGROUND 
+
+ 
+
+The goal of USAID’s Gender Equality and Female Empowerment 2020 policy is to both improve 
+the lives of citizens around the world by advancing gender equality and to empower women and 
+girls in all their diversity to participate fully in and benefit from the development of their societies. 
+The policy has the primary objective of improving access to resources, opportunities, and 
+information (economic, social, political, and cultural); reducing gender based violence (GBV); 
+promoting female leadership and empowerment; securing private-property rights and land tenure 
+for women; and enhancing education and skill-building opportunities for better workforce 
+development. USAID’s programs address the needs of and benefit all people inclusive of ethnicity, 
+gender identity and expression, sex characteristics, sexual orientation, income level, disability, and 
+other factors. Pursuant to ADS 205.3.1 and in alignment with the USAID Gender Equality and 
+Female Empowerment Policy, Operating Units (OU) are responsible for conducting gender and 
+social inclusion analyses at the design stage of a new activity and for ensuring that the Policy is 
+implemented throughout each stage of the Program Cycle. 
+
+ 
+
+This activity will also align its activity implementation with USAID's Promoting the Rights of 
+Indigenous Peoples 2020 Policy (PRO-IP Policy). The Policy reflects USAID’s commitment to 
+supporting inclusive and sustainable development and advancing human dignity by protecting and 
+empowering Indigenous Peoples while safeguarding the environments in which they live. The 
+Policy positions USAID to strengthen and expand upon decades of support it has committed to 
+Indigenous Peoples around the world. The Policy offers guidance on the robust engagement and 
+
+
+partnership with Indigenous Peoples to help USAID programs align with the communities’ own 
+development priorities and ensure that USAID staff and implementing partners safeguard against 
+unintended, adverse impacts. 
+
+ 
+
+USAID/India’s proposed Strengthening Landscape Management and Conservation is a five-year 
+activity that supports the Government of India (GoI) and other stakeholders in protecting 
+landscapes, improving biodiversity conservation, and increasing nature-based climate benefits. 
+Through the activity, USAID will provide targeted technical assistance to address key 
+environmental challenges, threats, and opportunities, specifically focusing on habitat loss and 
+fragmentation, zoonotic disease spillover, human-wildlife conflict, and ecosystem services. The 
+Strengthening Landscape Management and Conservation activity will foster collaboration between 
+stakeholders to help improve the evidence based decision making process by analyzing the 
+economic and social impacts that ecosystems provide for India, and bolstering the ability of 
+protected area staff and other stakeholders to better manage India’s natural landscapes. 
+
+The proposed activity will build upon the work undertaken by the Forest-PLUS 2.0 (FP2) activity, 
+which aims to implement an ecosystem approach to landscape management that increases 
+ecological and socioeconomic sustainability. 
+
+Men and women throughout the developing world are adversely affected by the loss of forests and 
+biodiversity, particularly through the loss of access to green spaces and common property 
+resources, including forests. Traditionally, women are more impacted by this as compared to men, 
+and some of these impacts include increased household labor, occupational hazards both indoor and 
+outdoors, psychological and emotional stress, higher mortality resulting in increased poverty, and 
+impaired health. Also the roles, knowledge, and skills of rural men and women differ with respect 
+to forest use and management. Hence, it is essential to ensure that gender and poverty linkages are 
+incorporated in conservation, management, and sustainable development opportunities. Common 
+challenges in mainstreaming gender to achieve gender equality in in forest and biodiversity 
+conservation include: gendered norms and cultural prejudices that reinforce forestry as a male 
+profession, lack of evidence-based research and gender-disaggregated data, limited technical 
+capacity and expertise, limited budget to implement gender-focused activities and women’s limited 
+representation in decision-making. 
+
+India has more than 104 million Indigenous Peoples, approximately 8.6 percent of the population, 
+who are commonly known as ‘adivasi’ or scheduled tribes. Overall, they live below the poverty 
+line. Throughout the world and in India, these indigenous communities are highly dependent on 
+forests, wetlands, pastures and rangelands, and mountain ecosystems for their livelihoods. There is 
+a symbiotic relationship between these communities and the natural environment. Similarly, rural 
+women in India play a key role in managing, conserving, and using resources from the forests. 
+
+ 
+
+It's important to keep an equal focus on both women and men from the forest-dependent 
+communities as valuable participants in forest and biodiversity conservation and management, 
+whose knowledge, leadership and decision making can have transformative effects on local 
+communities and national policies. USAID will follow the free, prior, and informed consent (FPIC), 
+per the PRO-IP Policy and the International Human Rights standards that state, 'all peoples have the 
+right to self-determination’ using the available resources. 
+
+ 
+
+
+Forest and biodiversity conservation and management is not only about conserving species, genetic 
+resources, and ecosystems, but also social-ecological processes, which can be gendered. 
+Development efforts must therefore be aimed towards three interrelated goals: effective forest and 
+biodiversity protection, addressing multiple needs of forest dependent social groups, and achieving 
+socially inclusive and equitable development outcomes for everyone, regardless of their gender, 
+socioeconomic, and caste status. As a result, considerations, in this activity, should not solely be 
+given to women’s issues; instead, an outlook should be adopted to yield advantages for whole 
+communities and benefit both sexes in all their diversity. 
+
+ 
+
+The activity design team recognizes that for the activity to be effective and inclusive they must 
+work to close the following gender gaps in forest and biodiversity conservation and management: 
+
+● Ensure that women and marginalized groups (including but not limited to women, the landless, 
+scheduled tribes, persons with disabilities, and youth) intersectional needs and concerns are 
+considered and they can meaningfully participate in decision-making; 
+● Ensure that benefits received through ecosystem services are equally distributed to women and 
+other marginalized groups, specifically Indigenous Peoples, who are dependent on forests for their 
+livelihood. 
+● Consider how various aspects of the intervention would impact both women and marginalized 
+communities 
+● Solidify that training programs are suited to the specific requirements of women and marginalized 
+communities. 
+● Identify women, and marginalized groups as separate categories of stakeholders with activities 
+targeted to ensure their full participation. 
+
+
+ 
+
+ 
+
+It is important to note that a gender and social inclusion analysis considers the different and 
+intersectional threats, impacts, and opportunities of men and women in all their diversity and 
+marginalized populations, including persons with disabilities, religious minorities, Schedule Castes 
+(SC), Scheduled Tribes, other backward castes (OBC), youth, and Lesbian, Gay, Bisexual, 
+Transgender, Queer, and Intersex persons (LGBTQI+). As such, this analysis considers gender and 
+social inclusion issues throughout the various stages of the Program Cycle – from activity design and 
+implementation, monitoring and evaluation (M&E), and learning and adapting. 
+
+ 
+
+ 
+
+II. EXISTING GENDER ASSESSMENTS 
+
+ 
+
+In 2019, a Mission-wide gender analysis was conducted while formulating the USAID/India 2020- 
+2025 CDCS. 
+
+ 
+
+In 2020, PAD level gender analysis was conducted for DO3 under which this activity falls which 
+addressed Natural Resource Management but limited. 
+
+ 
+
+In 2019, FOREST PLUS 2 Gender Analysis was conducted, under which this new activity is further 
+built upon. 
+
+ 
+
+
+In 2020, Mission conducted a social inclusion assessment to ascertain the most distinctive 
+characteristics and determinants of exclusion (discrimination, bias, stigmatization) affecting a 
+selected set of marginalized groups, so as to better understand how this exclusion is negatively 
+impacting their well-being and development, and how such exclusion also constrains such 
+marginalized persons and groups from effectively contributing to India’s growth and development. 
+
+ 
+
+III. MAIN FINDINGS BY DOMAIN 
+
+ 
+
+Indian Laws, Policies, Regulations, and Institutional Practices. 
+
+ 
+
+Recently, several efforts have been undertaken to make policies, laws and regulations gender 
+sensitive as well as conscious efforts by Indian government agencies to empower women and 
+marginalized communities. For example, India’s 2014 National Agroforestry Policy, among other 
+things, also aims to enhance the livelihood opportunities of small farmers, the landless and women. 
+
+ 
+
+The Government of India has undertaken formal types of conservation practices, such as the 
+Protected Forests, Reserved Forests, National Parks and Sanctuaries, and Conservation Reserves 
+and Community Reserves. The Government has also tried to involve local stakeholders in the 
+management of the forest resources by establishing the Joint Forest Management (JFM), and Ecodevelopment 
+Committees. 
+
+ 
+
+Some Indian laws, such as the Panchayats (Extension to the Scheduled Areas) Act, 1996, the Forest 
+Conservation Act read with the Forest Rights Act 2006, the Land Acquisition, Rehabilitation and 
+Resettlement (LARR) Act 2013, and the public hearing provisions under environment regulations 
+have provisions for public participation which provides people the space to voice their opinion on 
+development proposals and projects. 
+
+ 
+
+Biological Diversity Act (BDA) passed in 2002, supports the conservation and the sustainable use 
+of biological resources, also promoting an equitable sharing of benefits that come from their use. 
+This one law has the potential to revolutionize the rights of communities over the natural resources 
+they live with. The BDA has made it mandatory for every local self-governing institution in rural 
+and urban areas to constitute a Biodiversity Management Committee (BMC) within their area of 
+jurisdiction. Once constituted, the BMC must prepare a Peoples’ Biodiversity Register (PBR) in 
+consultation with local people. A PBR comprehensively documents traditional knowledge of local 
+biological resources. The National Biodiversity Authority is tasked with ensuring the monitoring of 
+PBRs and BMCs. Refer to the Hindu story on BDA. 
+
+ 
+
+Although the forest and biodiversity policy for addressing gender and social inequity has improved 
+slightly over the past decade, women and Indgenous Peoples continue to be disadvantaged by 
+several legal and social frameworks such as: insecure access and property rights to land resources, 
+discrimination by male bias in the provision of services like credit and technology, and by exclusion 
+from decision making at all levels. 
+
+ 
+
+Furthermore, throughout the country, there may be implicit gender biases in the manner in which 
+the laws, policies, and regulations are implemented and enforced — as many women and 
+marginalized groups mostly do not have access to pertinent information regarding their 
+
+
+applicability and associated consequences if violated. For example, the Panchayats (Extension to 
+Scheduled Areas) Act (PESA) and the Scheduled Tribes and Other Traditional Forest Dwellers 
+(Recognition of Forest Rights) Act, 2006 (commonly referred as the Forest Rights Act), open a 
+legal window of opportunity for more gender and class equitable decision-making, but are fraught 
+with implementation challenges and women are not often aware of their rights under these acts. 
+
+ 
+
+Cultural Norms and Beliefs. 
+
+In a large and diverse country such as India, there is an extreme variance in cultural norms and 
+beliefs. Though Indian law is in favor of equal land rights for women, customary practices, which 
+are still used today, restrict women’s rights to access land. Without equal access to land and other 
+key resources, women’s opportunities and capacity to play an active role in biodiversity 
+conservation is severely limited. 
+
+ 
+
+The cultural and culinary practices of smallholder farmers play a significant role in preserving and 
+maintaining the genetic diversity of plant species as a result of selection preferences based on food 
+habits, food culture, taste, time taken for cooking, nutrition, and the health benefits of different 
+species. Since biodiversity supports a variety of vital livelihood resources for indigenous peoples, 
+they are highly knowledgeable about the plants they use. Economically poor households, including 
+those from indigenous groups, are disproportionately dependent on agricultural and forest 
+biodiversity for subsistence and livelihoods. For example, medicinal and aromatic plants are an 
+important livelihood resource for many poor households, who spend a significant part of their time 
+in collection activities. Similarly, in the northeast Indian states of Meghalaya, Nagaland, Mizoram, 
+and Arunachal Pradesh, where nearly 80 percent of the population belong to Indigenous 
+communities, these communities have contributed to the conservation of genetic diversity within 
+various species, such as coir, jute, sugar-cane, cucurbits, rice, soybean, maize, citrus, buckwheat, 
+and several beans. Indigenous Peoples residing in the western Indian Himalayan belt contribute 
+significantly to conserving and maintaining a large pool of buckwheat, amaranth, soybeans, lentils, 
+cowpeas, pome, and stone fruits. 
+
+ 
+
+Many policies recognize the role of people, especially women and Indigenous Peoples, in the 
+conservation and sustainable use of biological resources. For the meaningful participation of 
+women and indigenous people at all levels of policy-making for biodiversity conservation, we need 
+to mitigate cultural and logistical barriers, allow them to voice their needs, knowledge, priorities, 
+and solutions in relation to sustainable development – at the same level as men. 
+
+ 
+
+Gender Roles, Responsibilities, and Time Use 
+
+ 
+
+Studies carried out in various cultures in India reveal that women in tribal communities play a critical 
+role in maintaining and sustaining local-level forest and biodiversity resources and hold extensive 
+knowledge of domestic and wild plants, agricultural practices, local species, and the genetic 
+manipulation of plants and animals. This is because they play multiple roles as farmers, herders, forest 
+gatherers, primary health care givers, collectors of water, food processors, herbalist, market vendors, 
+collectors and cultivators of indigenous vegetables, selectors and preservers of seeds, soil 
+conservationists, and sustainers of natural and human-made environments. 
+
+ 
+
+
+These women need to be equally and actively involved in processes to conserve and sustainably use 
+biodiversity because they play critical roles as primary land managers and resource users, and they 
+face disproportionate impacts both from forest and biodiversity loss and gender insensitive 
+conservation measures. For example, with increased migration of men to cities, women in many 
+parts of India are increasingly taking on additional responsibility, in addition to the household and 
+care work, for managing small-scale agriculture; however they do not have an equivalent voice in 
+decision-making related to land use, nor equal access to needed resources. Forest and biodiversity 
+loss also poses a disproportionate burden for women and girls by increasing the time required to 
+obtain necessary resources such as water, fuel wood, and medicinal plants, which reduces the time 
+they can spend on income generating activities and education. Beyond equity, enabling women’s 
+full engagement in decisions is critical to ensure that forest and biodiversity conservation and 
+sustainable use efforts are successful in the long term. This is especially true for indigenous and 
+rural women, who are often more marginalized in decision-making processes. 
+
+Because of women’s greater responsibility for securing water, food, seeds, medicinal plants, wild 
+edibles, fuelwood, forage, and fodder, they have a greater interest and role in conserving forests and 
+biodiversity. Their knowledge, science, and skills are critical for the sustainable supply of forests 
+and biodiversity products. Men’s and women’s choices vary when it comes to selection of crops 
+and trees. Women’s knowledge, needs, and problems associated with forest and biodiversity 
+conservation and management are often different from men’s. This is not based on biological 
+differences and needs, but socially constructed roles, responsibilities, and meanings attributed to 
+what it means to be a woman, or man, in their particular contexts and culturally specific locales. As 
+the primary users and managers of resources, women have tremendous knowledge of the medicinal 
+and nutritional value of diverse plant species. In many contexts, women are more familiar than men 
+with the medicinal value of local flora. Women’s roles in seed management — including seed 
+selection, processing, storage, and exchange — contribute to conserving biodiversity in farms and 
+home gardens. Understanding women’s gender-specific knowledge and choices, and the extent to 
+which they access resources and make decisions related to biodiversity is not only relevant, but 
+central, to achieving sustainable development and biodiversity conservation. Despite this, women in 
+India remain ‘invisible’ actors from the grassroots right up to the policy level and their contribution 
+to biodiversity conservation is largely limited or ignored. 
+
+ 
+
+They are thereby in a unique position to bring different perspectives and new solutions to 
+addressing forests and biodiversity concerns. Women also fall well behind men in achieving paid 
+employment in natural resource management sectors — notably agriculture, fisheries, forest areas, 
+and forestry. 
+
+Men and women, with different positions in society, use mangroves differently. They have unique 
+perspectives about why mangroves are important and how they should be protected. There are 
+many inspiring stories from Odisha where mangrove nurseries changed the lives of Odisha women 
+and the forest around them by giving them extra income by growing trees and bio-shields against 
+the tidal surges of severe storms. There are many more examples from other countries where 
+mangrove projects have supported women through sustainable livelihoods and financial leadership 
+training. Such training provides them with alternative livelihoods and income opportunities. For 
+example, when women have received training on the advantages of cultivating mangrove plants, 
+they are able to see an increase in fish stocks, providing an additional income opportunity. 
+
+ 
+
+
+Awareness about good health practices is also relatively low among the Indigenous Peoples. Men 
+and women differ in their exposures to zoonotic diseases which can be acquired from either 
+domestic or wild animals. They differ as regards direct exposure to animal pathogens as well as 
+indirect exposures through vectors. Occupations that involve close contact with wild animal 
+habitats, forestry, and mining are usually male-dominated. In contrast, work that involves the care 
+and feeding of animals kept close to home or in small backyard farms is often done by women and 
+children. For example, studies in India, found that over 70% of animal bite and rabies victims were 
+males. Occupational exposure leading to greater incidence of leptospirosis in males compared to 
+females has been found for occupations involving contact with contaminated water and soil, such as 
+working in rice fields, and for occupations that involve frequent contact with carrier animals, such 
+as pigs, cattle, dogs, and rats. It is important that information, education, and communication (IEC) 
+messages are designed for tribal communities, especially women (who have limited access to 
+information), so they understand how to minimize wildlife contact. 
+
+ 
+
+Access to and Control over Assets and Resources and Decision making 
+
+Gender-sensitive forest and biodiversity conservation, sustainable use, and benefit sharing are 
+influenced by rights, institutional (formal and customary) practices, land ownership, and markets. In 
+India, property rights to land and tenure rights are controlled by men (only 13 percent of the land 
+owned by women), not as much through the formal law but customary laws, and also lack of record 
+upgradation. This affects men’s and women’s access to, and rights and control over, biodiversity 
+resources. A woman living in a biologically rich forest area might have access to private farm land, 
+and to use or sell the produce from such land, even if she does not have legal ownership. In cases 
+where land becomes scarce because of external forces such as climate change or the 
+commercialization of agriculture, women may lose these de facto rights, because she does not own 
+land by virtue of customs. While land is usually the main source of economic livelihood, it is also 
+an important source of power and status in agrarian systems. Losing land not only means a loss of 
+income and food security, but also a loss of autonomy and a feeling of disempowerment. 
+
+ 
+
+In the greater Himalayan region, institutional practices strongly shape women’s and men’s access 
+to, and control over, natural resources. For example, although women are the main collectors of 
+herbs and wild vegetables from common property resources with controlled access, the majority of 
+community forest user groups in India are led by men, who mostly make the decisions related to 
+forest conservation, development, and use, including the distribution of benefits. Women, although 
+included in the executive bodies of such groups, continue to lack a voice and influence in these 
+decision-making processes. 
+
+ 
+
+Studies confirm that besides customary laws, gender based violence has strong linkages to women’s 
+widespread lack of legal rights to control land and resources. IUCN notes GBV is often used on 
+women for property grabbing, limiting women’s access to decision-making spheres (where they are 
+further excluded because they are not landholders), and restricting influence on conservation 
+activities — all which affect biodiversity safeguarding and sustain discriminatory status quo. 
+
+ 
+
+With respect to marginalized groups, members of marginalized communities and certain religious 
+groups (such as Muslims) have lower rates of land ownership compared to others. For example, 93 
+percent of Scheduled Caste (SC) members are marginal farmers, owning less than one hectare as of 
+
+
+2013. On the other hand, there are provisions in the Indian constitution and in relevant laws that 
+protect the interest of the marginalized communities. For instance, the “Fifth Schedule of the Indian 
+constitution declares areas which have predominance of Scheduled Tribes (ST) as “Scheduled 
+Areas” to protect the tribal autonomy and culture. Many states have passed laws to regulate sale or 
+lease of land in Scheduled areas to non-tribals. 
+
+ 
+
+ 
+
+IV. STAKEHOLDER CONSULTATIONS 
+
+ 
+
+In preparation for this activity, USAID/India conducted consultations with the Ministry of 
+Environment, Forestry, and Climate Change, the Deutsche Gesellschaft für Internationale 
+Zusammenarbeit GmbH (GiZ), State Forestry Departments, and other stakeholders to learn about 
+the key threats, challenges, and opportunities in regard to India’s biodiversity and natural 
+landscapes. These consultations allowed USAID/India to better understand the priorities of the GoI 
+and other actions undertaken by donor organizations to improve and increase the country’s natural 
+resources. Finally, USAID/India also contracted Panagora, an international consulting agency, to 
+conduct an options and opportunities analysis for this activity. 
+
+ 
+
+Panagora interviewed and conducted focus group discussions with a range of stakeholders, 
+including academics, members from local communities, private sector organizations, and donor 
+organizations, and government officials. Though discussions surrounding gender and the 
+environment were somewhat limited, several stakeholders highlighted that women need to be 
+included in the decision-making process. One participant noted that Joint-Forestry Programs focus 
+on women’s empowerment and that has had long-term positive impacts on communities, such as 
+the Baiga tribe. The participant underscores the fact that when programs focus on gender and 
+women’s empowerment, there can be long-lasting consequences and impacts. 
+
+ 
+
+Additionally, Panagora’s analysis revealed that it is important to collect data that includes social 
+demographics, such as gender, to better understand how USAID programming affects people from 
+different social backgrounds. By collecting this data, USAID can help contribute to increasing the 
+understanding of how people of various gender and social identities benefit from and interact with 
+the natural world, including landscapes and biodiversity. 
+
+ 
+
+As part of its ongoing sustainable landscapes/ forestry and women empowerment activities, USAID 
+has had continuous engagement with women and other marginalized communities such as tribal 
+communities in Bihar, Kerala, Telangana, Karnataka and Tamil Nadu. These stakeholders 
+emphasized the need for training and capacity building in establishing forest based enterprises and 
+sustainable harvest of non-timber forest products, marketing of forest products. These stakeholders 
+also highlighted the need for sensitizing men about the importance of socially and economically 
+empowering women, and the need for organizing leadership training for women and marginalized 
+sections (closer to their homes) such as the tribal communities. 
+
+ 
+
+V. ANALYSIS OF ISSUES AND RECOMMENDATIONS BY TECHNICAL 
+COMPONENT 
+
+ 
+
+The table below provides an overview of the activities that will be implemented under the activity 
+
+
+technical components. For those activities where gender issues have been identified, the table 
+presents recommended actions that will be taken to ensure gender equity remains at the forefront of 
+the activities’ design, implementation, and M&E. The integration of gender and social sensitivity 
+into the proposed technical approach is part of the evaluation criteria for the program. In addition, 
+the Awardee will be obligated to draft a gender and social integration plan within 90 days of 
+initiating the award. The team should aim to consult with the Adivasis communities (leveraging the 
+FPIC framework) and pursue an analysis of impact (leveraging the SIA framework) for the 
+program. For the frameworks, see link: 
+
+https://www.usaid.gov/indigenous-peoples/social-impact-assessment-toolkit 
+
+ 
+
+Table 1: Activity Results Framework 
+
+ 
+
+ 
+
+Activity Goal: Suggested: Enhance biodiversity conservation, human well being, and climate 
+benefits from ecological landscapes. 
+
+Ecological Landscapes: These ecosystems are often arrayed as ecological landscapes –mosaics of 
+ecosystem types that typically include forests, grasslands, and wetlands, interspersed with human 
+settlements and agriculture. 
+
+ 
+
+
+
+ 
+
+Table 2: Technical Components/Activities and Identified Potential Gender Issues 
+
+ 
+
+ 
+
+Components and 
+Activities 
+
+Potential Gender Issues 
+and Relevance to the 
+Activity 
+
+Recommendations, Specific Actions, 
+General Considerations 
+
+Objective/Outcome 
+1:Improved management 
+of connected landscapes 
+for wildlife habitat and 
+other ecological benefits 
+
+ 
+
+1.1 Assess management 
+effectiveness of protected 
+areas for wildlife 
+conservation [and climate 
+benefits] 
+
+ 
+
+1.2 Support park 
+managers and other 
+stakeholders to implement 
+
+strategies and action plans 
+for wildlife conservation, 
+climate benefits, and 
+preventing emerging 
+zoonotic diseases at the 
+source 
+
+Indigenous/tribal 
+communities, especially 
+women, that are dependent on 
+the forests have extensive 
+knowledge and experience in 
+wildlife conservation but are 
+rarely consulted or included 
+in the management and 
+conservation of 
+biodiversity/forests and 
+frequently alienated from 
+their natural resource base. 
+
+ 
+
+Gendered norms and cultural 
+prejudices reinforce forestry 
+as a male profession. Hence 
+women fall well behind men 
+in achieving paid employment 
+in natural resource 
+management and forestry 
+sectors. 
+
+Foster an enabling environment for indigenous 
+peoples and empower them, their women and 
+their representative organizations to advocate 
+for, and practice self-determined development 
+through training in leadership skills per their 
+needs after engaging with them. 
+
+ 
+
+Give them the ability and confidence to engage 
+and participate effectively in decision making, 
+and to get their voice heard and included in 
+forest and biodiversity conservation. 
+
+ 
+
+Beyond equity, enabling women’s and tribal 
+communities full engagement in decisions is 
+critical to ensure that forest and biodiversity 
+conservation and sustainable use efforts are 
+successful in the long term. This is especially 
+true for indigenous/tribal communities and rural 
+women, who are often more marginalized in 
+decision-making processes despite their cultural 
+knowledge of how to manage, live in harmony 
+
+
+
+
+ 
+
+1.3 Establish systems to 
+monitor ecosystems and 
+forest health, climate 
+impacts, and management 
+actions 
+
+ 
+
+1.4 Support development 
+and implementation of 
+action plans on improving 
+connectivity between 
+protected areas and the 
+resultant climate benefits 
+
+ 
+
+1.5 Address humanwildlife 
+conflict 
+
+ 
+
+1.6 Support awareness 
+raising and behavior 
+change on the benefits of 
+ecological integrity for 
+human well being, climate 
+benefits, and preventing 
+emerging zoonotic 
+diseases at the source 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Loss of biodiversity and its 
+consequences affect women 
+and men in different ways. In 
+human-wildlife conflicts, for 
+example, women are often the 
+most vulnerable, and 
+therefore their attitudes and 
+behavior towards wildlife 
+differ from men. 
+
+ 
+
+Men and women differ in 
+their exposures to zoonotic 
+diseases which can be 
+acquired from 
+
+either domestic or wild 
+animals because of their 
+different gendered roles and 
+responsibilities. 
+
+ 
+
+ 
+
+ 
+
+with, and make sustainable use of the forest 
+plants and animals in these forests. 
+
+ 
+
+A cohort of women protected area managers or 
+women working in protected areas can be 
+trained with an emphasis on gender based 
+violence. Mission can outreach other Missions 
+that have worked on this (Zambia) for examples 
+that may be adaptable for this activity. 
+
+ 
+
+Activity should understand, consider and 
+address the potential for GBV within parks 
+or protected areas. 
+
+ 
+
+ 
+
+Targeted research to improve understanding of 
+differences between men and women from loss 
+of forests and biodiversity before designing 
+solutions to address them may be needed. 
+
+ 
+
+Information, education, and communication 
+(IEC) messages for awareness and behavior 
+change should be designed for indigenous/tribal 
+communities, especially women, after assessing 
+their different needs and in a language relatable 
+to them.These interventions should be 
+designed after sufficiently understanding 
+the governance, culture, and cosmovision of 
+the communities that are culturally 
+pertinent. This will help to support the 
+communities in their own efforts to inform, 
+educate, strengthen their own identity, 
+values, social cohesion, and development. 
+
+ 
+
+ 
+
+Objective/Outcome 2: 
+Enhanced understanding 
+of and benefits received 
+from ecosystem services 
+
+ 
+
+2.1 Strengthen systems for 
+monitoring of carbon, 
+water, and other 
+ecosystems services from 
+ecological landscapes 
+
+ 
+
+2.2 Assess (and test) the 
+factors that limit or 
+contribute to health of 
+target wildlife population 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Skill development programs should build on the 
+existing knowledge women have about natural 
+resources, and the traditional knowledge of 
+biodiversity that Indigenous/tribal peoples 
+possess through their experience as shifting 
+cultivators, pastoralists, nomadic herdsman, 
+hunter-gatherers and rural cultivators, and their 
+expertise in resource extraction, processing and 
+use. 
+
+Support for natural-resource-based enterprises 
+(e.g., NTFPs, ecotourism) could include 
+activities and training programs aimed at 
+improving the skills of women, and indigenous 
+peoples/tribal as entrepreneurs. 
+
+
+
+
+across a pattern of intact to 
+degraded ecosystems to 
+reduce the risk of zoonotic 
+spillover 
+
+ 
+
+2.3 Strengthen capacity to 
+conduct valuations of 
+carbon, water, and other 
+ecosystem services 
+
+ 
+
+2.4 Assess, prioritize, and 
+implement actions to 
+incentivise forest and 
+wildlife conservation that 
+increases income for forest 
+dependent communities 
+
+ 
+
+2.5 Support the 
+development of payment 
+for ecosystem services or 
+carbon market projects 
+(e.g. REDD+) in selected 
+landscapes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Women and the 
+Indigenous/tribal population 
+have little access to land, 
+credit, skills, and information 
+to begin with, their ability to 
+adapt to climate change is 
+more limited, and they are 
+also the less likely to benefit 
+from relief and compensation 
+measures 
+
+Objective/Outcome 3: 
+Support the Government 
+of India to diffuse learning 
+from on the ground 
+activities to other 
+protected areas, corridors 
+and communities 
+
+ 
+
+● Knowledge platform 
+● Stakeholder networks 
+● Looking to 
+institutionalize and 
+maybe dependent on 
+which landscapes are 
+selected 
+● Communication and 
+outreach 
+
+
+ 
+
+ 
+
+Many women and 
+marginalized groups mostly 
+do not have access to 
+pertinent information 
+regarding the laws, policies 
+and regulations, applicability 
+and associated consequences 
+if violated because of 
+mobility, language barriers, 
+and other systematic barriers. 
+hence are always excluded. 
+
+The program will work with the communities 
+and families to encourage women and the 
+socially marginalized, including the 
+Indigenous/tribal to participate in all meetings, 
+training programs, and consultations.. The 
+venue, dates and times of meetings, 
+transportation, and facilities (e.g., toilets) 
+should be conducive of their participation. 
+Decisions on when and where to hold such 
+meetings and training programmes should be 
+decided in consultation with these stakeholders 
+prior to the event; where needed, separate 
+consultations and training should be held for 
+them. 
+
+ 
+
+ 
+
+Build their confidence to engage and lead the 
+stakeholder networks that the activity will 
+create. 
+
+ 
+
+Develop gender-inclusive outreach materials to 
+communicate information in a way that is most 
+accessible and relatable to indigenous 
+communities and their women. 
+
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attachment 1: Bibliography: 
+
+ 
+
+https://www.fao.org/3/AC795E/AC795E04.htm 
+
+https://www.cbd.int/gender/ 
+
+https://www.newsclick.in/International-Day-of-Forests-How-India-Can-Reverse-the-Damage 
+
+ 
+
+https://www.cbd.int/undb/media/factsheets/undb-factsheet-gender-en.pdf 
+
+https://www.iucn.org/crossroads-blog/202105/gender-linked-biodiversity-and-climate-crises-whenwill-
+our-policies-reflect 
+
+ 
+
+http://www.unesco.org/new/en/natural-sciences/priority-areas/gender-and-science/cross-cuttingissues/
+the-gender-dimensions-of-biodiversity/ 
+
+ 
+
+https://www.iied.org/role-influence-impact-women-biodiversity-conservation 
+
+ 
+
+https://www.researchgate.net/publication/332541849_Role_of_Indian_Women_in_Conservation_of 
+_Biodiversity 
+
+ 
+
+https://scroll.in/article/883546/womens-role-in-conserving-biodiversity-is-neglected-worldwideheres-
+how-india-can-change-that 
+
+ 
+
+https://www.researchgate.net/publication/332541849_Role_of_Indian_Women_in_Conservation_of 
+_Biodiversity 
+
+ 
+
+https://www.unep.org/news-and-stories/story/six-things-you-can-do-bring-back-mangroves 
+
+ 
+
+https://www.iied.org/role-influence-impact-women-biodiversity-conservation 
+
+ 
+
+https://www.cbd.int/gender/doc/cbd-towards2020-gender_integration-en.pdf 
+
+ 
+
+https://www.drishtiias.com/to-the-points/paper3/mangrove-forests 
+
+ 
+
+https://en.gaonconnection.com/forest-essentials-some-communities-that-have-a-symbioticrelationship-
+with-forests-seem-to-be-faring-better-during-the-pandemic-than-others/ 
+
+ 
+
+https://www.fao.org/3/xii/0186-a1.htm 
+
+https://www.downtoearth.org.in/blog/forests/displaced-from-the-hills-livelihoods-of-tribalcommunities-
+in-eastern-ghats-under-threat-75657 
+
+ 
+
+http://www.swaniti.com/wp-content/uploads/2016/10/Tribal-Welfare-in-Northeast.pdf 
+
+ 
+
+
+https://cdn.landesa.org/wp-content/uploads/This-is-not-your-home-10-August-2021-Jharkhand.pdf 
+
+ 
+
+https://www.researchgate.net/publication/339970302_Tigers_and_Good_Indian_Wives_Feminist_P 
+olitical_Ecology_Exposing_the_Gender-Based_Violence_of_Human- 
+Wildlife_Conflict_in_Rajasthan_India 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,3239 @@
+ 
+
+ 
+
+Issue Date: October 15, 2021 
+
+Deadline for Questions: October 25, 2021, 4:00 PM (Morocco Time) 
+
+Concept Papers Deadline Submission: November 22, 2021 
+
+Closing Time: 4:00 PM (Morocco Time) 
+
+ 
+
+Subject: USAID/Morocco Notice of Funding Opportunity Number: 72060822RFA00001 – 
+Amendment 000001 
+
+ 
+
+Program/Opportunity Title: Bridge to Middle School Activity 
+
+ 
+
+Catalog of Federal Domestic Assistance (CFDA) Number: 98.001 
+
+ 
+
+To: All Interested Respondents/Parties: 
+
+ 
+
+The United States Agency for International Development (USAID) through its Mission in 
+Morocco (USAID/Morocco) seeks concept papers from eligible applicants to implement the 
+Bridge to Middle School Activity. 
+
+ 
+
+USAID intends to make a single award to the responsible applicant whose application best meets 
+the objectives of this funding opportunity based on the merit review criteria described in this 
+NOFO subject to a risk assessment. Eligible parties interested in applying are encouraged to read 
+this NOFO thoroughly to understand the type of program sought, application submission 
+requirements and selection process. While one award is anticipated as a result of this Notice of 
+Funding Opportunity (NOFO), USAID reserves the right to fund any or none of the concept paper 
+applications submitted. Subject to funds availability, the anticipated funding for the 
+USAID/Morocco Bridge to Middle School Activity is $25 million over a five-year period. Final 
+authority for assistance awards resides with the USAID/Morocco Agreement Officer. 
+
+ 
+
+The USAID/Morocco Bridge to Middle School Activity will follow a “Three-Phase Merit Review” 
+process of application selection: 
+
+● Phase 1 is the submission, review, and evaluation of a written concept paper (estimated 
+timeframe for Concept Paper selection is December 2021). Applicants will be evaluated 
+based on the Phase 1 (Concept Paper). The Apparently Successful Applicant (ASA) will 
+be invited to Phase 2, Co-creation, and all other applicants will be notified that were not 
+selected. 
+● Only the ASA will be invited to participate in Phase 2, Co-creation (estimated timeframe 
+for co-creation is January 2022). For Phase 2, USAID will convene a co-creation event 
+with USAID, the Applicant, and other stakeholders. 
+● If the Co-creation is successful, the Apparently Successful Applicant (ASA) will be invited 
+to Phase 3 and requested to submit a Full Application. The ASA will develop and submit 
+a Final Application, including a cost application, for final consideration. The Final 
+Application will then be evaluated for determination of the award. 
+
+
+
+If the Co-creation is not successful, USAID/Morocco may consider another Co-creation 
+process with another highly ranked applicant. 
+
+ 
+
+Details regarding the requirements for Phase 1 are described in this document. The requirements 
+for Phases 2 and 3 will be provided to the ASA at the completion of Phase 1. Additional details 
+regarding the concept paper evaluation are provided in Section D - Concept Paper Submission 
+Information. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. Potential applicants should regularly check the website to 
+ensure they have the latest information pertaining to this notice of funding opportunity. It is the 
+responsibility of the applicant to ensure that the entire NOFO has been received from the internet 
+in its entirety and USAID bears no responsibility for data errors resulting from transmission or 
+conversion processes. If you have difficulty registering on www.grants.gov or accessing the 
+NOFO, please contact the Grants.gov Helpdesk at 1-800-518-4726 or via email at 
+support@grants.gov for technical assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifiers and System for Award Management (SAM) requirements. The registration 
+process may take many weeks to complete. Therefore, applicants are encouraged to begin 
+registration early in the process, if not registered. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished 
+
+to all potential applicants through an amendment to this notice posted on www.grants.gov. Eligible 
+parties interested in submitting a concept paper are encouraged to read this NOFO thoroughly to 
+understand the type of program sought, concept paper submission requirements, and selection 
+process. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the 
+part of the U.S. Government, nor does it commit the Government to pay for any costs incurred in 
+preparation or submission of comments/suggestions or a concept paper. Concept papers are 
+submitted at the risk of the applicant. All preparation and submission costs are at the applicant’s 
+expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zachary Clarke 
+
+Regional Agreement Officer 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+ 
+
+Section A – Program Description………………………………………………….…………….. 4 
+
+Section B – Award Information…………...………………………………..…….………..…….17 
+
+Section C – Eligibility Information…………………………………...…………….…………....19 
+
+Section D – Application and Submission Information………………..………………………....20 
+
+Section E – Application Review Information………………………………..…………………..24 
+
+Section F – Award and Administration Information…………………………….....…………....27 
+
+Section G – Agency Contacts……………………………………………………………………40 
+
+Section H – Other Information……………………………………………………….………….41 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+ 
+
+“Bridge to Middle School”/“Le Chemin vers le Collège” 
+
+ 
+
+I. Introduction & Background 
+
+In the past few decades, the Government of Morocco has made sweeping and positive changes in 
+its education sector. Enrollments have risen, teacher qualifications have improved, important 
+curricular reforms have been enacted, and programs like the USAID-funded “National Reading 
+Program” (NPR) and JICA’s “Promoting Education with Equity and Quality” (PEEQ) have 
+addressed critical gaps in instructional quality, improving students’ mastery of reading and math 
+in the primary grades. 
+
+ 
+
+However, the Government of Morocco’s (GOM’s) Education Vision 2030 commits the GOM to 
+ensuring that “Moroccan schools...offer, to all citizens and equally, a quality education and 
+training, based on the Nation’s supreme values and principles.” However, this ambition has not 
+been fully realized. The World Bank estimates that 66 percent of Morocco’s primary school 
+learners are in “learning poverty,” and therefore unable to read a simple sentence by the age of 10. 
+On the 2019 Trends in International Mathematics and Science Study (TIMSS), Moroccan 4th 
+graders scored the lowest of any in the MENA region in both math and science, and Moroccan 8th 
+graders were outscored by their peers in 8 of the participating nations. Similarly, on the 2018 
+Programme for International Student Assessment (PISA), Moroccan 15-year old, on average, 
+scored next to last in reading, math, and science, with Lebanon being the only country with lower 
+scores. Gender equity is a concern throughout the system, particularly in rural areas where girls do 
+not have the same opportunities as their male peers to attend or complete school. By some 
+estimates, the illiteracy rate for women in rural areas is as high as 80 percent.1 Learners with 
+disabilities are similarly severely disadvantaged. The devastating effects of the COVID pandemic 
+on the education system have unleashed a wave of learning loss, and the effects of climate change 
+on livelihoods in rural areas are making it increasingly difficult for families to prioritize school. In 
+short, while some strong foundations have been laid for educational quality and equity for all, the 
+GOM requires additional investment and collaboration to continue its momentum towards 
+achieving its 2030 Education Vision. 
+
+1 
+Gregory M. White, “Kingdom of Morocco,” in The Government and Politics of the Middle East and North Africa, eds. Mark Gosiorowski and 
+Sean L. Yom, Westview Press, 2017., p 531. 
+
+ 
+
+ 
+
+The Bridge to Middle School program (“Bridge”) will support the GOM’s next steps in its ongoing 
+education reforms, with particular attention to inclusion and equity, gender dynamics, the realities 
+of education in a post-COVID environment, and the growing need for appropriate education sector 
+responses to the challenges of climate change. Through Bridge, USAID will partner with the 
+Moroccan Ministry of Education (MEN) to improve learning outcomes in Arabic and STEM 
+subjects (grades 4-9) as well as in English (grades 7-9). In doing so, Bridge will better prepare the 
+
+
+education system for a scale-up of high-quality instruction in key subject areas in both the upper 
+primary and lower secondary grades. 
+
+ 
+
+II. Program Purpose & Goal 
+
+The main purpose of Bridge is to build the capacity of MEN to implement new, student-centered 
+curricula in Arabic and selected STEM subjects (grades 4-9) as well as English (grades 7-9), in 
+ways that have measurable impacts on learning outcomes. 
+
+ 
+
+The goal of the program is to improve the performance of MEN central directorates, education 
+academies (AREFs), provincial directorates (DPs), and schools in employing evidence-based 
+pedagogies that promote continuous learning in select content areas, emphasizing strengthened 
+critical thinking skills. 
+
+ 
+
+III. Program Objectives 
+
+Bridge has three objectives jointly contributing to the achievement of the program goal: 
+
+● Objective One: Enhance the Moroccan education system’s ability to improve learning 
+outcomes in upper primary (grade 4-6) Arabic, Math, and Science 
+● Objective Two: Enhance the Moroccan education system’s ability to improve learning 
+outcomes in lower secondary (grade 7-9) Arabic, English, and selected Science subjects 
+(physics/chemistry, taught as one subject, and life/earth sciences, (biology and geology), 
+taught as one subject) 
+● Objective Three: Enhance the Moroccan education system’s preparedness to scale up 
+successful practices in these subject areas and grades 
+
+
+ 
+
+IV. Program Results 
+
+Bridge is anticipated to achieve quantifiable results at both the goal and the objective levels, as 
+follows: 
+
+● Goal-level Result: An increased number of institutions and actors demonstrating improved 
+performance in implementing high quality instruction in the Bridge program target subject 
+areas and grade levels. 
+● Objective One Result: In the Bridge experimental schools, upper primary learners achieve 
+increases in proficiency in Arabic, Math, and Science. 
+● Objective Two Result: In the Bridge experimental schools, middle school (lower 
+secondary) learners achieve increases in proficiency in Arabic, English, Life/Earth 
+Sciences, and Physics/Chemistry 
+● Objective Three Result: Implementation of policies and practices that support scaling up 
+of interventions proven effective during the experimental phases of the Bridge program. 
+
+
+ 
+
+V. Program Parameters 
+
+The Bridge program will operate within the below parameters. 
+
+1. Geographic Coverage 
+
+Bridge is a “proof of concept” development and testing activity that will demonstrate how 
+education system actors can support a child’s transition from upper primary to middle school. 
+Bridge will operate in 30 primary schools and 60 middle schools across 3 regions of Morocco, 
+with a proportional split between public and private schools, and with a clear “feeder” relationship 
+
+
+between the selected primary and middle schools.2 If work in the experimental schools proves 
+effective, the MEN plans to expand the use of the new curricula and materials to all 3,700,000 
+primary and 1,600,000 middle school students. 
+
+2 
+Without this relationship, gauging the strength of the “Bridge” between primary and middle school will be difficult. 
+
+Priority regions for inclusion in the Bridge program will include those that: a) have poor outcomes 
+on the TIMSS and the Progress in International Reading Literacy Study (PIRLS), b) are 
+significantly rural and/or isolated, c) experience significant (i.e. above the national average) drop-
+out from target grade levels, d) experience particular challenges in enrolling or maintaining girls 
+in school, and e) experience particular challenges of multilingualism. Final selection of regions 
+and experimental schools will be made in consultation with the MEN and USAID. 
+
+2. Financial Responsibility by Program Phase 
+
+Under the pilot phase, (objectives one and two), USAID is responsible for furnishing all technical 
+assistance, including training, and coaching the MEN working groups, printing and distributing 
+manuals and guides, training trainers, training teachers, monitoring and evaluating the progress of 
+the classroom work, evaluating student outcomes, and evaluating changes in institutional capacity. 
+
+As curricular implementation for each grade is scaled up, the responsibilities between the MEN 
+and USAID will shift. In the scale-up phases, (objective three), USAID, through Bridge, is 
+responsible for offering technical guidance for the scale-up process and the training of trainers in 
+all 12 regions (Academies). However, the majority of the costs in the scale-up phases will be 
+incurred by MEN. The table below summarizes this anticipated cost break-out for the scale-up 
+phase. 
+
+ 
+
+ 
+
+Ministry of Education 
+
+USAID 
+
+Institutional Capacity Assessments 
+
+ 
+
+✔ 
+
+Technical Assistance (i.e. guidance to working groups) 
+
+ 
+
+✔ 
+
+Printing and distribution of manuals and guides 
+
+✔ 
+
+ 
+
+Training of trainers (in all 12 regions) 
+
+ 
+
+✔ 
+
+Training of teachers (in all 12 regions) 
+
+✔ 
+
+ 
+
+Monitoring and evaluating the progress of the work in classrooms 
+
+✔ 
+
+✔ 
+
+
+
+ 
+
+3. Collaboration and Sub-Awards 
+
+USAID has designed Bridge under the guidance and direction of the MEN, and it is intended to 
+complement, not duplicate, efforts from other donors in the sector. In that spirit, the implementing 
+partner for Bridge will need to be aware of and collaborate with all of the following: 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Donor 
+
+Initiative 
+
+Relationship to Bridge 
+
+JICA 
+
+JICA has implemented two major versions of support to 
+the MEN: a large loan program to support the Ministry’s 
+execution of its technical and budget plans, and a first 
+phase of a smaller “off-budget” program that has piloted 
+math and science instruction in a series of primary 
+schools. This smaller PEEQ program is in the process of 
+moving into its second phase, with a focus on only math 
+instruction and on remediation. It has produced 
+measurable improvements in student outcomes. 
+
+JICA will work in parallel to the Bridge partner to 
+develop the math and IT modules needed for middle 
+school instruction under Bridge. USAID, the MEN 
+and JICA will coordinate to achieve the STEM goals 
+of Bridge. As STEM programs involve the integrated 
+approach to teaching and learning of science, 
+technology and mathematics, Bridge will work closely 
+with JICA to ensure the necessary integration. 
+
+MCC 
+
+MCC’s “Lycee Atahadi” program seeks to improve 
+school infrastructure, governance, and teacher training 
+in STEM and language in a small number of 
+experimental schools. The MEN found the program to 
+be highly effective and hopes to see it inform the work 
+under the Bridge program. The MEN especially hopes 
+that a “whole of school” perspective like that used in the 
+Lycee Atahadi program might also be used in the work 
+under the Bridge program. 
+
+Bridge partners should examine how to use the results 
+of the Lycee Atahadi program in teacher training, 
+materials digitization, and CSO and parent 
+involvement. The ministry is anticipating a similar 
+“whole school” approach to the work under the Bridge 
+program as used in the Lycee Atahadi program. 
+
+ 
+
+EU 
+
+The European Union’s PIEF program is focused on 
+system reform, with a significant “results based 
+financing” component offered to the Ministry of Finance 
+and the Ministry of Education if they are able to meet 
+certain functionality indicators for system performance. 
+
+Bridge partners need to be sure that Bridge system 
+reform expectations complement but do not duplicate 
+those promoted by the EU under PIEF. 
+
+ 
+
+UNICEF 
+
+UNICEF Morocco under its new strategy aims to 
+improve the equity, quality, and transparency of 
+governance in education. UNICEF supports 2nd chance 
+schools, is developing a drop-out prevention strategy, is 
+increasing its focus on girls’ education and education for 
+students with disabilities and plans to work on school 
+financing and governance at the school level. 
+
+In the Bridge schools, especially if they overlap with 
+zones of interest with UNICEF, applying strategies for 
+drop-out prevention, inclusion, and transparent 
+governance that are coherent with those of UNICEF 
+will assist both Bridge and the ministry to develop 
+scalable national approaches to improving equity, 
+quality, and transparency. 
+
+World Bank 
+
+The World Bank finances or plans to finance several 
+different types of support to the Ministry of Education. 
+These include: reforms in early childhood development 
+and pre-primary education, efforts to reinforce pre-
+service and in-service training (based on results based 
+financing), efforts to improve school governance and 
+financing (also through RBF) and plans to support 
+school improvement planning in 300 primary schools. 
+The Bank is also very interested in work in student 
+assessment in grades 2, 4, and 6. 
+
+Bridge partners should coordinate on questions of 
+teacher training and school improvement planning with 
+the World Bank, particularly if any of the Bridge 
+intervention schools are schools that are in common 
+with the efforts financed by the World Bank. The 
+World Bank’s interest in assessment is also a rich 
+opportunity for collaboration. 
+
+The British 
+Council 
+
+The British Council produces English programming to 
+support improved English instruction in Morocco. 
+
+Bridge partners could integrate use of these programs 
+as part of a larger effort to improve English instruction 
+in middle school in Morocco. 
+
+
+
+ 
+
+Bridge partner(s) are also expected to collaborate across the MEN departments responsible for 
+eventual scale-up of the new education reforms. At the central level, these include MEN’s senior 
+leadership, (the Minister, Secretary General, and the Cabinet), as well as the curriculum 
+development, teacher training, and assessment departments (please see information in the 
+attachments on relevant initiatives in teacher training and assessment). At the decentralized level, 
+
+
+this includes AREFs, PDs, schools, and communities. Bridge partner(s) will also need to 
+collaborate with the Initiative Nationale de Développement Humain, (INDH), a GOM program 
+working in the education sector to improve the equality and equity of human services. Applicants 
+should carefully consider how to work with this wide array of local partners and propose a 
+tailored approach to include these vital stakeholders. 
+
+Finally, USAID prioritizes Moroccan ownership of the Bridge program. Therefore, USAID 
+expects the program to include at least one qualified local partner (Public, private, NGOs, or 
+other Moroccan organizations) able to significantly contribute to national education reform. As 
+a reminder, USAID prohibits exclusive partnerships with local actors. 
+
+4. Cross-Cutting Technical Considerations 
+
+As highlighted in the RFI (Attachment 1), there are a number of cross-cutting technical 
+considerations to take into account in the implementation of Bridge. These include the following: 
+
+● Promoting gender equity and inclusion. In all aspects of Bridge, USAID strongly 
+encourages partners to test, identify, and amplify concrete approaches that are shown to 
+improve gender equity and the inclusion of marginalized learners and to support the 
+creation of a safe learning environment through GBV prevention and social norms change. 
+These could include but not be limited to approaches to reduce high drop-out rates 
+especially among girls, approaches to enable students of modest means or other 
+constraining circumstances to participate in the program and to choose a career path based 
+on fields of study they master and not based on their gender, and approaches to support 
+teachers in meeting the needs of learners with disabilities. The retained applicant will be 
+required to conduct a gender analysis at the Bridge activity level once the award is made. 
+● Mitigating the ongoing effects of COVID-19. USAID encourages applicants to examine 
+the effects of the COVID pandemic on Bridge’s chances of success in the chosen 90 
+experimental schools, and to program flexibly in light of their findings, so as to identify 
+solutions for improved learning at scale that can withstand the ongoing stressors of the 
+pandemic. 
+● Promoting the innovative AND appropriate use of technology. One strategy for scale-
+up of Bridge interventions that interests the MEN is the use of distance education, both for 
+teachers and for students. There are many initiatives in distance education already 
+underway in the education sector, including the MEN’s E-Takwine platform for teacher 
+resources, MOOCs generated for teacher preparation through the USAID HEP-M program, 
+and the TilmideTice and the Asafeer platform for supplementary reading material for 
+students. Applicants/implementing partners have an opportunity to propose how distance 
+learning using these and other resources can support the achievement of Bridge goals and 
+objectives. 
+● Integrating climate change-related instruction. Climate change considerations are an 
+important part of USAID education programming. Applicants are encouraged to consider 
+innovative approaches for including climate change mitigation materials in experimental 
+schools, and for supporting the MEN in integrating climate change information across the 
+system during the scale-up phase. 
+
+
+ 
+
+● Private Sector Engagement 
+
+
+According to a recent USAID-funded study, “An effective approach to leveraging the 
+power of the private sector is essentially to foster collaboration among the most innovative 
+actors and the social-impact driven investors (MEG study).” Moroccan private sector 
+
+
+actors may be willing to contribute expertise in the design and implementation of this 
+program, as they are the eventual recipients of the graduates. Actors like the major 
+telecommunications players (Maroc TELECOM, Orange, Inwi), banks with foundations 
+(BMCE and the Fondation Banque Populaire), the Office Cherifien de Phosphate (OCP), 
+Microsoft, and the Société Nationale de Radio et Télévision (SNRT) could all contribute 
+either in-kind or monetary support to Bridge. Partners are encouraged to propose how 
+actors like these could: a) provide free media time (radio, TV, or mobile) to promote the 
+implementation of the educational reforms; b) print educational materials (or provide 
+funding to the MEN to do so); c) provide or subsidize digital supplementary materials; d) 
+provide financial resources to subsidize orienting the school improvement planning process 
+in Bridge schools towards achieving programmatic objectives; and/or e) invest in other 
+creative ways in the Bridge program. 
+
+ 
+
+VI. Interventions 
+
+
+Unless otherwise noted, all interventions listed below are illustrative. 
+
+1. Objective One: Enhance the Moroccan Education System’s Ability to Improve 
+Learning Outcomes in Upper Primary Arabic, Math, and Science 
+
+Under this objective, the program will focus on developing, in the 30 pilot schools, interventions 
+to improve Arabic reading, math, and science instruction in grades 4, 5 and 6 that the MEN can 
+eventually take to scale nationwide. To launch work under this objective, the Recipient of the 
+Bridge program will undertake a mandatory study, in the pilot schools, that will address two 
+fundamental questions: a) what are the current performance levels of the grades 4, 5, and 6 students 
+in Arabic (reading), math, and science; and b) what is the degree of application of the new primary 
+school curricula3 in those subjects? This study will yield answers to sub-questions like: a) how 
+well prepared are grades 4, 5, and 6 students to engage in a French-based curriculum4 for STEM 
+instruction starting in grade 7?; and b) how much training, and support are teachers receiving5 for 
+their implementation of the new grades 4, 5, and 6 curricula? USAID is interested in applicants’ 
+suggestions of what other questions and sub-questions could help ground the work under 
+this objective. 
+
+3In August, 2020, the MEN released its first complete draft of a new primary school curriculum, rolling out new learning materials and teacher training for grades one 
+through four. This included a completely new curriculum in Arabic language, based on work completed through the NPR program. The COVID-19 pandemic interrupted 
+the primary school curriculum reform process. However, the curriculum roll out for grades 5-6 is scheduled for as soon as emic conditions allow and is likely to be in 
+process during the Bridge program. 
+
+4 
+Morocco’s recent education law transfers instruction of all science and math subjects in middle school and the upper grades of school to French, in the hopes of better 
+preparing students for their eventual launch into a career or a profession. Monitoring of the successes and challenges of implementing these new curricula in French will 
+be an essential part of the work under the individual program intermediate results. 
+
+5During the pilot phase of the new Arabic curriculum for upper primary grades, MEN and USAID-sponsored technical teams identified a number of realities. Some 3rd 
+and 4th grade students had not fully acquired necessary decoding skills, teachers needed specific training on activities for fluency and comprehension instruction, 
+instruction in grammar, morphology, and dictation needed to be embedded in active reading, and more opportunities were needed for practice in oral MSA. These 
+findings are relevant to planning the Bridge upper primary interventions. 
+
+Having examined the “trouble spots” in upper primary Arabic, math, and science instruction, 
+Bridge partners will test and evaluate interventions to improve students’ learning outcomes in the 
+target subject areas and grade levels in the pilot schools. USAID encourages the implementation 
+of interventions for instructional improvement that target both individual teacher capacity 
+and institutional capacities at the school, PD, AREF, and central levels of the education 
+system. Interventions could include but need not be limited to: a) improved training and support 
+for teachers (virtual or in-person) in teaching these subjects, with a particular focus on gender 
+equity, supporting students with disabilities, and assisting other marginalized groups, and/or b) 
+improved training and support for subject-specific inspectors in Arabic, math, and science. Each 
+intervention selected must be well-justified by the data from the performance outcomes study, be 
+
+
+well-studied, and, as the program moves towards the scale-up phase, either be recommended for 
+discontinuation or for scale-up. The calendar agreed upon with the MEN for the implementation 
+of these upper primary interventions is as follows: 
+
+ 
+
+2022-2023 
+
+2023-2024 
+
+2024-2025 
+
+2025-2026 
+
+2026-2027 
+
+Study of upper primary 
+students’ performance 
+and of degree of 
+curricular adoption in 
+Arabic (reading), math, 
+and science in grades 
+4,5, and 6 in the pilot 
+schools 
+
+Piloting of select 
+interventions to address 
+difficulties in grade 4 
+instruction in the key 
+subject areas, with a 
+report by the end of the 
+academic year on 
+promising practices 
+
+Piloting of select 
+interventions to 
+address difficulties in 
+grade 5 instruction in 
+the key subject areas, 
+with a report by the 
+end of the year on 
+promising practices, 
+
+Piloting of select 
+interventions to 
+address difficulties in 
+grade 6 instruction in 
+the subject areas, with 
+a report at the end of 
+the year on promising 
+practices 
+
+Compilation and presentation of 
+recommendations for interventions to 
+strengthen grade 4-6 instruction in key 
+subject areas at national scale (based 
+on the efforts under the pilot) 
+
+MEN to start the scaling interventions, 
+and Bridge partners to provide hands-
+on support and mentorship/ technical 
+support as needed. 
+
+
+
+ 
+
+Also under Objective One, Bridge partner(s) will work to significantly improve assessment 
+practices for the upper primary grades, both at the classroom and at the systems levels. Despite 
+significant recent progress in improving the availability of student data,6 Morocco is still striving 
+to build uniform and fully transparent processes for assessing and reporting on primary students’ 
+learning outcomes. Activities to achieve improved capacity in student assessment could include: 
+a) proposing improvements to current practices in grades 4-6 assessment in Arabic literacy, math, 
+and science that could allow for provincial and regional aggregation of student outcomes, and/or 
+b) supporting the efforts of the central MEN evaluation department to develop a national exam at 
+the grade 4 level. The recipients will be encouraged to work with the MEN to develop a holistic 
+and comprehensive approach to improving upper primary assessment, and to pilot that 
+approach in the Bridge upper primary pilot schools. The ultimate results of these efforts should 
+be readily accessible information on grade 4, 5, and 6 student performance in Arabic (reading), 
+math, and science in pilot schools, and personnel and institutions able to continue to produce and 
+publish this type of information system-wide after the close of the program. 
+
+6Although there is a 6th grade national exam, the results of which can be accessed through the “MASSAR” portal by individual students based on a sign-in number, 
+those results are not available to the general public. It is also not possible either at a national level or a regional level to find data on students’ foundational skills 
+achievement for any grade below grade 6. 
+
+ 
+
+2. Objective Two: Enhance the Moroccan Education System’s Ability to Improve 
+Learning Outcomes in Lower Secondary (grade 7-9) Arabic, English, and Science 
+(Selected Subjects) 
+
+Under this objective, Bridge will focus on improving Arabic, English, and certain aspects of STEM 
+instruction in grades 7-9 in the pilot lower secondary schools. Curriculum development and roll-
+out for these subjects are at different stages of development. 
+
+Arabic: Moroccan middle school students study Arabic for five hours a week. The MEN is 
+currently preparing to revise, test, and redistribute the Arabic language middle school curriculum 
+and accompanying materials. A recent USAID-sponsored review of the current Arabic language 
+curriculum for middle school revealed the following opportunities for improvement: a) articulation 
+of the middle school curriculum with the new upper primary Arabic curriculum, b) improved and 
+clarified developmental progressions in the middle school curriculum, c) a need to identify a 
+universal set of themes or concepts to which to connect ideas and activities across grades in the 
+
+
+curriculum, d) inclusion of diversified activities, and e) plans for an evaluation and support system 
+based on clear standards that show students’ progress on the acquisition of key skills. 
+
+Under Objective Two, Bridge partner(s) will support MEN working groups to revise, pilot, and 
+finalize the grades 7-9 Arabic curricula, taking the above findings into consideration and aligning 
+the new proposed curriculum with the Global Proficiency Framework. The new Arabic middle 
+school curriculum should provide students with a more evidence-based, successful learning 
+experience. Application of a similar approach as that used in the new English curricula for 
+Moroccan middle school (see below) could assist in achieving that end result. Applicants are 
+encouraged to propose effective and innovative approaches for collaborating with the MEN 
+to implement the Bridge pilot to create the most effective Arabic middle school curriculum 
+possible. Detailed data collection on the experience of applying the new Arabic curriculum 
+in the pilot schools should inform the work to scale up the curriculum in the out years of the 
+Bridge program. 
+
+English: One of Morocco’s most important curricular reform initiatives of the past five years has 
+been to progress towards teaching English in all middle schools. Most Moroccan middle school 
+students currently study English for 2 hours a week7. This effort has been fast-tracked to honor 
+His Majesty the King’s promise to the nation that free English instruction will be broadly available 
+to the entire population. USAID has supported this effort throughout 2021 with a pilot production 
+of 7th grade prototype thematic units, lessons, and teachers guides for middle schools. These 
+prototypes are based on the Cognitive and Academic Language Learning (CALLA) approach to 
+English instruction, The core concept of the CALLA approach is that students need an opportunity 
+to learn strategies for the mastery of both academic content and language functions, so that they 
+can not only communicate but also study and work in the target language. This is a major 
+innovation in the Moroccan education system. 
+
+7 
+Middle school English instruction is not yet scaled nation-wide but is active in 50-60% of middle schools.. By 2026, the MEN aims to take middle 
+school English instruction nationwide. 
+
+Under Objective Two, the Bridge implementing partner will, mandatorily, support MEN working 
+groups to revise, pilot, and finalize the grades 7-9 English curricula, using the products from the 
+USAID-sponsored consultants as a point of departure. Approximately $5 million of the available 
+budget for the Bridge activity has been set aside to support this work. The implementing partner 
+will assist the MEN to: a) finalize the draft standards framework for English for grades 7-9, b) 
+finalize the scopes and sequences documents for English for grades 7-9, c) finalize the teaching 
+and learning materials for English in grades 7-9, including model lessons, d) develop both 
+formative and summative evaluation items, e) train trainers (inspectors) for implementation of the 
+new curricula and materials in the Bridge pilot schools for grades 7-9, f) coach as needed for the 
+piloting of the new curricula and materials, g) monitor and evaluate the implementation of the new 
+curricula and materials, h) implement regular formative evaluation of student progress in mastering 
+core concepts from the new middle school curricula, i) design and test remedial classwork and/or 
+other routines to determine whether or not they build student skills, possibly through an adaptation 
+of the TARL methodology, j) reinforce teachers’ and schools’ ability to track individual student 
+progress, and k) develop and test digital or other distance learning or supplementary applications 
+to support the implementation of the English language curriculum in grades 7-9 (given the small 
+number of actual instructional hours for the subject). 
+
+USAID and the MEN’s joint overall goal for all language curricula piloted in Bridge middle 
+schools is that instruction should reinforce students’ abilities to use language for discussion, 
+debate, and analysis in both professional and scholastic settings. Also, all language curricula 
+drafted in the course of this activity should provide initial indications as to how learning for 
+
+
+students with disabilities and how gender equity can be addressed. These indications can then be 
+used in the development of teacher training and observation tools to try and enhance inclusivity 
+and gender equity at the classroom level. Applicants are encouraged to propose effective and 
+innovative approaches for collaborating with the MEN to implement the Bridge pilot to 
+create the most effective English middle school curriculum possible. Detailed data collection 
+on the experience of applying the new English curriculum in the pilot schools should inform 
+work to scale up the curriculum in the out years of the program. 
+
+STEM: Moroccan middle school students receive two hours of instruction in life/earth sciences 
+(biology and geology, taught as one subject), two hours of instruction in physics and chemistry 
+(taught as one subject), 4 hours of instruction in math, two hours of instruction in technology, and 
+two hours of instruction in computer science (in certain regions) per week. Together, these subjects 
+comprise Morocco’s “STEM” curricula for middle school. 
+
+Under Objective Two, Bridge will help the MEN advance the reform of its STEM curricula for 
+grades 7-9.8 USAID is not the only donor supporting this massive effort. MEN partner JICA is 
+providing the technical expertise for the reform and piloting of the curricula in math. The MEN 
+itself is providing the technical expertise for the reform and piloting of the curriculum in 
+technology. The Bridge implementing partner’s efforts therefore will focus on: a) providing 
+technical assistance for the overall coordination of the STEM reforms, to ensure maximum 
+complementarity across curricula developed and tested9, and b) leading the working groups and 
+piloting process for the reform of the science curricula (life/earth sciences, and physics/chemistry). 
+In regard to the science curricula, and in accordance with the findings of a study USAID 
+commissioned on the quality of the current middle school curriculum, the Bridge implementing 
+partner will work to: a) strengthen links across the grade levels of the science subjects, b) 
+incorporate reflective practice, reasoning and analytical skills, and c) close gaps between curricular 
+documents, teachers’ guides, and student textbooks. Any and all approaches to accomplish these 
+aims are acceptable to the MEN and USAID. 
+
+8Note that work under this sub intermediate result is anticipated to take place entirely in French. 
+
+9 
+The overall coordinator provided through USAID’s assistance will coordinate with his/her Moroccan counterparts to ensure, to the extent possible 
+that the curricula in all of the STEM subjects use similar, evidence-based, problem-driven approaches to science, math, and technology instruction. 
+The coordinator and the different curricular design teams would also be expected to work with the Academy Science et Technique to successfully 
+implement these curricular revision activities. 
+
+Applicants are encouraged to propose effective and innovative approaches for collaborating 
+with the MEN to implement the Bridge pilot to create the most effective STEM middle school 
+curricula possible. Detailed data collection on the experience of applying the new Life/Earth 
+sciences and Physics/Chemistry curriculum in the pilot schools should inform work to scale 
+up the curriculum in the out years of the Bridge program. 
+
+All curricula drafted in the course of this activity should provide initial indications as to how 
+learning for students with disabilities and how gender equity can be addressed. These can then be 
+further concretized in the development of materials for the respective grade levels and subjects. 
+The MEN and USAID have agreed on the following calendar for the piloting and revisions of all 
+new middle school curricula and materials: 
+
+ 
+
+ 
+
+2022 
+
+2022-2023 
+
+2023-2024 
+
+2024-2025 
+
+2025-2026 
+
+2026-2027 
+
+
+
+
+7th-9th grade 
+curriculum 
+reform 
+
+Preparations; 
+Arabic, English, 
+and Science 
+Curricula 
+working groups 
+
+Pilot and 
+monitoring; all 
+subjects 7th grade 
+
+Pilot and 
+monitoring; 
+all subjects 
+8th grade 
+
+Pilot and 
+monitoring; 
+all subjects 
+9th grade 
+
+ 
+
+Revisions and 
+final 
+refinements to 
+curriculum 
+and materials 
+
+Ministry-led 
+Scale Up 
+
+ 
+
+ 
+
+7th grade 
+
+8th grade 
+
+9th grade 
+
+
+
+ 
+
+As was true for the upper primary levels, Bridge also offers a unique opportunity to improve 
+assessment practices in grades 7-9 in all critical subject areas (including math), both at the 
+classroom and at the systems levels. Under Objective Two, Bridge will strengthen the capacity of 
+local stakeholders and system actors to evaluate and analyze students’ performance in Arabic 
+(reading), English, math, and science in these grades. Activities to achieve this improvement in 
+capacity could be similar to those listed in the table on page 7 for work on assessment in the upper 
+primary grades. Applicants are encouraged to demonstrate how they will work with the MEN 
+to develop a holistic and comprehensive approach to improving middle school assessment, 
+and to pilot that approach in the Bridge lower secondary/middle schools. The ultimate results 
+of these efforts should be: readily accessible information on grades 7- 9 student performance in 
+Arabic (reading), math, and science (at least in the 60 pilot schools), and personnel and institutions 
+able to continue to produce and publish this information after the close of Bridge. 
+
+ 
+
+3. Objective Three: Enhance the Moroccan Education System’s Preparedness to Scale 
+Up Successful Practices in these Subject Areas and Grades 
+
+Objective Three focuses on data collection and systemic planning and intervention beyond the 
+classrooms of the Bridge pilot schools. Under this objective, the Bridge partner(s) will accomplish 
+tasks that “pave the way” for successful scale-up of the interventions and curricula trialled under 
+objectives one and two. 
+
+Policy Studies and Reform: Under this objective, the Bridge implementing partner will 
+collaborate with the MEN to review, and, as need be, update plans and policies that have to be 
+firmly in place in order for a successful scale up of piloted and proven interventions. These include, 
+but are not limited to policies about: a) language of instruction for STEM in middle school 
+(including whether this should be either French or English), b) the production, distribution, and 
+replacement of books and materials (the analysis of which may benefit from a supply chain 
+analysis), c) procurement and use of technology (which likely should be studied before a full-scale 
+expansion of the STEM innovations in the curriculum), d) teacher recruitment and professional 
+development for critical subject instruction in upper primary and middle school, and e) national 
+level student assessment and data analysis in the Bridge target subjects and grades. Applicants may 
+also wish to consider how policy reform related to financial planning and budgeting might be 
+required in order to best prepare the MEN and education system as a whole for a scale-up effort 
+for Bridge interventions. USAID anticipates setting an annual “policy analysis” agenda with the 
+MEN and the Bridge team over the life of the Bridge program, to ensure that planning for scale-
+up and sustainability of Bridge activities is underway from the outset of the award. Applicants 
+are encouraged to propose an effective process for this annual policy analysis agenda-setting 
+that will identify and address the biggest policy barriers to successful scale-up of the Bridge 
+reforms. 
+
+Capacity Measurement and Improvement in Non-Bridge Regions: Sustaining a system-wide 
+reform to impact student outcomes requires a high level of capacity. Central directorates have to 
+
+
+be able to provide vision, direction, and supervision. AREFs have to be able to provide 
+coordination and regional implementation. Provincial directorates have to be able to provide 
+technical support and direction to schools. Schools have to be able to coordinate and implement 
+with their teaching staff. While piloting of key interventions is occurring in the Bridge regions, in 
+select non-Bridge regions the program will provide capacity assessment services to the MEN to 
+help the Ministry identify where its own personnel and practices need reinforcement in order to 
+adopt and sustain the “Bridge” reforms. And, as the scale-up of the middle school reforms 
+continues, Bridge implementing partner staff will provide the training of trainers in all twelve 
+AREFs per subject and grade level to catalyze the roll out of the new middle school curricula and 
+materials. Detailed annual plans for this capacity building will need to be established between the 
+Bridge team, the MEN, and USAID to ensure that it is taking place from the inception of the award. 
+Applicants are encouraged to propose an effective process for this annual capacity building 
+planning that will leverage proven tools and metrics to measure and improve institutional 
+capacity. By the close of the program, a detailed picture of the MEN’s capacity to sustain the 
+upper primary and middle school instructional reforms should be available, and trainers from 
+across the twelve AREFs should be ready to roll-out the full scale up of all the Bridge interventions 
+in grades 4-9 nationwide. 
+
+Development of Distance Learning Strategies for Supplementing Arabic, English, Math, and 
+Science Instruction: In a post-COVID, climate-stressed environment, it will be difficult for the 
+MEN to reach all its potential upper primary and middle school learners without utilizing distance 
+learning. In order to prepare for scale-up of the Bridge interventions, the Bridge team has an 
+opportunity to use the “Toolkit for Developing a Comprehensive Strategy for Distance Learning” 
+recently produced by USAID to support the MEN in making a long-term plan for delivering 
+distance learning in the key subject areas addressed under Bridge. This work could include: a) 
+Reviewing past and present distance learning initiatives and lessons learned, including vis-a-vis 
+the use of the ASAFER platform and the i-Takwine platform, b) Identifying potential current and 
+possible future distance learning partners and opportunities, c) Developing and validating a 
+comprehensive distance learning strategy for student instruction in upper primary and middle 
+school. Applicants are encouraged to propose an effective 5-year process for the 
+development and eventual start-up of this comprehensive distance learning strategy. 
+
+ 
+
+VII. Monitoring, Evaluation, and Learning 
+
+As a “proof of concept” design, Bridge offers rich opportunities for data collection on the efficacy 
+of both products and processes. USAID anticipates a need for internal monitoring and evaluation 
+based on the indicators included in the table below and anticipates conducting a process evaluation 
+of the program’s implementation, conducted by Bridge, as well as an impact evaluation restricted 
+to components of the Bridge pilot schools interventions conducted by an external evaluator 
+contracted by USAID. The applicant is expected to rigorously evaluate the effectiveness of the 
+developed models. Data related to activities and services provided under Bridge, should not only 
+be disaggregated by sex but should demonstrate how the interventions have positively/qualitatively 
+impacted the beneficiaries according to their respective gender. The indicators should also be 
+disaggregated by youth age groups, urban/rural, and disability, as feasible. 
+
+Required Indicator 
+
+Indicator 
+Type 
+
+Program Level/Inputs 
+
+Percent of USG-assisted organizations with improved 
+
+Outcome, 
+standard 
+
+Goal Level. Analysis of the functionality of the AREFs, provincial 
+directorates, and schools working with the program in the pilot zones 
+should contribute data to this indicator 
+
+
+
+
+performance (CBLD-9)10 
+
+Percent of learners receiving USG assistance with improved 
+proficiency in a Bridge program key subject (disaggregated by 
+subject, grade level, gender, ability, rural/urban) 
+
+Outcome, 
+adapted/custom 
+
+Obj. 1 & 2: Relies on collection of data on student performance in 
+Bridge pilot upper primary and lower secondary schools 
+
+Percent of education institutions (national departments and 
+regional academies) using national-approved benchmarks 
+effectively to measure student progress 
+
+Outcome, 
+adapted/custom 
+
+Obj. 1 & 2: Relies on collection of data about institutions’ abilities to 
+assess students in key Bridge subjects. Approximately one third of the 
+work under each of these objectives is targeted towards improving 
+assessment. Intensive work with AREFs and provincial directorates to 
+analyze the middle school pilots and to improve evaluation systems 
+will contribute to these indicators. 
+
+Education data system strengthened through USG assistance 
+
+Outcome, 
+supplemental 
+
+% of participants in USAID-sponsored training who 
+demonstrate improved instructional practices, based on 
+criterion-based assessments (custom) 
+
+Outcome, 
+adapted/custom 
+
+Obj. 1 & 2: Data on teacher practice in the target subject areas and 
+pilot schools will provide the information for this indicator. 
+
+Education system strengthened through USG-assisted policy 
+reform (new standard) 
+
+Outcome, 
+supplemental 
+
+Obj. 1, 2, 3: The development of the new curricula and materials, as 
+well as the proposals for general policy improvements that are 
+anticipated under Obj. 3, will contribute towards this indicator. 
+
+# of learners in primary schools or equivalent non-school 
+based settings reached with USG education assistance 
+
+Output, standard 
+(ES1.3) 
+
+Obj. 1: Students in the pilot school zones would be counted towards 
+this indicator whenever they were involved in the grade 4-6 pilots. 
+
+# of learners in secondary schools or equivalent non-school 
+based settings reached with USG education assistance 
+
+Output, standard 
+(ES.1-4) 
+
+Obj. 2: Students in the pilot school zones using the new grade 7-9 
+curricula would be counted towards this indicator. 
+
+# of educators who complete professional development 
+activities with USG assistance 
+
+Output, standard 
+(ES.1-6) 
+
+Obj. 1, 2, 3: Staff trained to implement the program in the pilot zones 
+would be counted towards this indicator, as would staff trained under 
+the capacity building efforts under objective three 
+
+# of education administrators and officials who complete 
+professional development activities with USG assistance 
+
+Output, standard 
+(ES 1-12) 
+
+ 
+
+Obj. 1, 2, 3: Staff trained to implement the program in the pilot 
+zones would be counted towards this indicator, as would staff trained 
+under the capacity building efforts under objective three 
+
+Number of persons trained with USG assistance to advance 
+outcomes consistent with gender equality or female 
+empowerment through their roles in public or private sector 
+institutions or organizations. (GNDR 8)11 
+
+Output, 
+supplemental 
+
+Obj. 1, 2, 3: Staff receiving gender-specific training related to 
+program implementation would be counted towards this indicator, as 
+would staff trained under the capacity building efforts under objective 
+three 
+
+
+
+10 
+DDI/EDU is funding the development of sectoral guidance for this indicator: https://www.edu-links.org/resources/pirs-cbld-9-improved-performance 
+
+11 
+Other applicable indicators for work in gender can be found at: https://www.usaid.gov/sites/default/files/documents/205.pdf 
+
+ 
+
+Applicants are encouraged, as a function of their designs, to propose other indicators as 
+appropriate for the monitoring and evaluation of the Bridge program. All indicator and 
+program data should assist the MEN, USAID, and the Bridge partners to collaborate, learn and 
+adapt (CLA) together to create the most effective curricula and interventions possible in the 
+chosen subject areas for grades 4-9 in the pilot schools. The Implementation research conducted 
+throughout Bridge should focus on the questions of (a) effectiveness of the Bridge interventions 
+in producing improvements in instruction and student learning, (b) implementability within 
+existing systems of interventions, (accounting for system constraints), and (c) cost of different 
+models/approaches, to provide necessary data for future planning and implementation at scale by 
+the MEN. As the MEL and CLA plans are developed, USAID may request inclusion of additional 
+indicators, such as ES.1-2 ; ES.1-45-CUST (representation of diverse populations), ES.1-5-CUST, 
+and STIR 10 (Number of innovations supported through USG assistance). 
+
+ 
+
+In addition to indicator-based M&E and a robust CLA effort, the program will develop and 
+implement a Learning Agenda to explore additional parameters and questions relative to the 
+eventual success of the scale-up of interventions. Under this learning agenda, partners could help 
+the MEN and USAID to, for example: a) identify effective strategies for system-wide and donor-
+
+
+wide collaboration that can be taken to scale to facilitate curricular reform; b) identify strategies 
+for involving parents, communities, and civil society in reforms; c) identify strategies for involving 
+Moroccan youth;, and d) identify strategies for transitioning training on all new curricula into the 
+appropriate portions of the new B.A. teaching degree funded by USAID under the HEP-M program 
+(refer to this link. Applicants are encouraged to propose priority items for a learning agenda 
+which afterwards can be examined, revised, and eventually adopted by the MEN, USAID, 
+and the Bridge team. 
+
+ 
+
+VIII. Award Administration 
+
+
+ 
+
+The authorizing legislation for this award is the Foreign Assistance Act of 1961, as amended, and 
+it will be subject to 2 CFR 700 - and 2 CFR 200 – Uniform Administrative Requirements, Cost 
+Principles, and Audit Requirements for Federal Awards. 
+
+ 
+
+Note: The term “program” as used in 2 CFR 200 and this NOFO is typically considered by USAID 
+to be an Activity supporting one or more Project(s) pursuant to specific Development Objectives. 
+Please see 2 CFR 700 for the USAID specific definitions of the terms “Activity” and “Project” as 
+used in the USAID context for purposes of planning, design, and implementation of USAID 
+development assistance. 
+
+ 
+
+ 
+
+[END OF SECTION A] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+Subject to the availability of funding and at the discretion of the Agency, USAID/Morocco intends 
+to provide $25,000,000 in total USAID funding and anticipates supporting one (1) Cooperative 
+Agreement over the course of five (5) years pursuant to this notice of funding opportunity. 
+
+ 
+
+2. Start Date and Period of Performance for Federal Awards 
+
+
+ 
+
+The period of performance anticipated herein is five (5) years. The estimated start date will be 
+upon the signature of the award, which is anticipated on or about March 28, 2022. 
+
+ 
+
+3. Substantial Involvement 
+
+
+ 
+
+Consistent with 2 CFR 200.24 Cooperative Agreement and the USAID Automated Directive 
+Services (ADS) 303.3.11 Cooperative Agreements and Substantial Involvement, USAID/Morocco 
+anticipates having substantial involvement throughout the implementation of the USAID Bridge 
+to Middle School Activity. 
+
+ 
+
+USAID has designated an Agreement Officer’s Representative (AOR) for this cooperative 
+Agreement. The role of the AOR is to assist in the programmatic monitoring and administration 
+of the award. 
+
+ 
+
+The Agreement Officer (AO) may delegate the approval listed in the items below to the AOR, 
+except for authority to change the program description, the period of performance, the approved 
+budget, and key personnel that require AO approval. 
+
+USAID’s substantial involvement under the award is expected to be as follows: 
+
+1. Approval of Annual Implementation Plans (i.e., workplans); 
+2. Approval of the detailed Monitoring, Evaluation and Learning Plan (MEL Plan); 
+3. Approval of Key Personnel and any changes in Key Personnel; and 
+4. Approval of the Recipient’s subawards, in accordance with 2 CFR 200.308(c)(6), managed 
+through the award. 
+
+
+ 
+
+4. Title to Property 
+
+
+ 
+
+Property title under the resultant agreement shall vest with the recipient in accordance with the 
+requirements of 2 CFR 200.310-316. 
+
+ 
+
+5. Authorized Geographic Code 
+
+
+ 
+
+The geographic code for this program is 937 (the United States, the recipient country, and 
+developing countries other than advanced developing countries, but excluding any country that is 
+a prohibited source) for the procurement of commodities and services, per ADS 310.3.1.1. 
+
+
+ 
+
+6. Nature of the Relationship between USAID and the Recipient 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+
+transfer funds to accomplish a public purpose of support or stimulation of the Bridge to Middle 
+School Activity which is authorized by Federal statute. 
+
+ 
+
+The successful Recipient will be responsible for ensuring the achievement of the program 
+objectives and the efficient and effective administration of the award through the application of 
+sound management practices. The Recipient will assume responsibility for administering Federal 
+funds in a manner consistent with underlying agreements, program objectives, and the terms and 
+conditions of the Federal award. The Recipient, using its own unique combination of staff, 
+facilities, and experience, has the primary responsibility for employing whatever form of sound 
+organization and management techniques may be necessary in order to assure proper and efficient 
+administration of the resulting award. 
+
+ 
+
+7. Other Information 
+
+
+ 
+
+Award will be made to a responsible Applicant(s) whose Concept Paper and Full Application best 
+meet the requirements of this NOFO and the selection criteria contained herein. Issuance of this 
+NOFO does not constitute an award commitment on the part of the Government, nor does it 
+commit the Government to pay for costs incurred in the preparation and submission of a Concept 
+Paper or Full Application. In addition, final award of any resultant award cannot be made until 
+funds have been fully appropriated, allocated, and committed through internal USAID procedures. 
+While it is anticipated that these procedures will be successfully completed, the potential applicant 
+is hereby notified of these requirements and conditions for award. The Application is submitted at 
+the risk of the Applicant; should circumstances prevent an Award from being made, all preparation 
+and submission costs are at the Applicant's expense. 
+
+ 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION C: CONCEPT PAPER ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+
+ 
+
+Eligibility for this NOFO is not restricted, except individuals and governments. 
+
+ 
+
+The Applicant must have established financial management, monitoring and evaluation 
+processes, internal control systems, and policies and procedures that comply with established 
+U.S. Government standards, laws, and regulations. The successful Applicant(s) will be subject 
+to a positive risk assessment by the Agreement Officer (AO). 
+
+ 
+
+A positive risk assessment means that the applicant possesses or has the ability to obtain the 
+necessary management competence to plan and carry out the assistance program to be funded, 
+and that the applicant will practice mutually agreed upon methods of accountability for funds 
+and other assets provided by USAID. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+
+ 
+
+There is no cost sharing requirement anticipated under this award. 
+
+ 
+
+3. Fee/Profit 
+
+
+ 
+
+While for-profit firms may participate, pursuant to 2 CFR 200.400(g), it is USAID policy not 
+to award Fee/Profit to prime recipients and subrecipients under assistance instruments. 
+However, while Fee/Profit is not allowed for sub-awards, the prohibition does not apply when 
+the recipient acquires goods and services in accordance with 2 CFR 200.317 -326, 
+“Procurement Standards.” Forgone profit does not qualify as cost-share. 
+
+ 
+
+4. Limitations on submissions 
+
+
+ 
+
+Concept Paper 
+
+Each applicant is limited to one Concept Paper submission under this NOFO as the prime 
+Applicant. There is no limitation on being included as a potential sub-awardee across multiple 
+applications. The use of exclusive teaming arrangements is discouraged. 
+
+ 
+
+Full Application 
+
+The Full Application shall be submitted by invitation only. USAID/Morocco will issue a 
+Request for Application (RFA) with complete instructions for the submission and review 
+process to the Apparently Successful Applicant. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION D: CONCEPT PAPER SUBMISSION INFORMATION 
+
+ 
+
+ 
+
+1. Agency Point of Contact 
+
+
+ 
+
+Only the Agreement Officer is authorized to make commitments on behalf of USAID. The 
+Agreement Officer is listed below: 
+
+ 
+
+Mr. Zachary Clarke 
+
+Regional Agreement Officer 
+
+USAID/MERP 
+
+zclarke@usaid.gov 
+
+ 
+
+The Point of Contact (POC) for information on this NOFO is: 
+
+ 
+
+Ms. Salya Yacoubi 
+
+Supervisory Acquisition & Assistance Specialist 
+
+USAID/Morocco 
+
+syacoubi@usaid.gov 
+
+ 
+
+The above contact information is only for informational purposes. The NOFO itself and 
+any subsequent amendments can be found at www.grants.gov. All Concept Papers must be 
+submitted according to instructions contained in this NOFO. 
+
+ 
+
+In order to maintain a fair and transparent funding opportunity, USAID maintains strict 
+guidelines on who within USAID may be contacted regarding applications or questions 
+about the opportunity. Applicants may only contact USAID via the email address provided 
+in this NOFO. Failure to comply with the USAID points of contact guidance mandated in 
+the NOFO may disqualify the Applicant(s). 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions and requests for clarification regarding this NOFO should be submitted by email 
+to syacoubi@usaid.gov with a copy to usaidmoroccocontracts@usaid.gov no later than the 
+date and time indicated on the cover letter. The subject line must read “Bridge to Middle 
+School 72060822RFA00001”. 
+
+ 
+
+Any information given to a prospective Applicant concerning this NOFO will be furnished 
+promptly to all other prospective Applicants as an amendment to this NOFO on 
+www.grants.gov, if that information is necessary in submitting applications or if the lack 
+of it would be prejudicial to any other prospective Applicant. Please check www.grants.gov 
+for any amendments. 
+
+ 
+
+3. Concept Paper Applicants responsiveness 
+
+
+ 
+
+All Concept Papers received by the closing date and time will be reviewed for 
+responsiveness to the specifications outlined in these guidelines and the Concept Paper 
+
+
+application format. Section E: Concept Paper Review Information addresses technical 
+merit review criteria. Applicants must review, understand, and comply with all aspects of 
+this NOFO. Failure to do so may lead to the disqualification of a Concept Paper. It is the 
+Applicant’s responsibility to ensure that all necessary documentation is complete and 
+received on time. 
+
+ 
+
+No addition or modifications will be accepted after the submission date. PDF documents 
+are the preferred file format, though MS Word documents will be accepted, if necessary. 
+
+ 
+
+4. Application Process 
+
+
+ 
+
+In accordance with 5 CFR 1320, which implements the Paperwork Reduction Act, USAID 
+requires an electronic submission of the application. 
+
+ 
+
+USAID/Morocco will follow a three-phase process. Additional information about each 
+phase is provided below: 
+
+ 
+
+Phase 1: Concept Paper 
+
+Participation in Phase 1 is mandatory. Failure to participate in Phase 1 will preclude further 
+consideration of the Applicant. Phase 1 will be the Concept Paper submission only. The 
+Concept Paper is a reduced and condensed format of application with a reduced number of 
+pages and Annex requirements, as compared to the Final Application. If submissions 
+exceed the page number limitations, only the pages up to the limit will be reviewed, and 
+pages exceeding the limit will not be considered. Initial Applications that do not meet the 
+requirements of this NOFO will not be considered. 
+
+ 
+
+USAID will acknowledge the submission of Concept Papers within three (3) business days 
+and will review Concept Papers against the merit review criteria detailed in the NOFO. 
+
+ 
+
+The deadline for submission of Concept Papers is November 22, 2021 at 4:00 PM. 
+
+ 
+
+Concept Paper submission 
+
+ 
+
+A Concept Paper is a short document in which the applicant(s) provides an overview of its 
+idea, following the requirements stated below. Further guidance on format of the Concept 
+Paper is included at the end of this section and a Concept Paper template is also provided 
+(See Attachment 2). 
+
+ 
+
+USAID/Morocco anticipates two possible results from the Concept Paper merit review 
+process: 
+
+ 
+
+● Identification as the Apparently Successful Applicant - Invited for Co-Creation: 
+The applicant that submits the most highly rated Concept Paper (i.e. the Apparently 
+Successful Applicant), as determined by the review of the Concept Papers, will be invited 
+to participate in Phase 2, the co-creation process. If the co-creation process is successfully 
+concluded, USAID/Morocco will request submission of a full application. 
+
+
+● Rejection: If the Concept Paper is not the most highly rated, it will not be considered 
+further. USAID/Morocco will reject the Concept Paper and will send a letter of notification 
+to the applicant ending its participation in this NOFO process. 
+
+ 
+
+Concept Paper Format and Content 
+
+ 
+
+This section presents guidance for the structure of the Concept Paper. To facilitate the 
+competitive review of the Concept Papers, USAID/Morocco will only consider Concept 
+Papers conforming to the format prescribed below. 
+
+ 
+
+Concept Papers MUST be written in readable English and submitted electronically via e-
+mail in Microsoft Word and/or Adobe PDF. Concept Papers shall not exceed seven (7) 
+pages, using standard pages (i.e., A4 size paper), one-inch margins with 12-point font. 
+Applicants must use the template attached to this NOFO (see Attachment 2). Clarity and 
+specificity are important as is ensuring that the Concept Paper narrative addresses the 
+points USAID/Morocco will use to review the Concept Paper (outlined in Section E of this 
+document). During the Concept Paper merit review process, USAID/Morocco is likely to 
+reject those Concept Papers that are vague or merely restate NOFO language. The 
+approximate page lengths are provided as a rough guide and are not mandatory, as long as 
+the entire Concept Paper does not exceed 7 pages. When a Concept Paper has more than 7 
+pages, the additional pages will not be evaluated. Figures, graphics, and tables may have 
+less than Times New Roman 12-point font and must be easily legible. 
+
+ 
+
+Any Concept Paper not adhering to the format in Attachment 2 will not be evaluated. Any 
+additional information or reference material pages not requested by the NOFO may be 
+removed prior to evaluation and may adversely affect an applicant’s evaluation/review. 
+
+Note: If a Concept Paper submission includes any proposed resource or technical partners, 
+USAID/Morocco may meet, at its sole discretion, with the Concept Paper Applicant and 
+any proposed resource or technical partner(s) to understand their role in the activity. 
+
+ 
+
+The Concept Paper and all required supporting information should be submitted by email 
+to Salya Yacoubi at syacoubi@usaid.gov with a copy to 
+usaidmoroccocontracts@usaid.gov as specified on the cover page of this document. The 
+email subject line should follow this naming scheme: “Applicant Organization Name - 
+Bridge to Middle School Concept Paper Submission”. No additions or modifications will 
+be accepted after the submission date. Concept Papers that are submitted late or incomplete 
+will not be considered for the co-creation phase. 
+
+ 
+
+USAID/Morocco will acknowledge receipt of Concept Papers submission. 
+
+ 
+
+Phase 2: Co-creation 
+
+Co-creation is a design approach that brings people together to collectively produce a 
+mutually valued outcome, using a participatory process that assumes some degree of shared 
+power and decision making. Co-creation is a time-limited and highly participatory process 
+where partners, potential implementers, and end-users define a problem collaboratively, 
+identify new and existing solutions, build consensus around action, and refine plans to 
+move forward with programs and projects. Under this NOFO USAID/Morocco intends to 
+
+
+apply a co-creation approach that involves discussions with applicants selected for Phase 
+2 to inform the final program description and other sections of the award, as needed. 
+
+ 
+
+Selected applicants will be invited by the Agreement Officer (AO) or his representative 
+from USAID/Morocco to a co-creation workshop. Participation in the Co-creation process 
+is mandatory for the applicant prior to submitting the Full Application. 
+
+ 
+
+Other participants in the co-creation process may include: USAID, JICA, the MEN, 
+potential private sector partners, and other donors and stakeholders. 
+
+ 
+
+Phase 3: Request for Application (RFA) 
+
+Upon completion of the co-creation process, USAID/Morocco will issue a Request for 
+Application (RFA) with complete instructions for the submission and review process to the 
+Apparently Successful Applicant. 
+
+ 
+
+The full Application will include two parts: a Technical Application, primarily consisting 
+of a detailed Program Description, and a Business (Cost) Application. 
+
+ 
+
+Note: Request for Full Application is NOT a commitment to funding. USAID/Morocco 
+reserves the right to make no award under this RFA at any stage of the process at no 
+cost to the USG. 
+
+ 
+
+[END OF SECTION D] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION E: CONCEPT PAPER REVIEW INFORMATION 
+
+ 
+
+1. Concept Paper Merit Review Criteria 
+
+
+The Concept Paper Merit Review Criteria prescribed here are tailored to the requirements 
+of this particular NOFO. The Applicant should note that these criteria serve to: 
+
+(a) identify the significant matters which the Concept Paper Applicant should 
+address in the application, and 
+
+(b) set the standard against which the Concept Paper will be evaluated. 
+
+ 
+
+Technical and other factors will be evaluated relative to each other, as described here and 
+prescribed by the Technical Application Format. The Technical Application will be 
+evaluated by a Merit Review Committee (MRC) using the ratings described in this section. 
+
+ 
+
+2. Review and Selection Process 
+a) Rating 
+
+
+ 
+
+USAID will conduct a merit review of Concept Papers received that comply with the 
+instructions in this NOFO. The Concept Papers will be reviewed and evaluated using 
+an adjectival rating system (Exceptional, Very Good, Satisfactory, Marginal, 
+Unsatisfactory) in accordance with the definitions below: 
+
+ 
+
+ 
+
+Adjective 
+
+Merit Review Criterion 
+
+Exceptional 
+
+An Exceptional Concept Paper has the following characteristics: 
+
+• A comprehensive and thorough Concept Paper of exceptional 
+merit. 
+
+• Concept Paper meets and fully exceeds the Government 
+expectations or exceeds NOFO objectives and presents very low 
+risk or no overall degree of risk of unsuccessful performance. 
+
+• Strengths significantly outweigh any weaknesses that may 
+exist. 
+
+Very Good 
+
+A Very Good Concept Paper has the following characteristics: 
+
+• A Concept Paper demonstrating a strong grasp of the objectives. 
+
+• Concept Paper meets NOFO objectives and presents a low overall 
+degree of risk of unsuccessful project performance. 
+
+• Strengths significantly outweigh any weaknesses that exist. 
+
+Satisfactory 
+
+A Satisfactory Concept Paper has the following characteristics: 
+
+• A Concept Paper demonstrating a reasonably sound response and a 
+good grasp of the objectives. 
+
+• Concept Paper meets NOFO objectives and presents a moderate 
+overall degree of risk of unsuccessful project performance. 
+
+
+
+
+• Strengths outweigh weaknesses. 
+
+Marginal 
+
+A Marginal Concept Paper has the following characteristics: 
+
+• The Concept Paper shows a limited understanding of the 
+objectives. 
+
+• Concept Paper meets some or most of the NOFO objectives, but 
+presents a significant overall degree of risk of unsuccessful project 
+performance. 
+
+• Weaknesses equal or outweigh any strength that exists. 
+
+Unsatisfactory 
+
+An Unsatisfactory Concept Paper has the following characteristics: 
+
+• The Concept Paper does not meet the NOFO objectives or requires 
+a major rewrite of the Concept Paper. 
+
+• Present an unacceptable degree of risk of unsuccessful project 
+performance. 
+
+• Weaknesses demonstrate a lack of understanding of the 
+Government’s needs. 
+
+• Weaknesses significantly outweigh any strength that exists. 
+
+ 
+
+
+
+ 
+
+b) Merit Review 
+
+
+ 
+
+The Concept Papers will be reviewed in accordance with the three (3) merit review 
+criteria set forth below. 
+
+ 
+
+ Each of the merit review criteria is equally important: 
+
+ 
+
+(1) The degree to which the applicant demonstrates ability to iteratively develop 
+and test interventions for efficacy and effectiveness in a country context similar 
+to Morocco. 
+(2) The degree to which the applicant outlines a coherent, feasible, context-
+appropriate, evidence-based, efficient, and innovative approach to 
+accomplishing all three objectives of the Bridge program. All three objectives 
+are of equal importance, and the applicant’s approach should elucidate and 
+build upon the logical connections between the three, and should demonstrate 
+how, based on the applicant’s intervention, the MEN will achieve increased 
+capacity to scale up the proven Bridge interventions according to the calendars 
+outlined. 
+(3) The degree to which the applicant’s approach is likely to achieve measurable 
+progress against the required indicators, and to support collaborating, learning, 
+and adapting, and cross-cutting issues such as gender, technology, private 
+sector engagement and climate change. 
+
+
+ 
+
+ 
+
+
+ 
+
+3. Anticipated Announcement and Federal Award Dates 
+
+
+Based on the NOFO issue date and considering that no submission extensions will be 
+granted, and no delays in the review/evaluation process, USAID anticipates having an 
+award in place by March 28, 2022. 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE IS LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, the potential applicant is hereby 
+notified of these requirements and conditions for the award. 
+
+ 
+
+The Agreement Officer is the only individual who may legally commit the Government to the 
+expenditure of public funds. No costs chargeable to the proposed Agreement may be incurred 
+before receipt of either a fully executed Agreement or a specific, written authorization from the 
+Agreement Officer. 
+
+ 
+
+The Cooperative Agreement signed by the Agreement Officer is the authorizing document, which 
+shall be transmitted to the Recipient for countersignature to the authorized agent of the successful 
+organization(s) electronically. 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+The Agreement Officer will use applicable policies and standard provisions in the administration 
+
+of the resulting award. No deviations are currently contemplated to the standard provisions for the 
+Cooperative Agreement resulting from this NOFO. The standard provisions to be used will be the 
+Mandatory Standard Provisions for U.S. Non-governmental Recipients or the Mandatory Standard 
+Provisions for Non-U.S. Non-governmental Recipients. 
+
+ 
+
+For U.S. organizations, the resulting federal award will be administered in accordance with the 
+following policies and regulations: ADS 303, 2 CFR 700, 2 CFR 200, and ADS 303maa, Standard 
+Provisions for U.S. NGOs are applicable. For complete copies of 2 CFR 200 and 2 CFR 700, 
+please also see ADS 303.4. 
+
+ 
+
+For non-U.S. organizations, ADS 303mab, Standard Provisions for Non-U.S. NGOs will apply. 
+
+ 
+
+This NOFO only contains provisions that are required at this stage. Final provisions will be 
+incorporated in the final award as applicable to the selected Recipient. 
+
+ 
+
+3. Reporting Requirements 
+
+
+ 
+
+Program Reports shall be in accordance with applicable USAID Standard Provisions. All written 
+documentation must be submitted in professional-level English. The reports listed below are the 
+initial reports that USAID anticipates requiring from the successful recipient. Based on the 
+evolving nature of the agreement, USAID may provide modified reporting requirements. 
+
+ 
+
+Note: USAID’s fiscal year starts on October 1 and ends on September 30. Four fiscal quarterly 
+periods begin on October 1, January 1, April 1, and July 1. 
+
+ 
+
+
+a. Financial Reporting: 
+
+
+ 
+
+Financial Reports shall be in accordance with applicable USAID Standard Provisions. 
+
+ 
+
+Quarterly Financial Report: Quarterly Financial Reports shall be due within 30 days following 
+the end of each quarter corresponding to USAID’s fiscal year from October 1 through September 
+30. 
+
+ 
+
+In accordance with 2 CFR 200.327, Standard Form 425 (SF-425) and SF-425A are used to report 
+accrued expenditures. Reporting periods are calendar quarters. Quarterly financial reports are due 
+no later than 30 days after the end of each calendar quarter (January 30, April 30, July 30, and 
+October 30). 
+
+ 
+
+Quarterly Accruals Reporting: Accruals are the estimated cost of the liability recognized during 
+the period for goods and/or services received but not disbursed, or goods and/or services invoiced 
+but not recorded. 
+
+ 
+
+USAID performs a quarterly accrual exercise at the end of each quarter; i.e. December 31, March 
+31, June 30, and September 30. The Recipient is expected to submit four quarterly accrual 
+expenditures reports 15 days before the end of a quarter per year. The Recipient must submit a 
+spreadsheet showing cumulative disbursements and estimated (un-disbursed) accruals to the AOR. 
+
+ 
+
+Final Financial Report: The Final Financial Report shall be due within 90 days following the 
+expiration of the award. Financial Reports shall be in accordance with 2 CFR 700. USAID requires 
+recipients to use the Standard Form 425 or Standard Form 425a, Federal Financial Report, or such 
+other forms authorized for obtaining financial information as may be approved by OMB. 
+
+ 
+
+Financial reports shall be submitted as follows: Financial Analyst, Office of Financial 
+Management (email: RabatFM@usaid.gov ) and the AOR. 
+
+ 
+
+Foreign Tax Reports: Reporting of foreign taxes under this agreement shall follow the standard 
+provision entitled “Reporting Host Government Taxes (December 2014)” of this award document. 
+
+ 
+
+Host government taxes are not allowable where the Agreement Officer provides the necessary 
+means to the recipient to obtain an exemption or refund of such taxes, and the recipient fails to 
+take reasonable steps to obtain such exemption or refund. Otherwise, taxes are allowable in 
+accordance with the Standard Provision, “Applicability of 2 CFR 200 and 2 CFR 700 (December 
+2014),” and must be reported as required in this provision. 
+
+ 
+
+The Recipient must include this reporting requirement in all applicable sub-agreements, including 
+subawards and contracts. 
+
+ 
+
+b. Performance Reporting and Plan Requirements: 
+
+
+ 
+
+The Recipient shall be responsible to USAID/Morocco for all matters related to the execution of 
+
+the agreement. Specifically, the Recipient shall report to the Agreement Officer (AO) and to the 
+Agreement Officer’s Representative (AOR), who will be designated by the AO prior to award. 
+
+
+The Recipient will be expected to provide the following reports. All approved quarterly, annual 
+reports, implementation plans, MEL plans, and technical reports shall be posted to the 
+Development Experience Clearinghouse (DEC) as appropriate. 
+
+ 
+
+All reports listed below shall be submitted by the specified due dates, electronically via email for 
+approval by the USAID AOR unless otherwise agreed upon with the AOR. Recipients will consult 
+the AOR on the format and expected content of reports prior to submission. The Recipient should 
+always be ready for revision in program indicators and reporting requirements. 
+
+ 
+
+All reports listed below shall be submitted by the specified due dates, electronically via email for 
+approval by the USAID AOR unless otherwise agreed upon with the AOR. The Recipient will 
+consult the AOR on the format and expected content of reports prior to submission. The Recipient 
+should always be ready for revision in program indicators and reporting requirements. 
+
+ 
+
+ 
+
+TYPE OF REPORT 
+
+DUE DATE (Counted from 
+Effective Award Date) 
+
+DISTRIBUTION 
+
+Quarterly Performance 
+Reports 
+
+ 
+
+Within 30 calendar days after 
+the end of each quarter. 
+
+[English and a summary in 
+Arabic, soft copy] 
+
+AOR or A/AOR. 
+
+Acceptance will be 
+provided in writing after 
+AOR review and revisions 
+made by Recipient. 
+
+Annual Implementation 
+Plan 
+
+Within 60 calendar days of the 
+date of award. By September 15 
+of each subsequent year. 
+
+[English and Arabic, soft 
+copy] 
+
+AOR or A/AOR. 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+Grants Manual 
+
+Within 90 calendar days of the 
+date of the award 
+
+[English, soft copy] 
+
+AOR or A/AOR and AO 
+
+ 
+
+Monitoring, Evaluation and 
+Learning Plan (MELP) 
+
+A full MELP is expected to be 
+submitted within 90 calendar 
+days of the date of award. 
+Updates to the MELP will be 
+submitted by October 30 for 
+subsequent years. 
+
+[English, soft copy] 
+
+AOR and A/AOR. 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+
+
+
+Geographic Information 
+Systems (GIS) Reporting 
+
+Twice annually as part of the 
+2nd Quarterly Performance 
+Report and the Annual Report. 
+
+Geospatial (geo-referenced) 
+data will be submitted or 
+updated for each project site. 
+
+[English, soft copy] 
+
+AOR and A/AOR 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+ 
+
+Environmental Mitigation 
+and Monitoring Plan 
+(EMMP) 
+
+With submission of the first 
+Annual Implementation Plan, 
+within 60 calendar days of the 
+date of the award. 
+
+Updated and submitted at least 
+once per year using 
+USAID/Morocco’s template. 
+[English, soft copy] 
+
+AOR and MEO (Mission 
+Environment Officer). 
+
+Approval will be provided 
+in writing after AOR and 
+MEO review and revisions 
+made by Recipient. 
+
+Gender Analysis and 
+Action Plan 
+
+Within 90 calendar days of the 
+date of award. 
+
+[English, soft copy] 
+
+AOR or A/AOR. 
+
+Acceptance will be 
+provided in writing after 
+AOR review and revisions 
+made by Recipient. 
+
+Final Report 
+
+90 calendar days after 
+completion of the award. 
+
+[English and Arabic, soft 
+copy] No page limit. 
+
+AOR, AO and DEC 
+(Reference to M.21) 
+
+AO approval after AOR 
+review and approval after 
+revisions made by 
+Recipient. 
+
+Closeout/Demobilization 
+Plan 
+
+120 calendar days prior to 
+award completion date. 
+
+Approved, in writing, by the 
+AO. 
+
+Other Reporting 
+
+Submitted upon request 
+
+[English/Arabic, soft copy] 
+
+AOR 
+
+Project Fact sheet 
+
+Submitted 90 days after award 
+using the USAID/Morocco 
+template. It will then be updated 
+at least quarterly. 
+
+[English/Arabic] 
+
+ 
+
+AOR 
+
+
+
+
+Highlights & Success Stories 
+
+Submitted regularly during the 
+project lifetime, and at a 
+minimum three highlights 
+and/or success stories per each 
+quarter. 
+
+[English] 
+
+AOR 
+
+Reporting reference in Standard Provisions 
+
+Reporting of Foreign Taxes 
+– Reference to RAA13. 
+Reporting Host Government 
+Taxes 
+
+The recipient must annually 
+submit a report by April 16 of 
+the next year. 
+
+FMO/AOR/AO 
+
+Participant Training 
+(TEAMS) 
+
+Within 30 days after the end 
+of each Federal Fiscal year 
+quarter. Recipient is 
+responsible for submitting data 
+into TEAMS directly. 
+
+[English] 
+
+AOR, A/AOR and Mission 
+R-2 Verifier 
+
+
+
+ 
+
+The Recipient will allow at least 10 business days for review and comments from the AOR on any 
+draft report submission. All reports and plans are subject to written approval by the AOR, except 
+for the Closeout Plan and the Property Disposition Plan, which are subject to Agreement Officer’s 
+approval. 
+
+● Quarterly Performance Reports: 
+
+
+The Recipient will report performance progress for the program under the award and 
+monitor and track indicators as reviewed and agreed to with USAID on a quarterly basis, 
+by submitting a quarterly report. Quarterly performance reports will be submitted 30 
+calendar days after the end of each quarter and contain the following information: 
+
+ 
+
+(1) A comparison of actual accomplishments with the goals and objectives established 
+for the period, including up-to-date figures for indicators identified in the Monitoring, 
+Evaluation & Learning Plan (MELP). Whenever appropriate, and the output of programs 
+or projects can be readily quantified, such quantitative data should be related to cost data 
+for computation of unit costs. 
+
+ 
+
+(2) Reasons why established goals were not met, if appropriate. 
+
+ 
+
+(3) Other pertinent information including, when appropriate, analysis and explanation of 
+cost overruns or high unit costs. 
+
+ 
+
+A general quarterly performance report template, in addition to the indicator reporting, 
+will be provided by the AOR. The Recipient must submit via email a copy of quarterly, 
+
+
+annual, and final performance reports to the AOR in accordance with 2 CFR 200.328. 
+The Quarterly Performance Plan must be in English and a summary must be submitted 
+in French and/or in Arabic. 
+
+ 
+
+The timing, format and other instructions will be agreed by the AOR and the Recipient’s 
+Key Personnel at the outset of implementation. 
+
+ 
+
+● Annual Implementation Plan: 
+
+
+ 
+
+Submitted annually to the AOR for approval, the first Implementation Plan, including 
+activity planning and timeframe, is due 60 calendar days of the date of the award. For 
+the subsequent years, the implementation plan will be submitted for approval by 
+September 15 of every year. The plan shall include subcontract and sub-grants planning. 
+
+ 
+
+Annual Implementation Plans are to be submitted in English and French to the AOR and 
+Alternate AOR via email. 
+
+ 
+
+● Grants Manual: 
+
+
+ 
+
+The Recipient shall submit a Grants Manual to the AOR and the Agreement Officer 
+within 90 days of the date of the award. 
+
+ 
+
+● Monitoring, Evaluation and Learning Plan (MELP): 
+
+
+ 
+
+ The applicant will be responsible for developing and tracking activity targets, outputs 
+and impact, and overall activity indicators in the application which gauge individual 
+program activities and program effectiveness. Within 90 days following the award, the 
+implementing partner must submit the first annual implementation plan. In addition to 
+the initial implementation plan, the recipient will develop and submit a Monitoring, 
+Evaluation and Learning Plan (MELP). The MELP must adequately track and document 
+progress against activity components. The MELP also reflects the award progress over 
+the life of the program and is a critical tool for planning, managing, documenting, and 
+evaluating performance. The MELP will be reviewed and validated annually and revised 
+if appropriate. 
+
+ 
+
+The Recipient shall submit the Activity Monitoring, Evaluation and Learning Plan 
+within 90 days of the date of the award to the AOR for approval. It is the AOR 
+responsibility to review, collaborate on any necessary changes and finally approve the 
+MELP. An updated MELP report is due by October 30 of every year. The performance 
+year is identified as October 1- September 30 of each year. 
+
+ 
+
+Indicators: The applicant’s MELP shall propose indicators that are realistic, attainable 
+and that will be effective as guides to management and reporting; and explain how the 
+MELP will be implemented and applied as a management and evaluative tool. The 
+following indicators, should be taken into consideration (at the CDCS IR level as well as 
+at the Bridge to Middle School Activity objective levels): 
+
+ 
+
+For each indicator, the MELP must include a Performance Indicator Reference Sheet 
+which provides a precise definition, information on disaggregation, the data source, 
+
+
+frequency of data collection, collection method, the party responsible for data collection, 
+when baseline information will be collected, and expected annual/outyear targets. 
+Indicators should be disaggregated by gender, youth age groups, urban/rural, and 
+disability, as feasible. 
+
+ 
+
+USAID’s website contains further background on USAID’s MEL approach as well as 
+more detail on developing a MELP. 
+
+ 
+
+In line with the Agency’s recent directives on agency-wide implementation of the 
+Development Information Solution (DIS), USAID/Morocco will likely transition to the 
+DIS during the life of this activity, potentially in the first or second year of 
+implementation. In anticipation of this transition, the Recipient should review publicly 
+available information 
+
+(https://www.usaid.gov/work-usaid/resources-for-partners/development-information-
+solution) and be prepared to transition to data entry into the DIS should it be required by 
+USAID in the future. 
+
+ 
+
+The Recipient is responsible for oversight of the operations of the supported activities. 
+The Recipient must monitor its activities under this Agreement to assure compliance with 
+applicable Federal requirements and performance expectations are being achieved. 
+Monitoring by the Recipient must cover each program, function, or activity. Events may 
+occur between the scheduled performance reporting dates that have significant impact 
+upon the supported activity. In such cases, the Recipient must immediately notify the 
+AOR and the AO as soon as the following types of conditions become known: 
+
+ 
+
+❖ Problems, delays, or adverse conditions which will materially impair the 
+ability to meet the objective of the award. This disclosure must include a 
+statement of the action taken, or contemplated, and any assistance needed 
+to resolve the situation. 
+
+
+ 
+
+❖ Favorable developments which enable meeting time schedules and 
+objectives sooner or at less cost than anticipated or producing more or 
+different beneficial results than originally planned. Notifications must 
+include a statement of actions taken and / or any assistance needed to resolve 
+the situation. 
+
+
+ 
+
+● Geographic Information Systems (GIS) Reporting: 
+
+
+ 
+
+The Implementation Plan will also apply geospatial methods using Geographic 
+Information Systems (GIS) technology to support USAID’s effort to incorporate 
+geographic data and analysis into USAID’s overall development planning, design, and 
+monitoring & evaluation. The Recipient is not expected to purchase or utilize GIS 
+software unless it is relevant for implementation of their activities. The Recipient can 
+utilize any of the GIS tools publicly available. When geographic data is acquired through 
+data use or ownership agreements with the host-country government or other entity, the 
+Recipient must ensure that the agreement makes it permissible for the geographic data to 
+be submitted to, and used by, USAID and other U.S. Embassy agencies. Please refer to 
+the USAID link for more details. 
+
+ 
+
+
+The Recipient shall provide geographic location or coordinate data twice annually as part 
+of the 2nd Quarterly Performance Report and the Annual Report for all USAID-
+supported sites as follows: 
+
+ 
+
+A. Activity Location Data 
+
+The Recipient must collect and submit Activity Location Data (ALD) and Location of 
+Intended Beneficiaries according to the following four requirements: 
+
+ 1. Level of Geographic Detail 
+
+At a minimum, the location(s) where the activity is implemented must be collected 
+at the Exact Site Level, unless otherwise specified by USAID. The Location of the 
+Intended Beneficiaries shall be collected at least at the Administrative Unit 1 Level 
+(i.e., Region), and where possible/appropriate at the Administrative Unit 3 Level 
+(i.e., Commune) or at the Administrative Unit 2 Level (i.e., Province). 
+
+ 2. Activity Location Data Collection Standards 
+
+Activity Location Data must be collected according to the standards provided by 
+USAID, such as the use of standard names, boundaries, and locations in Latin script. 
+
+ 3. Activity Location Data Submission Method and Frequency 
+
+Activity Location Data must be submitted twice annually as part of the 2nd Quarterly 
+Performance Report and the Annual Report to an Agency approved reporting tool 
+or in a digital format according to the standards and procedures provided by USAID. 
+If the Activity Location Data has not changed since the previous data submission, it 
+must be indicated when the data is submitted. 
+
+ 4. Activity Location Data Risk 
+
+Activity Location Data must exclude personally identifiable information. If the 
+Activity Location Data collected by the Recipient requires protection from 
+unauthorized access to mitigate data risk, the Recipient must notify USAID before 
+submitting the Activity Location Data to USAID and implement mitigation 
+techniques to protect the data from unauthorized access in consultation with USAID. 
+
+ 
+
+ B. Geographic Data Assets 
+
+Geographic data assets are primary or derived data assets that are developed or utilized 
+during a project. All geographic data assets must be submitted in accordance with the 
+special clause or provision “Submission of Datasets to the Development Data Library 
+(DDL)” per ADS 302.3.5.21. 
+
+ 
+
+NOTE: Activity Location Data (ALD) and geographically disaggregated indicators are 
+not considered geographic assets. ALD should be submitted as reported in accordance 
+with section “A. Activity Location Data” sub-section “3. Activity Location Data 
+Submission Method and Frequency” above. 
+
+ 
+
+1. Geographic Data Files 
+
+a. Both primary and derived Geographic Data Files must be submitted. 
+
+b. Geographic Data Files must be submitted in Shapefile (.shp), GeoTIFF (.tif), CSV 
+(.csv), or GeoJSON (.geojson) file formats. 
+
+
+c. In addition to fulfilling the submission requirements noted above, Geographic 
+Data Files that are stored in other file formats that may be useful to end users can be 
+voluntarily submitted in those file formats. For example, Geographic Data Files 
+stored in a File Geodatabase (.gdb) or as a Web Map Service (WMS) can also be 
+submitted. 
+
+d. Geographic Data Files that are stored in Shapefile (.shp) or GeoTIFF (.tif) formats 
+will include metadata that follows ISO 19115 using the ISO 19139 XML 
+implementation schema. 
+
+e. Geographic Data Files that are stored in a CSV or GeoJSON format and contain 
+latitude/longitude coordinates will include supplementary information regarding the: 
+
+1. Method used to create the latitude/longitude coordinates; 
+
+2. Spatial reference used to generate the latitude/longitude coordinates; and 
+
+3. Geographical precision of the latitude/longitude coordinates using the 
+International Aid Transparency Initiative standards. For example, a 
+latitude/longitude coordinate may represent an exact location, the center of a 
+populated place, or the center of a subnational administrative unit. This 
+information must be included in addition to the actual CSV dataset. 
+
+f. Geographic Data Files that are stored in Shapefile (.shp), GeoTIFF (.tif), or 
+GeoJSON (.geojson), JSON (.json) file formats will use the Geographic Coordinate 
+System World Geodetic System 1984 (GCS WGS 1984) spatial reference. If the use 
+of a different spatial reference was required for an analysis, the spatial reference that 
+was used must be indicated elsewhere in the metadata. 
+
+2. Geographic Data Processing and Analysis Files 
+
+a. Geographic Data Processing and Analysis Files that are written in programming 
+languages will include a description of the language they are written in (e.g., a Python 
+file would be .py, a Javascript file would be .js, etc.), the intended purpose of the file, 
+use limitations, and execution instructions. 
+
+b. Geographic Data Processing and Analysis Files will include descriptive comments 
+and relative pathnames to enable efficient and effective use by an end user. 
+
+c. Geographic Data Processing and Analysis Files are stored in an online repository, 
+such as GitHub, these files can also be submitted as a clone of the repository. 
+
+3. Geographic Data Visualization Files 
+
+a. Geographic Data Visualization Files created using desktop GIS software will be 
+submitted in Esri Map Document (.mxd) or QGIS Project (.qgs) file formats. 
+
+b. Geographic data visualization products that are finalized in separate desktop 
+software or stored in a different file format can also be submitted if they may be of 
+use to an end user. For example, when a data visualization product is stored as a Map 
+Package or is finalized in Adobe Illustrator, the Map Package (.mpk), or Adobe 
+Illustrator (.ai) file can be additionally submitted. 
+
+c. Geographic Data Visualization Files written in a programming language and 
+used to generate web-based data visualization products will include an indication of 
+the programming language (for example, a Python file would be .py, a Javascript file 
+would be .js, etc.) 
+
+
+d. Geographic Data Visualization Files will reference relative pathnames to the 
+source of all Geographic Data Files that are displayed in the data visualization 
+product. 
+
+e. When products created with the Geographic Data Visualization Files are included 
+in documents that are submitted to the USAID Development Experience 
+Clearinghouse (DEC), such as a report that includes a map created with a Geographic 
+Data Visualization File, the URL that links to the location of the document in the 
+DEC must be provided. 
+
+ 
+
+● Environmental Mitigation and Monitoring Plan (EMMP): 
+
+
+ 
+
+Submitted annually to the AOR and MEO for approval, the first Environmental 
+Mitigation and Monitoring Plan (EMMP) is due 60 calendar days of the date of the 
+award, with submission of the first Annual Implementation Plan. For the following 
+subsequent years, the Recipient shall update and submit at a minimum once per year 
+using USAID/Morocco’s template. 
+
+ 
+
+Refer to Section Environmental Compliance Requirement for complete details. 
+
+ 
+
+● Gender Analysis and Action Plan: 
+
+
+ 
+
+The Recipient shall submit a Gender Analysis and Action Plan within 90 calendar days 
+of the date of the award to the AOR for approval. 
+
+ 
+
+The Recipient will conduct a gender analysis that assesses context and gender gaps and 
+needs, including access, time constraints and participation limitations. This analysis will 
+inform a subsequent gender action plan, which will be developed in collaboration with 
+the USAID management team and finalized within 90 calendar days of the award. The 
+gender action plan will inform the Activity’s technical approach as it relates to gender 
+throughout the life of the Activity. It also will be used to inform the design of activities 
+that seek to reduce opportunity gaps between men and women and or address power 
+differentials to promote gender equity. The gender action plans should be developed in 
+conjunction with the Activity’s monitoring, evaluation and learning plan, and progress 
+should be reflected in annual work plans and performance reports. 
+
+ 
+
+● Final Report 
+
+
+ 
+
+The Recipient must prepare and submit the final report required by this Agreement to the 
+Agreement Officer’s Representative in English and French within 90 calendar days 
+after completion of the award and to the Development Experience Clearinghouse (DEC) 
+at http://dec.usaid.gov. 
+
+Refer to Standard Provisions Section M.21 Submissions to the Development Experience 
+Clearinghouse and Publications (June 2012). 
+
+The final performance report should contain, but not be limited to the following 
+information: 
+
+ 
+
+❖ Executive summary 
+❖ Describe the methods of assistance used and the pros and cons of these 
+methods 
+
+
+
+❖ Brief description and mapping of the results of the program 
+❖ How this program assisted USAID in meeting targets 
+❖ Success stories 
+❖ Problems and how they were overcome 
+❖ Cost-effectiveness 
+❖ Final-year (and/or final fiscal year) as well as cumulative life-of-
+activity indicator reporting 
+❖ Lessons learned, and 
+❖ Recommendations for USAID’s future interventions 
+
+
+ 
+
+● Close out/Demobilization Plan 
+
+
+ 
+
+In order to efficiently close-out this activity and reduce time and costs for both parties, 
+USAID/Morocco requests that, 120 calendar days prior to award completion, the 
+Recipient shall submit a closeout/demobilization plan for AOR approval. The 
+closeout/demobilization plan shall include: 
+
+ 
+
+a) a draft property disposition plan, 
+
+b) plan for the phase-out of operations, 
+
+c) delivery schedule for all reports or other deliverables required under the 
+agreement, and 
+
+d) timetable for completing all required actions in the demobilization plan, 
+including the submission date of the final property disposition plan to the 
+Agreement Officer. 
+
+ 
+
+● Other Reporting 
+
+
+ 
+
+During the life of the award, the Recipient may be required to prepare and submit other 
+special reports concerning specific activities and/or analyses as directed by the AOR or 
+other USAID Officials in English, French and/or Arabic. These requests will be in 
+writing and will specify the due date. 
+
+ 
+
+4. Program Income 
+
+
+ 
+
+Program income is not anticipated. 
+
+ 
+
+5. Environmental Compliance 
+
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of USAID’s 
+activities on the environment be considered, and that USAID include environmental sustainability 
+as a central consideration in designing and carrying out its development programs. This mandate 
+is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System 
+(ADS) Parts 201.5.10g and 204 (https://www.usaid.gov/who-we-are/agency-policy/series-200), 
+which, in part, require that the potential environmental impacts of USAID-financed activities are 
+identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. 
+
+Environmental compliance obligations under these regulations and procedures are specified in the 
+following paragraphs of this NOFO. In addition, the recipient must comply with host country 
+
+
+environmental regulations unless otherwise directed in writing by USAID. In case of conflict 
+between host country and USAID regulations, the latter shall govern. 
+
+No activity funded under this NOFO will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). IEE 
+ME 20-73 received concurrence from the Middle East BEO on September 08, 2020, and is valid 
+until September 30, 2024, for activities under this NOFO. 
+
+Specifically, the activities envisioned in this NOFO fall into the following classes of action: 
+
+● Education, technical assistance, or training programs except to the extent such programs 
+include activities directly affecting the environment (such as construction of facilities, etc.) 
+● Analyses, studies, academic or research workshops and meetings 
+● Document and information transfers 
+
+
+In case of a sub-grants component, the recipient will be required to use an Environmental Review 
+Form (ERF) or Environmental Review (ER) checklist using impact assessment tools to screen 
+grant applications to ensure the funded applications will result in no adverse environmental impact, 
+to develop mitigation measures, as necessary, and to specify monitoring and reporting. Use of the 
+ERF or ER checklist is called for when the nature of the grant applications to be funded is not well 
+enough known to make an informed decision about their potential environmental impacts, yet due 
+to the type and extent of activities to be funded, any adverse impacts are expected to be easily 
+mitigated. Implementation of sub-grant activities cannot go forward until the ERF or ER checklist 
+is completed and approved by USAID. The recipient is responsible for ensuring that mitigation 
+measures specified by the ERF or ER checklist process are implemented. 
+
+The recipient will be responsible for periodic reporting to the USAID Agreement Officer 
+Representative, as specified in this NOFO. 
+
+USAID anticipates that environmental compliance and achieving optimal development outcomes 
+for the proposed activities will require environmental management expertise. Respondents to the 
+NOFO should therefore include as part of their application their approach to achieving 
+environmental compliance and management, to include: 
+
+● The respondent’s approach to developing and implementing an environmental review 
+process for a grant fund and/or an EMMP. 
+● The respondent’s approach to providing necessary environmental management expertise, 
+including examples of past experience of environmental management of similar activities. 
+● The respondent’s illustrative budget for implementing the environmental compliance 
+activities. For the purposes of this NOFO, applicants should reflect illustrative costs for 
+environmental compliance implementation and monitoring in their cost application. 
+
+
+ As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient, in 
+collaboration with the USAID Agreement Officer Representative and Mission Environmental 
+Officer or Bureau Environmental Officer, as appropriate, shall review all ongoing and planned 
+activities under this NOFO to determine if they are within the scope of the approved Regulation 
+216 environmental documentation. 
+
+
+If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written USAID 
+approval of environmental documentation amendments. 
+
+Any activities found to be outside the scope of the approved Regulation 216 environmental 
+documentation shall be halted until an amendment to the documentation is submitted and written 
+approval is received from USAID. 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+
+The Agreement Officer for this Award is: 
+
+ 
+
+Mr. Zachary Clarke 
+
+Regional Agreement Officer 
+
+USAID/MERP 
+
+zclarke@usaid.gov 
+
+ 
+
+ 
+
+The Acquisition and Assistance Specialist for this Award is: 
+
+ 
+
+Ms. Salya Yacoubi 
+
+Supervisory Acquisition & Assistance Specialist 
+
+USAID/Morocco 
+
+syacoubi@usaid.gov 
+
+ 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+● USAID reserves the right to fund any or none of the applications submitted. The 
+Agreement Officer is the only individual who may legally commit the Government to the 
+expenditure of public funds. Any award and subsequent incremental funding will be 
+subject to the availability of funds and continued relevance to Agency programming. 
+
+
+ 
+
+● Applications with Proprietary Data 
+
+
+The Applicant who includes data that they do not want disclosed to the public for any 
+purpose or used by the U.S. Government except for evaluation purpose, should mark the 
+cover page with the following: 
+
+ “This application includes data that must not be duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, 
+an award is made as a result of – or in connection with – the submission of this data, the 
+U.S. Government will have the right to duplicate, use, or disclose the data to the extent 
+provided in the resulting award. This restriction does not limit the U.S. Government’s 
+right to use information contained in this data if it is obtained from another source 
+without restriction. The data subject to this restriction are contained in sheets {insert 
+sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the 
+following: 
+
+ “Use or disclosure of data contained on this sheet is subject to the restriction on the 
+title page of this application.” 
+
+ 
+
+● Other relevant information: 
+
+
+Links to applicable regulations and references: 
+
+- Data Universal Numbering System (DUNS) / Systems for Award Management (SAM) 
+
+http://www.dnb.com and www.sam.gov 
+
+ 
+
+- ADS Series 300 Acquisition and Assistance 
+
+https://www.usaid.gov/who-we-are/agency-policy/series-300 
+
+ 
+
+● Further background on USAID’s Gender can be found here: 
+
+
+Gender: Gender Equality and Women's Empowerment and ADS Chapter 205 - Integrating 
+Gender Equality and Female Empowerment in USAID's Program Cycle. 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+ 
+
+[END OF NOFO 72060822RFA00001 – AMENDMENT 000001] 
+
+ 
+
+

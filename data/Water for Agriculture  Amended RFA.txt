@@ -1,0 +1,5585 @@
+
+
+ 
+
+ 
+
+ 
+
+ Issue Date: January 11, 2019 
+
+ Deadline for Questions/Clarifications: January 21, 2019, 12:00 PM Nigerian Time 
+
+Application Closing Date & Time: February 25, 2019, 4:00 P.M. 
+
+ 
+
+ 
+
+ 
+
+Subject: Notice of Funding Opportunity Number: SOL-72062019RFA00002 - 
+
+ Request for Full Technical and Cost/Business Application 
+
+ 
+
+Program Title: Water For Agriculture Activity 
+
+ 
+
+The United States Agency for International Development in Nigeria (USAID/Nigeria) is seeking 
+applications for a Cooperative Agreement from qualified entities to implement the Water for 
+Agriculture program as described in the attached Notice of Funding Opportunity (NOFO). Eligibility 
+for this award is not restricted. 
+
+ 
+
+USAID intends to make an award to the Applicant(s) who best meets the objectives of this funding 
+opportunity based on the merit review criteria described in this NOFO subject to a risk assessment. 
+Eligible parties interested in submitting an application are encouraged to read this NOFO thoroughly 
+to understand the type of program sought, application submission requirements and selection process. 
+
+ 
+
+To be eligible for award, the Applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. It is the responsibility of the Applicant to regularly check the 
+website to ensure they have the latest information pertaining to this notice of funding opportunity and 
+to ensure that the NOFO has been received from the internet in its entirety. USAID bears no 
+responsibility for data errors resulting from transmission or conversion process. If you have difficulty 
+registering on www.grants.gov or accessing the NOFO, please contact the Grants.gov Helpdesk at 1-
+800-518-4726 or via email at support@grants.gov for technical assistance. 
+
+ 
+
+USAID may not award to an Applicant unless the Applicant has complied with all applicable unique 
+entity identifier and System for Award Management (SAM) requirements detailed in Section D.6.f. 
+The registration process may take many weeks to complete. Therefore, applicants are encouraged to 
+begin registration early in the process. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished to 
+all potential Applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the part 
+of the Government nor does it commit the Government to pay for any costs incurred in preparation or 
+submission of comments/suggestions or an application. Applications are submitted at the risk of the 
+Applicant. All preparation and submission costs are at the Applicant’s expense. 
+
+ 
+
+ 
+
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+//Signed// 
+
+Cheryl Hodge-Snead 
+
+Agreement Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Contents 
+1. SECTION A- PROGRAM DESCRIPTION..........................................................................4-18 
+2. SECTION B – FEDERAL AWARD INFORMATION ........................................................ 19-20 
+3. SECTION C – ELIGIBILITY INFORMATION .................................................................. 21-22 
+4. SECTION D – APPLICATION AND SUBMISSION INFORMATION ........................... 23-44 
+5. SECTION E – APPLICATION REVIEW INFORMATION…………………………......45-47 
+6. SECTION F – FEDERAL AWARD AND ADMINISTRATION INFORMATION ......... 48-61 
+7. SECTION G – FEDERAL AWARDING AGENCY CONTACTS ………………………….62 
+8. SECTION H – OTHER INFORMATION .................................................................................. 63 
+ANNEX #1: ILLUSTRATIVE BUDGET FORMAT ............................................................................ 64 
+ANNEX #2: STANDARD PROVISIONS .......................................................................................... 65-68 
+ANNEX #3: ABBREVIATIONS AND ACRONYMS ...................................................................... 69-71 
+ANNEX #4: PAST PERFORMANCE INFORMATION ................................................................. 72-74 
+ANNEX #5: SAMPLE FORMAT FOR INITIAL SECURITY PLAN .......................................... 75-78 
+ANNEX #6: USAID/NIGERIA QUARTERLY REPORTING STANDARD FORMAT FOR ALL 
+IPS .............................................................................................................................................................. 79 
+ANNEX #7: BRANDING AND MARKING REQUIREMENT WAIVER ......................................... 80 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION A – PROGRAM DESCRIPTION 
+
+WATER FOR AGRICULTURE 
+
+I. INTRODUCTION 
+
+In northeastern Nigeria, especially in Adamawa, Borno, and Yobe states, an acute food security 
+crisis has unfolded in the wake of eight years of massive displacement, the neglect and 
+destruction of agricultural systems, a lack of access to farmland, and the loss of livelihoods as a 
+result of the Boko Haram and ISIS in West Africa (ISIS-WA) insurgencies. In these three 
+northeastern states, 3.9 million people are estimated to be living in severe crisis and emergency 
+phases of water-dependent food and nutrition insecurity, including 1.7 million members of host 
+communities, 1.6 million internally displaced persons (IDPs), and 600,000 returnees.1 
+
+1 Nigeria-Northeast: Humanitarian Needs Overview November 2017. United Nations Office for the Coordination of 
+Humanitarian Affairs (OCHA). 
+
+2 Climate change and herder farmer conflicts in West Africa, Climate change, Security risks and conflict reduction 
+in West Africa, A case study of farmer herder conflicts in Cote d’Ivoire, Ghana, and Burkina Faso, 1960-2000. 
+Cabot, C, 2017. 
+
+3 Northeast Nigeria Joint Livelihood and Market Recovery Assessment, 2017. 
+
+4 The resources-conflict debate revisited: untangling the case of farmers-herdsmen clashes in the North-Central 
+region of Nigeria, Emmanuel Terkimbi Akov, August 30, 2017, African Security Review Journal, Volume 26, 2017, 
+Issue 3. 
+
+Over 78 percent of IDPs live in host communities. The influx of IDPs and returnees has 
+overwhelmed these vulnerable communities, placing considerable pressure on already fragile 
+agricultural resources, overstretching key public services, and diminishing food, water, and 
+income sources. These deteriorating conditions are conflict drivers in many instances. 
+
+The impact of conflict on agricultural production has been high, including livestock losses, 
+destruction of irrigation and farming facilities, and the collapse of extension services, coupled 
+with reduced production due to limited access to water.2 Populations affected by the 
+insurgencies are experiencing low levels of food consumption due to depleted household stocks, 
+poor access to markets, limited income opportunities, and diminished livelihoods coping 
+strategies. Prices for local staple food crops and imported staples, including rice, millet, maize, 
+and sorghum, have increased due to the depletion of food stocks, import restrictions, and a 
+weakening Naira; these prices have remained high through 2017.3 
+
+Lack of rainfall and irrigation infrastructure have further constrained agricultural livelihoods 
+activities as confirmed by a recent Livelihoods and Market Recovery Assessment in the 
+Northeast.4 The problem is not just the lack of irrigation infrastructure and equipment, but also 
+inadequate water governance and management, and poor harvesting and storage of rainwater. 
+Most of the streams supplying water for household and livestock use are seasonal in nature. 
+Hand-dug wells are drying out during the dry season. As a result, women trek several kilometers 
+each day in search of water. 
+
+
+Large numbers of people in the affected states base their livelihoods on informal activities that 
+include small-scale farming, livestock rearing, agro-processing, and non-farm microenterprises, 
+such as making mud bricks for construction. Returning to these activities as normalcy returns to 
+the area and returnees resettle into their communities is a priority. To restore livelihoods among 
+the affected populations, securing an adequate water supply is of paramount importance. 
+
+Water will continue to be a significant issue for people living in Northeast Nigeria. The Lake 
+Chad region, whose water once supported farming and livestock, has lost almost 90 percent of its 
+original size.5 The water basin is diminishing due to recurring droughts and increased human 
+activities; the situation is further exacerbated by climate change. The drying of the lake has 
+significantly harmed the fishing industry and has starved grazing and crop lands, displacing tens 
+of thousands of people.6 Economic activities that are indigenous to the people in the region are 
+in collapse, and competition over scarce water resources among community members, including 
+smallholder farmers and herders, is recognized as one of the drivers of conflict in the region.7,8 
+The interventions introduced through this Activity address not only acute, immediate water 
+needs, but chronic issues that will continue to impact this region. 
+
+5 Motherjones.com/environment/2014/06. How environmental disaster is making Boko Haram violence worst. 
+
+6 Water Scarcity and the impending water related conflicts in Nigeria, Gusikit and Lar, 2014. 
+
+7 Nigeria Hunger crisis deepens, spills over into Lake Chad basin. FAO, Rome, 24 February 2017. 
+
+8 Mercy Corps led interagency Livelihood Markets Recovery Assessment, 2016 
+
+9 Based on expected funding levels, cost of infrastructure, and water requirements for crops and livestock 
+(http://www.fao.org/docrep/012/i1531e/i1531e.pdf) 
+
+ 
+
+USAID/Nigeria seeks applications from organisations that articulate an innovative and 
+practical approach to develop and implement interventions that will sustainably increase 
+water availability and management, towards increasing agricultural productivity in secure 
+and accessible areas in Adamawa, Borno, and Yobe states. 
+
+The goal of this Activity is to increase agricultural productivity and income generation among 
+smallholder farmers. The purpose is to provide adequate and sustainable water supply to 
+vulnerable populations for both farming and livestock in selected crisis-affected communities in 
+the three states. The magnitude of construction and rehabilitation is $3 million. This Activity 
+will: 
+
+● increase access to water for farming and livestock consumption. 
+● mitigate conflicts amongst farmer and livestock herders with separate sources of water. 
+● strengthen the capabilities of local institutions to sustainably manage the water sources. 
+
+
+ 
+
+In achieving these objectives, this Activity aims to increase the productivity of a minimum of 
+4,000 smallholder farmers and 50,000 herders in the northeast region.9 
+
+
+Subject to the availability of funding, USAID intends to provide approximately $8 million in 
+total funding for this Activity over three years. Local communities and host governments will be 
+expected to provide in-kind contributions to support this Activity. 
+
+This Activity will improve livelihood opportunities by increasing water access points and 
+improving the capacity of local governments and communities to govern and manage water 
+infrastructure and water resources. Increased and reliable access to water will strengthen 
+smallholder farmer productivity and improve livelihoods. Increased access to water will also 
+mitigate conflict between host communities, IDPs, smallholder farmers, and livestock herders, 
+and reduce drivers of violent extremism which threaten community recovery and stability. 
+Through appropriate water resource interventions, this Activity will promote economic growth 
+and stability in insurgency-affected areas. 
+
+Water for Agriculture’s primary beneficiaries include individuals and communities affected by 
+the ISIS-WA and Boko Haram insurgencies (including IDPs, host communities, and returnees). 
+These beneficiaries will be reached through key interventions that are tailored to create on-farm 
+opportunities for those who are in the agricultural value chain as well as herders of livestock in 
+the targeted geography. The Activity will identify and build the capacity of relevant institutions 
+to serve these target populations during and post Activity implementation. 
+
+II. DETAILED PROGRAM DESCRIPTION 
+
+Development Challenge 
+
+ 
+
+As the threat of violence in some geographic areas recedes, the security situation in these 
+communities gradually stabilizes, and displaced populations return to their homes and farms to 
+re-establish their livelihoods. This increase in population in Local Government Areas (LGAs), is 
+typically accompanied by increased water demand, and dearth of effective water management or 
+governance. With these pressures, water resources for household, farming, and livestock 
+activities may become further diminished, potentially resulting in increasing tensions between 
+IDPs and host communities. 
+
+If access to adequate water for household use and livelihoods opportunities is increased, and 
+local governance capacity to engage in the design and management of water infrastructure is 
+strengthened, then agricultural productivity will be increased, and conflict mitigation and 
+community recovery will be consolidated. This Activity will promote economic growth, 
+recovery, and stability in insurgency-affected areas through the proper management of water 
+resources and improved agricultural practices. 
+
+Water for Agriculture aligns with the USAID/Nigeria CDCS goal of Reduced Extreme Poverty 
+in a More Stable, Democratic Nigeria. It will directly contribute to DO1: Broadened and 
+Inclusive Growth, particularly IR 1.1: Agricultural competitiveness increased, and sub-IR 1.1.1: 
+Agricultural productivity increased. It will also contribute directly to DO 3: Strengthened Good 
+
+
+Governance, particularly IR 3.2: Improved responsiveness of targeted government institutions, 
+and to IR 3.4: Conflict mitigated among at-risk communities. This Activity will contribute to at 
+least ten of the sixteen levers of the Government of Nigeria (GON) 2016-2020 Agriculture 
+Promotion Policy (APP). This Activity will also support the USAID Water and Development 
+Strategy Strategic Objective 2 (SO2): to manage water for agriculture sustainably and more 
+productively, and to enhance food security for the underserved and most vulnerable. 
+
+Activity Components and Results 
+
+The Activity is comprised of three overarching sets of interventions that will increase access to 
+water through water infrastructure development and technical assistance. While the first 
+component will rehabilitate and create new water infrastructure, the second and third 
+components will build the capacity of state and local institutions, and Water User Associations 
+(WUAs), which consist of smallholder farmers’ cooperatives and livestock herders, to 
+sustainably manage the water infrastructure and apply new agricultural techniques. 
+
+Efficient, sustainable, and equitable allocation and use of water in communities requires 
+adequate physical infrastructure; technical and managerial understanding of the resource; the 
+capacity to anticipate change; and a dialogue-based, cross-sectoral, and inclusive process to give 
+legitimacy to management decisions, backed by effective policies and institutions. Component 1 
+of this Activity will support the development or rehabilitation of water infrastructure that is 
+appropriate to the locations and the user base. Component 2 of this Activity will promote good 
+governance and the development and adoption of scenario and dialogue-focused platforms to 
+inform decision-making, the adoption of conducive policies, laws and related institutional 
+frameworks through training and other activities that enhance sustainability of water supply for 
+agriculture. This component will also explore key critical challenges to water security and 
+introduces dimensions of an integrated water management which can bring solutions to the 
+specific issues involving farmers and herders. Component 3 of this Activity will include 
+training, sensitization of smallholder farmers and herders on new agricultural practices and 
+provision of tools and technologies to increase agricultural productivity. 
+
+Activity Components and Illustrative Interventions are presented below: 
+
+Component 1: Construct or Rehabilitate Water Infrastructure for Livestock and Small-scale 
+Irrigation 
+
+Component one will consist of hard deliverables that will bring water access points where mostly 
+rain-fed agriculture exists. The design, implementation, and evaluation of water infrastructure 
+interventions must include technical standard for the provision of water for livestock as outlined 
+in the Food and Agriculture Organization’s (FAO) Livestock Emergency Guidelines and 
+Standard (LEGS). Infrastructure interventions must follow best practices to meet livestock 
+consumption needs and public health protection as outlined in LEGS chapter 7, and FAO’s 
+
+
+Water ForAgricultureNoticeof Funding Opportunity (NOFO)
+Solicitation # 72062019RFA00002
+
+Livestock-related interventions during emergencies.10They will also follow FAO’sguidelineson the construction of small village level earthdams.11Construction must be completed duringthe second year of implementation.
+
+Illustrative interventions:
+
+●Calculate livestock population and farmer water needs in target locations.
+●Design plans that demonstrate the holdingcapacity of new or rehabilitated small villagelevel earthen dams and ponds that can meet thecurrentand future needs of smallholderfarmersand herders.
+●Complete ad hoc analyses, which may include:energy, environmental, gender, climaterisk, hydrologic, geologic and geophysical surveys.
+●Select feasible locations for water access points.
+●Build or rehabilitate earthen dams for irrigation purposes. 
+●Build or rehabilitate earthen ponds with different sizes troughs for livestock use.
+●Build and/or rehabilitating irrigation networks to deliver water to small-scale farms.
+Expected results include:
+
+●Increased water access for irrigation purposes to a minimum of 4,000 smallholderfarmers.
+●Increased wateraccess for livestock consumption to a minimum of 50,000 herders.12
+Component 2: Strengthening Capacity forWaterGovernance and Management
+
+Technical Assistance-based interventions will be extended to government institutions andrelevant stakeholders to ensure the sustainabilityof new or rehabilitated wateraccess pointsthrough proper watergovernance and management. Applicants will design, develop, and 
+implement interventions to enhance the governance capacities and competencies of state andlocalInstitutions to provide water services foragricultural purposes to selectedcommunities.
+Such interventions will include tools and activities to support governmentinstitutions and otherrelevant stakeholders, including WUAs, made up of smallholder farmersand livestock herders,
+to establish an enabling environment, and to strengthen institutional mechanisms to address thecomplexities of irrigation management. Theseentities are will beresponsible forcoordinatingconstruction and operation and maintenance ofthe ponds/pans(not to exceed 10,000 m3) orsmall village level earthendams(not to exceed 50,000 m3)in the community, establishingsystemsfor WUA members, establishing the best revenuecollection method (includes a costrecovery systemfor operation and maintenance), and managing thefunds. Construction will be
+
+10http://www.livestock-emergency.net/wp-content/uploads/2012/01/LEGS-Handbook-2nd-edition-web-version1.pdf
+
+11Manual on small earth dams: Aguide to siting, design and construction. Food and Agriculture Organization of theUnited Nations FAO,Rome 2010. FAO Irrigation and Drainage paper 64.12Livestockwater use: cattle 40-60 liters/day, sheep: 2-6 liters/day,goat: 3-8 liters/day(http://www.fao.org/docrep/012/i1531e/i1531e.pdf)
+
+8
+
+
+done in accordance with ADS 303 maw and ADS 303.3.11 that limit the cost of construction 
+activities at a single project to less than$500,000. The implementing partner will make 
+institutional support available to the participating LGAs, such as information technology, and 
+alternative power supply options (such as solar pumps), depending on the type of irrigation 
+adopted. The Applicant will work with existing WUAs or create new WUAs to manage water 
+structures based on assessments to be conducted in collaboration with state and local government 
+institutions and other relevant stakeholders. 
+
+Illustrative interventions: 
+
+● Design governance and institutional frameworks for water governance, 
+● Strengthen state and local government institutions, NGO, and Community Based 
+Organizations’ understanding of good governance in the water sector to promote 
+knowledge sharing through training and other technical assistance; 
+● Establish and train new WUAs or strengthen existing WUAs to monitor water 
+availability, prioritize usage, and mitigate conflict, demonstrating balance among 
+different community groups, cognizant of gender sensitivities to manage and sustain 
+investments; 
+● Develop incentive and regulatory measures for agricultural water users, targeted 
+agricultural investments, improved infrastructure modernization, improved farm-
+management practices, better extension and water services; and 
+● Establish guidelines on user fees and cost recovery. 
+
+
+ 
+
+Expected results include: 
+
+● Water policy reforms at the scheme, farms and plot levels operationalized; 
+● Governance and institutional frameworks designed and implemented; 
+● Water user fees established; 
+● WUAs which possess the human, technical, and financial resources to execute their 
+responsibilities to manage water access points at a cost; 
+● Reduced water conflicts between farmers and livestock owners; 
+
+
+ 
+
+Component 3: Strengthening Capacity for Smallholder Farmers’ Cooperatives and Livestock 
+Herders groups 
+
+Capacity building will be provided to smallholder farmers’ cooperatives and livestock herders 
+groups on improved production practices and new technologies as applicable to irrigation 
+systems and dry season crop and livestock production. Interventions will also include 
+sensitization on sanitary and phytosanitary (SPS) measures with regard to the transmission of 
+water-borne disease between human and livestock in the communities. 
+
+Public and private institutions at all levels must have the capacity to carry out their roles and 
+responsibilities for effective agricultural water service delivery in northeast Nigeria. Institutional 
+capacity includes adequate personnel with the full range of skills required to carry out their 
+
+
+functions; an “organizational home” within the institution with assigned responsibility; mastery 
+of the agreed-upon methodology, systems, and procedures required for implementation; and the 
+ability to monitor Activity effectiveness and make continual adjustments. 
+
+Illustrative interventions: 
+
+● Create and/or strengthen agricultural cooperatives (farmers and livestock herders groups) 
+and other relevant local water organizations’ institutional capacity on standard operating 
+procedures of irrigation systems, including operations and maintenance, to ensure 
+efficiency and sustainability of water supplies through training and other technical 
+assistance; 
+● Build capacity of smallholder farmers and livestock herders (beneficiaries) on improved 
+agricultural practices and technologies to enable them take advantage of increased access 
+of water, especially during the dry season through training and other technical assistance; 
+● Build capacity of beneficiaries on sanitary and phytosanitary (SPS) measures with 
+regards to prevention of water-borne diseases between human and livestock population; 
+● Support agronomic practices that achieve greater production with less water use; 
+● Incorporate water-efficient and drought-tolerant crops and varieties; 
+● Utilize irrigation technologies that optimize water use efficiency. 
+
+
+ 
+
+Expected results include: 
+
+● Reduced incidences of water-borne diseases in the communities; 
+● Increased agricultural productivity of a minimum of 4,000 smallholder farmers and 
+50,000 herders; 
+● Increased annual farm production and productivity of a minimum of 4,000 smallholder 
+through both wet and dry season cropping; 
+● Increased livestock production and productivity by a minimum of 50,000 livestock 
+herders due to increased availability of water sources during both wet and dry seasons. 
+
+
+ 
+
+III. GEOGRAPHIC FOCUS 
+
+ 
+
+In order to maximize the impact of this Activity, interventions will only occur in secured parts of 
+Borno, Adamawa, and Yobe States. LGAs in these areas currently have agricultural 
+development plans and have engaged with USAID/Nigeria to initiate economic recovery 
+interventions through the Feed the Future Nigeria Livelihood Project which ended in July 2018. 
+Within these states, priority will be given to areas where the security situation allows for safe 
+movement and market activity. Flexibility will be required given the fluid security situation in 
+many areas. Site selection for interventions should take into account recent and existing 
+interventions by other implementing partners so as to leverage resources and avoid duplication of 
+efforts. 
+
+ 
+
+Selection criteria when considering villages for site specific interventions must include: 
+
+
+● Severely conflict-affected communities that are in recovery mode; 
+● Communities facing serious water shortages; 
+● Communities where violent conflicts between nomadic herders and sedentary agrarian 
+communities threaten security and stability; 
+● Communities where vulnerability to conflict and the risk of extremism is low (this could 
+exclude high risk areas or “hot spots” where there is ongoing violence); 
+● Communities with high numbers of IDPs and IDP returnees; 
+● Community and/or local partners that demonstrate interest and commitment to 
+implementing reconciliation activities; 
+● Commitment by local governments to support/maintain interventions; and 
+● The avoidance of duplication of effort. 
+
+
+ 
+
+The Applicants will provide sufficient analysis of the targeted populations and proposed 
+interventions for USAID/Nigeria to conclude that there is no reasonable basis to believe that 
+Boko Haram/ISIS-WA would benefit from USG assistance under the Activity in violation of the 
+material support prohibitions under 18 USC§§ 2339A and B, U.S. sanctions under Executive 
+Order 13224, or United Nations Security Council sanctions. 
+
+ 
+
+IV MONITORING, EVALUATION AND LEARNING 
+
+Performance management and managing for results are critical to ensure that USAID is 
+accountable to stakeholders in the U.S. and Nigeria. It will be critical for Applicants to 
+demonstrate an understanding between outputs, targets, outcomes, and expected results; and to 
+develop appropriate indicators to track progress toward development goals. By the end of the 
+Water for Agriculture Activity, the Recipient will be expected to demonstrate the achievement 
+not just of outputs, but also outcomes, and ultimately the Activity purpose and goal. 
+
+ 
+
+USAID/Nigeria will ensure oversight of the Activity. Monitoring mechanisms to conduct 
+regular site visits will be done as appropriate and feasible in accordance with ADS 201 and 303. 
+Performance of construction risk management and mitigation measures will be monitored as part 
+of the Activity performance monitoring. The Agency’s Engineering Division of E3/Engineering 
+& Infrastructure, will provide support in the identification of construction, screening of risk, and 
+risk mitigation and monitoring. They will provide technical assistance, review, and concurrence 
+in the planning, solicitation and implementation phases of the Activity. 
+
+ 
+
+To measure implementation progress, the Awardee will submit a Monitoring, Evaluation, and 
+Learning (MEL) Plan that will outline the targets, expected outcomes and results, deliverables, 
+and indicators of measurement. Modifications to the MEL Plan will be made in consultation 
+with USAID/Nigeria. The Activity must use a variety of systems and tools, including 
+geographic information systems (GIS) mapping, to monitor progress of interventions. 
+
+ 
+
+
+The indicators provided below are illustrative and intended to point to measurable, tangible 
+outputs and outcomes that the Activity will be accountable to monitor and seek to improve. All 
+indicators will be disaggregated by sex and by age, wherever possible. Data will be 
+disaggregated by geographic location and plotted through GIS systems. The Awardee must 
+propose appropriate indicators to USAID. Final indicators are subject to USAID approval 
+following award. 
+
+Increase water access for agriculture and livestock consumption indicators 
+
+● 4.5.2-41 – Number of water resources sustainability assessments (WRSA) undertaken 
+● 4.5.2-2 – Number of hectares under improved technologies or management practices as a 
+result of USG assistance 
+● EG.3-10,-11,-12 Yield of targeted agricultural commodities among program participants 
+with USG assistance [IM-level] 
+● EG.3.2 Number of individuals participating in USG food security programs [IM-level] 
+● (EG.3.1-2) Hectares under new or improved/rehabilitated irrigation or drainage services 
+as a of USG assistance. 
+
+
+ 
+
+Strengthening Capacity for Water Governance and Management, and Improved Agricultural 
+Practices 
+
+● (HL.8.3-1) Number of people educated on tools, approaches, and/or methods for water 
+security, integrated water resource management, and/or water source protection as a 
+result of USG assistance. 
+● (HL.8.3-2) Number of action plans implemented for water security, integrated water 
+resource management, and/or water source protection. 
+● EG.3.2-24 Number of individuals in the agriculture system who have applied improved 
+management practices or technologies with USG assistance [IM-level] 
+● EG.3.2-26 Value of annual sales of farms and firms receiving USG assistance [IM-level] 
+
+
+ 
+
+The following indicator will be used to track this Activity’s second objective to mitigate conflicts 
+amongst farmers and livestock herders: 
+
+ 
+
+● Percentage of residents of USG-assisted communities satisfied with response to local 
+conflicts by community conflict mitigation measures. 
+
+
+ 
+
+V. IMPLEMENTATION PRINCIPLES AND GUIDANCE 
+
+ 
+
+V.1 Multi-Stakeholder Coordination 
+
+Applicants will design, develop, and implement interventions that create Multi-Stakeholder 
+Groups to select potential water access sites. Multi-Stakeholder Groups will be composed of 
+
+
+different government and non-government organizations and may be comprised of, for example, 
+state and local government institutions, smallholder farmers’ cooperatives, civil society 
+organization, and community based organizations. The Applicant will facilitate the creation of 
+Multi-Stakeholder Groups to select communities and sites where potential water access points 
+may be created and a feasibility assessment will determine a subset of communities where water 
+access points will be created or refurbished. 
+
+V.2 Coordination with Other Assistance Programs 
+
+Applicants should coordinate with and leverage the efforts of other USAID/Nigeria, U.S. 
+Government funded, and other donor activities to maximize impact and avoid duplication. 
+Applicants shall explicitly identify opportunities for collaboration and leveraging in their 
+technical approach. 
+
+Opportunities already created by other USAID offices such as the Office of Transition Initiatives 
+(OTI) and Office of U.S. Foreign Disaster Assistance (OFDA) will be explored. Through 
+ongoing support to multiple international NGO and UN agency partners, OFDA is providing 
+vulnerable populations in northeastern Nigeria with improved access to vital agriculture, 
+emergency food security programs, and life-saving nutrition resources. OFDA-funded 
+agriculture and emergency food security activities aim to help displaced and conflict-affected 
+farming communities improve their livelihoods, coping abilities, and access to nutritionally 
+adequate and safe foods through distribution of tools, seeds, and cash grants for livelihood 
+restoration; the formation and support of community producer groups; and the provision of 
+training in improved agricultural techniques, animal health and livestock management, micro-
+gardening, and seed multiplication and storage. OTI has provided seeds, tools, and tractor 
+services to returning farmers in certain target LGAs in advance of the last two rainy seasons. 
+Through its collaboration with Feed the Future Nigeria Livelihoods activity, it provided post-
+harvest support (PIC bags) to some of the cooperatives in southern Borno that USAID assisted 
+through a seed distribution intervention. The investments of other actors in this sector should 
+incentivize, rather than discourage USAID to invest, as they will create space for USAID to 
+focus and lead an innovative vision for economic recovery. 
+
+USAID will leverage the work of the GON and other development partners that are currently 
+active in the area, including the Department for International Development (DFID), the World 
+Bank, the European Union (EU), the German Gesellschaft für Internationale Zusammenarbeit 
+(GIZ), the United Nations Development Programme (UNDP), and other UN agencies such as 
+UNICEF. DFID’s humanitarian response aims at restarting agricultural activities, agricultural 
+supply and offtake markets, and reducing the distortionary impacts of humanitarian aid on local 
+markets. The World Bank’s ongoing efforts focus on interventions that aim to restore 
+livelihoods and access to food, including road rehabilitation, technical assistance, and program 
+management support that positively impact over 150,000 people, including forcibly displaced 
+populations, host communities, and other conflict-affected communities in its target states. The 
+
+
+World Bank plans to invest $5 million to help farming families combat the food security crisis in 
+the region. The World Bank’s agricultural development activities also include restoring access 
+to productive assets by providing agricultural inputs including, but not limited to, seeds of local 
+staple crops, fertilizers, and tools. Other World Bank activities include service delivery 
+restoration and infrastructure rehabilitation in the health, education, transport, water, and 
+sanitation sectors. The European Union is attending to the immediate needs of people in the 
+conflict-affected areas and is helping to restore basic services, stimulate employment, and create 
+livelihood opportunities, particularly for women and youth. 
+
+The UNDP and other UN agencies are also present in the Northeast. The United Nations Food 
+and Agricultural Organization implements a program on Food Security and Livelihood Support 
+for the Most Vulnerable Households Affected by the Insurgency, and UNICEF is strengthening 
+water supply systems and health facilities, including immunization services, in 12 host 
+communities in Maiduguri. By the end of 2016, UNICEF provided 40 pit latrines for use by 
+about 2,000 people and 10 motorized hand pumps to supply water to more than 7,000 people. 
+This Activity has helped to reduce open defecation and improve sanitation in the target 
+communities, reducing the risk of disease such as cholera and infection. 
+
+Several state governments are undertaking local water systems development efforts in the 
+Northeast. Six earth dams are currently under construction and at various stages of completion 
+in Adamawa State. The State Government also recently proposed establishing six irrigation 
+schemes (in addition to the existing irrigation facilities) that will improve food production over 
+7,550 hectares of land. Similarly, Borno State has earth dams in all 23 of its LGAs for irrigation 
+and livestock farming. The implementing partner will coordinate with relevant government 
+agencies and align its intervention with these ongoing efforts. 
+
+At the national level, the GON is currently implementing its Agricultural Promotion Policy 
+(APP). To ensure that USAID’s agricultural interventions align with the GON’s priorities as 
+outlined in the APP, the Federal Ministry of Agriculture and Rural Development has assigned 
+eight desk officers to liaise with USAID in the implementation of all USAID/Nigeria Feed the 
+Future activities. These desk officers are also undertaking field visits with USAID and 
+implementing partner representatives to monitor Activity interventions, report back to the 
+Ministry and provide the Ministry’s feedback to USAID. The Activity shall engage with these 
+Desk Officers as appropriate. 
+
+V.3 Sustainability 
+
+ 
+
+The Water for Agriculture Activity should build in sustainability from the start by strengthening 
+the capacity for water governance and management of local government institutions and 
+communities, Agricultural Development Program (ADP), WUAs (who are smallholder Farmer 
+Cooperatives and livestock herders), and private sector actors that will continue to support and 
+sustain Water for Agriculture-related work beyond the life of the award. Applicants must 
+
+
+demonstrate their understanding of the challenging contexts that may undermine the efforts to 
+achieve sustainability outcomes. Investment in small-scale water retention structure is crucial to 
+sustain the food security and livelihoods of smallholder farmers as well as livestock herders. The 
+success of this project will be determined by governance and socio-cultural contexts. 
+Applicants must also demonstrate a good knowledge of the local context in planning and 
+implementing this Activity which will result in equitable access to irrigation schemes among 
+smallholder farmers and adequate water for livestock herders. The awardee is expected to 
+develop a cost recovery approach in which Farmers’ Cooperatives and Water User Associations 
+charge for providing extension information or for the provision of water. 
+
+ 
+
+Active engagement of the local community is important for the long-term viability and 
+sustainability of this Activity. State and local government officials, local authorities, community 
+leaders, and women will be publicly engaged in a transparent selection process to help choose 
+appropriate installation sites, operate and manage the activities, and help select the type of 
+technologies applied in order to secure their support for the Activity and improve its 
+sustainability. The awardee is expected to develop the site selection framework in coordination 
+with relevant state and local GON agencies. Successful interventions will provide appropriate 
+technology and an approach that fits with traditional existing livelihoods opportunities and the 
+ability to manage or maintain water access points over time and increase agricultural production. 
+
+ 
+
+V.4 Construction Risk Management 
+
+ 
+
+The Applicant will incorporate principle elements of USAID’s preferred approach to 
+construction as outlined in USAID’s Construction Risk Management policy – A Mandatory 
+Reference for ADS Chapter 201. 
+
+ 
+
+ 
+
+V.5 Gender Equality And Social Inclusion 
+
+ 
+
+USAID’s Automated Directive System (ADS) states, “Gender issues are central to the 
+achievement of strategic plans and Assistance Objectives (AO), and USAID strives to promote 
+gender equality, in which both men and women have equal opportunity to benefit from and 
+contribute to economic, social, cultural and political development, enjoy socially valued 
+resources and reward, and realize their human rights” (ADS 201.3.9.3). 
+
+ 
+
+In addition to gender, the Activity will consider the role and inclusion of ethnic minorities, 
+religious minorities, and people with disabilities. The Recipient will assess and identify gender 
+dynamics and social inclusion issues that affect the participation and disparate needs of different 
+genders and minority groups in activities under this program. The Recipient is expected to 
+examine gender roles (including how they may have changed during and post conflict), cultural 
+perceptions, economic barriers, and other factors that influence genders’ and minority groups’ 
+
+
+needs and participation in project activities. In addition, the Recipient must ensure that gender 
+dynamics, gender-sensitivity, gender equality, and social inclusion issues are fully integrated into 
+program components and will be required to undertake specific efforts to ensure that 
+interventions do not discriminate against, cause harm to, or disproportionately benefit any gender 
+or identity group. The Recipient is required to have equal participation of men and women in all 
+aspects of this program and ensure that minority communities are well represented and 
+participate in all program activities and in the makeup of program staff. The Recipient should 
+use clear gender targets, inclusion strategies, and measure the participation of different groups 
+throughout the life of the program. All data collected about people should be disaggregated by 
+sex, age category, and ethnicity. Gender analysis will be conducted before interventions begin 
+and in concert with the submission of the work plan, which will be due 45 days after the contract 
+is signed. 
+
+USAID encourages applications that demonstrate the use of data and evidence, appropriate 
+technology, and innovation at the activity-level and the participation of the private sector across 
+the program, as appropriate. 
+
+V.6 Conflict Sensitive Programming and Do No Harm 
+
+ 
+
+Conflict between pastoralists and farmers has a long history in Nigeria, as it is often linked to 
+competition for natural resources like pasture and water. The design team recognizes the issue of 
+farmers-herders conflict in the target region, and the need to address conflict resolution needs, as 
+well as training and capacity needs. A conflict assessment will be conducted at the start of the 
+Activity to understand local conflict dynamics related to the scope of the Activity and to ensure 
+flexibility in incorporating recommendations that will mitigate, and avoid increasing, conflict. 
+Emphasis will be placed on the realities and changing dynamics of farming and livestock 
+keeping in the area, including: (i) most households, even those that practice crop agriculture, are 
+dependent on livestock, (ii) livestock losses are suffered by both farmers and pastoralists, (iii) 
+significant losses and insecurity have changed the nature of herding, with farmers and smaller 
+pastoralists contracting hired herders to keep and move with livestock, (iv) herders tend to gather 
+together in large herds when the security situation is unstable, (v) there is a relationship between 
+conflict actors like ISIL/WA and large herds, including taxes, livestock thefts, and ancillary 
+businesses associated with conflict actors integrated into or following herds. Care will be taken 
+to limit the spread of agriculture, particularly irrigated crop production, as the most suitable land 
+is often riparian areas that are crucial to grazing. The local pastoral code, corridors and grazing 
+set asides will be important conflict resolution tools. 
+
+ 
+
+Applicants must demonstrate an understanding of the nuances of the socio- economic challenges 
+that the ISIS-WA and Boko-Haram insurgencies created in northeastern Nigeria. This Activity 
+will assess risks resulting from bringing resources into communities that may have ongoing 
+conflict dynamics related to the interventions in the scope of this Activity, or may develop due 
+to the Activity. The Activity will use a conflict lens in the design of interventions, first, to “do 
+
+
+no harm”; second to mitigate rather than fuel conflict; and third, to create a positive peace-
+building environment. Conflict assessment will be conducted before interventions begin and in 
+concert with the submission of the work plan in each target LGA/target community, which will 
+be due 45 days after the award is signed. Subsequent assessments will follow based on the 
+results of the first assessment and the evolving situation on the ground throughout the 
+development of the Activity. 
+
+ 
+
+V.7 Mitigating Measures 
+
+ 
+
+The implementing partner must demonstrate an understanding of the risks of terrorist financing 
+in working in Boko Haram and ISIS-WA-affected communities in Adamawa and Borno States 
+and present a plan to mitigate any such risk associated with the proposed Activity. It will also 
+provide a plan to conduct a security assessment prior to the Activity’s launch of interventions. 
+This assessment will reflect findings from key stakeholders in the area, and justify a conclusion 
+that the beneficiary communities are at a low risk of re-invasion. The Applicant must outline in 
+the proposal how its employees will be vetted to ensure no current or former Boko Haram and 
+ISIS-WA affiliation. The Applicant will show how it will ensure that there are no known Boko 
+Haram and ISIS-WA members currently residing in the area where Activity interventions will be 
+implemented prior to implementation. Additionally, the implementing partner will show how it 
+will work with state authorities (including the State Emergency Management Agency) and 
+community leaders to screen any potential beneficiaries to ensure that they do not include any 
+Boko Haram and ISIS-WA affiliates. No payment or training will be provided to security forces 
+or police as part of this Activity. 
+
+ 
+
+Importantly, the implementing partner should note that it will facilitate the private sale of 
+agricultural inputs instead of distributing them. In-kind goods and equipment must not be 
+distributed to individuals or groups of smallholder farmers as part of this intervention. No 
+payment or training will be provided to security forces or police as part of this Activity. 
+
+ 
+
+V.8 Environmental Compliance And Management 
+
+ 
+
+This Activity is covered under an Initial Environmental Examination (IEE) for the Water for 
+Agriculture was approved on August 7, 2014 that expires on December 31, 2019. A follow-on 
+IEE will be initiated before the expiration of the current IEE to take effect January 1, 2020, and 
+last until December 31, 2024. The construction of water catchments and small-scale irrigation 
+technologies to provide water for irrigation and livestock has a negative determination with 
+conditions as per 22 CFR 216.3 (a) (2) (iii). Therefore, the awardee must produce an 
+Environmental Mitigation and Monitoring Plan (EMMP) prior to Activity implementation. 
+
+ 
+
+
+Environmental and climate risk analyses will be conducted before interventions begin and in 
+concert with the submission of the work plan, which will be due 45 days after the contract is 
+signed. 
+
+[END SECTION A] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION B – FEDERAL AWARD INFORMATION 
+
+ 
+
+1. ESTIMATE OF FUNDS AVAILABLE AND NUMBER OF AWARDS 
+CONTEMPLATED 
+
+ 
+
+USAID intends to award a single Cooperative Agreement pursuant to this notice of funding 
+opportunity. Subject to funding availability and at the discretion of the Agency, USAID intends 
+to provide $8 million in total USAID funding over a three-year period. 
+
+ 
+
+2. START DATE AND PERIOD OF PERFORMANCE FOR FEDERAL AWARDS 
+
+ 
+
+The anticipated period of performance is three (3) years. The estimated start date will be on or 
+about the date the award is signed. 
+
+ 
+
+3. SUBSTANTIAL INVOLVEMENT 
+
+
+ 
+
+Award under this NOFO will be a Cooperative Agreement. Potential applicants should note that 
+
+USAID policy prohibits the payment of fee/profit to the recipients under assistance instruments. 
+
+ 
+
+Consistent with ADS 303.3.11, USAID/Nigeria will be substantially involved in the 
+implementation of the Water For Agriculture Activity. The intended purpose of the Agreement 
+Officer’s Representative (AOR) involvement during the implementation of the program is to 
+assist the recipient in achieving the supported objectives. It is expected that the Agreement 
+Officer will delegate the following approvals to the AOR: 
+
+ 
+
+(a) Approval of the Recipient's Implementation Plan 
+
+
+ 
+
+USAID will approve annual work plans and the life-of-project exit strategy, and any subsequent 
+revisions. If the AO has delegated authority to the AOR to approve implementation plans, the 
+AOR must review the agreement’s terms and conditions to ensure that changes to the terms and 
+conditions are not inadvertently approved by the AOR. 
+
+ 
+
+The following documents are required for the implementation plan: 
+
+ 
+
+• Standard Procurement Procedures for Architectural & Engineering (A&E) and 
+Construction firms contracting 
+• Construction Health and Safety Plan 
+• Construction Schedule (e.g. Gantt Chart) 
+• Quality Management Plan - Including Quality Assurance and Quality Control for Both 
+Design and Construction Phases 
+• Plan for Initial Environmental Examination and Climate Risk Management 
+• Organizational Chart or Staffing Plan 
+• Timeline for O&M plan 
+
+
+ 
+
+ 
+
+(b) Approval of Specified Key Personnel 
+
+
+ 
+
+
+USAID may designate as key personnel only those positions that are essential to the successful 
+implementation of the Recipient’s program. USAID’s policy limits this to a reasonable number 
+of positions, generally no more than five positions or five percent of Recipient employees 
+working under the award, whichever is greater. 
+
+ 
+
+(c) Agency and Recipient Collaboration or Joint Participation 
+
+
+ 
+
+When the Recipient's successful accomplishment of program objectives would benefit from 
+USAID's technical knowledge, the AO may authorize the collaboration or joint participation of 
+USAID and the Recipient on the program. There should be sufficient reason for Agency 
+involvement and the involvement should be specifically tailored to support identified elements in 
+the program description. When these conditions are met, the AO may include appropriate levels 
+of substantial involvement such as the following: 
+
+ 
+
+i. Collaborative involvement in selection of advisory committee members, if the 
+program will establish an advisory committee that provides advice to the 
+Recipient. USAID may participate as a member of this committee as well. 
+Advisory committees must only deal with programmatic or technical issues and 
+not routine administrative matters. 
+
+
+ 
+
+ii. Concurrence on the substantive provisions of sub-awards. 2 CFR 200.308 already 
+requires the Recipient to obtain the AO’s prior approval for the sub-award, 
+transfer, or contracting out of any work under an award. This is generally limited 
+to approving work by a third party under the agreement. If USAID wishes to 
+reserve any further approval rights for sub-awards or contracts, it must clearly 
+spell out such Agency involvement in the substantial involvement provision of the 
+agreement. 
+
+
+ 
+
+iii. Approval of the Recipient's Activity Monitoring, Evaluation, and Learning (MEL) 
+Plan. 
+
+
+ 
+
+iv. Monitor to authorize specified kinds of direction or redirection because of 
+interrelationships with other projects. All such activities must be included in the 
+program description, negotiated in the budget, and made part of the award. 
+
+
+ 
+
+(d) Agency Authority to Immediately Halt a Construction Activity 
+
+
+ 
+
+The AO may immediately halt a construction activity if identified specifications are not met. In 
+such cases, the AO will attach the identified specifications to the award when it is being 
+executed. Any material changes to the specifications must be treated as an amendment to the 
+award. 
+
+ 
+
+An award shall be made only when the Agreement Officer makes a positive determination that 
+the Applicant possesses, or has the ability to obtain, the necessary management competence in 
+planning and carrying out assistance programs and that it will practice mutually agreed upon 
+methods of accountability for funds and other assets provided by USAID. For organizations that 
+
+
+are new to USAID, or organizations with outstanding audit findings, it may be necessary to 
+perform a pre-award survey in accordance with ADS 303.3.9 and ADS 591.3.4.2. 
+
+ 
+
+4. AUTHORIZED GEOGRAPHIC CODE 
+
+
+ 
+
+The authorized USAID Principal Geographic Code for the procurement of commodities and 
+services under this award is 937, defined as the United States, the recipient country, and 
+developing countries other than advanced developing countries, but excluding any country that is 
+a prohibited source. Procurement of vehicles and pharmaceuticals and other restricted 
+commodities are subject to the limitations in 22 CFR 228, ADS 312, and ADS 310 and may 
+require a waiver or Agreement Officer’s approval. 
+
+ 
+
+For accurate identification of prohibited sources, please refer to 22 CFR 228 and Automated 
+
+Directive System (ADS) 310 entitled “Source and Nationality Requirements for Procurement of 
+
+Commodities and Services Financed by USAID. 
+
+ 
+
+5. NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Water For 
+Agriculture Program which is authorized by Federal statute. The successful Recipient will be 
+responsible for ensuring the achievement of the program objectives and the efficient and 
+effective administration of the award through the application of sound management practices. 
+The Recipient will assume responsibility for administering Federal funds in a manner consistent 
+with underlying agreements, program objectives, and the terms and conditions of the Federal 
+award. 
+
+6. TITLE TO PROPERTY 
+
+
+Property title under the resultant agreement(s) will vest with the Recipient in accordance with the 
+requirements of 2 CFR 200.313, or with the Cooperating Country consistent with Required as 
+Applicable Standard Provisions contained in the award. 
+
+ 
+
+ 
+
+[END SECTION B] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. ELIGIBLE APPLICANTS 
+
+
+ 
+
+Eligibility for this NOFO is not restricted however, local organizations are encouraged to apply 
+and international organizations are encouraged to seek local partners. 
+
+ 
+
+Qualified U.S. and non-U.S. organizations (other than those from foreign policy restricted 
+countries) are eligible to apply under this NOFO. Potential for-profit Applicants should note that, 
+in accordance with 2 CFR 200.400(g), profit, which is any amount in excess of allowable direct 
+and indirect costs, is not an allowable cost for Recipients of USAID assistance awards, and 
+cannot be part of the activity budget. However, the prohibition against profit does not apply to 
+procurement contracts made under the assistance instrument when the Recipient procures goods 
+and services in accordance with the Procurement Standards found in 2 CFR 200.317 to 326. 
+
+ 
+
+USAID welcomes applications from organizations which have not previously received financial 
+assistance from USAID. 
+
+ 
+
+Applicants must have established financial management, monitoring and evaluation processes, 
+internal control systems, and policies and procedures that comply with established U.S. 
+Government standards, laws, and regulations. The successful Applicant(s) will be subject to a 
+responsibility determination assessment (possibly including a pre-award survey) by the 
+Agreement Officer (AO). 
+
+ 
+
+The Recipient must be a responsible entity. The AO may determine a pre-award survey is 
+required to conduct an examination that will determine whether the prospective Recipient has 
+the necessary organization, experience, accounting and operational controls, and technical skills 
+– or ability to obtain them – in order to achieve the objectives of the program and comply with 
+the terms and conditions of the award. 
+
+ 
+
+2. COST SHARING OR MATCHING 
+
+ 
+
+No cost-sharing (matching) is required hereunder. 
+
+ 
+
+3. OTHER ELIGIBILITY CRITERIA 
+
+ 
+
+Application must respond directly to the terms, conditions, and provisions of this NOFO 
+(including all portions of the program description). 
+
+ 
+
+All applications received by the deadline will be reviewed for responsiveness and programmatic 
+merit in accordance with the specifications outlined in Section D below. Applications should 
+respond directly to the terms, conditions, specifications and provisions of this NOFO (including 
+all portions of the program description). Applications that do not meet the requirements of this 
+NOFO will not be considered for award. 
+
+ 
+
+[END SECTION C] 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+A. USAID/NIGERIA POINT OF CONTACT 
+
+ 
+
+1. Name: Cheryl Hodge-Snead 
+
+
+
+
+
+
+
+
+ Title: Agreement Officer 
+
+ Email: abujasolicitations@usaid.gov 
+
+ Mail Address: N/A 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions regarding this NOFO should be submitted in writing to abujasolicitations@usaid.gov 
+no later than the date and time indicated on the cover letter. Any information given to a 
+prospective applicant concerning this NOFO will be furnished promptly to all other prospective 
+applicants as an amendment to this NOFO, if that information is necessary in submitting 
+applications or if the lack of it would be prejudicial to any other prospective applicant. 
+
+ 
+
+3. General Content and Form of Application 
+
+
+ 
+
+Preparation of Applications: 
+
+ 
+
+Each applicant must furnish the information required by this NOFO. Applications must be 
+submitted in two separate parts: the Technical Application and the Business (Cost) Application. 
+This subsection addresses general content requirements applying to the full application. Please 
+see subsections 5 and 6, below, for information on the content specific to the Technical and 
+Business (Cost) applications. The Technical application must address technical aspects only 
+while the Business (Cost) Application must present the costs, and address risk and other related 
+issues. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a cover page containing the 
+following information: 
+
+ 
+
+• Name of the organization(s) submitting the application; 
+• Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address); 
+• Program name 
+• Notice of Funding Opportunity number 
+• Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ 
+under ADS 303. 
+
+
+ 
+
+Any erasures or other changes to the application must be initialed by the person signing the 
+application. Applications signed by an agent on behalf of the applicant must be accompanied by 
+
+
+evidence of that agent’s authority, unless that evidence has been previously furnished to the 
+issuing office. 
+
+ 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve 
+only as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part 
+of the merit review criteria. 
+
+ 
+
+Applications must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent 
+sections. Please ensure that applications comply with the page limitations. 
+● The applications must be written in English language. 
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12 point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive 
+page numbers, date of submission, and applicant’s name. 
+● 10 point font can be used for graphs and charts. Tables however, must comply with the 12 
+point Times New Roman requirement. 
+● Submitted via Microsoft Word or PDF formats, except budget files which must be submitted 
+in Microsoft Excel. 
+● The estimated start date identified in Section B of this NOFO must be used in the cost 
+application. 
+● The technical application must be a searchable and editable Word or PDF format as 
+appropriate. 
+
+
+ 
+
+● The Cover letter, Cover page, Tabs/dividers, Table of Contents, Acronym list, Executive 
+Summary, and Attachment do not count against the 25-page limitation. Any page in the 
+technical application that contains a table, chart, or graph, not otherwise excluded above, is 
+subject to the page limitation. 
+
+
+ 
+
+● All information from appendices must be referenced in the technical application and 
+summarized and included in the attach section. All critical information from 
+appendices/attachment clearly identified and summarized in the technical application will be 
+evaluated as part of the basis of award. 
+
+
+ 
+
+● Additional documentation beyond the 25-page limit and the referenced attachments will not 
+be read or evaluated by USAID. 
+
+
+ 
+
+● Budget Narrative: Accompanying budget notes/narrative must explain the basis of all unit 
+costs in each line item. The explanation must identify the factors upon which each estimate is 
+based and show the arithmetic in reaching the cost figure. 
+
+
+ 
+
+● The Cost Schedule must include an Excel spreadsheet with all cells unlocked and no hidden 
+formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in addition to 
+the Excel version at the applicant’s discretion, however, the official cost application 
+submission is the unlocked Excel version. 
+
+
+ 
+
+ 
+
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so 
+may be considered as being non-responsive and may be evaluated accordingly. Applicants 
+should retain a copy of the application and all enclosures for their records. 
+
+ 
+
+4. Application Submission Procedures 
+
+ 
+
+Applications in response to this NOFO must be submitted no later than the closing date and time 
+indicated on the cover letter, as amended. Late applications will not be reviewed nor 
+considered/may be considered at the discretion of the Agreement Officer. Applicants must retain 
+proof of timely delivery in the form of system generated documentation of delivery receipt date 
+and time/confirmation from the receiving office/certified mail receipt. 
+
+ 
+
+Applications must be submitted by email to abujasolicitations@usaid.gov. Email submissions 
+must include the NOFO number and applicant’s name in the subject line heading. In addition, 
+for an application sent by multiple emails, the subject line must also indicate whether the email 
+relates to the technical or cost application, and the desired sequence of the emails and their 
+attachments (e.g. "No. 1 of 4", etc.). For example, if your cost application is being sent in two 
+emails, the first email should have a subject line that states: "[NOFO number], [organization 
+name], Cost Application, Part 1 of 2". 
+
+ 
+
+USAID’s preference is that the technical application and the cost application each be submitted 
+as consolidated email attachments, e.g. that you consolidate the various parts of a technical 
+application into a single document before sending it. If this is not possible, please provide 
+instructions on how to collate the attachments. USAID will not be responsible for errors in 
+compiling electronic applications if no instructions are provided or are unclear. 
+
+ 
+
+After submitting an application electronically, applicants should immediately check their own 
+email to confirm that the attachments were indeed sent. If an applicant discovers an error in 
+transmission, please send the material again and note in the subject line of the email or indicate 
+in the file name if submitted via grants.gov that it is a "corrected" submission. Do not send the 
+same email more than once unless there has been a change, and if so, please note that it is a 
+"corrected" email. 
+
+ 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several 
+hours occur from transmission to receipt. Therefore, applicants are requested to send the 
+application in sufficient time ahead of the deadline. For this NOFO, the initial point of entry to 
+the government infrastructure is the USAID mail server. 
+
+ 
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, 
+applicants are discouraged from sending files in this format as USAID/Nigeria cannot guarantee 
+their acceptance by the internet server. File size must not exceed 10MB in total file/data size per 
+e-mail. 
+
+ 
+
+Uploading to Grants.gov: 
+
+ 
+
+
+Applicants may upload applications to http://www.grants.gov. USAID bears no responsibility for 
+data errors resulting from transmission or conversion processes associated with electronic 
+submissions. 
+
+ 
+
+5. Technical Application Format 
+
+ 
+
+The technical application must be concise, comprehensive, and responsive to the instructions 
+contained herein. Applicants must take into account the merit review criteria in Section E of 
+this NOFO. The technical application must clearly demonstrate how the proposed approach will 
+meet the goals and all objectives of the activity, and fulfill the Applicant’s program 
+implementation responsibilities. 
+
+ 
+
+The application must contain information that demonstrates the Applicant’s understanding of 
+the program description and must be prepared in such a manner as to enable the review 
+committees to make a thorough evaluation and arrive at a sound determination of whether the 
+application responds to the NOFO. 
+
+ 
+
+Unnecessarily elaborate brochures or other presentations beyond those sufficient to present a 
+complete and effective application in response to this NOFO are not desired and may be 
+construed as an indication of the Applicant’s lack of cost consciousness. Elaborate art work and 
+expensive visual or other presentation aids are neither necessary nor wanted. 
+
+ 
+
+The format and presentation of technical approach is below: 
+
+ 
+
+(a) Cover Letter; 
+(b) Table of Contents; 
+(c) Executive Summary; 
+(d) Technical Approach; 
+(e) Key Personnel and Staffing Plan; 
+(f) Institutional Capacity and Management Plan; 
+(g) Past Performance; and, 
+(h) Attachments as applicable): 
+• Draft Environmental Mitigation and Monitoring Plan; 
+• Draft Activity Monitoring, Evaluation and Learning Plan; 
+• Organizational Chart(s); 
+• Staffing Plan including skills matrix; 
+• Key Personnel Position Descriptions; 
+• Key Personnel CV/Resumes; 
+• Past Performance Information; and, 
+• Security Operational Plan. 
+
+
+ 
+
+NOTE: Applicants will determine the type of information to be submitted as attachments to 
+their technical application in response to the instructions provided in the NOFO. The list 
+provided above is not all-inclusive. 
+
+ 
+
+(a) Cover Page (does not count against 25-page limit) 
+
+
+ 
+
+
+Include the Applicant’s name submitting the application and the organization’s DUNS number. 
+Major sub-awardees (hereafter referred to as “subs”) must be clearly identified, along with their 
+DUNS numbers; major subs are defined as those expected to perform at least 20 percent of the 
+Applicant’s total proposed budget, or a prominent part of the technical effort. Include a contact 
+person for the application, including his/her name (both typed and signed), title or position with 
+the organization, address, telephone, and email address. Also state whether the contact person is 
+the authorized representative with authority to negotiate the award, and if not, that person should 
+also be clearly identified. (See Section D.3 above for more requirements). 
+
+ 
+
+(b) Table of Contents (does not count against 25-page limit) 
+
+ 
+
+Include major sections and page numbering to easily cross-reference and identify merit review 
+criteria. 
+
+ 
+
+c) Executive Summary (One page, does not count against 25-page limit ) 
+
+
+ 
+
+The Executive Summary must provide a high-level overview of key elements of the Technical 
+Application. 
+
+ 
+
+d) Technical Approach (no more than 25 pages) - [See Section E.1.a.1] 
+
+
+ 
+
+The application provides a clear vision and effective operational strategy and techniques for 
+accomplishing the stated goal, purpose, and expected results outlined in this NOFO, describing 
+conflict mitigation issues and context in which Water for Agriculture will operate. The technical 
+approach must propose proven, innovative, and cost effective approaches, including reference to 
+evidence or other justification that proposed programmatic choices are likely to achieve 
+sustainable impact. It is incumbent upon Applicants to demonstrate their familiarity with and 
+understanding of the development landscape in the northeast and identify significant 
+opportunities for partnership with a range of local organizations and impact. 
+
+ 
+
+Specific focus should be given in developing a technically sound approach while integrating the 
+following implementation principles: 1) multi-stakeholder coordination; 2) coordination with 
+other Assistance Programs; 3) build in sustainability from the beginning; 4) integrate gender, 
+youth, and social inclusion considerations into design and implementation; 5) ensure conflict 
+sensitive programming and a Do No Harm approach; 6) mitigation measures; 7) construction risk 
+management; and 8) environmental Compliance And Management. 
+
+ 
+
+e) Key personnel and Staffing Plan - [See Section E.1.a.II] 
+
+
+ 
+
+e.1 Key Personnel: 
+
+ 
+
+The applicant proposes Key Personnel who possess the required qualifications and have the 
+knowledge, skills, and experience required to achieve the program results. The four Key 
+Personnel positions consist of one Chief of Party (COP), one Deputy Chief of Party 
+(DCOP)/Infrastructure Specialist, one Senior Agronomist, and one Monitoring and 
+Evaluation Specialist. These positions are considered essential to the work being performed due 
+
+
+to their skills and position within the Water for Agriculture activity implementation team. Once 
+included in a signed award, Key Personnel may not be replaced by the Recipient without the 
+written approval of the Agreement Officer. The Recipient must recruit and establish a team of 
+experts and support staff to develop and implement the activity and to manage its central and 
+local elements including short‐term consulting and coordination with stakeholders and partners. 
+
+Chief of Party: Based in Adamawa, the COP will be the direct link with the AOR and other 
+relevant stakeholders such as government partners and accountable for achieving Water for 
+Agriculture results. The COP is expected to have the strategic vision, leadership qualities, depth 
+and breadth of technical expertise and experience, a solid professional reputation, management 
+experience, interpersonal skills and written and oral presentation skills to fulfill the diverse 
+technical and managerial requirements of the program description. Given the complexity and 
+scope of this activity, it is critical that the COP exhibit effective personnel management, 
+coordination, and decision making skills along with an ability to troubleshoot. Additionally 
+
+• The COP must have at least (10) years of demonstrated experience on similar 
+projects, 
+• S/he must have an advanced degree ( a university degree higher than a bachelor’s 
+degree) in engineering, water or natural resource management, public 
+administration/management or other relevant fields; 
+• S/he must have demonstrated experience in institutional strengthening, capacity 
+building, and market-based approaches to water infrastructure for agriculture; 
+• S/he must have experience managing diverse teams of staff; 
+• S/he must have exceptional communication and collaboration skills and a proven 
+track record of interacting with other projects and international agencies; 
+• S/he must have a proven track record of working effectively with diverse groups of 
+civil society organizations, media, civil society, and government counterparts; 
+• S/he must be fluent in English. 
+
+
+ 
+
+Deputy Chief of Party/ Infrastructure Specialist: The Deputy Chief of Party oversees the 
+operation and programmatic aspects of the Water for Agriculture. S/he will be the lead technical 
+person providing leadership to the overall technical direction of the Activity. S/he will be 
+responsible for the assessment of the institutional requirements, agreements and arrangements, 
+informed by the technical and operational requirements of the schemes in their newly designed 
+and rehabilitated form. S/he will work with other members of the team to define operations and 
+maintenance schedules, assess and motivate pricing of irrigation service charges, institutionalize 
+water scheduling modalities, and assign suitable roles and responsibilities to different WUA 
+levels. S/he will provide technical input to the WUA training program, including quality control 
+processes and internal monitoring and analysis. Additionally: 
+
+• The DCOP candidate must have a Master’s degree in the field of water management, 
+irrigation engineering or related field; 
+• S/he must have at least 5 years of practical experience in the design and 
+implementation of agriculture irrigation, water retention storage for irrigation and 
+livestock, and water management systems; 
+• S/he must have excellent management skills, including the ability to manage 
+multidisciplinary teams. 
+
+
+ 
+
+
+Senior Agronomist: The Senior Agronomist will manage implementation of the agricultural 
+productivity component of the activity. S/He will work closely with the Farmers’ Cooperatives 
+and Livestock Herders’ groups. They will provide guidance on how to improve crop yields and 
+livestock productivity. They will discern the best ways to plant, harvest, and cultivate the plants 
+based on the climate in the Northeast. They will develop methods to control weeds and pests to 
+keep crops disease-free. Additionally: 
+
+• S/he must have a Master’s degree in Agronomy, Agricultural Economics; 
+• S/he must have 7 years of professional experience in developing countries, in 
+agriculture economics, agriculture policy, agribusiness, agronomy, agriculture 
+extension, or market development; 
+• S/he must have strong knowledge of sustainable livelihoods approaches and 
+experience working with Farmers organizations and/or agricultural cooperatives; 
+• S/he must have good crop management and understanding of soil fertility and water 
+management in the sub-Saharan African context; 
+• S/he must have excellent communication and writing skills; 
+• S/he must be fluent in English. 
+
+
+ 
+
+Monitoring and Evaluation Specialist: This individual will lead Collaborating, Learning and 
+Adapting (CLA) activities for the activity. S/he will make operational decisions and manage the 
+various components of the program dealing with M&E, will oversee data collection efforts and 
+ensure both the M&E system and results reporting meet the requirements of the Water for 
+Agriculture initiative. The individual will lead a system for continuous communication with 
+relevant partners, and demonstrate an ability to take critical inputs, feedback, and assessments 
+from evaluation partners to inform changes in program approaches and scale-up. The individual 
+shall ensure that these and other program components are results-oriented. This individual will 
+have a major focus on achieving results in all areas assuring that the implementation team 
+members are poised to deliver services on schedule. 
+
+ 
+
+• S/he must have a bachelor degree in Agriculture or a related field; 
+• S/he must have 5 years of monitoring and evaluation work at the supervisory level 
+preferred; 
+• S/he must have experience designing and overseeing M&E data collection and 
+reporting for water for agriculture/food security project; 
+• S/he must have demonstrated ability to create and manage information data bases 
+using appropriate software application; 
+• S/he must have the ability to work in team environment and work with and train non-
+direct reports to implement program; 
+• S/he must have the ability to effectively use geographic information systems; 
+• S/he must have strong writing, reporting, and presentational skills. 
+
+
+ 
+
+e.2 Staffing Plan 
+
+The applicant has the ultimate responsibility for managing the activity to achieve Water for 
+Agriculture purpose, including determining the appropriate staffing pattern to support its 
+technical approach. The staffing plan must include a team with the required knowledge and 
+experience to achieve the intended results of this NOFO program. The team in addition to being 
+
+
+water and agriculture specialists must also have expertise in, and access to specialists in diverse 
+areas such as peace building, reconciliation, conflict mitigation and capacity building sectors. In 
+addition, project personnel should be capable of handling government counterparts and other 
+stakeholders and be well experienced in local context. The staffing pattern will reflect the 
+minimum number of highly experienced technical staff sufficient to manage and implement the 
+award activities. USAID intends the Water for Agriculture activity to have a sufficient qualified 
+core of full-time staff on site responsible for planning, designing, managing, and implementing 
+the Water for Agriculture activity. Short-term technical experts who can support in-country long-
+term personnel in the identification of promising and innovative project models may supplement 
+the staff. The applicant’s staffing plan should be gender inclusive and conflict sensitive. 
+
+f) Institutional Capacity and Management Plan - [See Section D.5.e. III] 
+
+
+ 
+
+• Institutional capacity 
+
+
+ 
+
+The applicant describes its organizational capabilities, expertise, and experience in project 
+implementation that given the complexity and security situation of Northeast Nigeria. Applicants 
+are to develop a set of targeted responses that reflect local realities and socio-cultural values and 
+practices. Applicants are to demonstrate capacity to manage engineering design and construction 
+implementation. Applicants are to put in place a flexible management system that will support 
+rapid mobilization and response, and a diverse range of interventions suited to the profile of the 
+different target groups and districts. Furthermore, Applicants are also to propose strategies that 
+allow for the rapid and flexible retargeting of resources in response to new threats and 
+opportunities as per the organizational capabilities and expertise of the applicant and of sub-
+recipients in the technical areas identified in the Program Description. The Applicant describes 
+the organizational capabilities and expertise of any proposed sub-recipients and demonstrates 
+how the partner organization(s) will be utilized and how the complementarity of their skill sets 
+will be represented in the partnership. The applicant identifies the proposed field management 
+structure and financial controls. The technical application explains the core technical 
+capacities/resources and home office support, and the applicant’s financial control system. 
+
+ 
+
+• Management Plan 
+
+
+ 
+
+The applicant must describe the applicant’s executive management functions and the 
+tools/methods that will be applied to ensure cost efficient, responsive and effective financial, 
+technical and administrative management of the project, its consortium partners, and sub-
+awardees. This will highlight the management structure, defined functions, and the management 
+and decision making authorities of the Applicant. Applicants will also identify: internal quality 
+controls for technical and financial management; specific approaches that will ensure cost-
+efficiency and maximize the development impact for US taxpayer dollars spent under this 
+
+
+NOFO; home office capacity for monitoring performance and early identification and resolution 
+of staffing concerns or programmatic challenges in meeting timelines, benchmarks and 
+deliverables. 
+
+Applicant will also describe demonstrated capability in assembling high quality technical 
+assistance teams, including identifying and utilizing Nigerian technical expertise, and placing 
+them in the field in a timely manner and providing them with all necessary support. This ability 
+must be evidenced by organizational commitment and organizational systems designed to utilize 
+consortium members and Nigerian firms/individuals as appropriate. 
+
+Applicants will also describe how they will incorporate principle elements of USAID’s preferred 
+approach to construction into the program, including their approach to construction oversight and 
+quality assurance. (See Construction Risk Management: A Mandatory Reference for ADS 
+Chapter 201 - https://www.usaid.gov/ads/policy/200/201maw) 
+
+g) Past Performance - [See Section D.5.e. IV] 
+
+
+ 
+
+The applicant provides its performance implementing U.S. Government and/or privately funded 
+contracts, grants, and cooperative agreements for peace building and reconciliation related 
+programming in the three years prior to this application. The applicant will include a list of the 
+Applicant’s (prime) and their implementing partners’ grants, or cooperative agreements 
+involving similar or related programs over the past three years (include the location(s), name and 
+current telephone number and/or email address of at least one person knowledgeable of the 
+Applicant’s work on each such program, award numbers for each program (if available), and a 
+brief description of the work performed.) 
+
+USAID will consider the information provided by the applicant, as well as information obtained 
+from other sources, when evaluating the applicant’s past performance and will determine the 
+relevance of similar past performance information. The U.S. Government reserves the right to 
+contact references and to obtain other information from any and all sources inside or outside the 
+U.S. Government for use in the evaluation of past performance. 
+
+USAID will conduct a merit review all applications received that complies with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following 
+criteria shown in descending order of importance: 
+
+ 
+
+7. Business (Cost) Application Format 
+
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. 
+While no page limit exists for the full cost application, applicants are encouraged to be as 
+concise as possible while still providing the necessary details. The business (cost) application 
+must illustrate the entire period of performance, using the budget format shown in the SF-424A. 
+
+ 
+
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary 
+for the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.205. 
+Applicants should not submit any additional information with their initial application. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated below 
+this listing with the letters for each requirement): 
+
+ 
+
+a) Cover Page (See Section D.3 above for requirements) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+b) SF 424 Form(s) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard Forms 
+can be accessed electronically at www.grants.gov or using the following links: 
+
+Instructions for SF-
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424-
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424a-
+instructions.html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424b-
+instructions.html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+c) Required Certifications and Assurances 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+application: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+(2) Assurances for Non-Construction Programs (SF-424B) 
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+d) Budget and Budget Narrative 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later versions) 
+with visible formulas and references and must be broken out by project year, including 
+
+
+itemization of the federal and non-federal (cost share) amount. Files must not contain any hidden 
+or otherwise inaccessible cells. Budgets with hidden cells lengthen the cost analysis time 
+required to make award, and may result in a rejection of the cost application. The Budget 
+Narrative must contain sufficient detail to allow USAID to understand the proposed costs. The 
+applicant must ensure the budgeted costs address any additional requirements identified in 
+Section F, such as Branding and Marking. The Budget Narrative must be thorough, including 
+sources for costs to support USAID’s determination that the proposed costs are fair and 
+reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+• Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the applicant and any 
+potential sub-applicants for the entire period of the program. See Section H, Annex 1 for 
+Summary Budget Template 
+• Detailed Budget, including a breakdown by year, sufficient to allow the Agency to 
+determine that the costs represent a realistic and efficient use of funding to implement the 
+applicant’s program and are allowable in accordance with the cost principles found in 2 
+CFR 200 Subpart E. 
+• Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken out 
+by budget category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a 
+minimum: 
+
+ 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. The applicant’s budget must include position title, salary rate, level of 
+effort, and salary escalation factors for each position. Allowances, when proposed, must be 
+broken down by specific type and by position. Applicants must explain all assumptions in the 
+Budget Narrative. The Budget Narrative must demonstrate that the proposed compensation is 
+reasonable for the services rendered and consistent with what is paid for similar work in 
+other activities of the applicant. Applicants must provide their established written policies on 
+personnel compensation. If the applicant’s written policies do not address a specific element 
+of compensation that is being proposed, the Budget Narrative must describe the rationale 
+used and supporting market research. 
+
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an 
+agency of the U.S. Government, the applicant must use such rate and provide evidence of its 
+approval. If an applicant does not have a fringe benefit rate approved, the applicant must 
+propose a rate and explain how the applicant determined the rate. In this case, the Budget 
+Narrative must include a detailed breakdown comprised of all items of fringe benefits (e.g., 
+superannuation, gratuity, etc.) and the costs of each, expressed in U.S. dollars and as a 
+percentage of salaries. 
+
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the number of 
+trips, the origin and destination, the number of individuals traveling, and the duration of the 
+trips. Per Diem and associated travel costs must be based on the applicant’s normal travel 
+
+
+
+policies. When appropriate please provide supporting documentation as an attachment, such 
+as company travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property – 
+Must include information on estimated types of equipment, models, supplies and the cost per 
+unit and quantity. The Budget Narrative must include the purpose of the equipment and 
+supplies and the basis for the estimates. The Budget Narrative must support the necessity of 
+any rental costs and reasonableness in light of such factors as: rental costs of comparable 
+property, if any; market conditions in the area; alternatives available; and the type, life 
+expectancy, condition, and value of the property leased. 
+
+
+ 
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200.330 for assistance in determining whether the sub-tier entity is 
+a subrecipient or contractor. The subrecipient budgets must align with the same requirements 
+as the applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+6) Construction and Capacity building Training Costs 
+
+
+ 
+
+7) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any 
+other miscellaneous costs which directly benefit the program proposed by the applicant. The 
+applicant should indicate the subject, venue and duration of any proposed conferences and 
+seminars, and their relationship to the objectives of the program, along with estimates of 
+costs. Otherwise, the narrative should be minimal. 
+
+
+ 
+
+8) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or will 
+charge all costs directly. In order to better understand indirect costs please see Subpart E of 2 
+CFR 200.414. The application must identify which approach they are requesting and provide 
+the applicable supporting information. Below are the most commonly used Indirect Cost 
+Rate methods: 
+
+
+ 
+
+Method 1 - Direct Charge Only 
+
+Eligibility: Any applicant 
+
+Initial Application Requirements: See above on direct costs 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+Eligibility: Any applicant with a NICRA issued by a USG Agency must use that NICRA 
+
+Initial Application Requirements: If the applicant has a current NICRA, submit your 
+approved NICRA and the associated disclosed practices. If your NICRA was issued by an 
+Agency other than USAID, provide the contact information for the approving Agency. 
+Additionally, at the Agency’s discretion, a provisional rate may be set forth in the award 
+subject to audit and finalization. See USAID’s Indirect Cost Rate Guide for Non Profit 
+Organizations for further guidance. 
+
+ 
+
+Method 3 - De minimis rate of 10% of modified total direct costs (MTDC) 
+
+Eligibility: Any applicant that has never received a NICRA 
+
+
+Initial Application Requirements: Costs must be consistently charged as either indirect or 
+direct costs, but may not be double charged or inconsistently charged as both. If chosen, this 
+methodology once elected must be used consistently for all Federal awards until such time as 
+a non-Federal entity chooses to negotiate an indirect rate, which the non-Federal entity may 
+apply to do at any time. The applicant must describe which cost elements it charges 
+indirectly vs. directly. See 2 CFR 200.414(f) for further information. 
+
+ 
+
+Method 4 - Indirect Costs Charged As A Fixed Amount 
+
+Eligibility: Non U.S. non-profit organizations without a NICRA may request, but approval is 
+at the discretion of the AO 
+
+Initial Application Requirements: Provide the proposed fixed amount and a worksheet that 
+includes the following: 
+
+ 
+
+● Total costs incurred by the organization for the previous fiscal year and estimates for the 
+current year. 
+● Indirect costs (common costs that benefit the day-to-day operations of the organization, 
+including categories such as salaries and expenses of executive officers, personnel 
+administration, and accounting, or that benefit and are identifiable to more than one 
+program or activity, such as depreciation, rental costs, operations and maintenance of 
+facilities, and telephone expenses) for the previous fiscal year and estimates for the 
+current year 
+● Proposed method for prorating the indirect costs equitably and consistently across all 
+programs and activities of using a base that measures the benefits of that particular cost to 
+each program or activity to which the cost applies. 
+
+
+ 
+
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% de 
+minimis rate, the Agreement Officer will provide further instructions and may request additional 
+supporting information, including financial statements and audits, should the application still be 
+under consideration after the merit review. USAID is under no obligation to approve the 
+applicant’s requested method. 
+
+ 
+
+ 
+
+(9) Security Costs: The Applicant will provide a security budget for security costs as part of 
+its application. The Security Plan and budget must delineate and justify for 
+reasonableness all costs and provide a coherent, overall integrated security plan that 
+demonstrates that the Applicant has undertaken a thoughtful review of their security 
+needs and includes analysis of the various elements of a security plan. The security 
+budget must be complete and include comprehensive budget notes. 
+
+ 
+
+Applicants must consider any costs foreseen for security, as identified in Annex #5 “Sample 
+Format for Initial Security Plan” to include security equipment, security related communication 
+equipment, and guards required for program implementation. These costs must be included under 
+“Other Direct Costs.” Security Costs must be clearly identified in the cost application in a 
+separate budget line item and must be included as part of the overall Applicant’s cost application. 
+
+ 
+
+e) Prior Approvals in accordance with 2 CFR 200.407 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of 
+any cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+f) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the 
+time of award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+• Name of organization 
+• DUNS Number 
+• Confirmation that the subrecipient does not appear on the Treasury Department’s Office 
+of Foreign Assets Control (OFAC) list 
+• Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+• Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+• Confirmation that the subrecipient is not suspended or debarred 
+• Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.331(b) 
+• Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+h) Dun and Bradstreet and SAM Requirements 
+
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable 
+unique entity identifier (DUNS number) and System for Award Management (SAM) 
+requirements. Each applicant (unless the applicant is an individual or Federal awarding agency 
+that is exempted from requirements under 2 CFR 25.110(b) or (c), or has an exception approved 
+by the Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+1. Provide a valid DUNS number for the applicant and all proposed sub-recipients; 
+2. Be registered in SAM before submitting its application. SAM is streamlining processes, 
+eliminating the need to enter the same data multiple times, and consolidating hosting to 
+make the process of doing business with the government more efficient (www.sam.gov). 
+3. Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under consideration 
+by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are 
+encouraged to begin the process early. If an applicant has not fully complied with the 
+requirements above by the time USAID is ready to make an award, USAID may determine that 
+the applicant is not qualified to receive an award and use that determination as a basis for making 
+an award to another applicant. 
+
+ 
+
+
+DUNS number: http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick 
+Start Guide and a video on how to obtain an NCAGE code, on www.sam.gov, navigate to Help, 
+then to International Registrants. 
+
+ 
+
+i) History of Performance 
+
+
+ 
+
+The applicant must provide information regarding its recent history of performance for all its 
+cost-reimbursement contracts, grants, or cooperative agreements involving similar or related 
+programs, recent and relevant, as follows: 
+
+• Name of the Awarding Organization; 
+
+• Award Number; 
+
+• Activity Title; 
+
+• A brief description of the activity; 
+
+• Period of Performance; 
+
+• Award Amount; 
+
+• Reports and findings from any audits performed in the last three (3) years; and 
+
+• Name of at least two (2) updated professional contacts who most directly observed the work at 
+the organization for which the service was performed with complete current contact information 
+including telephone number, and e-mail address for each proposed individual. 
+
+ 
+
+If the applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general 
+information on its performance. USAID reserves the right to obtain relevant information 
+concerning an applicant’s history of performance from any sources and may consider such 
+information in its review of the applicant’s risk. The Agency may request additional information 
+and conduct a pre-award survey if it determines that it is necessary to inform the risk assessment. 
+
+ 
+
+Applicants should use the format provided in Annex #4: Past Performance Information of 
+the NOFO to document the detailed information as requested. The completed forms should 
+be included in the application’s appendix/annex. 
+
+ 
+
+j) Branding Strategy and Marking Plan 
+
+
+ 
+
+It is a U.S. Federal statutory and regulatory requirement that all overseas programs, projects, 
+activities, public communications, and commodities that USAID partially or fully funds under an 
+assistance award or sub-award must be appropriately marked with the USAID identity. 
+
+ 
+
+Pursuant to ADS 303.3.6.3.f and ADS 320.3.1.2, the apparently successful applicant will be 
+requested to submit a Branding Strategy and Marking Plan that will have to be successfully 
+negotiated before a cooperative agreement will be awarded. These plans shall be prepared in 
+accordance with the guidance in ADS 320.3.1.2, 2 CFR 700.16 and the references therein. ADS 
+Chapter 320 sections concerning "assistance" apply to this NOFO. ADS Chapter 320 sections 
+concerning "acquisition" do not apply to this NOFO. ADS Chapter 320 can be found on the 
+USAID website: http://www.usaid.gov/policy/ads/300/320. 
+
+
+ 
+
+Please note that USAID/Nigeria has waived marking requirements for selected locations in 
+Nigeria. A copy of the waiver notification to USAID/Nigeria Implementing Partners is provided 
+as Annex #7 to this NOFO. 
+
+ 
+
+The Branding Strategy and Marking Plan must not be included with the original application but 
+will be provided only after a written request of the Agreement Officer. However, the cost of 
+Branding and Marking must be included in the Cost Application. 
+
+ 
+
+USAID/Nigeria does not intend to make an award without an approved Branding Strategy and 
+Marking Plan. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking 
+Plan to be evaluated and approved by the Agreement Officer and incorporated into any resulting 
+award 
+
+ 
+
+Pre-Award Terms 
+
+ 
+
+I. Branding Strategy – Assistance (June 2012) 
+
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, project, or activity is named and positioned, and 
+how it is promoted and communicated to beneficiaries and host country citizens. 
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, 
+confers no rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by 
+the Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so 
+forth, in the budget portion of the application. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement or other assistance instrument. 
+
+ e. The Branding Strategy must include, at a minimum, all of the following: 
+
+ (1) All estimated costs associated with branding and marking USAID programs, 
+such as plaques, stickers, banners, press events, materials, and so forth. 
+
+ 
+
+2. The intended name of the program, project, or activity. 
+
+
+
+
+
+
+
+
+ 
+
+i. USAID requires the applicant to use the “USAID Identity,” comprised of 
+the USAID logo and brandmark, with the tagline “from the American 
+people” as found on the USAID Web site at 
+http://www.usaid.gov/branding, unless Section VI of the RFA or APS 
+states that the USAID Administrator has approved the use of an additional 
+or substitute logo, seal, or tagline. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ii. USAID prefers local language translations of the phrase “made possible by 
+(or with) the generous support of the American People” next to the USAID 
+Identity when acknowledging contributions. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iii. It is acceptable to cobrand the title with the USAID Identity and the 
+applicant's identity. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iv. If branding in the above manner is inappropriate or not possible, the 
+applicant must explain how USAID's involvement will be showcased 
+during publicity for the program or project. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+v. USAID prefers to fund projects that do not have a separate logo or identity 
+that competes with the USAID Identity. If there is a plan to develop a 
+separate logo to consistently identify this program, the applicant must 
+attach a copy of the proposed logos. Section VI of the RFA or APS will 
+state if an Administrator approved the use of an additional or substitute 
+logo, seal, or tagline. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program 
+to beneficiaries. 
+
+ 
+
+(a) Describe the main program message. 
+
+
+ 
+
+(ii) Provide plans for training materials, posters, pamphlets, public service 
+announcement, billboards, Web sites, and so forth, as appropriate. 
+
+ 
+
+(iii) Provide any plans to announce and promote publicly this program or project to 
+host country citizens, such as media releases, press conferences, public events, 
+and so forth. Applicant must incorporate the USAID Identity and the message, 
+“USAID is from the American People.” 
+
+(iv) Provide any additional ideas to increase awareness that the American people 
+support this project or program. 
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials 
+and related materials. Indicate if they are a donor or why they will be visibly 
+acknowledged, and if they will receive the same prominence as USAID. 
+
+
+ 
+
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above information 
+is adequately included and consistent with the stated objectives of the award, the 
+applicant's cost data submissions, and the performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Branding Strategy will be included in and 
+made part of the resulting grant or cooperative agreement. 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+II. Marking Plan – Assistance (June 2012) 
+
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and 
+other items that will visibly bear the “USAID Identity,” which comprises of the USAID 
+logo and brandmark, with the tagline “from the American people.” The USAID Identity 
+is the official marking for the Agency, and is found on the USAID Web site at 
+http://www.usaid.gov/branding. Section VI of the RFA or APS will state if an 
+Administrator approved the use of an additional or substitute logo, seal, or tagline. 
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+ c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so 
+forth, in the budget portion of the application. These costs are subject to the revision 
+and negotiation with the Agreement Officer and will be incorporated into the Total 
+Estimated Amount of the grant, cooperative agreement or other assistance instrument. 
+
+ 
+
+e. The Marking Plan must include all of the following: 
+
+ 
+
+ (1) A description of the public communications, commodities, and program materials 
+that the applicant plans to produce and which will bear the USAID Identity as part 
+of the award, including: 
+
+ (i) Program, project, or activity sites funded by USAID, including visible 
+infrastructure projects or other sites physical in nature; 
+
+ 
+
+ (ii) Technical assistance, studies, reports, papers, publications, audiovisual 
+productions, public service announcements, Web sites/Internet activities, 
+promotional, informational, media, or communications products funded by 
+USAID; 
+
+ 
+
+ (iii) Commodities, equipment, supplies, and other materials funded by USAID, 
+including commodities or equipment provided under humanitarian 
+assistance or disaster relief programs; and 
+
+ 
+
+
+ (iv) It is acceptable to cobrand the title with the USAID Identity and the 
+applicant's identity. 
+
+ 
+
+ (v) Events financed by USAID, such as training courses, conferences, 
+seminars, exhibitions, fairs, workshops, press conferences and other public 
+activities. If the USAID Identity cannot be displayed, the recipient is 
+encouraged to otherwise acknowledge USAID and the support of the 
+American people. 
+
+ 
+
+ (2) A table on the program deliverables with the following details: 
+
+ 
+
+ (i) The program deliverables that the applicant plans to mark with the USAID 
+Identity; 
+
+ 
+
+ (ii) The type of marking and what materials the applicant will use to mark the 
+program deliverables; 
+
+ 
+
+ (iii) When in the performance period the applicant will mark the program 
+deliverables, and where the applicant will place the marking; 
+
+ 
+
+ (iv) What program deliverables the applicant does not plan to mark with the 
+USAID Identity, and 
+
+ 
+
+ (v) The rationale for not marking program deliverables. 
+
+ 
+
+ (3) Any requests for an exemption from USAID marking requirements, and an 
+explanation of why the exemption would apply. The applicant may request an 
+exemption if USAID marking requirements would: 
+
+ 
+
+ (i) Compromise the intrinsic independence or neutrality of a program or 
+materials where independence or neutrality is an inherent aspect of the 
+program and materials. The applicant must identify the USAID 
+Development Objective, Interim Result, or program goal furthered by an 
+appearance of neutrality, or state why an aspect of the award is 
+presumptively neutral. Identify by category or deliverable item, examples 
+of material for which an exemption is sought. 
+
+ 
+
+ (ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. 
+The applicant must explain why each particular deliverable must be seen 
+as credible. 
+
+ 
+
+ (iii) Undercut host-country government “ownership” of constitutions, laws, 
+regulations, policies, studies, assessments, reports, publications, surveys or 
+audits, public service announcements, or other communications. The 
+applicant must explain why each particular item or product is better 
+positioned as host-country government item or product. 
+
+
+ 
+
+ (iv) Impair the functionality of an item. The applicant must explain how 
+marking the item or commodity would impair its functionality. 
+
+ 
+
+ (v) Incur substantial costs or be impractical. The applicant must explain why 
+marking would not be cost beneficial or practical. 
+
+ 
+
+ (vi) Offend local cultural or social norms, or be considered inappropriate. The 
+applicant must identify the relevant norm, and explain why marking would 
+violate that norm or otherwise be inappropriate. 
+
+ 
+
+ (vii) Conflict with international law. The applicant must identify the applicable 
+international law violated by the marking. 
+
+ f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness 
+and will approve or disapprove any exemption requests. The Marking Plan will be 
+reviewed to ensure the above information is adequately included and consistent with the 
+stated objectives of the award, the applicant's cost data submissions, and the 
+performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions will be included in and made part of the resulting grant or cooperative 
+agreement, and will apply for the term of the award unless provided otherwise. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+k) Funding Restrictions 
+
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.330 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction may be authorized under this award in accordance with relevant Standard 
+Provisions. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the 
+explicit written approval of the Agreement Officer. 
+
+ 
+
+Applicant will be reimbursed only for costs that benefit the program description and are 
+allocable, allowable and reasonable. Pre-award costs may be reimbursed under the resulting 
+award, but only with the prior specific written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pre-Award Terms 
+
+ 
+
+
+ k) Conflict Of Interest Pre-Award Term (August 2018) 
+
+
+a. Personal Conflict of Interest 
+
+ 
+
+ 1. An actual or appearance of a conflict of interest exists when an applicant 
+
+ organization or an employee of the organization has a relationship with an 
+
+ Agency official involved in the competitive award decision-making process 
+
+ that could affect that Agency official’s impartiality. The term “conflict of 
+
+ interest” includes situations in which financial or other personal considerations 
+may compromise, or have the appearance of compromising, the obligations and 
+duties of a USAID employee or recipient employee. 
+
+ 
+
+ 2. The applicant must provide conflict of interest disclosures when it submits 
+
+ an SF-424. Should the applicant discover a previously undisclosed conflict 
+
+ of interest after submitting the application, the applicant must disclose the 
+
+ conflict of interest to the AO no later than ten (10) calendar days following 
+
+ discovery. 
+
+ 
+
+b. Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are 
+aware of that may provide the applicant with an unfair competitive advantage in competing for 
+this financial assistance award. Examples of an unfair competitive advantage include but are not 
+limited to situations in which an applicant or the applicant’s employee gained access to non-
+public information regarding a federal assistance funding opportunity, or an applicant or 
+applicant’s employee was substantially involved in the preparation of a federal assistance 
+
+funding opportunity. USAID will promptly take appropriate action upon receiving 
+
+any such notification from the applicant. 
+
+ 
+
+ 
+
+l) Security Plan 
+
+
+ 
+
+The Applicant must submit a Security Plan as a part of their application. The Security Plan must 
+be based on a credible threat analysis and risk assessment. The plan must provide a coherent, 
+integrated security plan, which demonstrates that the Applicant has undertaken a thoughtful 
+review of their security needs and includes analysis of the various elements of a security system 
+showing how threats will be mitigated. 
+
+ 
+
+The Security Plan must include a point of contact to answer questions or provide clarifications 
+regarding security throughout the life of the program. The Applicant is encouraged to acquire 
+professional advice from an expert of its choosing to assist in establishing an overall security 
+plan/system. 
+
+ 
+
+The security plan accompanied by the budget will be reviewed together with the technical and 
+cost applications, and it needs to demonstrate that the security needs to successfully implement 
+the program description as presented in the Applicant’s technical approach have been 
+addressed/considered. 
+
+
+ 
+
+A sample format for Initial Security Plan is included in this NOFO as Annex #5. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+[END SECTION D] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. Merit Review Criteria 
+
+
+ 
+
+The criteria presented below have been tailored to the requirements of this particular NOFO. 
+Applicants should note that these criteria serve to: (a) identify the significant matters that 
+Applicants should address in their applications; and (b) set the standard against which all 
+applications will be evaluated. 
+
+ 
+
+The following merit review criteria, presented by major category, will be evaluated and used to 
+make an award decision. The Selection Committee (SC) will evaluate the various components of 
+the application set forth below, in which Technical Approach is the most important criterion and 
+the other three criteria are of lesser importance than Technical Approach (but these three are of 
+equal importance to each other). All sub-criteria within these major categories are of equal 
+importance. 
+
+ 
+
+ 
+
+USAID will conduct a merit review of all applications received that comply with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following 
+criteria shown in descending order of importance. 
+
+Criteria 1: Technical Approach 
+
+The extent to which the application demonstrates a clear and effective implementation strategy 
+and techniques results and a nuanced understanding of conflict mitigation context in the 
+northeast for accomplishing the stated goal, purpose, and expected outlined in the NOFO. 
+
+ 
+
+Criteria 2: Key Personnel and Staffing Plan 
+
+The Key personnel plan and staffing plan will be evaluated based on the following sub-criteria, 
+in equal order of importance: 
+
+Key personnel 
+
+The extent to which the proposed key personnel meet the qualifications outlined in this NOFO, 
+reflecting specific required skills and ability to meet minimum requirements of the PD. 
+
+Staffing Plan 
+
+The extent to which all other professional personnel positions are appropriate and logically 
+connected to the implementation of the activity and achievement objectives. 
+
+Criteria 3: Institutional Capacity and Management Plan 
+
+The application will be evaluated based on institutional experience using the following sub-
+factors: 
+
+
+Institutional Capacity 
+
+The extent to which the applicant demonstrates organizational experience for programs of similar 
+size, scope, and duration within conflict areas. 
+
+Management Plan 
+
+The extent to which the applicant incorporated principle elements of USAID’s preferred 
+approach to construction. 
+
+Criteria 4: Past Performance 
+
+The extent to which the applicant and its teaming partners, if any, demonstrate successful past 
+performance in achieving results on similar programs. 
+
+a) Business Review 
+
+
+ 
+
+The Agency will evaluate the cost application of the applicant(s) under consideration for an 
+award as a result of the merit criteria review to determine whether the costs are allowable in 
+accordance with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+ 
+
+Proposed cost share, if provided, will be reviewed for compliance with the standards set forth in 
+2 CFR 200.306, 2 CFR 700.10, and the Standard Provision "Cost Sharing (Matching)" for U.S. 
+entities, or the Standard Provision "Cost Share" for non-U.S. entities. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.205). The AO may determine that a pre-
+award survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.207). 
+
+ 
+
+Besides the Technical Evaluation Criteria, the application will be assessed for cost effectiveness 
+and realism and must therefore address the following: 
+
+ 
+
+1. Cost Effectiveness and Realism: The proposed costs must be realistic, reasonable, 
+complete, and allowable. The costs must be realistic for the effort and consistent with the 
+technical components of the application. 
+
+ 
+
+
+2. Adequacy of Budget Detail and Financial Feasibility: The proposed budget must be 
+sufficient to support the proposed activities, and all proposed costs must be adequately supported 
+by notes highlighting the key assumptions used in their determination. USAID reserves the right 
+to determine the resulting level of funding for the Cooperative Agreement. 
+
+ 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+a. Award of the agreement contemplated by this NOFO cannot be made until funds have 
+been appropriated, allocated and committed through internal USAID procedures. While 
+USAID anticipates that these procedures will be successfully completed, potential 
+applicants are hereby notified of these requirements and conditions for the award. 
+
+
+
+
+ 
+
+b. The Agreement Officer is the only individual who may legally commit the Government 
+to the expenditure of public funds. 
+
+
+
+
+ 
+
+c. No costs chargeable to the proposed Agreement(s) may be incurred before receipt of 
+either a fully executed Agreement or a specific, written authorization from the Agreement 
+Officer. 
+
+
+
+
+ 
+
+d. Following selection for award and successful negotiations with the apparently successful 
+Applicant, an electronic copy of the notice of the award signed by the Agreement Officer 
+will be sent to the successful Applicant, which serves as the authorizing document. The 
+Agreement Officer will only do so after making a positive responsibility determination 
+that the Applicant possesses, or has the ability to obtain, the necessary management 
+competence in planning and carrying out assistance programs and that it will practice 
+mutually agreed upon methods of accountability for funds and other assets provided by 
+USAID. 
+
+
+
+
+ 
+
+e. The award will be issued to the contact as specified in the application as the Authorized 
+Individual in accordance with the requirements in the Representations and Certifications. 
+USAID reserves the right to perform a pre-award survey which may include, but is not 
+limited to: 
+
+
+
+
+ 
+
+(a) Interviews with individuals to establish their ability to perform agreement duties 
+under the project conditions; 
+
+
+ 
+
+(b) A review of the prime Recipient’s financial condition, business and personnel 
+procedures, etc.; and 
+
+
+ 
+
+(c) Site visits to the prime Recipient’s institution. 
+
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+No deviations are currently contemplated to the standard provisions for the grant(s) or 
+cooperative agreement(s) contemplated by this NOFO. 
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations: 
+
+ 
+
+
+• For US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for 
+U.S. Non-governmental organizations. 
+
+
+ 
+
+• For Non US organizations: Standard Provisions for Non-U.S. Non-governmental 
+Organizations. While 2 CFR 200 does not directly apply to non-U.S. applicants, the 
+Agreement Officer will use the standards of 2 CFR 200 in the administration of the 
+award. 
+
+
+ 
+
+See Annex 2 for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+ 
+
+3. Reporting Requirements 
+
+
+ 
+
+(a) The Recipient shall comply with the Standard Provision set forth in Annex #2 of this 
+Agreement entitled “Marking and Public Communications Under USAID-Funded Assistance 
+(August 2013).” All reports shall be in English. 
+
+
+ 
+
+(b) All written documentation (correspondence, reports, information sheets, etc.) for 
+submission under this Cooperative Agreement must be in English. At a minimum, all 
+documents must be provided in MS Word (or MS Excel or MS PowerPoint) and PDF 
+(unlocked) formats. 
+
+
+ 
+
+(c) All reporting and data must be synchronized with the United States Government (USG) 
+fiscal year. FYI, quarterly periods are from October 1 – December 31; January 1 – March 31; 
+April 1 – June 30; and, July 1 – September 30. Thus, quarterly reports are due on: January 31, 
+April 30, July 31 and October 31, respectively. 
+
+
+ 
+
+(d) In addition to discussing the achievements of the activity, challenges and potential 
+solutions, the report will present semi-annual results (October – March) on the USAID 
+indicators against the targets for that year. This should also include explanation for any 
+indicator values falling above and below target. 
+
+
+ 
+
+(e) The fourth quarter (July-September) report due on October 31 will be utilized by the 
+USAID Mission as an annual report. The report should contain more information than the 
+normal quarterly report, as USAID/Nigeria needs the information to fulfill its own annual 
+reporting in November. In addition to the regular information (listed below), the fourth quarter 
+report should discuss the achievements of the entire year and should contain a table displaying 
+the indicators the partner is responsible for reporting on and the indicator values for the year, 
+along with prior year values and future year targets. It should also include explanations for any 
+indicator values falling above or below target. 
+
+
+ 
+
+A. Financial Reporting: 
+
+
+ 
+
+ Financial Reports will be submitted following relevant guidance contained in the award 
+Standard Provisions. 
+
+ 
+
+
+ Financial reporting will, at a minimum, require annual submission of the SF-425. 
+Additional requirements, if any, will depend on the payment provisions of the award, 
+which cannot be determined until after award. Financial reporting requirements and 
+instructions will be specified in the award. 
+
+ 
+
+(a) Reporting of Expenditures 
+
+ 
+
+(i) Financial reporting requirements must be in accordance with 2 CFR 700.7 and 2 CFR 
+200.327 regarding advance payments. Standard Form (SF) –270 or SF-1034 must be used to 
+Request Advance payments. Either paper copies or electronic copies (scanned PDF document) 
+may be submitted, but not both. 
+
+ 
+
+(ii) SF-425 shall be used to report actual expenditures and shall be submitted within 30 
+calendar days from the end of each quarter, except that the final report shall be submitted within 
+90 calendar days from the estimated completion date of this Agreement. The Recipient shall 
+submit the SF-425 form in the following manner: 
+
+ 
+
+• An original copy to the Payment Office; 
+• A copy to the AOR; 
+• A copy to the Agreement Officer 
+
+
+ 
+
+(iii) Electronic copies of the SF-425 can be found at: 
+
+ 
+
+ https://www.grants.gov/web/grants/forms/post-award-reporting-forms.html#sortby=1 
+
+ 
+
+b) Reporting of Foreign Taxes 
+
+ 
+
+The Recipient must comply with the Standard Provision set forth in the resulting Agreement 
+entitled “Reporting of Host Government Taxes.” 
+
+ 
+
+B. Performance Reporting 
+
+
+ 
+
+(a) Performance Reports 
+
+
+ 
+
+(i) The Recipient must submit a quarterly and annual program performance reports to the 
+AOR, with a copy to the Agreement Officer, and USAID/Nigeria Monitoring and 
+Evaluation Unit at e-mail: abujaprog-me@usaid.gov. Electronic submissions are 
+preferred over hard copy. 
+
+
+ 
+
+(ii) The due date for these program performance reports is not later than 30 days after the end 
+of each reporting period. At a minimum, the report must include: 
+
+
+ 
+
+● A comparison of actual accomplishments/results, both for the reporting period and 
+cumulatively, with the established goals and objectives, and expected results; the 
+findings of the investigator; or both. Data (both qualitative and quantitative) must be 
+presented using established baseline data and indicators, and be supported by a brief 
+narrative. This should include reporting on specific processes and activities that were 
+
+
+
+planned for the period to support the relevant stakeholders. Whenever appropriate and 
+the output of programs or activities can be readily quantified, such quantitative data 
+should be related to cost data for computation of unit costs; 
+
+
+ 
+
+● Reasons why established goals were not met (if applicable), the impact on the 
+program objective(s), and how the impact has been/will be addressed; and 
+
+
+ 
+
+● Other pertinent information including, when appropriate, success stories (if available) 
+which illustrate the direct positive effects of the program; how unforeseen 
+circumstances affected overall performance compared to original assumptions (if 
+applicable), how activities were accordingly adjusted or re-targeted; and analysis and 
+explanation of cost overruns or high unit costs. 
+
+
+ 
+
+(iii) Additional guidance on the format and content of quarterly reports is contained in Annex 
+#6 to this NOFO. 
+
+
+ 
+
+(b) Notification 
+
+
+ 
+
+The Recipient will submit to the AOR and AO the notification, as follows: (1) Developments 
+which have a significant impact on the activities supported by this Award; and (2) Problems, 
+delays, or adverse conditions which materially impair the ability to meet the objectives of this 
+Cooperative Agreement. This notification will include a statement of the action taken or 
+contemplated, and any assistance needed to resolve the problem. 
+
+ 
+
+(c) Final Report 
+
+
+ 
+
+The Recipient must submit a final report to the AOR, with copies to the Agreement Officer, 
+USAID Development Experience Clearinghouse at e-mail: DocSubmit@usaid.gov, and 
+USAID/Nigeria Monitoring and Evaluation Unit at e-mail: abujaprog-me@usaid.gov. The final 
+report must be submitted no later than 90 calendar days after the expiration or termination of the 
+award. The final report shall also consolidate activities and analyses of all partners into one 
+document and their activities and progress towards results. The final performance report must 
+contain the following information: 
+
+(i) A comparison of actual accomplishments with the goals and objectives established for the 
+period, the findings of the investigator, or both. Whenever appropriate and the output of 
+programs or activities can be readily quantified, such quantitative data should be related 
+to cost data for computation of unit costs. 
+
+
+ 
+
+(ii) Final data, compared to baseline data, for all indicators included in the monitoring and 
+evaluation plan award activities. This section should include disaggregated data by 
+gender, historically disenfranchised groups and other relevant groups identified. 
+
+
+ 
+
+(iii) A summary of problems/obstacles encountered during the implementation, and how those 
+obstacles were addressed and overcome if appropriate. 
+
+
+ 
+
+(iv) Reasons why established goals were not met, if appropriate. 
+
+
+ 
+
+
+(v) Other pertinent information including, when appropriate, analysis and explanation of cost 
+overruns or high unit costs. 
+
+
+ 
+
+(vi) Significance of these activities for overall elections and political processes development 
+worldwide. 
+
+
+ 
+
+(vii) Lessons learned best practices, and other findings along with recommendations for future 
+programming under each of the program result. 
+
+
+ 
+
+C. Annual Work Plan 
+
+
+ 
+
+(a) Not later than 45 days after the effective date of this Cooperative Agreement, the 
+Recipient must submit to the USAID Agreement Officer’s Representative (AOR) an electronic 
+copy of the annual work plan covering the first year of this Agreement, delineated by quarterly 
+periods. The first annual work plan must include the first-year indicators and benchmarks which 
+the Recipient proposes to utilize to measure and monitor progress toward achievement of results, 
+as reflected in, and consistent with, the Activity Monitoring, Evaluation and Learning Plan, 
+pending completion of the baseline survey. The work plan must include: the activities planned to 
+be conducted, the site(s) where they will be conducted, benchmarks/milestones and annual 
+performance targets, pending completion of the baseline survey; the outputs/outcomes which the 
+Recipient expects to achieve; and the inputs planned to be provided by the Recipient, during the 
+work plan period. Included shall be an explanation of how those inputs are expected to achieve 
+the outputs/outcomes and benchmarks/milestones. 
+
+
+ 
+
+The work plan will also consider whether boys and girls or women and men are involved or 
+affected differently by the context or work to be undertaken, and if so, whether the difference is 
+potentially significant for managing toward sustainable program impact. The Recipient will 
+describe and use appropriate gender-sensitive methodologies and will maintain gender 
+integration and balance in all activities, targeting women and girls when necessary to achieve 
+that balance. 
+
+ 
+
+The annual work plan will describe activities to be conducted at a greater level of detail than the 
+activity description and application in response to the activity description, but must be clearly 
+cross-referenced with the applicable sections in the activity description. Also included in the 
+work plan will be an explanation of how those achievements are expected to contribute to the IR-
+level results. An estimated budget and a pipeline analysis, identifying the anticipated inputs, 
+must also be included. 
+
+ 
+
+The Recipient will prepare the work plan in consultation with and with inputs from the advisory 
+committee (if applicable), partners and beneficiaries of this activity, and also describe how the 
+program plans to work with the Government of Nigeria, other USG-funded activities in-
+country, as well as other donors and in-country partners. 
+
+ 
+
+USAID will review the first-year work plan and provide comments/suggestions within 30 
+calendar days of receipt. The Recipient must then submit the final work plan to the USAID 
+AOR for approval not later than 15 calendar days from receipt of USAID's 
+
+
+comments/suggestions. In the event that the Recipient receives no comments/suggestions from 
+the AOR within 30 calendar days from the submission of the first-year work plan, the work 
+plan will be considered approved. The Recipient must also submit a copy of the final first-year 
+work plan to the Agreement Officer. 
+
+ 
+
+(b) The Recipient must submit subsequent annual work plans to the USAID AOR not 
+later than 30 calendar days prior to the start of the next Agreement year. These subsequent 
+annual work plans will include updates of the performance indicators and benchmarks which the 
+Recipient proposes to utilize in the coming year. The work plan must be delineated by quarterly 
+periods. USAID will review the annual work plan and provide comments/suggestions within 30 
+calendar days of receipt. The Recipient will then submit the final annual work plan to the USAID 
+AOR for approval not later than 15 calendar days from receipt of USAID’s comments/ 
+suggestions. In the event that the Recipient receives no comments/suggestions from the AOR 
+within 30 calendar days from the submission of the annual work plan, the work plan will be 
+considered approved. The Recipient must also submit a copy of the final annual work plan to the 
+Agreement Officer. 
+
+
+ 
+
+(c) The Recipient will submit any significant work plan changes or revisions to the 
+USAID AOR with a copy to the Agreement Officer, and shall obtain the USAID AOR's approval 
+prior to implementing or undertaking such changes or revisions. 
+
+
+ 
+
+(d) Annual work plans and changes/revisions thereto must be within the scope of the 
+Program Description of the award. The Program Description will take precedence over the work 
+plans and any changes/revisions thereto, in the event of any conflicts or inconsistencies between 
+the Program Description and the work plan and any changes/revisions thereto. Any changes to 
+the Program Description must be approved by the Agreement Officer by means of a modification 
+to the award. 
+
+
+ 
+
+The work plan for year 1 will be for the period that extends from the activity start date through 
+to September 30, 2019, so that afterward the work plan period will correspond with the same 
+time period as the USG fiscal year, October 1 to September 30. In the final year, the work plan 
+must be for a partial year that reflects the end date of the activity. 
+
+ 
+
+4. Environmental Compliance 
+
+
+ 
+
+The activity must adhere to the provisions in Title 22 of the Code of Federal Regulations, Part 
+216 (22 CFR 216); applicable Nigeria environmental laws and procedures; and the approved 
+USAID Initial Environmental Examination (IEE). Additionally, the activity must follow 
+USAID’s procedures on climate risk management, which will also help to address long-term 
+sustainability of this U.S. government investment. 
+
+(a) The Foreign Assistance Act of 1961, as amended, Section 117 requires that the 
+impact of USAID’s activities on the environment be considered and that USAID include 
+environmental sustainability as a central consideration in designing and carrying out its 
+development programs. This mandate is codified in Federal Regulations (22 CFR 216) and in 
+USAID’s Automated Directives System (ADS) Parts 201.5.10g and 204 
+(http://www.usaid.gov/policy/ads/200/), which, in part, require that the potential environmental 
+
+
+impacts of USAID-financed activities are identified prior to a final decision to proceed and that 
+appropriate environmental safeguards are adopted for all activities. The Recipient’s 
+environmental compliance obligations under these regulations and procedures are specified in 
+the following paragraphs of this NOFO. 
+
+ 
+
+(b) The Community Initiatives to Promote Peace (CIPP) activity may include “quick 
+impact projects” that could have a significant impact on the environment or constitute major 
+action requiring further environmental review. Pursuant to 22 CFR 216.2c USAID 
+Environmental Procedures, a Negative Determination with Conditions applies, given that the 
+proposed activity may have an effect on the natural or physical environment. If the Recipient 
+chooses to issue sub-grants to host country organizations, it is anticipated that these interventions 
+under such arrangement could have adverse environmental impacts, and so the Recipient must 
+use an environmental review checklist in screening grant proposals to determine if this is the 
+case. 
+
+ 
+
+(c) In addition, the Recipient must comply with host country environmental 
+regulations unless otherwise directed in writing by USAID. In case of conflict between host 
+country and USAID regulations, the latter shall govern. 
+
+ 
+
+(d) An Initial Environmental Examination (IEE) has been approved for the FY2013-
+FY2020 USAID/Nigeria Peace and Democratic Governance Program. The IEE covers activities 
+expected to be implemented under this award. USAID has determined that a Negative 
+Determination with Conditions applies to one or more of the proposed activities. This indicates 
+that if these activities are implemented subject to the specified conditions, they are expected to 
+have no significant adverse effect on the environment. The Recipient shall be responsible for 
+implementing all IEE conditions pertaining to interventions to be funded under this award, 
+including the development of an Environmental Mitigation and Monitoring Plan (EMMP). 
+
+ 
+
+(e) As part of its initial work plan, and all annual work plans thereafter, the 
+Recipient, in collaboration with the USAID Agreement Officer’s Representative and Mission 
+Environmental Officer, shall review all ongoing and planned interventions under this award to 
+determine if they are within the scope of the approved Regulation 216 environmental 
+documentation. 
+
+ 
+
+(f) If the Recipient plans any new interventions outside the scope of the approved 
+Regulation 216 environmental documentation, it shall prepare an amendment to the 
+documentation for USAID review and approval. No such new interventions shall be 
+undertaken prior to receiving written USAID approval of environmental documentation 
+amendments. 
+
+ 
+
+(g) Any ongoing interventions found to be outside the scope of the approved 
+Regulation 216 environmental documentation shall be halted until an amendment to the 
+documentation is submitted and written approval is received from USAID. 
+
+ 
+
+(h) Unless the approved Regulation 216 documentation contains a complete EMMP, 
+the Recipient shall prepare an EMMP describing how the Recipient will, in specific terms, 
+implement all IEE and/or Environmental Analysis (EA) conditions that apply to proposed 
+
+
+Water ForAgricultureNoticeof Funding Opportunity (NOFO)
+Solicitation # 72062019RFA00002
+
+activities within the scope of theaward. The EMMP shall include monitoring the implementationof theconditions and their effectiveness. TheEMMP template can be found via this link:
+
+http://usaidgems.org/compliance.htm
+
+(i) The Recipient must integrate a completed EMMP intothe initial work plan andbudget. 
+(j)The Recipient must integratean EMMP into subsequent Annual Work Plans,
+making any necessary adjustments to activity implementation in order to minimize adverseimpacts to the environment. 
+(k)USAID anticipates that environmental compliance and achievingoptimaldevelopment outcomesfor the proposed activities will require environmental managementexpertise. Applicants should therefore includeas part of their application theirapproach toachieving environmental compliance and management, to include:
+●The Applicant’s approach to developing and implementingan environmentalreview process for a sub-grant fund and/oran EMMP. 
+●The Applicant’sapproach to providing necessary environmental managementexpertise, including examples of past experience of environmentalmanagement of similar activities.
+●The Applicant’s illustrative budget for implementing theenvironmental 
+complianceactivities. For the purposes of this NOFO, Applicants should 
+reflect illustrative costs for environmental compliance implementation andmonitoring in their cost application. 
+5.Quarterly Environmental Mitigation & Monitoring Review Report
+The Recipient must submit a quarterly Environmental Mitigation and Monitoring ReviewReport (EMMR) to the AOR, with a copy to the Agreement Officer. The EMMR template canbe found via this link:http://usaidgems.org/compliance.htm
+
+6.Activity Monitoring, Evaluation and Learning (MEL) Plan
+A comprehensive ActivityMonitoring, Evaluation and Learning (MEL) Plan must be submittedfor AOR approval for the complete award period within 45 calendar days of Agreementsignature. The MEL Plan will include an executive summary. AORapproval or requestformodifications will be within 15 calendar days, thereafter. The Recipient will then have 15calendar days to incorporate the modifications and resubmit the plan for AOR finalapproval.
+AOR approval will be within 15 calendar days. 
+
+The Recipient will identify indicators for each identified result. An indicator can be used to 
+measure progress in more than one result. Targets foreach indicator shallalso be included in theMEL Plan for the life of the activity.
+
+55
+
+
+The MEL Plan must be consistent with USAID/Nigeria’s approved Mission Performance 
+Management Plan. The implementing partner is expected, to the extent practicable, to include 
+indicators which reflect the level of participation by typically disenfranchised groups, such as 
+women, youth, persons with disabilities, and internally displaced persons. Results will be 
+disaggregated by location, sex, ethnicity and age wherever possible and relevant. This will be the 
+core information for all monitoring and evaluation exercises. To complement this information, 
+additional data, assessments, relevant anecdotes and comments should contextualize the 
+indicators when reported. 
+
+ 
+
+The MEL Plan must clearly indicate the data gathering methodology, instruments, timeframe and 
+other relevant elements of the evaluation system. 
+
+ 
+
+The MEL Plan will take into consideration the following criteria, and in the case of at least one 
+indicator per Lower Level Result, explain how these criteria are met: a) Integrity; b) Precision; c) 
+Reliability; and d) Timeliness. 
+
+ 
+
+The Recipient must include an Annual MEL Plan Report as part of its Fourth Quarterly Report, 
+providing findings and results on indicators and the achievement of activity objectives by fiscal 
+year. Additionally, the Recipient shall organize a presentation of the MEL Plan results for key 
+partners, including USAID/Nigeria, which will take place as agreed upon with the 
+USAID/Nigeria designated AOR. 
+
+ 
+
+7. Other Requirements 
+
+
+ 
+
+a. Climate Risk Management 
+
+
+
+
+Recipient may be required to complete an initial climate risk management (CRM) screening in 
+accordance with the Mandatory Reference for ADS Chapter 201: CRM for USAID Projects and 
+Activities (ADS Guidance) consisting of a climate risk screening table and associated brief 
+narrative. Only activities that receive a rating of “Moderate” or “High” will require completion 
+of all columns in the CRM Table (as outlined in the ADS Guidance). USAID will provide 
+Climate Risk Screening and Management Tools to support this process. 
+
+ 
+
+More information is available at: https://www.climatelinks.org/integration/climate-risk-
+management/resources and the World Bank Climate Knowledge Portal 
+http://sdwebx.worldbank.org/climateportal/. 
+
+ 
+
+b. Development Experience Clearinghouse Requirements 
+
+
+
+
+ 
+
+For information concerning submission requirements of copies of reports and other information 
+to USAID’s Development Experience Clearinghouse (DEC), refer to the Standard Provisions 
+entitled “Submissions to the Development Experience Clearinghouse and Publications (June 
+2012)” for U.S. NGOs and “Submission to the Development Experience Clearinghouse and 
+Data Rights (June 2012)” for Non-U.S. NGOs. 
+
+ 
+
+c. Final Property Inventory Report 
+
+
+
+
+ 
+
+
+The Mission Agreement Officer will determine how program income, if anticipated to be 
+generated under the award(s), will be treated (see 2 CFR 200.307 or, for non-U.S. organizations, 
+see the Standard Provision “Program Income”). 
+
+ 
+
+d. Security Reporting 
+
+
+
+
+ 
+
+As part of the overall security requirements, the Recipient must report any security threats and/or 
+incidents verbally / by telephone, immediately to the following USAID/Nigeria representatives: 
+
+ 
+
+● Security & Safety Specialist and any other USAID/Nigeria EXO designated official(s); 
+
+
+ 
+
+● Executive Officer (EXO); and 
+
+
+ 
+
+● Agreement Officer Representative (AOR) or Alternate AOR in the AOR’s absence. 
+
+
+ 
+
+Subsequently, a written report shall be submitted in accordance with approved procedures 
+delineated below. The Recipient shall develop a list of specific steps to track any 
+potential/identified threats, which will be part of its overall security system. All sub-awardees 
+will be required by the Recipient to report any threats/incidents to the Recipient, who will 
+immediately after, notify the above listed USAID/Nigeria representatives. 
+
+ 
+
+(a) Security Reporting Responsibilities 
+
+
+ 
+
+USAID requires appropriate security reports be submitted to the Nigeria Safety & Security 
+Specialist, Executive Office; AOR and other USAID/Nigeria officials as directed by USAID 
+Executive Office. The type and frequency of these reports may vary with the activity scope, 
+location, and criticality. The Recipient shall report an Initial Threat Assessment and subsequent 
+changes as often as the situation requires (weekly, bi-weekly, monthly etc.). The Recipient is 
+also required to notify USAID of any security-related incident in a timely manner according to 
+the following guidelines: 
+
+ 
+
+(b) Incident Reporting 
+
+
+ 
+
+There are various types of Incident Reporting: Serious Incident Report (SIR); Incident Report 
+(IR); Situation Report (SITREP); and any other security-related report that may be required by 
+USAID. 
+
+ 
+
+(i) Serious Incident Report (SIR) 
+
+ 
+
+● An incident that involves the death, injury, kidnapping of implementing partner 
+(IP) personnel and/or damage to IP property; 
+● An incident that has critically damaged the funded program, such as fire, 
+catastrophic flood, etc.; 
+● Initial SIR must be reported orally immediately, and within four (4) hours of the 
+incident occurrence/discovery; 
+● A complete SIR must be filed in writing/e-mail within 24 hours of the incident; 
+
+
+
+● Updated written SIR will continue to be filed in a timely basis (daily, weekly) as 
+long as the situation exists. The timeline will be adjusted as required by USAID-
+Nigeria Safety & Security Office; and 
+● Final Report SIR will summarize the incident, the subsequent happenings and the 
+final resolution. 
+
+
+ 
+
+(ii) Incident Report (IR) 
+
+ 
+
+● An incident involving accidents, potential harm, suspicious persons or acts, 
+threats or harassing actions against personnel or the program. 
+
+
+ 
+
+● IR should be initially reported orally immediately, followed up with a written 
+report filed as soon as possible (within 24 hours). After the incident is evaluated, a 
+complete detailed written report must be submitted to USAID- Nigeria, not later 
+than 72 hours after the incident. 
+
+
+ 
+
+(iii) Situation Report (SITREP) 
+
+ 
+
+● A report that a significant, but not critical action or activity, has taken place 
+that has impacted, or may impact, on the well-being of the personnel or the 
+success of the program. 
+
+
+ 
+
+● This report may describe trends, second-hand information that may have 
+bearing on the activity, or impact on future operations. 
+
+
+ 
+
+● There is no pre-determined reporting timeline. The report will be issued as 
+needed and required by USAID Nigeria Safety & Security Office. 
+
+
+ 
+
+Telephonic communication is the preferred method to provide the initial information of an 
+incident. A written report by e-mail must follow as soon as possible within above described 
+guidelines and it shall be as detailed as possible. The report shall follow the format 
+approved in the original Security Plan but at a minimum it shall contain the name of the IP 
+or sub-awardee, name of the victim(s), date, time, a description of what happened, where 
+the incident occurred, and any other relevant details surrounding the incident. If this is an 
+ongoing incident, progress reports should be submitted in accordance with the guidelines 
+provided in order to keep USAID/Nigeria security personnel apprised of the situation. 
+
+ 
+
+e. Special Agreement Requirements 
+
+
+
+
+ 
+
+Applicants must carefully consider the following special provisions to be incorporated in the 
+resulting agreement: 
+
+ 
+
+(1) Security Conditions: The Recipient must be aware of security conditions in Nigeria, 
+and by entering into an agreement, assumes full responsibility for the safety of its employees. 
+Prior to commencing work, the Recipient shall ensure that it has adequate procedures in place 
+to advise its employees of situations or changed conditions that could adversely affect their 
+security. In order to keep abreast of security conditions in Nigeria, the Recipient shall seek 
+
+
+information from all available sources, including the USAID Nigeria EXO/Safety & Security 
+Office (SSO), for all areas in which its employees work or travel. The Recipient acknowledges 
+that security conditions are subject to change at any moment, that USAID cannot guarantee the 
+accuracy of any information that it may provide to the Recipient and that USAID assumes no 
+responsibility for the reliability of such information. The Recipient has sole responsibility for 
+approving all travel plans for its employees and/or their dependents traveling to post if allowed 
+by the Recipient’s personnel internal policies. The Recipient will also be responsible for 
+immediately notifying USAID Nigeria and the U.S. Embassy American Citizen Services 
+section in the event a U.S. citizen employee does not return from travel as expected or does not 
+report to work. In the event that USAID requests the Recipient to do so, the Recipient's Chief of 
+Party (COP) shall assume responsibility for contacting all of its employees. The Recipient shall 
+provide to the USAID Nigeria EXO/SSO the name, current address, and current home and/or 
+cellular telephone number of the COP and of an alternate designated employee. The Recipient 
+will be responsible for ensuring that the information on file in the USAID Nigeria EXO/SSO is 
+up-to-date so that in an emergency, the COP or alternate representative can be reached 
+immediately and he/she can rapidly contact all other affected employees. 
+
+ 
+
+The Recipient will be requested to notify the USAID/Nigeria Agreement Officer’s 
+Representative (AOR) and EXO/SSO about any changes of the individual listed in the security 
+plan as in charge of security. 
+
+ 
+
+Once the agreement is awarded, the Recipient shall be required to submit a list of all personnel 
+involved in the implementation of the activity, including subawardees’ personnel. This is defined 
+as all personnel of the Recipient and subawardees for whom at least a portion of their 
+compensation is paid out of the activity budget. The required list shall be submitted to the AOR 
+and EXO/SSO no later than 30 days after the start date of the agreement and must be updated 
+every quarter after the start date of the agreement and/or if a change of personnel happens. 
+
+ 
+
+(2) Security Protocol: The Recipient shall develop a security plan to safeguard all activity 
+operations and to comply with all United States Government regulations and Nigerian law. The 
+plan is to be implemented and maintained also by all subcontractors (and/or sub-grantees). The 
+security plan will be reviewed by the Agreement Officer in consultation with USAID/Nigeria’s 
+EXO/SSO. 
+
+ 
+
+The plan shall include: 
+
+ 
+
+● Procedures for reporting and addressing security threats; 
+● Procedures for reporting any deaths related to the activity; 
+● Procedures for reporting and addressing any persons missing or kidnapping incidents; 
+● Name and contact information of security contact person for the head office and regional 
+office(s); and 
+● An internal “cascade” list for communicating with staff, which should be updated/ 
+maintained by the Recipient. The Recipient shall provide the name, address and 
+telephone numbers of the COP and their designee to USAID as principal contacts in case 
+of security situations/emergencies. The Recipient will be responsible for passing 
+information to their staff. 
+
+
+ 
+
+
+(3) Life Support and Security Services: The Recipient will be responsible for maintaining 
+the security of its personnel, materials and equipment. All employees of the Recipient must 
+meet the requirements of their work-site, which may include, but not limited to background 
+checks, security/restricted area clearances, drug-free workplace, safety training and/or any other 
+IP safety and security requirements. 
+
+ 
+
+The Applicant will provide USAID/Nigeria a Security Plan and budget for security costs as part 
+of its application as further detailed in Section IV of this NOFO. The Security Plan and budget 
+shall delineate and justify for reasonableness all costs and provide a coherent, overall integrated 
+security plan that demonstrates that the Applicant has undertaken a thoughtful review of their 
+security needs and includes analysis of the various elements of a security system. 
+
+ 
+
+(4) Allowable Reimbursement for Security Training: USAID award recipients that would 
+like to seek reimbursement for sending employees to security-related training will need to first 
+seek approval from their AOR. Provided the cost associated with attending the identified 
+training does not exceed the small purchase threshold outlined in their award, they will not need 
+to notify their AO, although copying them on the correspondence seeking approval for 
+attendance and reimbursement is recommended. 
+
+ 
+
+The request to attend and be reimbursed for the training will need to follow the usual 
+Procurement Justification process. The request should identify who would be attending, the 
+associated cost, and a justification. A justification with language similar to the following should 
+suffice: 
+
+ 
+
+In Nigeria the ability to provide aid is being hampered by the rising security threats 
+faced by humanitarian and development workers and the increasing difficulties they face 
+in accessing affected populations. Security training is needed to train aid workers on how 
+to help prevent incidents from happening and learning strategies to stay safe so services 
+can be delivered. A good training program covering such topics as situational 
+awareness, personal security, crisis and hostage management, defensive driving, first 
+aid, and carjacking will provide Implementing Partners with the skills they need to work 
+in potentially adverse areas of the country. 
+
+ 
+
+The AOR will respond to requests for training within two (2) business days of receiving the 
+request. Once the approval is received from the AOR, the requestor may proceed with taking the 
+training. 
+
+ 
+
+Once the training has been completed, reimbursement is requested in the manner outlined in the 
+organization’s normal reimbursement process. If an awardee has a training line item in their 
+approved budget, they are free to proceed without seeking approval from their AOR. If an award 
+recipient is willing to absorb the cost of the training and does not intend to seek reimbursement, 
+there is no need for them to notify their AOR. 
+
+ 
+
+f. Conflict Mitigation Measures 
+
+
+
+
+ 
+
+This Activity will assess risks resulting from bringing resources into communities that may have 
+ongoing conflict dynamics, related to the activities in the scope of this activity, or may develop 
+
+
+due to the activity. The Activity will use a conflict lens in the design of interventions, first, to 
+“do no harm” second, to mitigate rather than fuel conflict; and third, to create a positive peace-
+building environment. 
+
+ 
+
+Rural conflicts are prevalent in Nigeria and are often linked to competition over natural 
+resources, like pasture and water. A conflict assessment will be conducted at the start of the 
+activity to understand local conflict dynamics related to the scope of the activity and flexibility in 
+incorporating recommendations that will mitigate violent conflict into the activity. This 
+assessment will enable the implementation team to understand and address the underlying causes 
+of conflict-related violence, and identify and support opportunities for peace building. The 
+implementer will conduct an overarching conflict assessment in collaboration with the FMARD, 
+at the start of the Activity to understand local conflict dynamics. The Office of Economic 
+Growth and Environment will work with the Office of Peace and Democratic Governance to 
+ensure that work plans respond to conflict dynamics as interventions are deployed. 
+
+ 
+
+Care will be taken in supporting the spread of agriculture, particularly irrigated crop production, 
+as most suitable land is often riparian and wetland adjacent areas that are crucial grazing at 
+certain times in migrations. The conversion of these lands into farming areas is an historic agro-
+pastoral point of tension in the region. The local, state, federal and regional local pastoral 
+corridors and grazing allowances should be observed and negotiated, if needed, at the 
+community level to not exacerbate matters. 
+
+ 
+
+Greater emphasis will be placed on the changing dynamics of livestock keeping in the target 
+areas, including: (i) most households, even those that practice crop agriculture, are dependent on 
+livestock, (ii) livestock losses were suffered by both farmers and pastoralists, (iii) significant 
+losses and insecurity have changed the nature of herding, with farmers and smaller pastoralists 
+contracting hired herders to keep and move with livestock, (iv) herders tend to gather together in 
+large herds when the security situation is unstable, (v) there is a relationship between criminal 
+and insurgent groups and large herds related to levying taxes, livestock thefts, and ancillary 
+businesses associated with various actors integrated into or following herds. 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+The under listed are the agency contacts for this NOFO: 
+
+ 
+
+Mrs. Cheryl Hodge-Snead 
+
+Agreement Officer 
+
+Office of Acquisition &Assistance (OAA) 
+
+USAID/Nigeria 
+
+ Email: chodge-snead@usaid.gov 
+
+ 
+
+ And 
+
+ 
+
+ Mr. Usen Akpan 
+
+ Acquisition & Assistance Specialist 
+
+ Office of Acquisition & Assistance (OAA) 
+
+ USAID/Nigeria 
+
+ Email: uakpan@usaid.gov 
+
+ 
+
+ 
+
+[END SECTION G] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of 
+public funds. Any award and subsequent incremental funding will be subject to the availability 
+of funds and continued relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or 
+used by the U.S. Government except for evaluation purpose, should mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, an 
+award is made as a result of – or in connection with – the submission of this data, the U.S. 
+Government will have the right to duplicate, use, or disclose the data to the extent provided in 
+the resulting award. This restriction does not limit the U.S. Government’s right to use 
+information contained in this data if it is obtained from another source without restriction. The 
+data subject to this restriction are contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page 
+of this application.” 
+
+ 
+
+[END SECTION H] 
+
+ 
+
+ 
+
+
+ANNEX 1 – ILLUSTRATIVE SUMMARY BUDGET FORMAT 
+
+ 
+
+ 
+
+ 
+
+Catergory 
+
+Year 1 
+
+Example for Year 1 through 
+Year 3 
+
+Grand Total 
+
+Base/ 
+Units 
+
+Rate/ 
+Unit Cost 
+
+Total 
+
+3-Year 
+Total 
+Base/Units 
+
+3-Year 
+Total 
+Amount 
+
+Personnel 
+
+a) Long Term Expatriate Staff 
+
+b) Local Professionals 
+
+b) Local Support Staff 
+
+c) Home Office 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Personnel Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fringe Benefits 
+
+a) Long Term Expatriate Staff 
+
+b) Local Professionals 
+
+b) Local Support Staff 
+
+c) Home Office 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Travel 
+
+a) Entitlement Travel 
+
+b) Programmatic Travel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Equipment 
+
+a) Above $5,000 
+
+b) Below $5,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Supplies 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Contractual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Construction 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Other Direct Costs (as 
+applicable) Examples - 
+
+a) Security Costs 
+b) Consultants 
+
+
+i) International/Regional 
+
+ii) Local 
+
+c) Allowances 
+
+
+i) Long Term Expat 
+
+ii)Short Term Expat 
+
+d) Participant Training 
+(including Tuition and 
+Travel costs if any) 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Total Direct Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Indirect Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+a) Overhead 
+
+b) G&A 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+Total Estimated Amount 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$ 
+
+
+
+
+ 
+
+ 
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+ (Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award 
+will also contain the following “required as applicable” Standard Provisions: 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+Required 
+
+ 
+
+Standard Provision 
+
+Yes 
+
+RAA1. NEGOTIATED INDIRECT COST RATES - 
+PREDETERMINED (DECEMBER 2014) 
+
+Yes 
+
+RAA2. NEGOTIATED INDIRECT COST RATES - 
+PROVISIONAL (Nonprofit) (DECEMBER 2014) 
+
+Yes 
+
+RAA3. NEGOTIATED INDIRECT COST RATE - 
+PROVISIONAL (Profit) (DECEMBER 2014) 
+
+Yes 
+
+RAA4. EXCHANGE VISITORS AND PARTICIPANT 
+TRAINING (JUNE 2012) 
+
+Not 
+Required 
+
+RAA5. VOLUNTARY POPULATION PLANNING ACTIVITIES 
+– SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+Not 
+Required 
+
+RAA6. PROTECTION OF THE INDIVIDUAL AS A RESEARCH 
+SUBJECT (APRIL 1998) 
+
+Not 
+Required 
+
+RAA7. CARE OF LABORATORY ANIMALS (MARCH 2004) 
+
+Yes 
+
+RAA8. TITLE TO AND CARE OF PROPERTY 
+(COOPERATING COUNTRY TITLE) (NOVEMBER 1985) 
+
+Yes 
+
+RAA9. COST SHARING (MATCHING) (FEBRUARY 2012) 
+
+Yes 
+
+RAA10. PROHIBITION OF ASSISTANCE TO DRUG 
+TRAFFICKERS (JUNE 1999) 
+
+Not 
+Required 
+
+RAA11. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+Yes 
+
+RAA12. REPORTING HOST GOVERNMENT TAXES 
+(DECEMBER 2014) 
+
+Yes 
+
+RAA13. FOREIGN GOVERNMENT DELEGATIONS TO 
+INTERNATIONAL CONFERENCES (JUNE 2012) 
+
+Not 
+Required 
+
+RAA14. CONSCIENCE CLAUSE IMPLEMENTATION 
+(ASSISTANCE) (FEBRUARY 2012) 
+
+Not 
+
+RAA15. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+
+Required 
+
+Yes 
+
+RAA16. PROHIBITION ON THE PROMOTION OR 
+ADVOCACY OF THE LEGALIZATION OR PRACTICE OF 
+PROSTITUTION OR SEX TRAFFICKING (ASSISTANCE) 
+(SEPTEMBER 2014) 
+
+Yes 
+
+RAA17. USAID DISABILITY POLICY - ASSISTANCE 
+(DECEMBER 2004) 
+
+Yes 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE 
+DISABLED IN USAID ASSISTANCE AWARDS INVOLVING 
+CONSTRUCTION (SEPTEMBER 2004) 
+
+Yes 
+
+RAA19. STATEMENT FOR IMPLEMENTERS OF ANTI-
+TRAFFICKING ACTIVITIES ON LACK OF SUPPORT FOR 
+PROSTITUTION (JUNE 2012) 
+
+Not 
+Required 
+
+RAA20. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-
+TRAFFICKING FUNDS (JUNE 2012) 
+
+Not 
+Required 
+
+RAA21. PROHIBITION ON THE USE OF ANTI-TRAFFICKING 
+FUNDS TO PROMOTE, SUPPORT, OR ADVOCATE FOR THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION (JUNE 
+2012) 
+
+Yes 
+
+RAA22. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (July 2015) 
+
+Yes 
+
+RAA23. REPORTING SUBAWARDS AND EXECUTIVE 
+COMPENSATION (DECEMBER 2014) 
+
+Not 
+Required 
+
+RAA24. PATENT REPORTING PROCEDURES (DECEMBER 
+2014) 
+
+Yes 
+
+RAA25. ACCESS TO USAID FACILITIES AND USAID’S 
+INFORMATION SYSTEMS (AUGUST 2013) 
+
+Yes 
+
+RAA26. CONTRACT PROVISION FOR DBA INSURANCE 
+UNDER RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+Yes 
+
+RAA27. AWARD TERM AND CONDITION FOR RECIPIENT 
+INTEGRITY AND PERFORMANCE MATTERS (April 2016) 
+
+Not 
+Required 
+
+RAA28. PROTECTING LIFE IN GLOBAL HEALTH 
+ASSISTANCE (MAY 2017) 
+
+
+
+ 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+ 
+
+Required 
+
+ 
+
+Standard Provision 
+
+Yes 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (DECEMBER 
+2014) 
+
+Yes 
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS 
+(DECEMBER 2014) 
+
+Not 
+Required 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST 
+RATE AGREEMENT (NICRA) (DECEMBER 2014) 
+
+
+
+
+Yes 
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED 
+AMOUNT (NONPROFIT) (JUNE 2012) 
+
+Yes 
+
+RAA5. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (July 2015) 
+
+Yes 
+
+RAA6. REPORTING SUBAWARDS AND EXECUTIVE 
+COMPENSATION (DECEMBER 2014) 
+
+Yes 
+
+RAA7. SUBAWARDS (DECEMBER 2014) 
+
+Yes 
+
+RAA8. TRAVEL AND INTERNATIONAL AIR 
+TRANSPORTATION (DECEMBER 2014) 
+
+Yes 
+
+RAA9. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+Yes 
+
+RAA10. REPORTING HOST GOVERNMENT TAXES (JUNE 
+2012) 
+
+Yes 
+
+RAA11. PATENT RIGHTS (JUNE 2012) 
+
+Yes 
+
+RAA12. EXCHANGE VISITORS AND PARTICIPANT 
+TRAINING (JUNE 2012) 
+
+Not 
+Required 
+
+RAA13. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+Yes 
+
+RAA 14. COST SHARE (JUNE 2012) 
+
+Yes 
+
+RAA15. PROGRAM INCOME (DECEMBER 2014) 
+
+Yes 
+
+RAA16. FOREIGN GOVERNMENT DELEGATIONS TO 
+INTERNATIONAL CONFERENCES (JUNE 2012) 
+
+Yes 
+
+RAA17. STANDARDS FOR ACCESSIBILITY FOR THE 
+DISABLED IN USAID ASSISTANCE AWARDS INVOLVING 
+CONSTRUCTION (SEPTEMBER 2004) 
+
+Not 
+Required 
+
+RAA18. PROTECTION OF HUMAN RESEARCH SUBJECTS 
+(JUNE 2012) 
+
+Yes 
+
+RAA19. STATEMENT FOR IMPLEMENTERS OF ANTI-
+TRAFFICKING ACTIVITIES ON LACK OF SUPPORT FOR 
+PROSTITUTION (JUNE 2012) 
+
+Yes 
+
+RAA20. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-
+TRAFFICKING FUNDS (JUNE 2012) 
+
+Yes 
+
+RAA21. PROHIBITION ON THE USE OF ANTI-TRAFFICKING 
+FUNDS TO PROMOTE, SUPPORT, OR ADVOCATE FOR THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION (JUNE 
+2012) 
+
+Not 
+Required 
+
+RAA22. VOLUNTARY POPULATION PLANNING 
+ACTIVITIES – SUPPLEMENTAL REQUIREMENTS 
+(JANUARY 2009) 
+
+Not 
+Required 
+
+RAA23. CONSCIENCE CLAUSE IMPLEMENTATION 
+(ASSISTANCE) (FEBRUARY 2012) 
+
+Not 
+
+RAA24. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+
+Required 
+
+Not 
+Required 
+
+RAA25. PROHIBITION ON THE PROMOTION OR 
+ADVOCACY OF THE LEGALIZATION OR PRACTICE OF 
+PROSTITUTION OR SEX TRAFFICKING(ASSISTANCE) 
+(SEPTEMBER 2014) 
+
+Not 
+Required 
+
+RAA26. LIMITATION ON SUBAWARDS TO NON-LOCAL 
+ENTITIES (JULY 2014) 
+
+Yes 
+
+RAA27. CONTRACT PROVISION FOR DBA INSURANCE 
+UNDER RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+Yes 
+
+RAA28. CONTRACT AWARD TERM AND CONDITION FOR 
+RECIPIENT INTEGRITY AND PERFORMANCE MATTERS 
+(April 2016) 
+
+Not 
+Required 
+
+RAA29. PROTECTING LIFE IN GLOBAL HEALTH 
+ASSISTANCE (MAY 2017). 
+
+
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 3 - ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+ABE: Activity Budget Estimate 
+
+ADP: Agricultural Development Program 
+
+ADS: Automated Directive System 
+
+AO: Agreement Officer 
+
+AO: Assistance Objectives 
+
+AOR: Agreement Officer’s Representative 
+
+APP: Agricultural Promotion Policy 
+
+ASP: Assistance Selection Plan 
+
+CA: Cooperative Agreement 
+
+CDCS: Country Development Cooperation Strategy 
+
+CFR: Code of Federal Regulations 
+
+CLA: Collaborating, Learning and Adapting 
+
+COP: Chief of Party 
+
+CPA: Certified Public Account 
+
+CRS/M: Climate Risk Screening/Management 
+
+DCOP: Deputy Chief of Party 
+
+DFID: Department for International Development 
+
+DO: Development Objectives 
+
+EG: Economic Growth 
+
+EGE Office: Economic Growth & Environment Office 
+
+EMMP: Environmental Mitigation and Monitoring Plan 
+
+EU: European Union 
+
+FAO: Food and Agriculture Organization 
+
+FAO: Food and Agriculture Organization’s 
+
+
+FSN: Foreign Service National 
+
+FTF: Feed the Future 
+
+FY 2018: Fiscal Year 2018 
+
+GAAS: Generally Accepted Auditing Standards 
+
+GC: General Counsel 
+
+GIS: Geographic information systems 
+
+GIZ: German Gesellschaft für Internationale Zusammenarbeit 
+
+GON: Government of Nigeria 
+
+HL: Health 
+
+IDPs: Internally Displaced Persons 
+
+IEE: Initial Environmental Examination 
+
+IM-level: Implementing Mechanism Level 
+
+IP: Implementing Partner 
+
+ISIS-WA: Islamic State of Iraq and Syria in West Africa 
+
+LEGS: Livestock Emergency Guidelines and Standard 
+
+LGAs: Local Government Areas 
+
+LMR: Livelihoods market recovery 
+
+M&E System: Monitoring & Evaluation System 
+
+MARD: Ministry of Water Resources, the Ministry of Agriculture and Rural Development 
+
+MEL Plan: Monitoring, Evaluation, and Learning Plan 
+
+MLP: Ministry Livestock Production 
+
+NOFO: Notice of Funding Opportunity 
+
+NICRA: Negotiated Indirect Cost Rate Agreement 
+
+OCHA: United Nations Office for the Coordination of Humanitarian Affairs 
+
+OFDA: Office of U.S. Foreign Disaster Assistance 
+
+
+OTI: Office of Transition Initiatives 
+
+PAD: Project Appraisal Document 
+
+PALT: Procurement Action Lead Times 
+
+PD: Program Description 
+
+PPI: Past Performance Information 
+
+RLO: Resident Legal Officer 
+
+SAM: System for Award Management 
+
+SC: Selection Committee 
+
+SO2: Strategic Objective 2 
+
+SPS: Sanitary and phytosanitary 
+
+TEC: Technical Evaluation Committee 
+
+UN: United Nations 
+
+UNDP: United Nations Development Program 
+
+UNICEF: United Nations Children’s Fund 
+
+USAID/Nigeria: United States Agency for International Development, Nigeria 
+
+USG: United States Government 
+
+WASH: Water, Sanitation and Hygiene 
+
+WB: World Bank 
+
+WRSA: Water resources sustainability assessments 
+
+WUA: Water User Associations 
+
+WUAs: Water User Associations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX #4: Past Performance Information 
+
+ 
+
+Name of Applicant: __________________________ 
+
+ 
+
+Name of Evaluator: __________________________ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Award Number: 
+
+ 
+
+2. Contractor/Recipient (Name and Address): 
+
+ 
+
+3. Type of Award: 
+
+ 
+
+4. Complexity of Work: Difficult Routine 
+
+ 
+
+5. Description of the work performed, location, and relevancy of work: 
+
+ 
+
+6. Dollar Value of Work : Status: Active Completed 
+
+ 
+
+7. Date of Award: 
+
+Award Completion Date (including extensions): _____ 
+
+ 
+
+8. Type and Extent of Subawards: 
+
+ 
+
+9. Name, Address, Telephone Number, and E-mail Address of the Awarding 
+Contracting/Agreement Officer and/or the Contracting/Agreement Officer ’s 
+Representative (and other references as applicable): 
+
+
+
+ 
+
+ 
+
+
+Based on your knowledge of the proposed applicant, please rate the applicant performance in the 
+following areas: 
+
+ 
+
+1. How well applicant performed. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+2. The relevancy of the work performed under the program. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+3. Instances of good performance. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+4. Instances of poor performance. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+5. Significant achievement. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+6. Significant problems. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+7. Any indications of excellent or exceptional performance in the most critical areas. 
+
+
+ 
+
+Comments: 
+________________________________________________________________ 
+
+ 
+
+ 
+
+ 
+
+8. Overall Rating: Overall, how would you rate the applicant’s performance? 
+
+
+ 
+
+ Exceptional 
+ Very good 
+ Satisfactory 
+ Marginal 
+ Unsatisfactory 
+
+
+ 
+
+Additional comments: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ANNEX #5: Sample Format for Initial Security Plan 
+
+ 
+
+INTRODUCTION 
+
+ 
+
+The items contained herein are to be considered a baseline in the development of a Security Plan. 
+As this guidance was developed for use across the Agency, it cannot take into account all “on-
+the-ground” situations. Thus, developers should consider the augmentation of their security plans 
+to meet specific threats and possible emergencies posed by the environment. 
+
+ 
+
+Each USAID partner will look at its security posture differently. The plan must include: 
+
+ 
+
+1) An opening statement of management responsibilities with a brief description that 
+summarizes the corporate, company, and or organizational philosophy regarding security 
+in general (high profile, low profile etc.) and specifically towards this program/project. 
+
+
+
+
+ 
+
+2) A description/summary with an overview of the particular program/project. The plan 
+must also indicate the intended method of managing the “safety and security program” 
+i.e. in house by a security manager or contracted to a third party. 
+
+
+
+
+ 
+
+3) A Threat Analysis and a Risk Assessment conducted by a competent authority, preferably 
+a professional Security Expert. This product must cover all facets of the Applicant's 
+operations (i.e. lodging, office, transportation, operational area, etc.) 
+
+
+
+
+ 
+
+● Current and previous security situation (to include crime, insurgent activity, 
+kidnappings, police and military operations, etc.) in the area(s) of proposed 
+program/project activities, the company's offices, and employee living areas. 
+● Previous security incidents that involved the company and/or its personnel or 
+other organizations in the vicinity previous and current threats against the 
+company and/or its personnel. 
+
+
+ 
+
+4) Location(s) of proposed program/project offices and activities. 
+
+
+
+
+ 
+
+5) Period of Performance of the award. 
+
+
+
+
+ 
+
+6) The company's current security plan (if applicable) including perimeter security (i .e. "11' 
+high, l' foot thick, concrete and brick wall, with razor wire on top totaling approx. 13' 
+that surrounds the facility/ies, CCTV system, 10' high metal entry/exit door manned by a 
+24/7 armed guard, with cabin, etc). 
+
+
+
+
+ 
+
+7) For requests of vehicles: 
+• Number of vehicles requested 
+• Vendor that will be utilized 
+• Frequency of travel utilizing vehicles 
+• Terrain 
+• Driver Training Plan 
+
+
+
+
+
+• Passenger orientation and driver training plan. 
+
+
+
+
+ 
+
+Note: Armored vehicles have different handling characteristics and drivers and perspective 
+passengers should be trained in evasive driving techniques as well as handling the particular type 
+of vehicle in emergency situations. 
+
+ 
+
+8) A security point of contact in case for questions or clarifications. 
+
+
+
+
+ 
+
+9) Planned methods to mitigate the threats, including evidence of an assessment or 
+evaluation of alternative security precautions. These may include but not be limited to: 
+Issuance and use of two-way radios and/or other communication networks, upgrading 
+buildings, deploying guards and/or guard force, CCTV system, or purchasing additional 
+vehicles as recommended by security experts, assessing the manner in which the FAV is 
+envisaged to be used in terms of safety etc. 
+
+
+
+
+ 
+
+10) A cost breakdown along with comprehensive budget narrative. Initial funding request 
+should be identified broken out by line item and incremental funding identified capturing 
+annual cost and overall funding limit for the life of the award. 
+
+
+
+
+ 
+
+Please note that the above items are not an all-inclusive list; there may be additional relevant 
+information or items to be considered. Therefore, when submitting a Security Plan, all relevant 
+and necessary information must be addressed/explained. 
+
+ 
+
+SECURITY COUNTERMEASURES 
+
+ 
+
+The following topics are not part of an all-inclusive list, but represent a guidance of the elements 
+the developer should consider to protect life and property from attack, theft, or environmental 
+loss. If any of the topics is not considered relevant for the specific program/project, a short 
+statement outlining why the topic is not relevant to the plan should be included. 
+
+ 
+
+Physical Security for the Program/Project Office(s) and/or personnel residences 
+
+ 
+
+- Facility Location(s) – provide pertinent security information for each facility and/or 
+residences 
+- Site Plan(s) / photographs 
+- Perimeter 
+o Barriers (bollards/vehicle control/personnel access control/ditch) 
+o Perimeter wall (anti-climb/construction) 
+o Visitor and package/mail screening 
+o CCTV coverage and data storage – method to monitor and security of the storage 
+medium. 
+o Lighting 
+o Setback 
+
+
+
+- ‘Hardline’ protection 
+o Wall construction 
+o Man-passable openings 
+o Doors and Locks 
+
+
+
+
+
+
+o Windows and Shatter Resistant Window Film (SRWF) 
+o Access control procedures 
+o Eliminating climbable platforms if applicable 
+
+
+
+- Interior 
+o SRWF 
+o CCTV ( archiving) 
+o Imminent Danger Notification System type alarm 
+o Safe room - procedures 
+o Room locks 
+o Emergency procedures posted, drilled, and documented 
+
+
+
+
+
+ 
+
+Guard Force Considerations for the Program/Project Office(s) and/or personnel residences 
+
+ 
+
+- Guard Force 
+o Guard force duties 
+o Staffing per shift 
+o Equipment that will be issued (armed/unarmed etc.) 
+o Shift hours (avoid 12 hour shifts) 
+o Pre-hire screening 
+o Documented training (rules of engagement, firearms, first aid etc.) 
+
+
+
+
+
+ 
+
+Infrastructure 
+
+ 
+
+- Power 
+o Generator (back-up power) size 
+o Fuel delivery and storage 
+
+
+
+
+
+ 
+
+- Other Considerations 
+o Potable water source and emergency supply 
+o Environmental factors (flood/seismic) 
+o Proximity to emergency response 
+o Fire safety, smoke and carbon-monoxide alarms 
+o Emergency food stores 
+
+
+
+
+
+ 
+
+SAFETY & SECURITY POLICIES AND PLANS 
+
+ 
+
+Corporate, company, and or organizational policies and plans that are specific to the 
+program/project should be addressed. 
+
+ 
+
+Policies 
+
+- Incident reporting (SIR, IR, SR, etc.) 
+- Weapons on the premises/ 
+- Premises access 
+- Pre-hire staff vetting 
+- Branding (USAID and other) 
+- ID issuance and display 
+- Medical treatment 
+
+
+
+- Movement on foot and vehicular 
+- Vehicle accident 
+- Night letters and other threats to staff 
+- Visitors access procedures 
+- Safeguarding sensitive information 
+- Travel policies including local, field and international. 
+- Compliance with licenses under Nigeria laws. 
+
+
+ Plans 
+
+- Communications plan (including emergency cascade phone list) 
+- Fire in/on the premises 
+- Bomb threat 
+- Emergency Evacuation from premises 
+- Emergency Evacuation area/country 
+- Personal Recovery/Kidnapping release plan 
+- Emergency Action Plan 
+
+
+ 
+
+STAFF TRAINING 
+
+ 
+
+Training should be addressed at the outset of the program/project with scheduled refresher 
+training included. Additionally, all training should be documented and recorded. Drills to 
+establish the level of comprehension should also be considered. 
+
+ 
+
+Operational Security 
+
+o Cell phone 
+o Travel 
+o Handling of sensitive information 
+o Public 
+
+
+- Environmental Awareness/Cultural Sensitivity 
+- First Aid – what supplies and capabilities will be on premises 
+- Driving/Passenger 
+- Counterintelligence 
+
+
+ 
+
+
+
+ANNEX #6: USAID/Nigeria Quarterly Reporting Standard Format for all IPs 
+
+ 
+
+
+ANNEX #7: Branding and Marking Requirement Waiver 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF ANNEXES] 
+
+ 
+
+ 
+
+[END OF NOFO] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,4692 @@
+ISSUE DATE: October 24, 2022 
+
+ 
+
+QUESTIONS DUE DATE: November 7, 2022, 09:00AM Pretoria Local Time 
+
+ 
+
+APPLICATION 
+
+SUBMISSION DUE DATE: January 17, 2023, 09:00AM Pretoria Local Time 
+
+ 
+
+SUBJECT: Notice of Funding Opportunity Number: 
+72067423RFA00003 
+
+ 
+
+ACTIVITY TITLE: Achieving and Sustaining HIV/TB Epidemic Control 
+
+ in the KwaZulu-Natal Province 
+
+ 
+
+Dear Prospective Applicants: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+Cooperative Agreement from qualified local organizations to implement a program titled 
+“Achieving and Sustaining HIV/TB Epidemic Control in the KwaZulu-Natal Province.” 
+Eligibility for this Notice of Funding Opportunity (NOFO) is limited to local entities (see Section 
+C of this NOFO for eligibility requirements of local entity). USAID encourages applications from 
+potential new local partners. The Activity will be implemented in the KwaZulu Natal Province of 
+South Africa. 
+
+ 
+
+USAID intends to make an award to the applicant who best meets the objectives of this funding 
+opportunity, based on the merit review criteria described in the relevant sections of this NOFO 
+subject to risk assessment. Eligible parties interested in submitting an application are 
+encouraged to read this NOFO thoroughly to understand the type of program sought, application 
+submission requirements and the selection process. 
+
+ 
+
+To be eligible for an award, the Applicant must provide all information as required in this NOFO 
+and meet all eligibility requirements in Section C of this NOFO. This funding opportunity is 
+posted on www.grants.gov. Interested Applicants should regularly check the website to ensure 
+they have the latest information pertaining to this notice of funding opportunity. Applicants will 
+need to have available or download Adobe programs to their computers in order to view and save 
+
+
+the Adobe forms properly. It is the responsibility of the Applicants to ensure that they have the 
+NOFO in its entirety and USAID bears no responsibility for data errors resulting from 
+transmission or conversion process. If you have any difficulties registering on www.grants.gov 
+
+ 
+
+USAID may not award to an Applicant unless the Applicant has complied with all applicable 
+Unique Entity Identifier (UEI) and Systems for Award Managements (SAM) requirements 
+detailed in Section D.8. The registration process may take several weeks or even months to 
+complete. Therefore, Applicants are encouraged to begin registration early in the process using 
+the guide on the following link: https://www.usaid.gov/work-usaid/get-grant-or-
+contract/trainings-how-work-usaid/how-work-usaid-registering-to-work-usaid. 
+
+ 
+
+Any questions concerning this NOFO must be submitted electronically in writing to 
+pretoriaapplications@usaid.gov and ihuhn@usaid.gov with a copy to kwest@usaid.gov by no 
+later than the date and time specified above. 
+
+ 
+
+Issuance of this NOFO does not constitute an award commitment on the part of the US 
+Government (USG), nor does it commit the USG to pay for any costs incurred in preparation or 
+submission of comments/suggestions or an application. Applications are submitted at the risk of 
+the Applicant. All preparation and submission costs are at the Applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+Kerry West 
+
+Agreement Officer 
+
+USAID/Southern Africa 
+
+ 
+
+
+ 
+
+ 
+TABLE OF CONTENT ................................................................................................................. 3 
+SECTION A: PROGRAM DESCRIPTION ............................................................................. 7 
+SUMMARY ............................................................................................................................... 7 
+A. BACKGROUND ................................................................................................................... 8 
+B. ACTIVITY GOAL, OBJECTIVES, RESULTS & EXPECTED OUTCOMES ................. 11 
+C. GEOGRAPHIC FOCUS ..................................................................................................... 22 
+D. SUSTAINABILITY ............................................................................................................ 22 
+E. GENDER CONSIDERATIONS.......................................................................................... 23 
+F. MONITORING, COLLABORATING, LEARNING & ADAPTING ................................ 24 
+G. MANAGEMENT AND STAFFING APPROACH INCLUDING KEY PERSONNEL ... 25 
+SECTION B: FEDERAL AWARD INFORMATION ........................................................... 28 
+B.1 Estimate of Funds Available and Number of Awards Contemplated ........................... 28 
+B.2 Start Date and Period of Performance for the Federal Award ...................................... 28 
+B.3 Type of Award and Substantial Involvement ................................................................ 28 
+B.4 Title to Property ............................................................................................................ 28 
+B.5 Authorized Geographic Code ........................................................................................ 29 
+B.6 Nature of the Relationship between USAID and the Recipient .................................... 29 
+SECTION C: ELIGIBILITY INFORMATION ..................................................................... 30 
+C.1 Eligible Applicants ........................................................................................................ 30 
+C.2 Cost Share or Matching ................................................................................................. 31 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION ............................... 32 
+D.1 Agency Point(s) of Contact ........................................................................................... 32 
+D.2 Questions and Answers ................................................................................................. 32 
+D.3 General Content and Form of Application .................................................................... 32 
+D.3.1 Preparation of Applications: .................................................................................. 32 
+D.3.2 Application Submission Procedures ...................................................................... 33 
+D.4 Technical Application Format ....................................................................................... 34 
+D.5 Business (Cost) Application Format ............................................................................. 38 
+D.5.1 Cover Page (See Section D.3.1 above for requirements) ....................................... 39 
+D.5.2 SF 424 Form(s) ...................................................................................................... 39 
+D.5.3 Required Certifications and Assurances ................................................................ 39 
+D.5.4 Budget and Budget Narrative ................................................................................. 39 
+D.6 Prior Approvals in accordance with 2 CFR 200.407 .................................................... 44 
+D.7 Approval of Subawards ................................................................................................. 44 
+D.8 Unique Entity Identifier (UEI) and SAM Requirements .............................................. 44 
+D.9 History of Performance ................................................................................................. 45 
+D.10 Branding Strategy and Marking Plan ............................................................................ 45 
+D.10.1 Branding and Marking ........................................................................................... 45 
+D.10.2 Branding Strategy – Assistance (June 2012) ......................................................... 46 
+D.10.3 Marking Plan – Assistance (June 2012)................................................................. 48 
+D.11 CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) – PRE-AWARD 
+Term (February 2012) .............................................................................................................. 50 
+D.12 CONFLICT OF INTEREST PRE-AWARD TERM (August 2018) ............................ 51 
+D.13 FUNDING RESTRICTIONS ........................................................................................ 52 
+SECTION E: APPLICATION REVIEW INFORMATION ................................................. 53 
+E.1 MERIT REVIEW CRITERIA ...................................................................................... 53 
+E.2 REVIEW AND SELECTION PROCESS..................................................................... 54 
+E.3 APPLICATION MERIT REVIEW ............................................................................... 54 
+E.3.1 CRITERIA 1 – TECHNICAL APPROACH ............................................................. 56 
+E.3.2 CRITERIA 2 – MANAGEMENT AND STAFFING APPROACH ......................... 56 
+E.3.3 CRITERIA 3 – SUSTAINABILITY AND PARTNERSHIPS ................................. 56 
+E.3.4 BUSINESS (COST) REVIEW .................................................................................. 56 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION ...................... 58 
+F.1 Federal Award Notices .................................................................................................. 58 
+F.2 Administrative and National Policy Requirements ....................................................... 58 
+F.3 Reporting Requirements ................................................................................................ 58 
+F.3.1 Financial Reporting ................................................................................................ 59 
+F.3.1.1 Quarterly Financial Reports ................................................................................... 59 
+F.3.2 Performance Reporting .......................................................................................... 60 
+F.3.3. Annual Work Plan, Monitoring, Evaluation and Learning (MEL) Plan and 
+Performance Indicators ......................................................................................................... 62 
+F.3.3.1. Annual Work Plan .............................................................................................. 62 
+F.3.3.2. Monitoring, Evaluation and Learning (MEL) Plan and Performance Indicators 
+62 
+F.3.3.3. Quarterly Performance Report ........................................................................... 63 
+F.3.3.4. Monthly and quarterly reporting of performance Indicators into USAID and 
+PEPFAR systems .................................................................................................................. 64 
+F.3.4 Environmental Compliance, Environmental Mitigation Monitoring Plan (EMMP) 
+and Environmental Mitigation Monitoring Report (EMMR) ............................................... 64 
+F.3.5 Annual Performance Report .................................................................................. 65 
+F.3.6 Program Income ..................................................................................................... 65 
+F.3.7 Branding Strategy and Marking Plan (BMP)......................................................... 65 
+F.3.8 Annual Report on Non-Expendable Property ....................................................... 65 
+F.3.9 Disposition of Assets and Closeout Plan .............................................................. 66 
+F.3.10 Final Report ........................................................................................................... 66 
+F.3.11 Ad Hoc Reports...................................................................................................... 66 
+F.4 Memorandum of Understandings (MOUs) ................................................................... 66 
+F.5 Development Experience Clearinghouse Requirements ............................................... 67 
+SECTION G: FEDERAL AWARD AGENCY CONTACT(S) ............................................. 68 
+G.1 USAID/Southern Africa Contacts for this NOFO and for the award are as follows: ... 68 
+G.2 Acquisition and Assistance Ombudsman ...................................................................... 68 
+SECTION H: OTHER INFORMATION ................................................................................ 69 
+H.1 Applications with Proprietary Data ............................................................................... 69 
+H.2 M29. Prohibition on Certain Telecommunication and Video Surveillance Services or 
+Equipment (July 2022) ............................................................................................................. 69 
+H.3 Key Documents and Annexes ....................................................................................... 70 
+ANNEX A: SA NATIONAL CURRENT STATISTICS AND EPIDEMIOLOGY ................... 71 
+ANNEX B: USG RESPONSE ..................................................................................................... 74 
+ANNEX C: ACTIVITY RESULTS FRAMEWORK ................................................................. 77 
+ANNEX D: ABBREVIATIONS AND ACRONYMS ................................................................ 78 
+ANNEX E:INITIAL ENVIRONMENTAL EXAMINATION (IEE) ......................................... 81 
+ANNEX F:SUMMARY BUDGET TEMPLATE ....................................................................... 82 
+ANNEX G:STANDARD PROVISIONS FOR NON-U.S. NON-GOVERNMENTAL 
+ORGANIZATIONS ..................................................................................................................... 83 
+H.4 LIST OF ADDITIONAL DOCUMENTS..................................................................... 84 
+
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+Achieving and Sustaining HIV/TB Epidemic Control in the KwaZulu-Natal Province 
+
+SUMMARY 
+
+ 
+
+South Africa is an upper-middle income country, with many cultures, languages, ethnic groups, and 
+religions. In 2021, the population was estimated at 59.6 million, of which approximately 51% (30 
+million) were female.1 South Africa has the largest HIV epidemic in the world, with an estimated 
+nearly 8 million people living with HIV (PLHIV),2 accounting for 21% of PLHIV globally.3 Adult 
+(15-49) HIV prevalence is 18.9%; among women aged 15-49, it is 25.0%.4 While incidence is 
+declining each year, the HIV burden in South Africa continues to grow. Nationally, there are 
+approximately 198,311 new HIV infections estimated to occur between mid-2021 to mid-2022 with 
+women over 15 accounting for 62.7% of all new HIV infections.5 In 2014, The Joint United Nations 
+Programme on HIV/AIDS (UNAIDS) launched the 95-95-95 targets, with the aim to diagnose 95% 
+of all HIV-positive individuals, provide antiretroviral therapy (ART) for 95% of those diagnosed 
+and achieve viral suppression for 95% of those treated by 2030. 
+
+1 Statistics South Africa (StatsSA). 2021. Mid-year population estimates, 2020 Statistical Release P0302. Statistics South Africa: 
+Pretoria. Accessed Jan 20,2021 at http://www.statssa.gov.za/publications/P0302/P03022020.pdf 
+
+2 Thembisa 4.5 2022 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and Davies 
+MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling study. 
+PLoS Medicine. 14(12): e1002468. 
+
+3 https://www.unaids.org/sites/default/files/media_asset/UNAIDS_FactSheet_en.pdf 
+
+4 Ibid. 
+
+5 Thembisa 4.5 2021 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and Davies 
+MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling study. 
+PLoS Medicine. 14(12): e1002468. 
+
+6 https://www.statssa.gov.za/?p=12075 
+
+Approximately 26% percent of PLHIV in South Africa live in KwaZulu-Natal Province, a mostly 
+rural region with large distances between settlements, dwellings, and health facilities. According to 
+Stats SA, 61% of adults in KZN are living in poverty.6 HIV and tuberculosis (TB) are the leading 
+causes of death in KwaZulu-Natal; of those people living with HIV, 96% know their status; of those 
+who know their status, 81% have initiated antiretroviral treatment (ART); and of those on ART, 
+94% are virally suppressed (i.e., 96-81-94 toward the UNAIDS 95-95-95 targets). ART coverage 
+varies by age and sex, with adult (15+) females at 96-85-94, adult (15+) males at 96-75-94, and 
+children (<15) at 86-70-75. These figures mirror national trends (refer to “A: South Africa National 
+Current Statistics and Epidemiology”) that indicate initiation and retention on HIV treatment 
+remain the biggest barriers to controlling the HIV epidemic by 2030, as per the United Nations 
+Sustainable Development Goal 3, Good Health, and Well Being. HIV/TB co-infection prevalence 
+varies across districts within KwaZulu-Natal Province and overall is greater than the national 
+prevalence. In 2018, co-infection prevalence was 300 per 100,000 people in the province compared 
+to the national prevalence of 217 per 100,000. 
+
+
+ 
+
+The goal of USAID’s “Achieving and Sustaining HIV Epidemic Control in the KwaZulu-Natal 
+Province” (hereinafter referred to as the Activity) is to support long, healthy lives for the population 
+of KwaZulu-Natal Province by achieving and sustaining HIV/TB epidemic control. USAID aims 
+to reach this goal by achieving the following strategic objectives: (1) Close the gaps to HIV 
+epidemic control; (2) Sustain health gains through strengthened, improved, and resilient health 
+systems; and (3) Leverage community, civil society, traditional structures, and private sector 
+partnerships to improve and sustain service delivery and client outcomes. The geographic focus is 
+in three high HIV burden districts in the KwaZulu-Natal Province: Harry Gwala, King Cetshwayo 
+and Ugu Districts. However, the geographic focus may shift in line with epidemiological changes 
+and/or Government of South Africa (GoSA) and U.S. Government (USG) priorities. The period of 
+performance is five years, and the total estimated amount to be awarded is US $104 million. 
+
+ 
+
+USAID strongly encourages effective, evidence-based approaches (with new “innovation”7 where 
+appropriate to the context) that are tailored specifically to address the development challenges of 
+attaining HIV epidemic control and TB elimination in the KwaZulu-Natal Province. Effective and 
+working partnerships with communities, community-based organizations and civil society that will 
+result in services reaching the people most in need is encouraged. Identifying and resolving health 
+systems barriers will be key to promoting long-term sustainability of results achieved under the 
+Activity. 
+
+7 Innovation refers to the development and implementation of a new intervention, process, policy, product, or approach that increases 
+quality, impact, efficiency and/or results. 
+
+8 Statistics South Africa. 2021. Mid-Year Population Estimates 2021. Available at 
+https://www.statssa.gov.za/publications/P0302/P03022021.pdf. 
+
+9 Ibid. 
+
+10 Ibid. 
+
+A. BACKGROUND 
+
+ 
+
+1. KwaZulu-Natal Provincial Context 
+
+
+ 
+
+KwaZulu-Natal is the second most populous province (to Gauteng Province) in South Africa with 
+an estimated population of 11.5 million.8 This population is young. Nearly a third of all South 
+Africans (28.6%) are under age 15. Whereas in KwaZulu-Natal, 31.3% of the population is under 
+15, and 40.3% is under 19.9 Just 8.2% of the population is over age 60.10 
+
+ 
+
+While KwaZulu-Natal’s economy is the second biggest contributor to national GDP (after 
+Gauteng), the province has an official unemployment rate of 33.2%; expanded unemployment is 
+
+
+50.4%.11 These high rates of unemployment are a primary driver of inequality and poverty in the 
+province and are more pronounced among younger people. Adult poverty is widespread at an 
+estimated 60.7% prior to the SARS-CoV-2 pandemic.12 Access to electricity and piped water are 
+uneven.13 The province is modestly impacted by out-migration, which has the potential to impact 
+distribution of resources to the province over time.14 
+
+11 Statistics South Africa. 2022. Quarterly Labor Force Survey Jan-Mar 2022. Available at: 
+https://www.statssa.gov.za/publications/P0211/P02111stQuarter2022.pdf 
+
+12 Statistics South Africa. 2018. Men, Women and Children: Findings of the Living Conditions Survey 2014/15. Available at 
+https://www.statssa.gov.za/?page_id=1854&PPN=Report-03-10-02 
+
+13 KwaZulu-Natal Department of Health. Annual Performance Plan 2020-2021. Available at http://www.kznhealth.gov.za/app/APP-
+2021-22.pdf 
+
+14 Statistics South Africa. 2021. Mid-Year Population Estimates 2021. Available at 
+https://www.statssa.gov.za/publications/P0302/P03022021.pdf. 
+
+15 Ibid. 
+
+16 http://www.kznhealth.gov.za/app/APP-2022-23.pdf 
+
+17 Statistics South Africa. 2020. Mortality and causes of death in South Africa: Findings from death notification 2017. Available at: 
+https://www.statssa.gov.za/publications/P03093/P030932017.pdf 
+
+18 Statistics South Africa. 2020. General Household Survey. Available at 
+https://www.statssa.gov.za/publications/P0318/P03182020.pdf 
+
+19 Ibid. 
+
+ 
+
+Life expectancy at birth in KwaZulu-Natal has increased over time; however, the province still 
+ranks second to last nationally at 63.6 years for women and 57.4 for males.15 While the impact of 
+HIV on mortality in KwaZulu-Natal has declined since the availability and roll-out of antiretroviral 
+(ARV) treatment, HIV continues to have a significant impact on morbidity through its role in 
+increasing vulnerability to tuberculosis.16 Tuberculosis was one of the leading natural causes of 
+death in KwaZulu-Natal in 2017 at 7.4%, and HIV ranked fourth at 6.5%.17 
+
+ 
+
+The vast majority of individuals in KwaZulu-Natal depend on the public sector for health care. Just 
+one in ten reported having private medical aid in 2020,18 and health and development needs are 
+widespread. The 2021 KZN State of Health Report, a product of PLHIV-led community-led 
+monitoring, describes a broken health system as experienced by clients of the public health sector, 
+citing critical themes of long waiting times and staff shortages; inadequate infrastructure; barriers 
+to sustained ART treatment; low treatment and viral load literacy; stockouts and shortages of 
+medicines; accessibility of health services for key populations; TB infection control; and 
+accountability. 
+
+ 
+
+In addition to HIV and TB, KwaZulu-Natal is experiencing an epidemiological transition 
+characterized by increasing death from noncommunicable diseases, which comprised five of the 
+top ten causes of death in 2017.19 The provincial Department of Health identities a number of 
+interconnected issues that lead to poor health outcomes in the Province, such as: lack of 
+employment opportunities, poor housing, inadequate water and sanitation, food insecurity, high 
+
+
+NOFO Nr.: 72067423RFA00003
+
+levels of alcohol and substance abuse, low levelsof social cohesion, violence (including gender-
+based violence) and weak health-systems.20Deepening inequalities due to out-migration and theSARS-CoV-2 pandemic have the potential to further exacerbate these problems. 
+
+2.Government of KwaZulu-Natal’sResponse
+The KwaZulu-Natal (KZN) provincial structure mirrors that of the national GoSA and implementsnational policies, frameworks and strategic plans to achieve HIV epidemic control and TBelimination. The National Departments of Health (NDoH), Basic Education (DBE), and SocialDevelopment (DSD) lead the response as outlined in the South African National Strategic Plan forHIV, TB and STIs 2017-2022 (the NSP).21The NSP guides the HIV and TB response in theprovince aiming to strengthen service quality and innovation. The KZN DoH develops andimplements Annual Performance Plans (APP) inline with the NSP for optimal HIV, TBand STIservice delivery. The KwaZulu-Natal (KZN) Provincial Department of Health indicates in its five-
+year planning documentsthat its highest aim is to “increase life expectancy.”The priorities outlinedin the 2020/21KZN DoH APP include improved HIV/ TB health outcomes; improved quality ofhealth services (e.g. reduced waiting times and improved staff attitudes); accelerated re-engineeringof Primary Health Care to strengthen disease prevention and health promotion byinvesting in thecommunity-based model; strengthening partnerships with Traditional Health Practitioners (THPs);
+comprehensive health promotion; pandemic preparedness; improved leadership, governanceandpolicy (e.g. functional Clinic Committees); reducedstaff vacanciesand skilled human resources;
+medicines availability;improved health management information systems and data use forevidence-based decision making; improved financial management and sustainability; strategicpartnerships, including the private sector.22KwaZulu-Natal isalso home to the long-standing 
+initiative Operation Sukuma Sakhe (OSS) Program launched by the provincial government in 2008 
+aimed at ensuring service delivery to the population and creating healthy communities through warrooms and trained Community Care Givers (CCGs).23
+
+3.United States Government’s(USG) Response
+Through the PEPFAR Initiative, USAID, in coordination with the Centers for Disease Control(CDC) and the U.S. Peace Corps supportsSouth Africa in reaching the95-95-95 UNAIDS targets. 
+USAID/Southern Africa’s (hereinafter referred to as USAID) Regional Development CooperationStrategy (RDCS) for 2020-2025 provides an overview of theUSG’s commitment to bolsteringdevelopment in the Southern African region and advancing integrated solutions for locally led, 
+
+20http://www.kznhealth.gov.za/app/APP-2022-23.pdf
+
+21The NSP was recently extended to 2023 due to the SARS-CoV-2 pandemic.SANAC. 2021. News: New HIV/TB Plan Deferred bya Year.https://sanac.org.za/new-hiv-tb-deferred-by-a-year/
+22http://www.kznhealth.gov.za/app/APP-2022-23.pdf23http://www.kznonline.gov.za/images/stories/OSS/OSS%20Best%20practice%20Manual_02.pdf
+
+Achieving and Sustaining HIV/TB Epidemic Controlin theKwaZulu-Natal ProvincePage 10of84
+
+
+long-term prosperity. USAID public health investments emphasize programmatic linkages between 
+prevention and treatment at both the community and facility level, while promoting simplified 
+service delivery models and a locally led and managed HIV response. In 2014, PEPFAR launched 
+the DREAMS Initiative – “Determined, Resilient, Empowered, AIDS-free, Mentored, and Safe: 
+Preventing HIV in Adolescent Girls and Young Women” – to aggressively target PEPFAR 
+resources to reduce new HIV infections among adolescent girls and young women (AGYW). Since 
+2004, USAID has supported KwaZulu-Natal to decrease HIV incidence by 78%, reducing new HIV 
+infections from 161,335 in 2004 to 39,660 in 2022. Through the Global Vax initiative, USAID also 
+supported the national and provincial departments of health to administer more than 4.2 million 
+COVID-19 vaccinations in the KwaZulu-Natal Province while strengthening district health teams 
+to respond to the global pandemic. 
+
+B. ACTIVITY GOAL, OBJECTIVES, RESULTS & EXPECTED OUTCOMES 
+
+ 
+
+1. GOAL 
+
+
+ 
+
+The goal of the Activity is to promote long, healthy lives for the population of the KwaZulu-Natal 
+Province by achieving and sustaining HIV/TB epidemic control. 
+
+ 
+
+This Activity will partner with the KZN DoH and targeted districts to support the successful 
+execution of the KZN Province Annual Performance Plan 2021/22 and future provincial health 
+strategies.24 The KZN DoH actively encourages the direct engagement of traditional health 
+practitioners, ward-based outreach teams and private sector organizations in their response to 
+improving equitable access to HIV/TB services. Investing in and building the capacity of South 
+Africa local organizations (private and non-profit) will foster locally led and locally developed 
+innovative approaches towards achieving KZN DoH’s objectives of universal health coverage, 
+improved clients’ experience of care, and reduced morbidity and mortality. 
+
+24 http://www.kznhealth.gov.za/app/APP-2022-23.pdf 
+
+ 
+
+This Activity will implement responsive interventions to reach HIV-affected populations tailored 
+to their unique needs and barriers to health services. The Activity will promote a continuum of care 
+for PLHIV, leveraging community platforms, including PLHIV networks, faith-based institutions, 
+and social support services. In collaboration and support of Provincial and District Health 
+Departments, the Activity will tailor systems strengthening interventions to the needs and context 
+of the KZN Province, addressing the major impediments to achieve HIV epidemic control for all 
+populations. The Activity will strengthen continuous quality improvement and quality assurance in 
+line with Department of Health initiatives, which may include interventions and ways of working, 
+such as the GoSA Ideal Clinic program, which uses health policies, protocols and guidelines, and 
+
+
+NOFO Nr.: 72067423RFA00003
+
+harnesses stakeholders to improve the patient experience and health outcomes.25 Additionally, thisActivity will support the GoSA Nerve Center Approach, and the use of data to drive the qualityimprovement cycle at Province, District andfacility levels. Finally, this activity will supportcommunity-led monitoring (CLM) initiatives, such as Ritshidze. Ritshidze is a South Africancommunity-led monitoring system developed by organizations representing people living with 
+HIV, whereby data is systematically collectedatthe site of service delivery and used to generatesolutions to problems identified.26
+
+2.OBJECTIVES AND RESULTS
+The Activity will consist of three (3) objectives which areas follows: 
+
+Objective 1: Close the gaps to HIV epidemiccontrolObjective 2: Sustain health gains through strengthened, improved, andresilient health systemsObjective 3:Leveragecommunity, civil society,and private sector partnerships to improve and
+
+sustain service delivery and client outcomes
+
+(Please see thefunding information with the funding breakdown by objective in Section Dof theNOFO.)
+
+The following describes in detail the three objectives and related intermediate results to be achievedover the life of this Activity. Indicators and targets are proposed for the first year and may be subjectto review and changes throughout each subsequent year based on the evolving epidemiology of theHIV epidemic in the KwaZulu-Natal Province. 
+
+OBJECTIVE 1:Close the gaps to HIV/TB epidemic control
+
+Complex barriers to access quality health care, client psychosocial barriers, and treatment hesitancylead to failed treatment initiations and treatment interruptions. This is especially challenging in theKZN Province where the population is severely impacted by poverty, unemployment, migration,
+and other social issues. The Activity will support health facilities to adopt integrated, simplified,
+client-centered HIV/TB prevention and treatment modelsthat facilitate lifelong healthy outcomesfor all PLHIV and prevent onward HIVand TB infections. 
+
+Health facilities in KZN often face severe overcrowding due to space constraints. Other challengesthat hinder quality service delivery include lack running water, inadequate staffing and long waittimes. The level and type of assistance will evolve over the life of the Activity as geographic target
+
+25More informationon Ideal Cliniccan be found here:https://www.idealhealthfacility.org.za/
+
+26More informationon Ritshidze can be found here:https://ritshidze.org.za/
+
+Achieving and Sustaining HIV/TB Epidemic Controlin theKwaZulu-Natal ProvincePage 12of84
+
+
+areas attain epidemic control. Annually, specific interventions in support of achieving Objective 1 
+will be determined in collaboration with the KZN Provincial and District Departments of Health 
+and USAID. 
+
+ 
+
+Objective 1 has three intermediate results (IRs) as detailed below. 
+
+ 
+
+IR 1.1 Improved pediatric HIV/TB treatment outcomes through tailored approaches. 
+
+ 
+
+Expected Outcomes 
+
+● 95% of children know their HIV and TB status 
+● 95% of children and adolescents living with HIV are on ART 
+● 95% of children and adolescents living with HIV are virally suppressed 
+● 100% of children and adolescents living with HIV receive social support services 
+
+
+ 
+
+While KZN has made significant progress initiating adults on treatment, progress amongst pediatric 
+and adolescent populations remains slow.27 Pediatric HIV management is challenging due to the 
+complexity of disclosure, consent, testing and case management among pediatric populations. 
+Successfully identifying children and adolescents living with HIV (C/ALHIV), initiating, and 
+retaining them on ART, requires a multi-pronged approach. The Activity will facilitate a pediatric 
+continuum of care between health facilities, communities, and households to achieve positive 
+treatment outcomes for C/ALHIV. 
+
+27 Thembisa 4.5 2022 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and Davies 
+MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling study. 
+PLoS Medicine. 14(12): e1002468DHIS (January 2022), TIER.Net (September 2020), Naomi Model (September 2020), ART DHIS 
+Cohort VLD VLS rates 12 months (April to June 2020) 
+
+ 
+
+The purpose of IR1.1 aims to improve pediatric treatment outcomes by targeting integrated and 
+tailored interventions and technical support that will result in identifying undiagnosed C/ALHIV, 
+effectively linking and retaining diagnosed children in care, ensuring routine access to viral load 
+testing, and ultimately achieving viral suppression among this target population. The Activity will 
+support integrated implementation of critical interventions aligned to the national Pediatrics and 
+Adolescent Matrix of Interventions. The Activity aims to support treatment optimization through 
+the country’s transition to pediatric Dolutegravir (pDTG) to accelerate viral suppression and 
+improve outcomes. In alignment with the national prevention of mother to child transmissions 
+(PMTCT) guidelines, the Activity aims to support universal testing and treatment for HIV infected 
+pregnant and breastfeeding women to attain viral suppression and reduce vertical transmission 
+towards the goal of elimination of mother-to-child-transmission. 
+
+ 
+
+The Activity will also promote family-focused solutions that support disclosure, treatment literacy 
+and other facilitators to improve clinical outcomes and the overall health and well-being among 
+
+
+C/ALHIV and their caregivers. The Activity will facilitate case management and referral models 
+between health facilities and social support services to strengthen the continuum of care for 
+children, youth and their families. This includes leveraging the KZN OSS Program as well as USG 
+resources, such as PEPFAR-supported DREAMS partners and clinical care and treatment partners. 
+
+ 
+
+IR 1.2 Improved adult clinical outcomes for HIV and TB through sustainable and indigenously 
+led, social support services and client centered approaches. 
+
+ 
+
+Expected Outcomes 
+
+● 95% of adult PLHIV diagnosed and know their HIV status 
+● 95% of PLHIV sustained on ART, including those co-infected with HIV/TB 
+● 95% of PLHIV on ART achieve viral suppression 
+● 100% of eligible clients initiated and completed TB preventive treatment 
+
+
+ 
+
+Treatment adherence and retention for PLHIV is critical to attain viral load suppression and reduced 
+incidence of HIV disease. Treatment interruption remains a barrier to viral suppression and healthy 
+outcomes in KZN for all PLHIV across age and sex categories. The Activity will strengthen clinical 
+services and promote interventions to remove barriers to superior treatment regimens, mitigate 
+treatment interruption adapted to individual clients' needs, and expand options for PLHIV to receive 
+treatment and other support services that facilitate ART retention. 
+
+ 
+
+The Activity will promote effective and evidence-based interventions that facilitate simplified 
+services such as telemedicine, multi-month dispensing, community-based ART and differentiated 
+models of care. The Activity will promote tailored and integrated interventions (including 
+innovation where appropriate to the context), including private health providers, for clients new to 
+treatment and others who are clinically unstable (e.g., unsuppressed viral load, uncontrolled non-
+communicable diseases, mental health disease). These may include enhanced counseling, mental 
+health services, psychosocial support, and PLHIV peer led case management, in line with local and 
+international best practices. 
+
+ 
+
+Program data demonstrate that in KZN groups known to have challenges with treatment adherence, 
+include young men, children, youth, and key populations. These challenges include stigma, 
+discrimination, access, and insufficient treatment literacy. Furthermore, expanding access to HIV 
+treatment to key populations is critical to reaching epidemic control. Creating an enabling 
+environment, with zero tolerance for stigma and discrimination, for key populations in public health 
+facilities is critical for improving care and treatment outcomes. As such, the Activity will work with 
+district Departments of Health to expand key population competent and friendly services in the 
+public health sector. 
+
+ 
+
+
+While HIV epidemic control is reached when the total number of new HIV infections falls below 
+the total number of deaths from all causes among PLHIV, the ultimate goal is to achieve population-
+based viral suppression among HIV-infected clients and to prevent further transmission of the virus. 
+To achieve this, PLHIV and clinicians need to monitor viral load and suppression, currently defined 
+as less than 50cp/ml by South Africa NDoH guidelines. This requires intensified targeting of 
+services for those who are not yet virally suppressed and/or at risk of disengagement in care, 
+including clients who present with advanced HIV disease during treatment or at initiation of 
+treatment. 
+
+ 
+
+Finally, South Africa faces the dual epidemics of TB and HIV and is among the eight countries that 
+account for two-thirds of the global TB cases. It is worth noting that in KZN, TB infections and 
+mortality remain an ongoing public health concern and TB remains a top priority for the province. 
+This Activity focuses on tackling HIV/ TB integration of services and should complement the work 
+of TB-specific funded programs. Ensuring that TB/HIV co-infected clients complete TB preventive 
+therapy will require multi-pronged strategies that will address socio-economic, structural, 
+programmatic, and patient related treatment adherence challenges. To address these challenges, 
+technical support may include a comprehensive package of HIV and TB integrated services and 
+interventions expanded to include community-based care, such as TB screening for all PLHIV and 
+C/ALHIV, optimized HIV and TB care and treatment and TB prevention. 
+
+ 
+
+IR 1.3 Strengthened HIV prevention services for priority populations, with a specific focus on 
+children, adolescents, youth, men, and key populations at-risk 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● 100% of supported sites provide friendly services for priority populations 
+● 100% of supported sites provide PrEP services integrated into existing service delivery 
+points 
+● 100% of supported sites provide a minimum package of clinical services to clients who 
+experienced sexual and gender-based violence 
+● 100% of supported sites link at-risk adolescents and youth to prevention services 
+
+
+ 
+
+As each district works towards achieving and sustaining treatment saturation, HIV prevention, 
+stigma and discrimination reduction and gender based violence (GBV) case identification 
+remain critically important and need to be scaled and optimized, more especially for children, 
+adolescents, youth, men and key populations at-risk where the rate of new infections remains 
+substantial.28 These groups are often the most vulnerable to acquiring HIV, are disproportionately 
+affected by high rates of intimate partner violence and sexual violence, and face the greatest barriers 
+to accessing services needed to protect themselves. Locally developed, evidence-based, person-
+
+28 https://www.state.gov/wp-content/uploads/2022/02/COP22-Guidance-Final_508-Compliant-3.pdf 
+
+
+centered prevention interventions and risk-reduction messages must be developed and implemented 
+in partnership with other PEPFAR-funded prevention and OVC partners in supported districts, 
+including facilities, schools, churches, community-based organizations and KZN OSS structures. 
+The Activity aims to contribute to HIV epidemic control through the prevention of new HIV 
+infections and reduction of stigma and discrimination for those who are HIV positive by 
+strengthening the integration of HIV and violence prevention and clinical post-violence response 
+services across key HIV service delivery points including psychosocial support, HIV testing, Sexual 
+and Reproductive Health Services (including PEP and PrEP) and HIV care and treatment. 
+
+
+OBJECTIVE 2: Sustain health gains through strengthened, improved, and resilient health 
+systems 
+
+ 
+
+As South Africa progresses toward HIV epidemic control and elimination of TB, the management 
+of HIV, as a chronic condition, and TB, as a curable infectious disease, will require a health system 
+that is resilient; well-financed and managed; and efficiently resourced (e.g., human resources, 
+equipment, commodities). Access to care must be equitable and affordable, and the necessary 
+systems for planning for such access must be functioning. 
+
+ 
+
+Objective 2 aims to support the achievement of HIV epidemic control, the elimination of TB, and 
+control of other infectious diseases by strengthening the public health system to maintain and 
+sustain this status over time and be resilient in the face of system-wide shocks, such as pandemics, 
+natural disasters, and social unrest. COVID-19 has taught us about the importance of health system 
+resilience and the need to support districts to mitigate the impact of such shocks on the health system 
+and patient care. Specific areas of focus under Objective 2 that are recognized as some of the most 
+significant development challenges in KZN related to health systems strengthening include human 
+resources for health (HRH), essential medicines and commodities, health information systems, data 
+use for decision making and implementation of policies and guidelines related to HIV epidemic 
+control. This Activity aims to leverage partnerships with a range of private sector actors with the 
+capacity to contribute to addressing factors affecting the health system. Under Objective 2, there 
+are four (4) IRs as detailed below. 
+
+ 
+
+IR 2.1 Adequate, skilled, and motivated HRH in all targeted health facilities to maintain and 
+sustain the delivery of healthcare services to PLHIV. 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● HRH Strategy, including a Joint Annual Staffing Plan, developed, and approved in line with 
+GoSA policy guidelines and approved by Provincial Leadership, in place by the end of Year 
+2 and revised annually in Years 3,4 and 5 
+● Annual vacancy rate reduced in line with the provincial APP target 
+● Annual attrition rate reduced in line with the provincial APP target 
+
+
+
+● Annual Training Plan developed, approved and implemented in line with the APP and 
+Regional Training Center 
+● Functional and capacitated District Specialist Teams and Ward-based Outreach Teams for 
+improved health outcomes 
+
+
+ 
+
+To achieve and sustain HIV epidemic control in the KwaZulu-Natal Province and supported 
+districts, there must be sufficient technical and human capacity to manage, maintain and deliver the 
+HIV and TB services, systems, and resources.29 As per the KZN 2022/23 APP,30 “High staff 
+turnover due to COVID-19, retirements, and the inability to fill posts due to cost containments has 
+placed pressure on existing human resources hampering service delivery. Budget cuts have further 
+impacted negatively on service delivery.” This requires a robust HRH Strategy, including staffing 
+needs, staffing norms, capacity development and performance management that takes into 
+consideration the Primary Health Care Re-engineered model, which includes Community Health 
+Workers (CHW) and Community Care Givers (CCG) under the KZN Operation Sukuma Sakhe 
+Program.31 
+
+29 https://www.state.gov/wp-content/uploads/2022/02/COP22-Guidance-Final_508-Compliant-3.pdf 
+
+30 http://www.kznhealth.gov.za/app/APP-2022-23.pdf 
+
+31https://www.kzndhs.gov.za/Uploads/documents/Resource_Centre/Policy_documents/51%20OPERATION%20SUKUMA%20SAKHE%20GUIDELINES.pdf 
+
+ 
+
+The Activity aims to support the KZN DoH and Districts to ensure that there is adequate skilled 
+staff to sustain the delivery of HIV and TB related health care services, including health facility 
+management. To achieve a sustained HIV epidemic, the health workforce needs to remain updated 
+with skills as new evidence, approaches, clinical guidelines, and standard operating procedures 
+become available. The regional training centers are critical to ensure that the existing health 
+workforce has access to their continued education for improved quality health service delivery. The 
+achievement of the Activity will require close collaboration with the province and supported 
+districts to ensure the strategy aligns with the provincial HRH objectives as stated in the KZN DoH 
+APP and is implemented as intended. 
+
+ 
+
+Finally, the GoSA Primary Healthcare Re-engineering of the healthcare system is a mechanism for 
+improving health systems effectiveness and achieving universal coverage for preventive, 
+promotive, curative, rehabilitation, and palliative healthcare services. This is a primary focus, in 
+particular, for the KZN DoH for comprehensive and integrated service delivery. The primary health 
+care re-engineering approach consists of three streams namely: 1) District-based clinical specialist 
+teams with an initial focus on improving maternal and child health; 2) Ward-based outreach teams 
+for each geographical ward; and 3) Integrated school health teams that provide screening, education, 
+and preventive services at schools. Since its inception, there has been little capacity development 
+and effective functioning of the district specialist teams and ward-based outreach teams. 
+Additionally, KZN province wants to sustain the gains made during the PEPFAR surge for PHC 
+
+
+Re-engineering. The Activity aims to further develop and capacitate the reach and effectiveness of 
+the district specialist teams and ward-based outreach teams for improved health outcomes. 
+
+ 
+
+IR 2.2: Essential medicine and commodities, equipment, instruments and devices needed to 
+deliver quality HIV/TB health and other infectious disease services are available at targeted 
+health care facilities. 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● Improved medicine availability at Health Establishments in line with provincial targets 
+● Essential equipment, instruments and devices are available at all supported sites and as 
+assessed through National Core Standards and Ideal Clinic 
+● Improved data quality and reporting compliance on the National Surveillance Center (NSC) 
+to improve visibility and decision support 
+
+
+ 
+
+The availability of medicines for multi-month dispensing, ART optimization and commodities for 
+HIV Testing Services (HTS) remain critically important for the KZN DoH. According to the KZN 
+2022/23 APP, the actual number of pharmacies in KZN with a high rating with the South African 
+Pharmacy Council (SAPC) was lower than anticipated. For a program to run effectively, the right 
+commodities have to be made available at the right place and at the right time. This requires 
+institutionalized demand forecast accuracy, optimization of the replenishment planning processes 
+and key supply chain management best practices to ensure that essential medicines are available at 
+health establishments. In addition to medicine and commodities, the focus of the Activity is to 
+support the districts to assess the availability of basic equipment, instruments and devices and 
+develop plans to address any gaps at all supported sites. Essential equipment, instruments and 
+devices required for routine HIV and TB care and treatment are a priority for the KZN DoH. 
+
+ 
+
+IR 2.3 Utilization and management of existing health information systems and data to guide 
+decision making and client management is strengthened. 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● 100% of data staff effectively use and implement data systems, data tools and processes 
+● 100% of facilities reporting quality data successfully into DHIS and TIER.Net 
+● 100% of district, sub-district and facility management routinely use data to improve patient 
+outcomes 
+
+
+ 
+
+As per the KZN DoH Annual Performance Plan (APP), it is a key priority to implement a robust 
+and effective health management information system to improve evidence-based decision making. 
+This is critical for the implementation of the Nerve Center approach at all levels in the province. 
+The Activity aims to assist the supported districts to develop and implement a feasible plan to 
+
+
+NOFO Nr.: 72067423RFA00003
+
+strengthen, integrate32and institutionalize systems and processes, improve data quality, datamanagement and reporting activities and drive data use for decision making. 
+
+Programmatic reviews using the latest availabledata is essential for decision making, adaptivemanagement and continuous quality improvement of the HIV and TB Program. Interventionsshould improve data demand and facilitate effective programreview and data useforums (e.g.,
+nerve centers)at district, sub-district and facility levels for continuous program improvement andimproved client outcomes. Finally, effective records management is necessary for overall HIV andTB program and client managementand requires improved and institutionalized filing systems andfile flow at all supportedsites to reduce client waiting times and file loss.
+
+IR2.4 Effective governance and management systems at the district and facility levels(management, planning, budgeting, and monitoring systems) are in place. 
+
+Expected Outcomes to be achieved:
+
+●Timely adoption of national health policies and guidelines at the province, district andsupported sites
+●Annual and Quarterly Joint Strategic and Work Plans Developed (e.g., APP, DHP, AnnualDSP Work Plan)
+●Quarterly Joint Program Reviews conducted (including local government, PEPFAR,
+Provincial and District AIDS Councils)
+●Health governance structures at the provincial, district and site levels are inclusive,
+transparent, accountable, and responsive to all stakeholders
+Effective leadership, governance and management systems are necessary foreffective healthservice delivery. This allows for a culture of accountability and a strategic framework to guide thework to be done. The aim of the Activity is to support the strengthening of skills of district healthmanagement teams to be effective managers and leaders with a focuson effective programmanagement.
+
+The Activity aims to work with district health management teams to mobilize all role players (fromall partners, including locally led community-based organizations, provincial and district AIDSCouncils) to coordinate, collaborate and use resources effectively for the achievement of programresults, including joint annual and quarterly planning and review meetings. As outlined in SouthAfrica’s NSP and theNational Health Insurance (NHI) White Paper, it is critical to address thesocial determinants of health that drive the HIV epidemic.33This can only be achieved through 
+
+32Integrate with KZN DoH preferred data analytics platforms.
+33Vera Scotti Nikki Schaayi Helen Schneideri,ii David Sanders,iii. Addressing social determinants of health in SouthAfrica: the journey continues. South African Health Review.2017 –20 Year Anniversary Edition.
+
+Achieving and Sustaining HIV/TB Epidemic Controlin theKwaZulu-Natal ProvincePage 19of84
+
+
+coordinated resource mobilization and dialogue between sectors such as health, social development, 
+civil society organizations, faith based organizations, the private sector, and non-government 
+organizations. The aim of the Activity is to support the districts with capacitating AIDS Councils, 
+and to support KZN DoH and districts with the collaboration and coordination between provincial 
+and local AIDS Councils, ensuring comprehensive participation and engagement across sectors. 
+
+ 
+
+Additionally, the Activity aims to ensure community support and community-led monitoring in the 
+governance of facility service delivery, ensuring responsible use of resources at the health facility 
+level, responsiveness of the management of health facilities to community needs, and quality 
+service delivery. Technical support may include the capacitation of clinic committees to provide an 
+avenue to give input and feedback into the planning, delivery and organization of health services 
+and play an oversight role in the governance and provision of equitable health services. 
+Additionally, clinic committees are instrumental for engaging with and responding to CLM findings 
+(e.g., Ritshidze State of Health reports) to improve overall program outcomes. 
+
+ 
+
+Finally, South Africa is swift to adopt and adapt most global health recommendations and policies 
+for the South African HIV/TB context. This translates to robust and comprehensive national 
+policies, guidelines, and standard operating procedures. Once national policies are approved, they 
+are then cascaded to provinces, then districts, sub-districts, and health facilities. Often these policies 
+and procedures are disseminated to provinces but are not adapted for each province and 
+disseminated further for training and implementation by the healthcare workforce. It is essential to 
+assist the supported districts to ensure policies, procedures, and memos from NDoH are 
+implemented at all levels. 
+
+ 
+
+OBJECTIVE 3: Leverage community, civil society, and private sector partnerships to 
+improve service delivery and client outcomes 
+
+ 
+
+Locally led development and delivery of HIV/TB services through resilient district health systems, 
+local partners, civil society organizations (CSOs), community-based organizations (CBOs), faith-
+based organizations (FBOs) and the private sector will be the cornerstone of sustainability for HIV 
+epidemic control. USAID is committed to increasing capacity and fostering success by catalyzing 
+innovation and mobilizing cross-sector partnerships.34 Ending the HIV and TB epidemics requires 
+government, community, civil society, and private sector engagement. 
+
+34 A partnership may be defined as an arrangement where parties (entities), agree to cooperate to advance their 
+mutual interests. The partnerships may be contract-based, sub-awardee based or defined by a Memorandum of 
+Understanding. The partners may include formal and informal community-based organizations, PLHIV-led 
+organizations, faith-based organizations, schools, governments, private sector, or a combination thereof. 
+Organizations may partner to increase the likelihood of achieving expected results. 
+
+ 
+
+ 
+
+
+Objective 3 aims to support indigenously led innovation, leadership, and implementation by 
+leveraging community (including Traditional Health Practitioners), civil society, and private sector 
+partnerships to improve service delivery and client outcomes and to address the social determinants 
+of health that support client retention in care. Under Objective 3, there are two (2) IRs as detailed 
+below. 
+
+ 
+
+IR3.1 PLHIV-led and other community organizations are strengthened and actively engaged for 
+improved health outcomes. 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● Structures and PLHIV-led / community organizations / Traditional Health Practitioners are 
+engaged in HIV support services, including treatment literacy and social support for 
+treatment retention 
+● Structures and PLHIV-led / community organizations / Traditional Health Practitioners 
+achieve allocated program targets 
+● Increased number of clients receive referrals to Department of Social Development and 
+health facilities through PLHIV-led / community organizations / Traditional Health 
+Practitioners 
+
+
+ 
+
+The aim of the Activity is to work with PLHIV-led, other community-based organizations, 
+Traditional Health Practitioners, and community members, through existing and new forums, to 
+directly provide HIV/ TB services that improve client outcomes with a specific focus on retention 
+in care. Technical support may include training and skills building to provide community adherence 
+counseling and even assist with the facilitation of community-based multi-month dispensing. 
+
+ 
+
+Finally, the Activity aims to serve as a referral pathway when clients are facing complex factors 
+(e.g., social and economic barriers) that are outside of the scope of health facilities that threaten the 
+ability of patients to adhere to priority public health interventions. This includes clients suffering 
+from mental health issues, transient housing, refugee or migrancy issues, as well as drug, alcohol, 
+and sexual abuse issues by referring clients to other relevant departments and support agencies. 
+These include agencies such as the DSD, Department of Community Safety, and Department of 
+Human Settlements. The Activity aims to support clients in their comprehensive needs by ensuring 
+linkage to additional services not typically rendered in by the DoH. 
+
+ 
+
+IR3.2 Private sector engaged to improve health outcomes. 
+
+ 
+
+Expected Outcomes to be achieved: 
+
+● Opportunities for program-enhancing partnerships with private sector identified and 
+facilitated to 1) address social determinants of health; 2) strengthen the health system; 
+and/or 3) improve health outcomes 
+
+
+
+ 
+
+The Activity aims to support the creation of partnerships with a range of private sector actors with 
+the capacity to contribute to addressing factors affecting client health-seeking behavior in KZN 
+and/or factors impeding on the health system. The private sector can augment health care services 
+in one of two ways– either by providing services directly, or enhancing services that already exist: 
+
+ 
+
+● Service provision: Private sector partners provide health services that either add to existing 
+health offerings or fill gaps where they exist. This is often a good model when private sector 
+health offerings can provide more cost-effective and/or higher-quality service delivery than 
+what currently exists, particularly where they can help access populations that would 
+otherwise not receive care. 
+● Service enhancement: Private sector partners leverage their employee base, supply chains, 
+professional networks, and/or provide technical advisory, or financing to enhance the 
+quality, reach, or efficiency of existing health services and government/donor investments. 
+This can include implementing market-based innovations or approaches; leveraging 
+networks; innovative financing for projects; technical assistance, capacity development; and 
+workplace health initiatives. 
+
+
+ 
+
+Private sector partnerships can address many components of health challenges typically seen in 
+clinics. Examples include issues of health facility infrastructure constraints, food insecurity, 
+insufficient transportation, mental health of both health care workers and patients, lack of 
+electricity, and limited access to broadband. Resolving these, or other challenges, with private 
+sector partnerships would serve to address social determinants of health and barriers to optimal 
+client outcomes. 
+
+C. GEOGRAPHIC FOCUS 
+
+ 
+
+The geographic target area of the Activity is the KwaZulu-Natal Province with tailored and targeted 
+interventions and technical support at the district level, specifically in the highest HIV and TB 
+burden districts Harry Gwala, King Cetshwayo and Ugu Districts. These districts may change in 
+alignment with USAID, PEPFAR and/or GoSA direction. 
+
+D. SUSTAINABILITY 
+
+ 
+
+A key objective of USAID development assistance to South Africa is to support sustainable health 
+systems and health care services by reinforcing systems at all levels. USAID intends that its funding 
+will consolidate and build upon existing activities to improve the health of all populations. As 
+geographies become nearer to achieving epidemic control and sustained viral suppression, there 
+will be a shift from an emergency response to one aligned to supporting institutionalized chronic 
+care service delivery models. This next phase requires a concerted shift of existing approaches to 
+realize efficiencies through a robust sustainability plan with key milestones from the outset of the 
+
+
+Activity until its conclusion. PEPFAR defines sustainability as the development of technical 
+competence, human capacity, and management systems. 
+
+ 
+
+USAID aims to increase the delivery of services and technical assistance through partnerships with 
+local organizations - both governments and non-governmental/private sectors - and to eventually 
+transition programs to national, provincial and district financing, planning and management 
+processes. 
+
+ 
+
+USAID’s Bureau for Global Health Office of HIV/AIDS developed USAID’s Approach to HIV 
+and Optimized Programing (AHOP) through an intensive consultation process with HIV and Global 
+health leaders, comprising civil society representatives, host government partners, multilateral 
+organizations and leadership across sectors. The AHOP is strategically aligned with the draft 
+PEPFAR Strategy: Vision 2025, UNAIDS Global AIDS Strategy, and draft Global Fund Strategy: 
+Fighting Pandemics and Building a Healthier and More Equitable World (2023-2030), and with the 
+Sustainable Development Goals (SDGs) Goal 3 target of ending the global AIDS epidemic as a 
+public health threat by 2030 (and uniquely ties other SDGs with USAID’s extensive development 
+assets). The AHOP provides five critical pathways for an efficacious and durable HIV response that 
+can also be leveraged to tackle other pressing and emerging global health challenges. The five 
+critical pathways are: 
+
+ 
+
+1) Simplified Service Delivery Models for a Comprehensive Health Response 
+
+2) Adolescent and Youth Health and Resilience 
+
+3) Locally led and Managed HIV Response 
+
+4) Client-centered Supply Chain Solutions 
+
+5) Pandemic Readiness, Response, and Resilience to Future Shocks 
+
+ 
+
+The Activity will incorporate the AHOP’s five critical pathways into the program description to 
+support achievement of objectives and IRs. 
+
+E. GENDER CONSIDERATIONS 
+
+ 
+
+The USAID Gender Equality and Female Empowerment Policy advances equality between 
+women and men, boys, and girls, and empowers women and girls to participate fully in and 
+benefit from development activities, through the integration of gender in the entire Activity 
+implementation cycle from design and implementation to monitoring and evaluation. 
+
+ 
+
+Interventions and technical assistance supported through this Activity will implement a 
+program model that addresses structural barriers fueled by gender inequities that impede access 
+to and uptake of HIV and TB service delivery in order to reduce gender disparities in the access 
+of HIV and TB diagnosis, treatment, and prevention services. The Activity will use evidence-
+based interventions informed by gender analyses that explore the underlying reasons for 
+gender-based differences throughout the entire patient pathway. The Activity will integrate 
+gender transformative and trauma-informed approaches throughout the program that promote 
+early care seeking behavior, and access to HIV and TB services equitably between men and 
+women. The Activity will integrate age-appropriate GBV case identification, first-line support, 
+
+
+and clinical and non-clinical care into HIV service delivery platforms aligned with PEPFAR 
+and WHO Guidance. Furthermore, interventions will also uphold the right of all individuals - 
+men, women, and transgender people to quality HIV and TB services. While the Activity, 
+under Objective 1, specifically IR 1.4 focuses on addressing GBV, it is encouraged to ensure 
+that these gender considerations are integrated within all technical interventions and technical 
+assistance under each Objective and respective IRs. The Monitoring, Evaluation and Learning 
+(MEL) plan for the Activity should include clearly defined indicators and targets to support 
+measurement of performance specific to gender considerations. 
+
+F. MONITORING, COLLABORATING, LEARNING & ADAPTING 
+
+ 
+
+Collaborating, Learning and Adapting (CLA) is a central focus of the Activity. The Activity 
+contributes to USG’s commitment to a multifaceted CLA approach to development that is rooted 
+in the idea that public health interventions yield more effective results if they are evidence based, 
+coordinated and collaborative. The Recipient is expected to generate useful real-time data. The 
+Recipient is expected to closely collaborate with key in-country stakeholders, including 
+government, civil society, and other donors to share data from the Activity’s results, 
+implementation research, evaluations, assessments, and lessons learned from implementation. The 
+Recipient must ensure that sufficient effort is invested to monitor activities, collect, analyze, and 
+synthesize data, and to publish/share the data as broadly as appropriate. 
+
+ 
+
+Consistent with the latest USG guidance, the Recipient will apply a data-driven approach to achieve 
+results, while ensuring efficiency in the use of USG funding. Central to this approach is using data 
+to more precisely target resources and tailor interventions and technical support in the Activity’s 
+geographic target area based on the burden of disease and need. Continuous learning and adaptation 
+of interventions according to changes in the epidemiology are required throughout the life of the 
+Activity. 
+
+ 
+
+MONITORING, EVALUATION AND LEARNING (MEL) PLAN 
+
+The Activity will have a rigorous performance monitoring and results reporting system, including 
+adequate staffing to monitor performance and measure quantifiable results that demonstrate the 
+achievement of the Activity goal, objectives, and results. This includes establishing and supporting 
+GoSA information systems for routine data collection and analytics and developing a 
+comprehensive set of input, output, and outcome indicators to adequately measure performance 
+towards achieving set periodic targets (e.g., monthly, quarterly, semi-annual, annual and end of 
+Activity targets). Data will be used to evaluate performance, drive decisions, and guide course 
+corrections as needed. The Recipient will be responsible for all aspects of data collection, analysis, 
+and performance reporting per USAID’s monthly, quarterly, semi-annual, and annual results 
+reporting cycles. 
+
+The Activity is largely funded by PEPFAR funding, and therefore required PEPFAR indicators will 
+be included in the monitoring, evaluation and learning plan (MEL) and used to measure and report 
+on performance. An updated and comprehensive list of the indicators used by PEPFAR globally as 
+well as the PEPFAR reporting process will be provided upon award. PEPFAR indicators may also 
+be found in the PEPFAR Monitoring, Evaluation and Reporting Indicator Reference Guide located 
+on the www.PEPFAR.gov website under PEPFAR reports. Those Objectives and IRs requiring the 
+
+
+use and reporting of PEPFAR Monitoring, Evaluation and Reporting (MER) indicators are listed in 
+the table below. PEPFAR MER indicators are routinely reviewed and may change throughout each 
+year of the Activity based on the evolving epidemiology of HIV and TB and other closely related 
+health issues in the KwaZulu-Natal Province. 
+
+ 
+
+Upon award, the Recipient’s MEL plan will be finalized in consultation with USAID to finalize 
+indicators and performance targets for the first year of the Activity. 
+
+ 
+
+The Activity MEL Plan must: 
+
+ 
+
+● Include the following key elements: Theory of change, logic model, performance 
+monitoring, beneficiaries feedback plan, evaluation plan, CLA approach, roles and 
+responsibilities, schedule of MEL plan tasks (including planned assessments such as any 
+routine supervision and monitoring visits, along with any data quality assessments that 
+are planned for the upcoming implementation year) and schedule of reporting to 
+USAID. 
+● Benchmark implementation using existing program data at site, regional and, if 
+applicable, national levels. This should assist in the development of quality 
+improvement and quality assurance processes at site, regional and national levels. 
+● If applicable, include required PEPFER MER indicators specific to the Activity. Final 
+required MER indicators will be finalized at the time of the award. 
+
+
+ 
+
+● Include additional indicators that support measuring performance towards achieving 
+expected outcomes under each objective and respective IRs, to include indicators to 
+measure performance specific to addressing gender inequities and disparities and 
+sustainability. 
+
+
+ 
+
+● Periodic targets (e.g., monthly, quarterly, semi-annually, annually, end of Activity 
+targets, as applicable) for each indicator. 
+
+
+ 
+
+● Participate in quarterly activity reviews. This feeds into the PEPFAR Oversight 
+Accountability Response Team (POART) and Country Operation Plan (COP) 
+processes. 
+
+
+ 
+
+● Conduct data quality assessments for a subset of key indicators, including, but not 
+limited to the treatment cascade (e.g., MER indicators). 
+
+
+G. MANAGEMENT AND STAFFING APPROACH INCLUDING KEY PERSONNEL 
+
+ 
+
+Management and Staffing Approach 
+
+It is envisioned that the Activity will be managed with a comprehensive management approach that 
+includes joint oversight, partnership, and management of the Activity with the respective GoSA 
+counterparts (e.g., DoH, DSD, DBE where applicable, civil society, district and local AIDS 
+
+
+Councils). This may include joint annual planning and joint quarterly program reviews whereby 
+resources and performance are reviewed for the previous quarter and programming is mutually 
+designed and agreed to for the next quarter. 
+
+ 
+
+In addition, it is envisioned that the Activity will be implemented through an appropriate mix of 
+direct implementation, technical support, and sub-awards to locally led organizations with expert 
+knowledge for the achievement of specific objectives or IRs. 
+
+ 
+
+The Applicant should propose an appropriate mix of staff and requisite levels of professional 
+expertise to implement the Activity and must identify, recruit, hire, and support appropriate 
+personnel. The Applicant must have a combination of core staff to efficiently and cost effectively 
+manage implementation and achieve results. 
+
+ 
+
+Professional-level skills and management practices are required in the performance of the resulting 
+Cooperative Agreement. Accordingly, the Applicant must establish an effective quality control 
+program to assure that deliverables and other products meet professional standards and comply with 
+requirements. The Applicant must maintain an office in South Africa and have an organizational 
+structure that adequately meets management needs to implement. 
+
+ 
+
+Things to take into consideration in staffing (for key personnel and all other staff) include gender 
+equality and social inclusion, an equitable balance in staffing and staff requirements; personnel 
+systems, hiring, and management; and capacity development principles and approaches. When 
+qualified personnel are available, the Applicant is encouraged to utilize local personnel with 
+appropriate prior experience and expertise. The Applicant is strongly encouraged to consult with 
+respective GoSA counterparts per geography for Activity personnel planning, recruitment and 
+placement. 
+
+ 
+
+Key Personnel 
+
+The Activity has five (5) key personnel positions which are essential to achieving strategic and 
+program objectives. The key personnel must have an appropriate configuration of skills, experience 
+and expertise that gives confidence for results achievement. In addition to the Chief of Party 
+position described below, the Applicant should propose the appropriate roles of the remaining key 
+personnel and their primary responsibilities for managing and leading an effective Activity. All key 
+personnel should provide 100% LOE to the project. The following skills and expertise should be 
+largely found, collectively, within the Key Personnel: 
+
+ 
+
+● Experience in leading public health projects 
+● Experience in managing and/or leading local or international donor funded projects 
+● Experience in managing large budgets exceeding $10 million per annum 
+● Demonstrated ability to develop and manage relationships with a wide range of stakeholders 
+including NGO partners and Government Institutions of South Africa at all levels 
+● Understanding of the South Africa health care delivery system 
+
+
+ 
+
+It is the Applicant’s discretion to designate positions of Key Personnel on the basis of their staffing 
+structure. 
+
+
+ 
+
+Chief of Party - 100% Level of Effort (LOE) 
+
+The Chief of Party (COP) will be responsible for leading a high-quality, results-oriented activity to 
+achieve the objectives and expected results. S/he will provide overall strategic and managerial 
+leadership of the activity in collaboration with all major stakeholders. S/he will bring a strong 
+perspective, vision, and strategy on achieving the goal and objectives of the Activity. The COP’s 
+responsibilities must include the overall planning, technical leadership and coordination of all 
+activities including the work of any sub-partners. S/he will oversee staff and sub-partners to ensure 
+quality of activities and products developed under the project. The COP must have regular 
+communication with the Agreement Officer Representative (AOR). The COP serves as the 
+principal liaison to USAID, GoSA counterparts, and other relevant implementing partners and 
+stakeholders. 
+
+ 
+
+ 
+
+[END OF SECTION A] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+B.1 Estimate of Funds Available and Number of Awards Contemplated 
+
+ 
+
+Subject to funding availability and at the discretion of the Agency, USAID intends to make one 
+award pursuant to this notice of funding opportunity. 
+
+USAID intends to provide up to approximately $104 million in total USAID funding over a five 
+(5) year period. This Activity will be incrementally funded over the life of the Activity, subject to 
+the availability of funds. 
+
+USAID reserves the right to fund any one or none of the applications submitted. 
+
+B.2 Start Date and Period of Performance for the Federal Award 
+
+ 
+
+The anticipated period of performance of the award made as a result of this Notice of Funding 
+Opportunity is five (5) years subject to the availability of funds. The estimated start date will be 
+upon the signature of the award, on or about August 1, 2023, with full implementation of 
+interventions to begin no later than October 1, 2023. 
+
+B.3 Type of Award and Substantial Involvement 
+
+ 
+
+USAID plans to award one Cooperative Agreement pursuant to this NOFO. A Cooperative 
+Agreement allows USAID to exercise ‘substantial involvement’ (active involvement by USAID in 
+certain programmatic elements during the performance of the activity). The anticipated substantial 
+involvement for this award is limited to the elements listed below: 
+
+ 
+
+A. Approval of the Recipient’s Annual Implementation Plans (Annual Work Plans); 
+B. Approval of Specified Key Personnel and any changes in Key Personnel; 
+C. Concurrence on the substantive provisions of sub-awards; 
+D. Agency and Recipient Collaboration or Joint Participation - Approval of the 
+Recipient’s Monitoring, Evaluation and Learning (MEL) Plans annually; 
+E. Monitor to authorize specific kinds of direction and re-direction of activities; and 
+F. Agency’s Authority to immediately halt an activity if the recipient does not meet 
+detailed performance specifications (for example, construction specifications). 
+
+
+ 
+
+B.4 Title to Property 
+
+ 
+
+Property title under the resultant agreement shall vest with the Recipient in accordance with the 
+requirements of 2 CFR 200.312 – Federally-owned and exempt property and the with the 
+
+Mandatory Standard Provision for Non-US Organizations, specifically “M.7 Title to and Use of 
+Property (December 2014)”. 
+
+ 
+
+
+B.5 Authorized Geographic Code 
+
+ 
+
+The authorized geographic code for the procurement of commodities and services under the 
+Activity is 935. Geographic Code 935 includes any area or country including the Recipient’s 
+country but excluding any country that is prohibited source). 
+
+B.6 Nature of the Relationship between USAID and the Recipient 
+
+ 
+
+The principal purpose of the relationship with the Recipient under the subject Activity is to transfer 
+funds to accomplish a public purpose of support or stimulation of the “Achieving and Sustaining 
+HIV/TB Epidemic Control in the KwaZulu-Natal Province” Activity, which is authorized by 
+Federal statute. 
+
+The successful Recipient will be responsible for ensuring the achievement of the activity objectives 
+and the efficient and effective administration of the award through the application of sound 
+management practices. The Recipient will assume responsibility for administering Federal funds in 
+a manner consistent with underlying agreements, activity objectives, and the terms and conditions 
+of the Federal award. The Recipient using its own unique combination of staff, facilities, and 
+experience, has the primary responsibility for employing whatever form of sound organization and 
+management techniques may be necessary in order to assure proper and efficient administration of 
+the resulting award. 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+C.1 Eligible Applicants 
+
+ 
+
+Eligibility under this Notice of Funding Opportunity (NOFO) is restricted to local entities. 
+
+For purposes of consistency and reporting, the definition of “local entity” means an individual, a 
+corporation, a nonprofit organization, or another body of persons that: 
+
+(1) Is legally organized under the laws of South Africa; 
+
+(2) Has as its principal place of business or operations in South Africa; 
+
+(3) Is majority owned by individuals who are citizens or lawful permanent residents of South Africa; 
+and 
+
+(4) Is managed by a governing body the majority of who are citizens or lawful permanent residents 
+of the country receiving assistance. 
+
+For purposes of this definition, ‘majority owned’ and ‘managed by’ include, without limitation, 
+beneficiary interests and the power, either directly or indirectly, whether exercised or exercisable, 
+to control the election, appointment, or tenure of the organization's managers or a majority of the 
+organization's governing body by any means. 
+
+USAID welcomes applications from eligible organizations which have not previously received 
+financial assistance from USAID. International or U.S. organizations are not eligible to submit an 
+application for an award as a prime applicant under this Notice of Funding Opportunity (NOFO). 
+However, US or international organizations may be proposed as sub-awardees under the 
+applications. Faith-based organizations are eligible to apply for federal financial assistance on the 
+same basis as any other organization and are subject to the protections and requirements of Federal 
+law. 
+
+Applicants must have established financial management, monitoring and evaluation processes, 
+internal control systems, and policies and procedures that comply with established U.S. 
+Government standards, laws, and regulations. In accordance with ADS 303.3.9.1, the apparently 
+successful applicant(s) may be subject to a responsibility determination assessment (Pre-award 
+Survey) by the Agreement Officer (AO). 
+
+The Recipient must be a responsible entity. The Agreement Officer (AO) may determine a pre-
+award survey is required to conduct an examination that will determine whether the prospective 
+recipient has the necessary organization, experience, accounting and operational controls, and 
+technical skills – or ability to obtain them – in order to achieve the objectives of the Activity and 
+comply with the terms and conditions of the award. 
+
+ 
+
+ 
+
+
+C.2 Cost Share or Matching 
+
+ 
+
+Cost sharing is an important element of the USAID-recipient relationship. In addition to USAID 
+funds, applicants are required to contribute resources from their own, or other sources for the 
+implementation of this Activity. 
+
+USAID has established a required cost share contribution of at least ten percent (10%) of the 
+USAID funding amount. Such funds may be mobilized from the recipient; other multilateral, 
+bilateral, and foundation donors; host governments; and local organizations, communities, and 
+private businesses. For guidance on cost sharing in cooperative agreements, please consult 2 CFR 
+200 (US Organizations) or Cost Share Standard Provision (Non-US Organizations). 
+
+USAID welcomes applications from eligible local organizations which have not previously 
+received financial assistance from USAID. U.S. or international organizations are not eligible to 
+apply as prime applicants for an award under this NOFO. However, US or international 
+organizations may be proposed as sub awardees under the applications. Faith-based organizations 
+are eligible to apply for federal financial assistance on the same basis as any other organization and 
+are subject to the protections and requirements of Federal law. 
+
+Applicants must have established financial management, monitoring and evaluation processes, 
+internal control systems, and policies and procedures that comply with established U.S. 
+Government standards, laws, and regulations. In accordance with ADS 303.3.9.1, the apparently 
+successful applicant(s) may be subject to a responsibility determination assessment (Pre-award 
+Survey) by the Agreement Officer (AO). 
+
+The Recipient must be a responsible entity. The Agreement Officer (AO) may determine a pre-
+award survey is required to conduct an examination that will determine whether the prospective 
+recipient has the necessary organization, experience, accounting and operational controls, and 
+technical skills – or ability to obtain them – in order to achieve the objectives of the Activity and 
+comply with the terms and conditions of the award. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+(Instructions to Applicants) 
+
+ 
+
+D.1 Agency Point(s) of Contact 
+
+ 
+
+Name(s): 
+
+ 
+
+Kerry West, Agreement Officer, USAID/Southern Africa; and 
+
+ 
+
+Ildiko Huhn, Sr. Acquisition and Assistance Specialist, USAID/Southern Africa 
+
+ 
+
+Email: pretoriaapplications@usaid.gov 
+
+ 
+
+D.2 Questions and Answers 
+
+Questions regarding this NOFO should be submitted in writing to: 
+pretoriaapplications@usaid.gov, stating the NOFO number in the subject line no later than 
+the date and time indicated on the cover letter. Any information given to a prospective 
+Applicant concerning this NOFO will be furnished promptly to all other prospective 
+Applicants as an amendment to this NOFO posted on www.grants.gov, if that information 
+is necessary in submitting applications or if the lack of it would be prejudicial to any other 
+prospective Applicant. Questions submitted after the deadline for questions may not receive 
+responses. 
+
+ 
+
+D.3 General Content and Form of Application 
+
+ 
+
+D.3.1 Preparation of Applications: 
+
+Each applicant must furnish the information required by this NOFO. Full applications must 
+be submitted in two separate parts: the Technical Application and the Business (Cost) 
+Application. This subsection addresses general content requirements applying to the full 
+application. Please see subsections 4 and 5, below, for information on the content specific 
+to the Technical and Business (Cost) applications. The Technical application must address 
+technical aspects only while the Business (Cost) Application must present the costs, and 
+address risk and other related issues. The technical application must not include budget 
+information. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a Cover Page containing 
+the following information: 
+
+● Name of the organization(s) submitting the Application; 
+● Unique Entity Identifier (UEI) of the organization; 
+● Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address); Also state whether the contact person 
+
+
+
+is the person with authority to sign an award for the prime applicant organization, 
+and if not, that person should also be listed. 
+● Program name 
+● Notice of Funding Opportunity number 
+● Name of any proposed sub-recipients or partnerships (identify if any of those 
+organizations are local, per USAID’s definition of ‘local entity’ under ADS 303). 
+● The Cover Page must be signed by the individual with the authority to sign an award 
+on behalf of the organization. 
+
+
+ 
+
+Any erasures or other changes to the application must be initialed by the person signing 
+the application. Applications signed by an agent on behalf of the applicant must be 
+accompanied by evidence of that agent’s authority unless that evidence has been 
+previously furnished to the issuing office. 
+
+ 
+
+Applications must comply with the following: 
+
+● The Technical Application must not exceed 25 pages and must be structured in the 
+format outlined below. USAID will not review any pages in excess of the page limits 
+noted in Section D.4. 
+● All text must be in Times New Roman 12-point font, 1.15 line spacing, with a 
+minimum of 1-inch margins on all sides with consecutive page numbers on each 
+page starting from the Cover Page, date of submission and applicant’s name 
+● Tables, graphs, and charts may use a smaller font, but not less than 8-point for any 
+text 
+● All documentation must be written in English, and pages must be numbered, 
+including numbered Annexes (e.g., Annex 1, page 25) 
+
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure 
+to do so may be considered as being non-responsive and may be evaluated accordingly. 
+Applicants should retain a copy of the application and all enclosures for their records. 
+
+ 
+
+D.3.2 Application Submission Procedures 
+
+Applications in response to this NOFO must be submitted no later than the closing date and 
+time indicated on the cover letter, as amended. Late applications may be removed from 
+consideration. Applicants must retain proof of timely delivery in the form of system 
+generated documentation of delivery receipt date and time/confirmation from the receiving 
+office. Applications must be submitted by email to: pretoriaapplications@usaid.gov. 
+
+ 
+
+Email submissions must include the NOFO number and applicant’s name in the subject line 
+heading. Multiple emails may be sent to accommodate the application size and content. For 
+an application sent by multiple emails, the subject line must also indicate whether the email 
+relates to the technical or cost application, and the desired sequence of the emails and their 
+attachments (e.g., "No. 1 of 4", etc.). For example, if your cost application is being sent in 
+two emails, the first email should have a subject line that states: "[NOFO number], 
+[organization name], Cost Application, Part 1 of 2". 
+
+ 
+
+
+The Technical Application and the Cost Application must each be submitted as two 
+separate emails. Please consolidate email attachments to the extent possible, e.g., that 
+you compile the various parts of the technical application into a single document before 
+sending it; and do the same for the cost application. 
+
+ 
+
+Applicants are reminded that email is NOT instantaneous, and in some cases delays of 
+several hours occur from transmission to receipt. Therefore, applicants are requested to send 
+the applications in sufficient time ahead of the deadline. For this NOFO, the initial point of 
+entry to the government infrastructure is the USAID mail server. 
+
+ 
+
+Email submissions must be limited to 25MB per email. USAID is unable to receive any email 
+larger than 25MB. Before sending your documents to USAID as email attachments, convert 
+them into Microsoft Word or Adobe PDF and Excel. Signature pages must be converted to 
+Adobe PDF format. Please do not send files in ZIP format as there may be a problem with 
+the receipt of such files. USAID/Southern Africa cannot guarantee their acceptance by the 
+internet server. 
+
+ 
+
+It is the Applicant’s responsibility to ensure that all necessary documentation is complete 
+and received on time. In the event of system problems or technical difficulties, the above 
+stated agency points of contact must be informed immediately via the email addresses 
+provided above. Hard copies, telegraphic or faxed applications are not authorized for this 
+NOFO and will not be accepted. 
+
+ 
+
+After an Applicant has sent its application electronically, the Applicant should immediately 
+check its own email to confirm that the attachments were indeed sent. If an Applicant 
+discovers an error in its transmission, it should send the material again and note in the subject 
+line of the email that it is a "corrected" submission. Please do not send the same email more 
+than once unless there has been a change, and if so, please note that it is a "corrected" email. 
+
+ 
+
+The subject line for every such email must include the following: 
+
+“Achieving and Sustaining HIV/TB Epidemic Control 
+
+ in the KwaZulu-Natal Province; NOFO Nr.: 72067423RFA00003” 
+
+ 
+
+Applications (and corrections, if any) must be submitted no later than the date indicated as 
+the deadline for the submission of applications in this NOFO as indicated on the cover letter 
+accompanying this NOFO. All applications received by the submission deadline will be 
+reviewed for responsiveness to the NOFO and the application format. 
+
+ 
+
+Consistent with ADS 303.3.6.6, applications that are submitted late may be eliminated from 
+the competition. If a late application is evaluated and considered for award, all similarly 
+situated late applications (in terms of time of receipt) will also be evaluated and considered 
+for award. 
+
+ 
+
+D.4 Technical Application Format 
+
+ 
+
+
+The technical application must be specific, complete, and presented concisely. The application must 
+demonstrate the applicant's capabilities and expertise with respect to achieving the goals of this 
+program. The application must take into account the requirements of the program and merit review 
+criteria found in this NOFO. 
+
+ 
+
+The Technical Application must strictly follow the format and outline prescribed below and adhere 
+to the maximum number of 25 total pages, excluding Annexes. The suggested page limit for the 
+Annexes is also limited 25 pages as identified below and separate from the technical application. 
+Any pages submitted in excess of these limitations will not be reviewed. The Technical Application 
+must be submitted in PDF format and in an unlocked MS Word format (it must be searchable and 
+editable Word or PDF format as appropriate) 
+
+ 
+
+It is the Applicant’s discretion how to use their pages appropriately within the maximum number 
+of page limitation. 
+
+ 
+
+ 
+
+A. Cover Page 
+
+B. Table of Contents 
+
+C. Executive Summary 
+D. Technical Approach 
+E. Management and Staffing Approach 
+F. Sustainability and Partnerships 
+G. Technical Annexes 
+
+
+ 
+
+ 
+
+The Technical Application must contain the following content: 
+
+ 
+
+A. Cover Page 
+● See Section D.3.1 above for requirements 
+
+
+ 
+
+B. Table of Contents 
+● Include major sections of the Technical Application and page numbers to easily cross-
+reference and identify merit review criteria, including: the Executive Summary, the 
+Technical Approach, Management and Staffing Approach, Sustainability and 
+Partnerships, and Technical Annexes. The specific headings for each of the Technical 
+Annexes must be listed. 
+
+
+ 
+
+ 
+
+C. Executive Summary 
+● A brief description of the proposed activities, a concise summary of the Technical 
+Application that gives the reader a “snapshot” of the information that is presented in the 
+Technical Application. 
+
+
+ 
+
+D. Technical Approach 
+
+
+
+● This section must provide a detailed description of proposed interventions, tailored to the 
+KwaZulu-Natal context, to be implemented in support of the Activity. This section will 
+also address gender considerations and incorporate evidence-based practices. Innovative 
+and sustainable solutions are encouraged and must be integrated where applicable. 
+
+
+ 
+
+The information detailed in the Technical Approach must be organized by the Activity’s 
+objectives and intermediate results. 
+
+ 
+
+E. Management and Staffing Approach 
+● This section must convincingly demonstrate how the proposed management approach and 
+key personnel are appropriate to carry out the described technical approach in the 
+KwaZulu-Natal province. 
+
+
+ 
+
+● The Management and Staffing Approach must include a Management Approach and a 
+Summary of Proposed Key Personnel. The Management Approach must detail a 
+management structure, including essential partnerships and proposed sub-recipients, that 
+will support effective implementation of the proposed program. The composition of which 
+should reflect the environment of the project. The Management Approach must describe 
+the team composition and geographic coverage at the district, sub-district, facility, and 
+community levels. 
+
+
+ 
+
+● The Proposed Key Personnel section must provide an appropriate configuration of skills, 
+experience in support of successful implementation of the activity. It is the Applicant’s 
+responsibility to designate 5 Key Personnel positions at 100% LOE. 
+
+
+ 
+
+F. Sustainability and Partnerships 
+● Applicants must describe how sustainability will be increased and how partnerships 
+tailored specifically to the province will support achievement of Activity goals. To 
+demonstrate this, a Sustainability Plan is required to be submitted in Annex D based on 
+the instructions provided below. 
+
+
+ 
+
+● Applicants are encouraged to bring in practical solutions to maximize local partnerships. 
+
+
+ 
+
+● In this section Applicants must describe and expand on the following items at a minimum: 
+1) With whom will they partner? 2) What will each partner’s role be? 3) How will the 
+partner(s) contribute to the requirements in the Activity? 4) How will the partnership 
+advance sustainability in the province? 5) Concrete steps that are planned or have been 
+executed to establish or strengthen the partnership(s) both during the period of 
+performance and once the award has ended. This section must also include a strategy for 
+meeting and or exceeding the minimum ten percent cost share requirement to maximize 
+sustainability as outlined in Section C of the NOFO. 
+
+
+ 
+
+ 
+
+G. Technical Annexes (up to 25 pages) 
+
+
+
+The only annexes to be evaluated are listed hereunder and do not count towards the page 
+limit of the Technical Application. 
+
+ 
+
+● Annex A – Monitoring, Evaluation and Learning (MEL) Plan 
+
+
+(Suggested page limit: 3 pages) 
+
+ 
+
+This section will include a draft monitoring and evaluation plan (MEL) with the 
+proposed indicators to be used to measure the achievement of results. The required 
+PEPFAR MER indicators must be included in the draft MEL plan in addition to unique 
+and/or custom developed program-level indicators (e.g., output indicators) to measure 
+the performance of the Activity. The draft MEL plan must include periodic targets (e.g., 
+monthly, quarterly, semi-annual, annual, end of Activity, etc.) for all proposed 
+indicators. A table format may be used; refer to the USAID MEL plan template for an 
+example and template of a table that may be used for a draft MEL plan. 
+
+ 
+
+This section must describe the comprehensive data-driven approach that will be used 
+to ensure management of data towards achievement of results. The plan must detail 
+how performance will be continuously monitored and assessed and how the data 
+collected is proposed to be used for learning and program adaptation. 
+
+ 
+
+● Annex B – Draft Work Plan 
+
+
+(Suggested page limit: up to 7 pages) 
+
+ 
+
+This section will include a draft work plan detailing the sequence and simultaneous 
+implementation of interventions and technical support planned for the Activity. 
+Please use the work plan template provided. Interventions and technical support 
+must be clearly linked to the respective objective(s) and intermediate result(s). 
+
+ 
+
+As part of the draft work plan, the applicant must provide startup milestones 
+detailing the tasks and steps to establish and operationalize the Activity and initiate 
+implementation of interventions. The plan must include hiring staff, renting office 
+space, securing sub-recipients, engaging with stakeholders and GoSA counterparts, 
+etc. 
+
+ 
+
+● Annex C – Proposed Key Personnel, CVs, and Letters of Commitment 
+
+
+(Suggested page limit: 3 pages) 
+
+ 
+
+Applicants are required to submit the following documents: current Resume 
+(maximum 2 pages per key personnel) and Letters of Commitment for each proposed 
+key personnel. Each proposed candidate must sign the letter stating that s/he is 
+committed to serving in the position for which s/he is being proposed and will 
+include the date s/he is available to fully assume the proposed key personnel 
+position. The letters of Commitment should not be exclusively binding. 
+
+ 
+
+● Annex D – Sustainability Plan 
+
+
+
+(Suggested page limit: up to 5 pages) 
+
+The Sustainability Plan must explain how the applicant proposes to build resilience 
+and strengthen sustainability during the period of performance and to support 
+continuation of related progress to the Activity after its conclusion. Indicators may 
+be proposed in the Draft Monitoring, Evaluation and Learning Plan (described 
+below) to demonstrate how the Sustainability Plan will measure success towards 
+achieving sustainability of the Activity. The Sustainability Plan must take into 
+consideration USAID’s Approach to HIV and Optimized Programing (AHOP) and 
+the five critical pathways towards building sustainability for an efficacious and 
+durable development response as described in the Program Description. 
+
+ 
+
+● Annex E – Organizational & Management Chart 
+
+
+(Suggested page limit: 2 pages) 
+
+ 
+
+This section must include an organizational and management chart (O&M) and a 
+supporting narrative. It will provide an overview of how staffing for technical, 
+management and other critical functions will be allocated and where they will be 
+located. 
+
+ 
+
+● Annex F – Acronym List 
+
+
+(Suggested Page limit 2 pages) 
+
+ 
+
+This section must spell out all acronyms utilized in the Technical Application. 
+
+A table format is acceptable. 
+
+D.5 Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical 
+Application. While no page limit exists for the full cost application, applicants are 
+encouraged to be as concise as possible while still providing the necessary details. The 
+business (cost) application must illustrate the entire period of performance, using the budget 
+format shown in the SF-424A. 
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed 
+necessary for the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 
+200.206. Applicants should not submit any additional information with their initial 
+application. 
+
+The Cost Application must contain the following sections (which are further elaborated 
+below this listing with the letters for each requirement): 
+
+ 
+
+ 
+
+
+D.5.1 Cover Page (See Section D.3.1 above for requirements) 
+
+ 
+
+D.5.2 SF 424 Form(s) 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard 
+Forms can be accessed electronically at www.grants.gov or using the following links: 
+
+Instructions for SF-424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-
+424-instructions.html 
+
+Application for Federal 
+Assistance (SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-
+family.html 
+
+Instructions for SF-
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-
+424a-instructions.html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-
+family.html 
+
+
+
+ 
+
+ 
+
+D.5.3 Required Certifications and Assurances 
+
+ 
+
+The applicant must complete the following documents and submit a signed copy upon 
+request by the AO: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+(2) Assurances for Non-Construction Programs (SF-424B) 
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+ 
+
+D.5.4 Budget and Budget Narrative 
+
+ 
+
+a) Funding Information 
+
+
+ 
+
+The estimated funding level spread across the 3 separate objectives of the Activity’s Total 
+Budget is as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Objective 
+
+Funding Proportion 
+
+Objective 1 
+
+30 % of overall budget 
+
+Objective 2 
+
+40 % of overall budget 
+
+Objective 3 
+
+20 % of overall budget 
+
+Cross-cutting 
+
+(Across all objectives) 
+
+10% of overall budget 
+
+TOTAL 
+
+100% 
+
+
+
+ 
+
+Applicants must indicate the proposed amount to be allocated to each objective in their 
+submitted Cost Applications accordingly. 
+
+ 
+
+b) The Budget must include the following worksheets or tabs, and contents, at a 
+minimum: 
+
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later 
+versions) with visible formulas and references and must be broken out by project year, 
+including itemization of the federal and non-federal (cost share) amount. Files must not 
+contain any hidden or otherwise inaccessible cells. Budgets with hidden cells lengthen the 
+cost analysis time required to make an award and may result in a rejection of the cost 
+application. 
+
+ 
+
+The Budget Narrative must contain sufficient detail to allow USAID to understand the 
+proposed costs. The applicant must ensure the budgeted costs address any additional 
+requirements identified in Section F, such as Branding and Marking. The exchange rate for 
+budget preparation is US$1 to R16.00. The Budget Narrative must be thorough, including 
+sources for costs to support USAID’s determination that the proposed costs are allocable, 
+allowable and reasonable. 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the applicant and any 
+potential sub-applicants for the entire period of the program. See Section H, Annex 1 for 
+Summary Budget Template 
+● Detailed Budget, including a breakdown by year, sufficient to allow the Agency to 
+determine that the costs represent a realistic and efficient use of funding to implement the 
+applicant’s program and are allowable in accordance with the cost principles found in 2 
+CFR 200 Subpart E. 
+● Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken out 
+by budget category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+Preparation of the Business (Cost) Application: 
+
+● The Business (Cost) Application must be submitted in Microsoft Excel. 
+
+
+
+● The Cost Schedule must include an Excel spreadsheet with all cells unlocked and no 
+hidden formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in 
+addition to the Excel version at the applicant’s discretion, however, the official cost 
+application submission is the unlocked Excel version. 
+● The estimated start date identified in section B of this NOFO must be used in the cost 
+application. 
+● The Business (Cost) Application must clearly indicate the proposed allocation of OVC 
+funds. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a 
+minimum: 
+
+ 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 
+
+
+Compensation - Personal Services. The applicant’s budget must include position title, salary 
+rate, level of effort, and salary escalation factors for each position. Allowances, when 
+proposed, must be broken down by specific type and by position. Applicants must explain 
+all assumptions in the Budget Narrative. The Budget Narrative must demonstrate that the 
+proposed compensation is reasonable for the services rendered and consistent with what is 
+paid for similar work in other activities of the applicant. Applicants must provide their 
+established written policies on personnel compensation. If the applicant’s written policies 
+do not address a specific element of compensation that is being proposed, the Budget 
+Narrative must describe the rationale used and supporting market research. 
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an 
+agency of the U.S. Government, the applicant must use such rate and provide evidence of its 
+approval. If an applicant does not have a fringe benefit rate approved, the applicant must 
+propose a rate and explain how the applicant determined the rate. In this case, the Budget 
+Narrative must include a detailed breakdown comprised of all items of fringe benefits (e.g., 
+superannuation, gratuity, etc.) and the costs of each, expressed in U.S. dollars and as a 
+percentage of salaries. 
+
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the 
+number of trips, the origin and destination, the number of individuals traveling, and the 
+duration of the trips. Per Diem and associated travel costs must be based on the applicant’s 
+normal travel policies. When appropriate please provide supporting documentation as an 
+attachment, such as company travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property 
+– Must include information on estimated types of equipment, models, supplies and the cost 
+per unit and quantity. The Budget Narrative must include the purpose of the equipment and 
+supplies and the basis for the estimates. The Budget Narrative must support the necessity of 
+any rental costs and reasonableness in light of such factors as: rental costs of comparable 
+property, if any; market conditions in the area; alternatives available; and the type, life 
+expectancy, condition, and value of the property leased. 
+
+
+ 
+
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to 
+any subrecipients. See 2 CFR 200 for assistance in determining whether the sub-tier entity is 
+a subrecipient or contractor. The subrecipient budgets must align with the same requirements 
+as the applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+6) Construction – Not applicable 
+
+
+ 
+
+7) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any 
+other miscellaneous costs which directly benefit the program proposed by the applicant. The 
+applicant should indicate the subject, venue and duration of any proposed conferences and 
+seminars, and their relationship to the objectives of the program, along with estimates of 
+costs. Otherwise, the narrative should be minimal. 
+
+
+ 
+
+8) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or 
+will charge all costs directly. In order to better understand indirect costs please see Subpart 
+E of 2 CFR 200. The application must identify which approach they are requesting and 
+provide the applicable supporting information. Below are the most commonly used Indirect 
+Cost Rate methods: 
+
+
+ 
+
+Method 1 - Direct Charge Only 
+
+Eligibility: Any applicant 
+
+Initial Application Requirements: See above on direct costs. 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+Eligibility: Any applicant with a NICRA issued by a USG Agency must use that NICRA 
+
+Initial Application Requirements: If the applicant has a current NICRA, submit your 
+approved NICRA and the associated disclosed practices. If your NICRA was issued by an 
+Agency other than USAID, provide the contact information for the approving Agency. 
+Additionally, at the Agency’s discretion, a provisional rate may be set forth in the award 
+subject to audit and finalization. See USAID’s Indirect Cost Rate Guide for Non Profit 
+Organizations for further guidance. 
+
+ 
+
+Method 3 - De minimis rate of 10% of modified total direct costs (MTDC) 
+
+Eligibility: Any applicant that does not have a current NICRA 
+
+Initial Application Requirements: Costs must be consistently charged as either indirect or 
+direct costs but may not be double charged or inconsistently charged as both. If chosen, this 
+methodology once elected must be used consistently for all Federal awards until such time 
+as a non-Federal entity chooses to negotiate an indirect rate, which the non-Federal entity 
+may apply to do at any time. The applicant must describe which cost elements it charges 
+indirectly vs. directly. See 2 CFR 200 for further information. 
+
+ 
+
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% de 
+minimis rate, the Agreement Officer will provide further instructions and may request 
+additional supporting information, including financial statements and audits, should the 
+
+
+application still be under consideration after the merit review. USAID is under no obligation 
+to approve the applicant’s requested method. 
+
+ 
+
+Cost Sharing – USAID has established a minimum required cost share of ten percent (10%) 
+of the Award’s projected value for the recipient of the award. The Applicant must propose 
+cost share resources to fulfill or exceed this requirement and estimate the amount of cost-
+sharing to be mobilized over the life of the agreement, as well as specify the sources of such 
+resources, and the basis of calculation in the budget narrative. USAID will make the final 
+determination and assess whether or not the Applicant's cost share contributions (e.g., 
+categories or items) meet the standards set in 2 CFR 200 (US Organizations) or Cost Share 
+Standard Provision (Non-US Organizations). 
+
+ 
+
+Other Supporting Documentation - If the Applicant has established a consortium or legal 
+relationship among its partners, the Cost/Business application must include a copy of the 
+legal relationship between the parties. 
+
+ 
+
+In the case of an application where the entity receiving the award is a joint venture, 
+partnership, or some other type of group where the proposed applicant is not a legal entity, 
+the Cost/Business Application must include a copy of the legal relationship between the 
+prime applicant and its partners. The application document should include a full discussion 
+of the relationship between the applicant and its partners, including identification of the 
+applicant with which USAID will directly engage for purposes of Agreement administration, 
+the identity of the applicant which will have accounting responsibility, how Agreement effort 
+will be allocated and the express Agreement of the principals thereof to be held jointly and 
+severally liable for the acts or omissions of the other. 
+
+ 
+
+The cost/business application must include letters of commitments from proposed partners 
+which state that the organization is committed to implementing the activities for which it is 
+being proposed and the proposed costs have been discussed. 
+
+ 
+
+The Applicant must submit a Negotiated Indirect Cost Rate Agreement (NICRA) if the 
+organization has such an agreement with an agency or department of the U.S. Government. 
+If the organization does not have a current NICRA, the Applicant may be requested to submit 
+the following: 
+
+ 
+
+Reviewed Financial Statements Report: a report issued by a Certified Public Accountant 
+(CPA) documenting the review of the financial statements was performed in accordance with 
+Statements on Standards for Accounting and Review Services; that management is 
+responsible for the preparation and fair presentation of the financial statements in accordance 
+with the applicable financial reporting framework and for designing, implementing, and 
+maintaining internal control relevant to the preparation. In addition, the applicant must state 
+that the organization/firm is not aware of any material modifications that should be made to 
+the financial statements; or 
+
+ 
+
+
+Audited Financial Statements Report: An auditor issues a report documenting the audit was 
+conducted in accordance with Generally Accepted Auditing Standards (GAAS), the financial 
+statements are the responsibility of management, provides an opinion that the financial 
+statements present fairly in all material respects the financial position of the company and 
+the results of operations are in conformity with the applicable financial reporting framework 
+(or issues a qualified opinion if the financial statements are not in conformity with the 
+applicable financial reporting framework. 
+
+ 
+
+D.6 Prior Approvals in accordance with 2 CFR 200.407 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of any 
+cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+D.7 Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the 
+time of award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+● Name of organization 
+● UEI Number 
+● Confirmation that the subrecipient does not appear on the Treasury Department’s Office 
+of Foreign Assets Control (OFAC) list 
+● Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+● Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+● Confirmation that the subrecipient is not suspended or debarred 
+● Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.332(b) 
+● Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+D.8 Unique Entity Identifier (UEI) and SAM Requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifier and System for Award Management (SAM) requirements. Each applicant (unless 
+the applicant is an individual or Federal awarding agency that is exempted from requirements under 
+2 CFR 25.110(b) or (c), or has an exception approved by the Federal awarding agency under 2 CFR 
+25.110(d)) is required to: 
+
+ 
+
+1. Provide a valid UEI number for the applicant and all proposed sub-recipients; 
+
+
+
+2. Be registered in SAM before submitting its application. SAM is streamlining processes, 
+eliminating the need to enter the same data multiple times, and consolidating hosting to make 
+the process of doing business with the government more efficient (www.sam.gov). 
+3. Continue to maintain an active SAM registration with current information at all times during 
+which it has an active Federal award or an application or plan under consideration by a federal 
+awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are encouraged 
+to begin the process early. If an applicant has not fully complied with the requirements above by 
+the time USAID is ready to make an award, USAID may determine that the applicant is not qualified 
+to receive an award and use that determination as a basis for making an award to another applicant. 
+
+ 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick Start 
+Guide and a video on how to obtain an NCAGE code, on www.sam.gov, navigate to Help, then to 
+International Registrants. 
+
+ 
+
+Additional information on working with USAID can be found on: https://www.usaid.gov/work-
+usaid. 
+
+ 
+
+D.9 History of Performance 
+
+ 
+
+USAID reserves the right to obtain relevant information concerning an applicant’s history of 
+performance from any sources and may consider such information in its review of the applicant’s 
+risk. The Agency may request additional information and conduct a pre-award survey if it 
+determines that it is necessary to inform the risk assessment. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206) and may determine that a pre-award survey 
+is required to inform the risk assessment in determining whether the prospective recipient has the 
+necessary organizational, experience, accounting and operational controls, financial resources, and 
+technical skills – or ability to obtain them – in order to achieve the objectives of the program and 
+comply with the terms and conditions of the award. Depending on the result of the risk assessment, 
+the AO will decide to execute the award, not execute the award, or award with “specific conditions” 
+(2 CFR 200.208). 
+
+ 
+
+D.10 Branding Strategy and Marking Plan 
+
+ 
+
+D.10.1 Branding and Marking 
+
+The Recipient must develop a Branding Strategy and Marking Plan (BMP) following the 
+branding guidelines as articulated in Automated Directive System Chapter 320 (ADS 320) 
+to ensure the program and publicity materials clearly communicate that assistance from the 
+U.S. Government is made possible by the generous support of the American people. The 
+Successful Recipient must agree to follow the Branding and Marking Policies established for 
+assistance awards under ADS Chapter 320. 
+
+
+ 
+
+It is a federal statutory and regulatory requirement (see Section 641, Foreign Assistance Act 
+of 1961, as amended, and 2 CFR 700.16) that all USAID programs, projects, activities, public 
+communications, and commodities that USAID partially or fully funds under a USAID grant 
+or cooperative agreement or other assistance award or subaward must be marked 
+appropriately overseas with the USAID identity. In addition, the successful applicant(s) will 
+be required to comply with USAID and PEPFAR policy on marking and branding. 
+
+ 
+
+USAID will request and evaluate a BMP from the apparently successful Applicant(s), except 
+in cases where an existing waiver applies; this evaluation will not be part of the competitive 
+evaluation set forth in this section. The successful applicant’s proposed BMP may include a 
+request for approval of one or more exceptions to marking requirements. The exceptions 
+must align with ADS 320 requirements for exceptions. The Agreement Officer is responsible 
+for evaluating and approving the Branding Strategy and a Marking Plan (including any 
+request for exceptions) of the apparently successful applicant(s), consistent with the 
+provisions ``Branding Strategy,” and USAID and PEPFAR policy on branding and marking, 
+in consultation with a Development Outreach and Communications specialist. Please note 
+that in contrast to “exceptions' ' to marking requirements, waivers based on circumstances in 
+the host country must be approved by Mission Directors or other USAID Principal Officers. 
+
+ 
+
+NGO applicants are required to comply with 2 CFR 700.16 and USAID Automated Directive 
+System (ADS) Chapter 320, Branding and Marking available at 
+https://www.usaid.gov/sites/default/files/documents/1868/320.pdf. 
+
+ 
+
+No award will be made without an USAID approved Branding Strategy and Marking Plan. 
+
+ 
+
+The following provisions apply under this Notice of Funding Opportunity (NOFO): 
+
+ 
+
+D.10.2 Branding Strategy – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, project, or activity is named and positioned, and how 
+it is promoted and communicated to beneficiaries and host country citizens. 
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers 
+no rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, in 
+the budget portion of the [Application/Proposal]. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement, or other assistance instrument. 
+
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+ 
+
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+plaques, stickers, banners, press events, materials, and so forth. 
+
+ 
+
+(2) The intended name of the program, project, or activity. 
+
+ 
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the USAID 
+logo and brand mark, with the tagline “from the American people” as found on the USAID 
+Web site at http://www.usaid.gov/branding, unless Section VI of the RFA or APS states that 
+the USAID Administrator has approved the use of an additional or substitute logo, seal, or 
+tagline. 
+
+ 
+
+(ii) USAID prefers local language translations of the phrase “made possible by (or with) the 
+generous support of the American People” next to the USAID Identity when acknowledging 
+contributions. 
+
+ 
+
+(iii) It is acceptable to cobrand the title with the USAID Identity and the applicant's identity. 
+
+ 
+
+(iv) If branding in the above manner is inappropriate or not possible, the applicant must 
+explain how USAID's involvement will be showcased during publicity for the program or 
+project. 
+
+ 
+
+(v) USAID prefers to fund projects that do not have a separate logo or identity that competes 
+with the USAID Identity. If there is a plan to develop a separate logo to consistently identify 
+this program, the applicant must attach a copy of the proposed logos. Section VI of the RFA 
+or APS will state if an Administrator approved the use of an additional or substitute logo, 
+seal, or tagline. 
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program to 
+beneficiaries. 
+
+ 
+
+(i) Describe the main program message. 
+
+ 
+
+(ii) Provide plans for training materials, posters, pamphlets, public service announcements, 
+billboards, Web sites, and so forth, as appropriate. 
+
+ 
+
+(iii) Provide any plans to announce and promote publicly this program or project to host 
+country citizens, such as media releases, press conferences, public events, and so forth. 
+Applicants must incorporate the USAID Identity and the message, “USAID is from the 
+American People.” 
+
+
+ 
+
+(iv) Provide any additional ideas to increase awareness that the American people support 
+this project or program. 
+
+ 
+
+(5) Information on any direct involvement from the host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials and 
+related materials. Indicate if they are a donor or why they will be visibly acknowledged, and 
+if they will receive the same prominence as USAID. 
+
+ 
+
+e. The Agreement Officer will review the Branding Strategy to ensure the above information 
+is adequately included and consistent with the stated objectives of the award, the applicant's 
+cost data submissions, and the performance plan. 
+
+ 
+
+f. If the applicant receives an assistance award, the Branding Strategy will be included in 
+and made part of the resulting grant or cooperative agreement 
+
+ 
+
+D.10.3 Marking Plan – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and other 
+items that will visibly bear the “USAID Identity,” which comprises of the USAID logo and 
+brand mark, with the tagline “from the American people.” The USAID Identity is the official 
+marking for the Agency and is found on the USAID Web site at 
+http://www.usaid.gov/branding. Section VI of the RFA or APS will state if an Administrator 
+approved the use of an additional or substitute logo, seal, or tagline. 
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, in 
+the budget portion of the [Application/Proposal]. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement or other assistance instrument. 
+
+ 
+
+e. The Marking Plan must include all of the following: 
+
+ 
+
+(1) A description of the public communications, commodities, and program materials that 
+the applicant plans to produce, and which will bear the USAID Identity as part of the award, 
+including: 
+
+
+ 
+
+(i) Program, project, or activity sites funded by USAID, including visible 
+infrastructure projects or other sites physical in nature; 
+
+ 
+
+(ii) Technical assistance, studies, reports, papers, publications, audio-visual 
+productions, public service announcements, web sites/Internet activities, 
+promotional, informational, media, or communications products funded by USAID; 
+
+ 
+
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, 
+including commodities or equipment provided under humanitarian assistance or 
+disaster relief programs; and 
+
+ 
+
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+
+ 
+
+(v) Events financed by USAID, such as training courses, conferences, seminars, 
+exhibitions, fairs, workshops, press conferences and other public activities. If the 
+USAID and Identity cannot be displayed, the [Contractor/Recipient] is encouraged 
+to otherwise acknowledge USAID and the support of the American people. 
+
+ 
+
+(2) A table on the program deliverables with the following details: 
+
+ 
+
+(i) The program deliverables that the applicant plans to mark with the USAID 
+Identity; 
+
+ 
+
+(ii) The type of marking and what materials the applicant will use to mark the 
+program deliverables; 
+
+ 
+
+(iii) When in the performance period the applicant will mark the program 
+deliverables, and where the applicant will place the marking; 
+
+ 
+
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+Identity, and 
+
+(v) The rationale for not marking program deliverables. 
+
+ 
+
+(3) Any requests for an exemption from USAID marking requirements, and an explanation 
+of why the exemption would apply. The applicant may request an exemption if USAID 
+marking requirements would: 
+
+ 
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials 
+where independence or neutrality is an inherent aspect of the program and materials. 
+The applicant must identify the USAID Development Objective, Interim Result, or 
+program goal furthered by an appearance of neutrality, or state why an aspect of the 
+award is presumptively neutral. Identify by category or deliverable item, examples 
+of material for which an exemption is sought. 
+
+
+ 
+
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. The applicant 
+must explain why each particular deliverable must be seen as credible. 
+
+ 
+
+(iii) Undercut host-country government “ownership” of constitutions, laws, 
+regulations, policies, studies, assessments, reports, publications, surveys or audits, 
+public service announcements, or other communications. The applicant must explain 
+why each particular item or product is better positioned as a host-country 
+government item or product. 
+
+ 
+
+(iv) Impair the functionality of an item. The applicant must explain how marking the 
+item or commodity would impair its functionality. 
+
+ 
+
+(v) Incur substantial costs or be impractical. The applicant must explain why 
+marking would not be cost beneficial or practical. 
+
+ 
+
+(vi) Offend local cultural or social norms or be considered inappropriate. The 
+applicant must identify the relevant norm and explain why marking would violate 
+that norm or otherwise be inappropriate. 
+
+ 
+
+(vii) Conflict with international law. The applicant must identify the applicable 
+international law violated by the marking. 
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness 
+and will approve or disapprove any exemption requests. The Marking Plan will be reviewed 
+to ensure the above information is adequately included and consistent with the stated 
+objectives of the award, the applicant's cost data submissions, and the performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions, will be included in and made part of the resulting grant or cooperative 
+agreement, and will apply for the term of the award unless provided otherwise. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+D.11 CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) – PRE-AWARD 
+Term (February 2012) 
+
+ 
+
+(a) An organization, including a faith-based organization, that is otherwise eligible to receive funds 
+under this agreement for HIV/AIDS prevention, treatment, or care— 
+
+1) Shall not be required, as a condition of receiving such assistance 
+
+ 
+
+(i) to endorse or utilize a multisectoral or comprehensive approach to combating HIV/AIDS; or 
+
+ 
+
+
+(ii) to endorse, utilize, make a referral to, become integrated with, or otherwise participate in any 
+program or activity to which the organization has a religious or moral objection; and 
+
+ 
+
+2) Shall not be discriminated against in the solicitation or issuance of grants, contracts, or 
+cooperative agreements for refusing to meet any requirement described in paragraph 
+
+ 
+
+(a)(1) above. 
+
+(b) An applicant who believes that this solicitation contains provisions or requirements that 
+would require it to endorse or use an approach or participate in an activity to which it has a 
+religious or moral objection must so notify the cognizant Agreement Officer in accordance 
+with the Mandatory Standard Provision titled “Notices” as soon as possible, and in any event 
+not later than 15 calendar days before the deadline for submission of applications under this 
+solicitation. The applicant must advise which activity(ies) it could not implement and the 
+nature of the religious or moral objection. 
+
+ 
+
+(c) In responding to the solicitation, an applicant with a religious or moral objection may 
+compete for any funding opportunity as a prime partner, or as a leader or member of a 
+consortium that comes together to compete for an award. 
+
+ 
+
+Alternatively, such applicant may limit its application to those activities it can undertake 
+and must indicate in its submission the activity(ies) it has excluded based on religious or 
+moral objection. The offeror’s proposal will be evaluated based on the activities for which 
+a proposal is submitted and will not be evaluated favorably or unfavorably due to the 
+absence of a proposal addressing the activity(ies) to which it objected and which it thus 
+omitted. In addition to the notification in paragraph 
+
+ 
+
+(b) above, the applicant must meet the submission date provided for in the solicitation. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+D.12 CONFLICT OF INTEREST PRE-AWARD TERM (August 2018) 
+
+ 
+
+a. Personal Conflict of Interest 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization or an 
+employee of the organization has a relationship with an Agency official involved in the competitive 
+award decision-making process that could affect that Agency official’s impartiality. The term 
+“conflict of interest” includes situations in which financial or other personal considerations may 
+compromise, or have the appearance of compromising, the obligations and duties of a USAID 
+employee or recipient employee. 
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits an SF-424. Should 
+the applicant discover a previously undisclosed conflict of interest after submitting the application, 
+the applicant must disclose the conflict of interest to the AO no later than ten (10) calendar days 
+following discovery. 
+
+ 
+
+
+b. Organizational Conflict of Interest 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are aware 
+of that may provide the applicant with an unfair competitive advantage in competing for this 
+financial assistance award. Examples of an unfair competitive advantage include but are not limited 
+to situations in which an applicant or the applicant’s employee gained access to non-public 
+information regarding a federal assistance funding opportunity, or an applicant or applicant’s 
+employee was substantially involved in the preparation of a federal assistance funding opportunity. 
+USAID will promptly take appropriate action upon receiving any such notification from the 
+applicant. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+D.13 FUNDING RESTRICTIONS 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the explicit 
+written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+ 
+
+[END OF SECTION D] 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+USAID intends to award a single Cooperative Agreement from this Notice of Funding Opportunity 
+(NOFO). However, USAID reserves the right to make more than one award or no award if 
+determined to be in the best interest of the Government. Each application submitted compliant with 
+the terms of this NOFO will be reviewed according to the process set forth below. USAID/South 
+Africa intends to evaluate the applications and award an agreement without discussions with the 
+Applicants. However, USAID reserves the right to conduct discussions if the latter is determined 
+by the Agreement Officer to be necessary. Therefore, the initial application will contain the 
+applicant’s best terms from a Technical and Cost/Price standpoint. 
+
+The Technical Application will be reviewed according to the following merit review criteria 
+
+ 
+
+E.1 MERIT REVIEW CRITERIA 
+
+ 
+
+The merit review criteria presented below have been tailored to the requirements of this particular 
+NOFO. Applicants should note that these criteria serve to: 
+
+(a) identify the significant matters which applicants should address in their applications; and 
+
+(b) set the standard against which all applications shall be evaluated. 
+
+To facilitate the review of application, the applicant must organize its application per the guidance 
+provided under Section D Application and Submission Information of the NOFO. 
+
+The criteria set forth below will be used by the Technical Review Committee to evaluate all 
+applications submitted in response to this NOFO. The criteria are listed in descending order of 
+importance: 
+
+ 
+
+ 
+
+Merit Review Criteria 
+
+1. Technical Approach 
+
+
+2. Management and Staffing Approach 
+
+
+3. Sustainability and Partnerships 
+
+
+
+
+ 
+
+ 
+
+
+E.2 REVIEW AND SELECTION PROCESS 
+
+ 
+
+As per ADS 303.3.6.3(a), USAID will appoint a Selection Committee (SC) to review the 
+application using the review criteria under NOFO Sections E.3 below. Further, per ADS 
+303.3.6.3(b), the appointed “committee members possess the requisite technical knowledge or 
+expertise to review the programmatic merits of the applications.” 
+
+Prior to negotiating an actual award, the Agreement Officer will review the apparently successful 
+applicant’s budget to ensure that costs, including cost sharing (if applicable), are in compliance 
+with USAID’s policies. The costs proposed must be determined to be reasonable, based on the Cost 
+Application and other information before award can be made. 
+
+Award will be made to the responsible applicant whose application is determined to be the best 
+based on technical and cost factors specified in this NOFO. The Agreement Officer must also 
+evaluate the risk of the apparently successful applicant and is charged with the final determination 
+of whether to make an award to the apparently successful applicant. 
+
+Authority to obligate the Government: The Agreement Officer is the only individual who may 
+legally commit the U.S. Government to the expenditure of public funds. No costs chargeable to the 
+proposed Agreement may be incurred before receipt of either an Agreement signed by the 
+Agreement Officer or a specific, written authorization from the Agreement Officer. 
+
+ 
+
+E.3 APPLICATION MERIT REVIEW 
+
+ 
+
+As per 303.3.6.3, USAID will conduct a merit review of the application submitted in response to 
+this NOFO. 
+
+Applications will be evaluated using an adjectival evaluation scale (exceptional, very good, 
+satisfactory, marginal, and unsatisfactory) as described in table below. 
+
+Ratings 
+
+Exceptional 
+
+An Exceptional application has the following characteristics: 
+
+● A comprehensive and thorough application of exceptional 
+merit 
+● Application meets and fully exceeds the Government 
+expectations or exceeds NOFO purpose and presents very 
+low risk or no overall degree of risk of unsuccessful 
+performance. 
+● Strengths significantly outweigh any weaknesses that may 
+exist. 
+
+
+Very Good 
+
+A Very Good application has the following characteristics: 
+
+● Demonstrates a strong grasp of the objectives. 
+● Application meets NOFO purpose and presents a moderate 
+overall degree of risk of unsuccessful project performance. 
+
+
+
+
+
+● Strengths significantly outweigh any weaknesses that may 
+exist. 
+
+
+Satisfactory 
+
+A Satisfactory application has the following characteristics: 
+
+● An application demonstrating a reasonably sound response 
+and a good grasp of the objectives. 
+● Application meets the NOFO purpose and presents a 
+moderate overall degree of risk of unsuccessful project 
+performance. 
+● Strengths outweigh weaknesses. 
+
+
+Marginal 
+
+A Marginal application has the following characteristics: 
+
+● The applications show a limited understanding of the 
+objectives. 
+● Application meets some of more of the NOFO purpose but 
+presents a significant overall degree of risk of unsuccessful 
+project performance. 
+● Weaknesses equal or outweigh any strength that exists. 
+
+
+Unsatisfactory 
+
+An Unsatisfactory application has the following characteristics: 
+
+● The application does not meet the NOFO purpose or requires 
+a major rewrite of the application. 
+● Presents an unacceptable degree of risk of unsuccessful 
+project performance. 
+● Weaknesses demonstrate a lack of understanding of the 
+Government’s needs. 
+● Weaknesses significantly outweigh any strength that exists. 
+
+
+
+
+ 
+
+The criteria set forth below will be used by the technical review committee to evaluate all 
+applications submitted in response to this NOFO. The criteria are listed in descending order of 
+importance: 
+
+ 
+
+1. Technical Approach 
+
+
+ 
+
+2. Management and Staffing Approach 
+
+
+ 
+
+3. Sustainability and Partnerships 
+
+
+ 
+
+
+E.3.1 CRITERIA 1 – TECHNICAL APPROACH 
+
+USAID will evaluate the extent to which the proposed technical approach, the draft work plan, and 
+MEL plan demonstrate interventions and tasks that will achieve the stated outcomes and objectives 
+in Section A. 
+
+E.3.2 CRITERIA 2 – MANAGEMENT AND STAFFING APPROACH 
+
+The Applicant will be evaluated on the quality of the management plan, how well the 
+appropriateness of the staffing and management approach (including the key personnel and 
+organizational chart) will support successful implementation of the Activity in the KwaZulu-Natal 
+province. 
+
+E.3.3 CRITERIA 3 – SUSTAINABILITY AND PARTNERSHIPS 
+
+ 
+
+The applicant will be evaluated on the extent to which: the application addresses the requirements 
+listed in the NOFO, the sustainability and partnerships approach will support successful 
+implementation of the Activity, the viability of the sustainability plan to establish lasting 
+partnerships which will continue to support the Activity efforts in the KwaZulu-Natal province 
+once the activity has formally ended. 
+
+ 
+
+E.3.4 BUSINESS (COST) REVIEW 
+
+The Agency will evaluate the cost application of the Applicant(s) under consideration for an award 
+as a result of the merit criteria review to determine whether the costs are allowable in accordance 
+with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+While cost is not weighted, the cost application of the apparently successful technical application 
+will be evaluated for cost effectiveness. It will be reviewed to determine based on fairness, cost 
+realism, completeness, and reasonableness whether they are fair, allowable, allocable, and realistic 
+for the proposed technical application. Other considerations are the completeness of the application, 
+adequacy of budget detail and consistency with elements of the technical application. In addition, 
+the organization must demonstrate adequate financial management capability, to be measured for a 
+responsibility determination. 
+
+The Agency will also consider (1) the extent of the Applicant's understanding of the financial 
+aspects of the program and the Applicant's ability to perform the activities within the amount 
+requested; (2) whether the Applicant's plans will achieve the Activity objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be included 
+in the award. USAID reserves the right to determine the resulting level of funding selected for 
+award. Cost evaluation will ONLY be conducted for the apparently successful applicant(s). 
+
+ 
+
+Proposed cost share will be reviewed for compliance with the standards set forth in 2 CFR 200.306, 
+2 CFR 700.10, and the Standard Provision "Cost Share" for non-U.S. entities. 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a pre-award 
+survey is required to support the risk assessment in determining whether the prospective recipient 
+
+
+has the necessary organizational, experience, accounting and operational controls, financial 
+resources, and technical skills – or ability to obtain them – in order to achieve the objectives of the 
+program and comply with the terms and conditions of the award. Depending on the result of the 
+risk assessment, the AO will decide to execute the award, not execute the award, or award with 
+“specific conditions” (2 CFR 200.208). 
+
+ 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1 Federal Award Notices 
+
+ 
+
+The Agreement Officer is the only individual authorized to commit the U.S. Government to the 
+expenditure of public funds. The Agreement Officer will notify successful applicant(s) of its 
+selection for an award or a cooperative agreement(s). USAID will provide this notification 
+electronically to the person designated to receive this information in the application. Notification 
+will also be made electronically to unsuccessful applicants. 
+
+ 
+
+Award of the agreement contemplated by this Notice of Funding Opportunity (NOFO) cannot be 
+made until funds have been appropriated, allocated and committed through internal USAID 
+procedures. While USAID anticipates that these procedures will be successfully completed, 
+potential applicants are hereby notified of these requirements and conditions for the award. The 
+Agreement Officer is the only individual who may legally commit the Government to the 
+expenditure of public funds. No costs chargeable to the proposed Agreement may be incurred before 
+receipt of either a fully executed Agreement or a specific, written authorization from the Agreement 
+Officer. 
+
+ 
+
+F.2 Administrative and National Policy Requirements 
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations. 
+
+ 
+
+For Non-U.S. organizations: Standard Provisions for Non-U.S. Non-governmental Organizations 
+
+For U.S. organizations (as sub-recipients): ADS 303, 2 CFR 700, 2 CFR 200, and Standard 
+Provisions for U.S. Non-governmental organizations. 
+
+ 
+
+No deviations are anticipated to the standard provisions for the cooperative agreement(s) under this 
+NOFO. All applicable standard provisions shall be incorporated into the resultant award(s). 
+
+F.3 Reporting Requirements 
+
+ 
+
+The following reports and related requirements will be included in the Cooperative Agreement(s) 
+issued as a result of this NOFO. Applicants are reminded to budget prudent and adequate resources 
+for completing the required reporting. All reports shall be in the English language, unless otherwise 
+specified by the Agreement Officer Representative (AOR). Submissions will be required 
+electronically. It is not necessary to submit any of these documents with the application, but 
+submission will be required under any resultant cooperative agreement(s). 
+
+ 
+
+The reporting formats, a detailed timeline (frequency of reporting), and instructions for the 
+Monitoring, Evaluation and Learning (MEL) Plan, Annual Work Plan, progress reports, success 
+
+
+stories and any other USAID and PEPFAR related reporting requirements will be provided to the 
+Recipient upon award. 
+
+ 
+
+Additionally, the Recipient will be expected to meet regularly (via phone, email or in person) with 
+the AOR or his/her designee to review the status of activities, and should be prepared to make 
+periodic, unplanned verbal and written briefings to USAID as appropriate. 
+
+ 
+
+F.3.1 Financial Reporting 
+
+Financial reporting requirements will be in accordance with the Standard Provisions for Non-
+U.S. organizations. The recipient must submit an electronic version of the SF 425 Financial 
+Report to the Agreement Officer’s Representative (AOR) on a quarterly basis. Electronic copies 
+of the SF-425 can be found at: https://www.whitehouse.gov/omb/grants_forms 
+
+ 
+
+In addition, the Recipient must submit quarterly financial reports to USAID/SA within 30 days 
+after the end of each quarter of the fiscal year during the performance period. Copies of all 
+required financial reports will be submitted to the USAID/Southern Africa Agreement Officer’s 
+Representative (AOR). 
+
+ 
+
+F.3.1.1 Quarterly Financial Reports 
+
+ The Quarterly Financial Reports shall be based on the three-month periods: 
+
+ 
+
+Quarter 1: October 1-December 31 
+
+Quarter 2: January 1-March 31 
+
+Quarter 3: April 1-June 30 
+
+Quarter 4: July 1-September 30 
+
+ 
+
+The time frame covered by the first quarterly report will be determined by USAID/SA based 
+on the contract award date. All subsequent reports will adhere to the three-month time frames 
+listed above. The first quarterly financial report may not have a full quarter of financial 
+expenditures due to the actual award date. All subsequent quarterly financial reports should 
+reflect a full three months of expenditures and other related financial data. 
+
+ 
+
+The report format will be provided by USAID/SA upon award. The report will contain at a 
+minimum the following information: 
+
+● Total funds committed to date by USAID; 
+● Total funds disbursed to the Recipient to date (including a breakdown by the budget 
+categories listed in the award); 
+● Total funds vouchered but not yet disbursed; 
+● Total funds expended but not yet vouchered (accrual amount); 
+● Pipeline amount (committed funds minus expended funds); 
+● Anticipated expenditure rate for the upcoming quarter; 
+● Anticipated number of months of operation with current pipeline; and 
+● Budget estimate for the upcoming quarter. 
+
+
+ 
+
+If the Activity is funded by multiple funding sources that require separate financial reporting, 
+
+
+The AOR will provide additional instructions on how to report on these funding sources. 
+
+ 
+
+F.3.2 Performance Reporting 
+
+The estimated period of performance of the Activity is five years starting from the date of award. 
+
+ 
+
+The implementation of the Activity will follow the annual implementation cycle of October 1 
+through to September 30. The first-year implementation time frame may differ depending upon 
+the actual award date. 
+
+ 
+
+The following are the required reports. USAID may at any time during the agreement 
+performance period add additional reporting requirements within reason that serve the purpose 
+of Activity oversight, administration, and results reporting. 
+
+ 
+
+No 
+
+Reporting Requirement 
+
+Submission Date 
+
+Approver 
+
+1. 
+
+Annual Work Plan and MEL 
+Plan 
+
+Final First Year Work Plan and MEL 
+Plan will be due within 30 days of 
+award date, and they will cover the 
+time period from award date through 
+to the following September 30. 
+
+Subsequent annual work plans and 
+updated MEL plans shall be submitted 
+as follows: 
+
+May 15 - Draft Annual Work Plan and 
+updated MEL Plan for the upcoming 
+period from October 1 to September 
+30 submitted for review and comment. 
+
+July 30 - Final Work Plan and MEL 
+Plan submitted for the upcoming 
+period October 1 through September 
+30. 
+
+A template for the annual work plan 
+and MEL plan will be provided by the 
+AOR. 
+
+All indicators and targets (MER and 
+non-MER) will be determined in 
+consultation with the AOR. 
+
+AOR 
+
+2 
+
+Quarters 1, 2 and 3 
+Performance Reports 
+
+Due 30 days after the end of each 
+quarter (January 31, April 30, and July 
+31). The due date of the first quarterly 
+report will be determined by USAID 
+
+AOR 
+
+
+
+
+based on the award date. 
+
+A template for the quarterly 
+performance reports will be provided 
+by the AOR and will include a 
+narrative report, a PowerPoint 
+presentation for a Joint PEPFAR 
+Program Review, and a minimum of 3 
+success stories/ best practices. 
+
+3 
+
+Monitoring, Evaluation and 
+Learning (MEL) plan 
+
+Due 30 days after the award date 
+
+AOR 
+
+4 
+
+Monthly and Quarterly 
+reporting of Performance 
+Indicators in USAID and 
+PEPFAR information systems 
+
+Detailed instructions will be provided 
+by the AOR, if applicable, for monthly 
+and quarterly PEPFAR performance 
+reporting. 
+
+AOR 
+
+5 
+
+Environmental Mitigation 
+Monitoring Plan (EEMP) & 
+Environmental Mitigation 
+Monitoring Report (EMMR) 
+
+EMMP due as an attachment to the 
+Annual Work Plan; EMMR due as an 
+attachment to the Annual Report 
+
+A template and detailed instructions 
+will be provided by the AOR in 
+consultation with the USAID Mission 
+Environment Officer (MEO) 
+
+AOR, MEO 
+
+6 
+
+Quarterly Financial Reports 
+
+Due 30 days after the end of each 
+quarter (October 31, January 31, April 
+30, and July 31). 
+
+A template and detailed instructions 
+will be provided by the AOR. 
+
+ 
+
+AOR 
+
+7 
+
+Annual Performance Report 
+
+Due annually by October 31. 
+
+This will include Quarter 4 
+performance results and annual 
+performance and results. 
+
+A template for the annual performance 
+report will be provided by the AOR. 
+
+AOR 
+
+8 
+
+Branding Strategy and Marking 
+Plans 
+
+Due within 60 days of the award date. 
+Updates to be completed whenever 
+there are revisions to guidelines. 
+
+AO 
+
+
+
+
+9 
+
+Annual Report on Non-
+Expendable Property 
+
+Due annually by October 31. 
+
+AOR 
+
+10 
+
+Disposition of Assets and 
+Closeout Plan 
+
+Due 120 days before the end date of 
+the contract. 
+
+AO 
+
+11 
+
+Final Report 
+
+Due 30 days after the end date of the 
+agreement. 
+
+A template for the final report will be 
+provided by the AOR. 
+
+AOR 
+
+12 
+
+Ad Hoc Reports 
+
+TBD 
+
+AOR 
+
+13 
+
+Memorandum of 
+Understanding(s), as applicable 
+
+Due 60 days after the award date. 
+
+AOR 
+
+14 
+
+Submission to the 
+Development Experience 
+Clearinghouse (DEC) 
+
+As required 
+
+AOR 
+
+
+
+ 
+
+F.3.3. Annual Work Plan, Monitoring, Evaluation and Learning (MEL) Plan and 
+Performance Indicators 
+
+ 
+
+F.3.3.1. Annual Work Plan 
+
+USAID will provide a specific format for the Annual Work Plan. The Annual Work 
+Plan will detail the interventions and technical support to be completed during the 
+upcoming annual performance period and will include Activity Location Data in a 
+format prescribed by USAID. 
+
+The first year Work Plan which is requested to be submitted with the Technical 
+Application should include the 60-day mobilization plan which details tasks related 
+to mobilizing program management and operations (i.e., establishing headquarters, 
+hiring of staff, and operationalizing service delivery systems and service delivery 
+partners (as required) under the award). 
+
+ 
+
+F.3.3.2. Monitoring, Evaluation and Learning (MEL) Plan and 
+Performance Indicators 
+
+The Recipient will establish a rigorous performance monitoring and results reporting 
+system to monitor performance and measure quantifiable results demonstrating the 
+achievement of the Activity results and expected outcomes. This includes 
+establishing information systems for routine data collection and analytics and 
+developing a comprehensive set of input, output and outcome indicators to 
+adequately measure performance. 
+
+
+The Recipient will be responsible for all aspects of data collection, analysis, and 
+performance reporting per USAID’s quarterly and annual results reporting cycles. 
+The Recipient will be expected to conduct routine data quality assessments in 
+collaboration with USAID and take corrective actions as needed to improve data 
+quality. Data will be used to evaluate performance, drive decisions, guide course 
+corrections as needed, and determine future funding. 
+
+A template for the MEL Plan will be provided by the AOR. 
+
+If PEPFAR indicators are to be used due to the Activity being funded wholly or 
+partially by PEPFAR funding, PEPFAR indicators will be included in the MEL and 
+used to measure and report on performance. In addition, non-PEPFAR indicators 
+will be used to measure performance against each Intermediate Result. A complete 
+list of the indicators used by PEPFAR will be provided. PEPFAR indicators can also 
+be found in PEPFAR’s Monitoring Evaluation and Reporting (MER) Indicators 
+Reference Guide at www.pepfar.gov. The Recipient will work closely with USAID 
+to finalize indicators and set performance targets. Data will be used to evaluate the 
+Recipient’s performance, drive decisions, guide course corrections as needed, and 
+determine future funding. 
+
+ 
+
+F.3.3.3. Quarterly Performance Report 
+
+The Quarterly Performance Report shall be based on the three-month periods: 
+
+ 
+
+Quarter 1: October 1-December 31 
+
+Quarter 2: January 1-March 31 
+
+Quarter 3: April 1-June 30 
+
+Note: Quarter 4- July 1-September 30 performance and results will be included in 
+the Annual Performance Report. 
+
+The time frame of the first quarterly report and its respective due date will be 
+determined by USAID/SA based on the actual contract award date. All subsequent 
+reports will adhere to the three-month period time frame as listed above. The report 
+format will be provided by USAID/SA upon award of the contract. Quarterly reports 
+will include subsections for the province (and by district) and interventions 
+implemented and results achieved to date. The quarterly report is meant to be short, 
+to the point, but informative, providing a comprehensive summary of the 
+implementation of the Activity and results achieved in the prior quarter. Changes to 
+the quarterly report format and content may be made throughout the life of the 
+agreement to ensure its utility but only with formal approval by the AOR. Each 
+quarterly report will include at least three (3) one-page success stories with pictures 
+or best practices. 
+
+In some cases, the quarterly reporting may need to include a separate section and 
+process to report on results achieved for a specific area of technical support or 
+interventions implemented, such as COVID-19 emergency funding, Global Health 
+
+
+Security Funding or other related funding to address specific public health issues of 
+immediate concern for USAID. The AOR will provide further reporting instructions 
+in these cases. 
+
+ 
+
+F.3.3.4. Monthly and quarterly reporting of performance Indicators into 
+USAID and PEPFAR systems 
+
+For monthly performance indicators that will be reported into USAID data systems, 
+USAID will provide instructions. If PEPFAR indicators are to be reported on, the 
+Recipient will report into the PEPFAR electronic data collection system on results 
+achieved towards the annual targets of the required PEPFAR indicators. The AOR 
+will provide instructions. 
+
+ 
+
+F.3.4 Environmental Compliance, Environmental Mitigation Monitoring Plan 
+(EMMP) and Environmental Mitigation Monitoring Report (EMMR) 
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered, and that USAID include environmental 
+sustainability as a central consideration in designing and carrying out its development 
+programs. This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s 
+Automated Directives System (ADS) Parts 201.5.10g and 204 
+(http://www.usaid.gov/policy/ADS/200/), which, in part, require that the potential 
+environmental impacts of USAID-financed activities be identified prior to a final decision to 
+proceed and that appropriate environmental safeguards are adopted for all activities. Recipient 
+environmental compliance obligations under these regulations and procedures are specified in 
+the following paragraphs of this NOFO. 
+
+No activity funded under this Cooperative Agreement will be implemented unless an 
+environmental threshold determination, as defined by 22 CFR 216, has been reached for that 
+activity, as documented in a Request for Categorical Exclusion (RCE), Initial Environmental 
+Examination (IEE), or Environmental Assessment (EA) duly signed by the Bureau 
+Environmental Officer (BEO). (Hereinafter, such documents are described as “approved 
+Regulation 216 environmental documentation.”) 
+
+An Initial Environmental Examination (IEE) has been approved for the project funding this 
+RFA and for activities to be undertaken herein. The IEE contains a Negative Determination 
+for the proposed activities per 22 CFR 216.3(a)(7)(iv). 
+
+Environmental Mitigation and Monitoring Plans (EMMPs) are required for USAID-funded 
+activities when the 22 CFR 216 documentation governing the activity (e.g., the Initial 
+Environmental Examination (IEE)) imposes mitigation measures related to an intervention(s) 
+to be implemented under the Activity. EMMPs ensure that the USAID ADS 204.3 
+requirements for incorporating and monitoring appropriate mitigative measures into project 
+or activity design. The Recipient will prepare an EMMP and submit it with the first annual 
+work plan. Annually, thereafter, the Recipient will update the EMMP and submit it with each 
+subsequent annual work plan in collaboration with the USAID Cognizant Technical Officer 
+
+
+and Mission Environmental Officer (MEO), as appropriate, shall review all ongoing and 
+planned activities under the resulting cooperative agreement to determine if they are within 
+the scope of the approved Regulation 216 environmental documentations. A template will be 
+provided by USAID/SA. 
+
+Environmental Mitigation and Monitoring Reports (EMMRs) are required for USAID-funded 
+activities when the 22 CFR 216 documentation governing the activity impose conditions on 
+at least one intervention implemented under the activity. EMMRs ensure that the ADS 204.3.3 
+requirements for reporting on environmental compliance are met. The Recipient will complete 
+an EMMR annually, submitting it with the annual performance report. A template will be 
+provided by USAID. 
+
+ 
+
+If the Recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for 
+USAID review and approval. No such new activities shall be undertaken prior to receiving 
+written USAID approval of environmental documentation amendments. 
+
+ 
+
+Any ongoing activities found to be outside the scope of the approved Regulation 216 
+environmental documentation shall be halted until an amendment to the documentation is 
+submitted and written approval is received from USAID. 
+
+ 
+
+F.3.5 Annual Performance Report 
+
+ 
+
+The Annual Report will be a comprehensive summary of the performance and results achieved 
+for the annual reporting period divided by province and district. The AOR will provide a 
+format and more details on the content for the annual performance report within three months 
+prior to the end of the annual reporting period. 
+
+ 
+
+F.3.6 Program Income 
+
+ 
+
+If program income is anticipated to be generated under the award, income earned during the 
+Activity’s period of performance must be added to the total program amount and used to 
+further eligible objectives for the Activity. If program income is applicable under this 
+Activity, it will be implemented in accordance with the standard provision RAA16. Program 
+Income (AUGUST 2020). 
+
+ 
+
+F.3.7 Branding Strategy and Marking Plan (BMP) 
+
+ 
+
+The Recipient will submit a Branding Strategy and Marking Plan within 30 days of the 
+award. 
+
+ 
+
+F.3.8 Annual Report on Non-Expendable Property 
+
+ 
+
+The Recipient will provide an Annual Report on Non-Expendable Property on the last 
+
+
+working day of October in accordance with ADS 303. The report must contain an updated 
+list of equipment purchased with USAID funds to include description, quantity, unit price, 
+total price, acquisition date, location, and condition of each item. 
+
+ 
+
+F.3.9 Disposition of Assets and Closeout Plan 
+
+ 
+
+Close-out and disposition plan in accordance with 2 CFR 200.343 and 2 CFR 200.313 will be 
+submitted six months before the activity end date for USAID approval. The Disposition of 
+Assets and Closeout Plan must include, at a minimum, an illustrative property disposition plan 
+addressing all requirements under the award and local law for the transfer of property; a plan 
+for the phase out of in-country operations; a delivery schedule for all reports or other 
+deliverables required under the award; a timeline for all required audits after closeout of the 
+award; and a timeline for completing all required actions in the Disposition of Assets and 
+Closeout Plan. 
+
+ 
+
+F.3.10 Final Report 
+
+ 
+
+The Final Report must include no less than the following information. The AOR will provide 
+a format and more details on the content for the final report six months prior to the end of 
+the agreement. 
+
+ 
+
+a. Summary of results achieved by geographic target area. 
+
+
+
+
+ 
+
+b. Summary of transition of interventions to stakeholders and Government of South 
+Africa counterparts to promote sustainability. 
+
+
+
+
+ 
+
+F.3.11 Ad Hoc Reports 
+
+ 
+
+Ad Hoc Reporting may be required, as necessary during the activity implementation. Specific 
+instructions will be shared in the resulting award. 
+
+ 
+
+F.4 Memorandum of Understandings (MOUs) 
+
+ 
+
+The MOU(s) articulates partnership principles and strategic objectives and capitalizes on the 
+commonalities between objectives and approaches to establish a basis for ongoing dialogue and 
+cooperation between the USAID implementing partner and the GoSA entity (i.e., Provincial 
+Department of Health). As identified and as needed, the Recipient will establish an MOU(s) with 
+GoSA entities, as agreed upon in collaboration with USAID/SA. The Recipient will not establish 
+an MOU(s) without USAID’s involvement and collaboration. 
+
+ 
+
+ 
+
+ 
+
+
+F.5 Development Experience Clearinghouse Requirements 
+
+ 
+
+The Recipient must submit reports in accordance with Mandatory Standard Provision M.8 
+Submissions to the Development Experience Clearinghouse and Data Rights (JUNE 2012). 
+Specific instructions will be shared in the resulting award. 
+
+ 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION G: FEDERAL AWARD AGENCY CONTACT(S) 
+
+ 
+
+G.1 USAID/Southern Africa Contacts for this NOFO and for the award are as follows: 
+
+ 
+
+Regional Office of Acquisition and Assistance of USAID/Southern Africa (ROAA, 
+USAID/Southern Africa) 
+
+ 
+
+G.2 Acquisition and Assistance Ombudsman 
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all organizations 
+who are doing or wish to do business with USAID. 
+
+ 
+
+Please visit this page for additional information: 
+
+ 
+
+https://www.usaid.gov/work-usaid/acquisition-assistance-ombudsman 
+
+ 
+
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement Officer 
+is the only individual who may legally commit the Government to the expenditure of public 
+funds. Any award and subsequent incremental funding will be subject to the availability of funds 
+and continued relevance to Agency programming. 
+
+H.1 Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. Government except for evaluation purpose, should mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, an award 
+is made as a result of – or in connection with – the submission of this data, the U.S. Government 
+will have the right to duplicate, use, or disclose the data to the extent provided in the resulting 
+award. This restriction does not limit the U.S. Government’s right to use information contained 
+in this data if it is obtained from another source without restriction. The data subject to this 
+restriction are contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of 
+this application.” 
+
+H.2 M29. Prohibition on Certain Telecommunication and Video Surveillance Services or 
+Equipment (July 2022) 
+
+ 
+
+a. In accordance with the cost principles in 2 CFR § 200.471, obligating or expending costs 
+for covered telecommunications and video surveillance services or equipment or services 
+as described in 2 CFR 200.216 are unallowable. Recipients and subrecipients are 
+prohibited from using award funds, including direct and indirect costs, cost share and 
+program income, for such covered telecommunications and video surveillance services or 
+equipment. 
+
+
+ 
+
+This provision implements temporary waivers granted to USAID under Section 889(d)(2) 
+that allow the recipient to use award funds for: 
+
+ 
+
+(1) All costs for covered telecommunications and video surveillance services or 
+equipment incurred through September 30, 2022; and 
+
+ 
+
+(2) Costs for covered telecommunications and video surveillance services or 
+equipment incurred on or after October 1, 2022, through September 30, 2028, only 
+
+
+if the recipient has determined that there is no available alternate eligible source 
+for the covered telecommunications and video surveillance services or equipment. 
+
+ 
+
+b. After September 30, 2028, in accordance with 2 CFR § 200.471 costs of all covered 
+telecommunications and video surveillance services or equipment as specified in 2 CFR § 
+200.216 will be unallowable. 
+
+
+ 
+
+c. The Recipient must include this provision in all subawards, and contracts issued under this 
+award. 
+
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+H.3 Key Documents and Annexes 
+
+ 
+
+Annex A: South Africa National Current Statistics and Epidemiology 
+
+Annex B: USG Response 
+
+Annex C: Activity Results Framework 
+
+Annex D: Abbreviations and Acronyms 
+
+Annex E: Initial Environmental Examination (IEE) 
+
+Annex F: Summary Budget Template 
+
+Annex G: Standard Provisions for Non-U.S. Non-Governmental Organizations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+KEY DOCUMENTS AND ANNEXES 
+
+ANNEX A: SOUTH AFRICA NATIONAL CURRENT STATISTICS AND 
+EPIDEMIOLOGY 
+
+South Africa is an upper-middle income country, with many cultures, languages, ethnic groups, and 
+religions. In 2021, the population was estimated at 59.6 million, of which approximately 51% (30 
+million) were female.35 Life expectancy at birth was estimated to be 67.7 years for females (72.7 
+without HIV/AIDS) and 61.5 years for males (65.6 without HIV/AIDS).36 The infant mortality rate 
+was estimated at 22.1 per 1,000 live births.37 
+
+35 Statistics South Africa (StatsSA). 2021. Mid-year population estimates, 2020 Statistical Release P0302. Statistics South Africa: 
+Pretoria. Accessed Jan 20,2021 at http://www.statssa.gov.za/publications/P0302/P03022020.pdf 
+
+36 Ibid. 
+
+37 Ibid. 
+
+38 Thembisa 4.5 2022 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and 
+Davies MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling 
+study. PLoS Medicine. 14(12): e1002468. 
+
+39 Ibid. 
+
+40 Thembisa 4.5 2021 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and 
+Davies MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling 
+study. PLoS Medicine. 14(12): e1002468. 
+
+41 Thembisa 4.5 2022 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and 
+Davies MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modeling 
+study. PLoS Medicine. 14(12): e1002468. 
+
+42 Ibid. 
+
+43 Thembisa 4.5-calibrated Naomi September 2021 model for district-level cascades as described in: Eaton J, et al. 2021. Naomi: a 
+new modeling tool for estimating HIV epidemic indicators at the district level in sub-Saharan Africa. Journal of the International AIDS 
+Society 2021, 24(S5):e25788 
+
+South Africa has the largest HIV epidemic in the world, with an estimated nearly 8 million people 
+living with HIV (PLHIV).38 Adult (15-49) HIV prevalence is 18.9%; among women aged 15-49, it 
+is 25.0%.39 While incidence is declining each year, the HIV burden in South Africa continues to 
+grow. Nationally, there are approximately 198,311 new HIV infections estimated to occur between 
+mid-2021 to mid-2022 with women over 15 accounting for 62.7% of all new HIV infections.40 
+
+Of the 95-95-95 targets, South Africa has achieved 94-75-92.41 The second 95–the proportion of 
+PLHIV who are taking antiretroviral therapy (ART)–remains a critical gap. Just 5.6 million people 
+are currently taking ART.42 This gap is evident within the 27 high HIV burden districts currently 
+supported by the President’s Emergency Plan for AIDS Relief (PEPFAR). While all PEPFAR-
+supported districts have achieved over 90% toward the first 95, none have achieved 90% toward 
+the second 95.43 As we get closer to HIV epidemic control, South Africa will need to continue to 
+simplify services for clients, including decentralized service delivery and multi-month dispensing 
+(MMD) of ARVs and other medications. This will allow for more attention and resources to be 
+
+
+given to a much smaller proportion of clients that may not yet be virally suppressed, and to increase 
+the numbers of those on ART. 
+
+“Know your epidemic” and offering differentiated modalities for care remain important guiding 
+principles to address gaps in the clinical cascade.44 Linkage to care and viral load suppression are 
+particularly challenging for school-aged children and young adults. Men and key populations face 
+challenges in accessing care that recognizes their special circumstances and needs. Women aged 
+25-49, who comprise 45.1% of PLHIV, also require tailored responses to ensure acceptable options 
+and equitable access to care.45 
+
+44 Willson and Halperin. “Know your epidemic, know your response”: a useful approach, if we get it right. The Lancet. 2008; 
+372(9637): 423-426. https://doi.org/10.1016/S0140-6736(08)60883-1 
+
+45 Thembisa 4.5 2022 model outputs as described in: Johnson LF, May MT, Dorrington RE, Cornell M, Boulle A, Egger M and Davies 
+MA. (2017) Estimating the impact of antiretroviral treatment on adult mortality trends in South Africa: a mathematical modelling study. 
+PLoS Medicine. 14(12): e1002468. 
+
+46 UNAIDS. 2020. See above. 
+
+47 World Health Organization. 2021. Tuberculosis. Available at https://www.who.int/news-room/fact-sheets/detail/tuberculosis 
+
+48 SA NICD. 2021. National TB prevalence Survey 2018. Available at https://www.nicd.ac.za/wp-content/uploads/2021/02/TB-
+Prevalence-survey-report_A4_SA_TPS-Short_Feb-2021.pdf 
+
+49 Ibid. 
+
+50 Ibid. 
+
+ 
+
+Prevention of HIV infection for all at risk populations will be key to epidemic control in the future. 
+Prevention of mother-to-child-transmission (PMTCT) has been very successful in South Africa and 
+must be sustained. Biomedical options, such as pre-exposure prophylaxis (PrEP), and outreach to 
+communities to address HIV risk will remain critical. 
+
+ 
+
+Although successes with HIV treatment are extending the lives of PLHIV, South Africa still has a 
+large burden of children orphaned due to HIV/AIDS. UNAIDS estimates that 1.6 million children 
+are living without one or both parents as a result of the disease.46 These children face multiple and 
+compounding risks such as poverty, hunger, and violence, all of which increase vulnerability to 
+HIV infection in addition to social, emotional and associated challenges. 
+
+ 
+
+TB is another persistent public health challenge in South Africa. The country is one of 30 high-
+burden countries globally, and among the eight countries that contribute nearly 90% of all TB cases 
+annually.47 South Africa alone accounts for 3% of global TB cases annually. In fact, South Africa’s 
+rate of new TB infections is the highest in the world, after adjusting for population size. South 
+Africa is also among the 14 countries with the highest burden of multidrug resistant TB (MDR-TB) 
+and TB and HIV comorbidity globally.48 Co-infection among people living with HIV in 2019 was 
+measured at 59%.49 South Africa’s first National TB Prevalence Survey indicates that TB 
+prevalence (including all TB forms) nationally was 737 per 100,000 in 2018.50 Poor living 
+conditions and late presentation to health facilities are key drivers of the TB burden. 
+
+
+While contending with significant HIV and TB needs locally, South Africa carries the greatest 
+burden of COVID-19 in all of Africa, with over 4 million cases and 101,982 deaths (as of 5 August 
+2022).51 New and emerging acute infectious disease outbreaks, such as SARS-CoV-2, threaten 
+South Africa’s progress in the control of infectious diseases including TB and HIV. The SARS-
+CoV-2 pandemic has had devastating impacts on the economy and public finances, with impacts 
+echoing through the health sector, underscoring the need for a strong and resilient health system 
+and global health security. 
+
+51 WHO. WHO Coronavirus (COVID-19) Dashboard. Accessed 5 August 2022. Available at https://covid19.who.int/ 
+
+ 
+
+ 
+
+ 
+
+[END OF ANNEX A] 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX B: USG RESPONSE 
+
+HIV/AIDS Epidemic Control 
+
+HIV is a key focus of all PEPFAR activities. In South Africa, PEPFAR is implemented via USAID, 
+the U.S. Centers for Disease Control (CDC), and the Peace Corps. PEPFAR activities support South 
+Africa in reaching the 95-95-95 targets and place a strong emphasis on programmatic linkages 
+between prevention and treatment at both the community and facility level. In 2014, PEPFAR 
+launched the DREAMS Initiative – “Determined, Resilient, Empowered, AIDS-free, Mentored, and 
+Safe: Preventing HIV in Adolescent Girls and Young Women” – to aggressively target PEPFAR 
+resources to reduce new HIV infections among adolescent girls and young women (AGYW). In 
+South Africa, PEPFAR implements a broad portfolio of activities toward the goal of epidemic 
+control in specific geographic target areas. These represent the highest HIV burden districts in South 
+Africa and encompass 82 percent of PLHIV in the country. For further information, refer to the 
+most recent PEPFAR South Africa South Africa PEPFAR Country Operational Plan. 
+
+ 
+
+Elimination of TB 
+
+The USG is a global leader in support of the fight against TB worldwide and in 2016 launched the 
+U.S. National Action Plan for Combating Multidrug-Resistant Tuberculosis (NAP), which aims to 
+address the domestic and global challenges of MDR-TB. For further information on TB activities 
+in South Africa, refer to the most recent USAID TB Road Map for South Africa. 
+
+ 
+
+COVID-19 Pandemic Response and Global Health Security 
+
+The USG is also committed to defeating the SARS-CoV-2 pandemic at home and abroad. In August 
+2021, USAID Administrator, Samantha Power, announced new funding via the American Rescue 
+Plan to expand and intensify the fight against COVID-19 internationally.52 Further, in December 
+2021, the Administrator announced the U.S. Government’s Initiative for Global Vaccine Access 
+(Global VAX), which will bring additional funding with a focus on vaccination, primarily in sub-
+Saharan Africa.53 A significant portion of Global VAX funding has been awarded to South Africa, 
+which aims to achieve 70% vaccination by the end of 2022. Efforts in this regard, which are led by 
+USAID and involve other US government agencies in South Africa, will mitigate the impact of the 
+SARS-CoV-2 pandemic on the country’s health and development indicators in the near term while 
+also contributing to greater resilience to system-wide shocks in the future. 
+
+52 Office of Press Relations, USAID. August 2021. USAID Announces $720 Million for COVID-19 Response and Recovery 
+Worldwide. Available at: https://www.usaid.gov/news-information/press-releases/aug-4-2021-usaid-announces-720-million-covid-19-
+response-and-recovery-worldwide 
+
+53 USAID. 2021. Global VAX: A New Initiative For Global Vaccine Access To Accelerate U.S. Vaccine Delivery Assistance Around 
+The World. Available at: https://www.usaid.gov/coronavirus/fact-sheets/global-va 
+
+ 
+
+ 
+
+
+ 
+
+Most recently, the USG has announced a new USAID Global Health Security strategy that aims to 
+prevent, detect and respond to global health pandemics. The new strategy will work with country 
+governments and other partners in USG-supported countries to address identified gaps and improve 
+capacities in key global health security areas; support and sustain international capacity on 
+surveillance and monitoring systems, including syndromic, pathogen, and events-based systems, 
+needed to detect and regularly report known and new infectious diseases threats in humans, plants, 
+and animals; support partner countries to develop, implement, and scale-up evidence-informed 
+interventions at the community level to reduce zoonotic pathogen spillover; and increase 
+demonstrated capacity in biosafety and biosecurity. 
+
+ 
+
+USAID Southern Africa Health Sector Strategy 
+
+USAID’s health program in South Africa aims to “partner with the GoSA to end the spread of HIV, 
+TB, and other infectious diseases, and save lives, while building a health system that is resilient, 
+sustainable and equitable.” In line with this mission statement, USAID South Africa’s health 
+program has four strategic goals for programming its development assistance. These are provided 
+in Figure 1. The Activity described in this notice will be administered by USAID will need to align 
+with its mission and goals for work in the country. 
+
+ 
+
+ 
+
+
+Figure 1: USAID HEALTH OFFICE VISION AND MISSION AS STRATEGIC GOALS FOR 
+2021-2026 
+
+[END OF ANNEX B] 
+
+ 
+
+ 
+
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX C: ACTIVITY RESULTS FRAMEWORK 
+
+ 
+
+[END OF ANNEX C] 
+
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+
+ANNEX D: ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+AGYW 
+
+Adolescent Girls and Young Women 
+
+AHOP 
+
+USAID’s Bureau for Global Health Office of HIV/AIDS developed USAID’s 
+Approach to HIV and Optimized Programing 
+
+AOR 
+
+USAID Agreement Officer Representative 
+
+APP 
+
+Provincial Annual Performance Plan 
+
+ARV 
+
+Antiretroviral 
+
+ART 
+
+Antiretroviral Therapy 
+
+CDC 
+
+Centers for Disease Control and Prevention 
+
+C/ALHIV 
+
+Children and Adolescents Living with HIV 
+
+CLA 
+
+Continuous Learning Plan 
+
+PEPFAR COP 
+
+PEPFAR Country Operational Plan 
+
+COP 
+
+Chief of Party 
+
+CQI 
+
+Continuous Quality Improvement 
+
+CBO 
+
+Community Based Organization 
+
+CSO 
+
+Civil Society Organizations 
+
+DBE 
+
+Department of Basic Education 
+
+DREAMS 
+
+USG PEPFAR-supported “Determined, Resilient, Empowered, AIDS-free, 
+Mentored, and Safe: Preventing HIV in Adolescent Girls and Young 
+Women’’ initiative 
+
+DSD 
+
+Department of Social Development 
+
+FBO 
+
+Faith-Based Organization(s) 
+
+GBV 
+
+Gender Based Violence 
+
+
+
+
+Global VAX 
+
+USG Initiative for Global Vaccine Access 
+
+GoSA 
+
+Government of South Africa 
+
+HRH 
+
+Human Resources for Health 
+
+HTS 
+
+HIV Testing Services 
+
+IR 
+
+Intermediate Result 
+
+KZN 
+
+KwaZulu-Natal 
+
+MEL 
+
+Monitoring and Learning Plan 
+
+MER 
+
+PEPFAR Monitoring, Evaluation and Reporting indicators 
+
+MMD 
+
+Multi-month dispensing 
+
+NAP 
+
+ U.S. National Action Plan for Combating Multidrug-Resistant Tuberculosis 
+
+NHI 
+
+National Health Insurance 
+
+NDoH 
+
+National Department of Health 
+
+NSP 
+
+South African National Strategic Plan for HIV, TB and STIs 2017-2022 
+
+OVC 
+
+Orphans and Vulnerable Children 
+
+PEPFAR 
+
+President’s Emergency Plan for AIDS Relief 
+
+PLHIV 
+
+People Living with HIV 
+
+PMTCT 
+
+Preventing Mother-to-Child Transmission 
+
+POART 
+
+PEPFAR Oversight and Accountability Response Teams 
+
+POC 
+
+GoSA designated Point of Contact 
+
+PrEP 
+
+Pre-Exposure Prophylaxis 
+
+RDCS 
+
+USAID South Africa Regional Development and Cooperation Strategy 
+
+TB 
+
+Tuberculosis 
+
+TEE 
+
+Tenofovir + Emtricitabine + Efavirenz 
+
+
+
+
+TPT 
+
+TB preventive therapy 
+
+USG 
+
+United States Government 
+
+VAC 
+
+Violence Against Children 
+
+WHO 
+
+World Health Organization 
+
+
+
+ 
+
+[END OF ANNEX D] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ANNEX E: INITIAL ENVIRONMENTAL EXAMINATION (IEE) 
+
+ 
+
+Annex E is one separate attachment of the NOFO 
+
+ 
+
+ 
+
+ 
+
+[END OF ANNEX E] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX F: SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Applicants are required to provide the following items: 
+
+SF-424 and SF-424A - The Applicant must sign and submit the cost application standard form 
+number SF-424 and SF-424A. Standard Forms can be accessed electronically at: www.grants.gov 
+
+ 
+
+The Budget Template is one separate attachment of the NOFO, and it is included to facilitate 
+budget preparation. At a minimum, the budget must include the items listed in Section D.5 above. 
+
+ 
+
+[END OF ANNEX F] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ANNEX G: STANDARD PROVISIONS FOR NON-U.S. NON-GOVERNMENTAL 
+ORGANIZATIONS 
+
+ 
+
+The resulting award will include all standard provisions (both mandatory and required as 
+applicable) in full text. The full text of these provisions may be found at: 
+
+ 
+
+ADS Reference 303mab | U.S. Agency for International Development (usaid.gov) 
+
+ 
+
+The award will include the latest Mandatory Provisions for Non-U.S. Nongovernmental 
+Organizations. The award will also contain the following “required as applicable” Standard 
+Provisions: 
+
+ 
+
+[END OF ANNEX G] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+H.4 LIST OF ADDITIONAL DOCUMENTS 
+
+ 
+
+The following (15) documents are uploaded and considered to be attachments of the NOFO. 
+
+1. USAID AHOP Executive Summary 
+2. USAID AHOP Full Summary 
+3. USAID Gender Policy 
+4. USAID South Africa TB RoadMap 
+5. Global AIDS Strategy 2021-2026 
+6. Government of South Africa NDoH National Act 
+7. South Africa National Strategic Plan Baseline August 2022 
+8. South Africa National Strategic Plan Development September 2022 
+9. South Africa UNAIDS Fact Sheet 
+10. PEPFAR 2022 Monitoring Evaluation & Reporting Guidelines 
+11. PEPFAR South Africa COP22 Strategic Direction Guidelines 
+12. PEPFAR South Africa COP22 
+13. PEPFAR South Africa Strategy 2021 
+14. PEPFAR Guiding Principles for Next Phase 
+15. KZN Department of Health Annual Performance Plan 2022-2025 
+
+
+ 
+
+ 
+
+[END OF SECTION H – OTHER INFORMATION] 
+
+[END OF NOTICE OF FUNDING OPPORTUNITY] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+ 
+
+

@@ -1,0 +1,3352 @@
+Issuance Date: March 24, 2021 
+Deadline for Submission of Questions: April 1, 2021, 11:59 PM India time 
+(response to questions will be provided through amendment#1 at www.grants.gov ) 
+Deadline for Submission of Concept Paper: April 23, 2021, 11:59 PM India time 
+CATALOG OF FEDERAL DOMESTIC ASSISTANCE (CFDA) No.: 98.001 
+
+Subject: Notice of Funding Opportunity (NOFO) Number: 72038621RFA00004 
+
+Activity Title: Cleaner Air and Better Health (CABH) Activity 
+
+Ladies/Gentlemen: 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+Cooperative Agreement from qualified organizations to fund activity entitled “Cleaner Air and 
+Better Health (CABH) Activity”. Eligibility for this award is not restricted. The authority for 
+the NOFO is found in the Foreign Assistance Act of 1961, as amended. 
+
+USAID intends to make a single award to the applicant(s) who best meets the objectives of this 
+funding opportunity based on the merit review criteria described in this NOFO, subject to a risk 
+assessment. 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO 
+and meet eligibility standards in Section C of this NOFO. This funding opportunity and any 
+amendment to it will be posted on www.grants.gov. It is the responsibility of the applicant to 
+regularly check the website to ensure they have the latest information pertaining to this notice of 
+funding opportunityNOFO and to ensure that the NOFO has been received from the internet in 
+its entirety. USAID bears no responsibility for data errors resulting from transmission or 
+conversion processes. If you have difficulty registering on www.grants.gov or accessing the 
+NOFO, please contact the Grants.gov Helpdesk at 1-800-518-4726 or via email at 
+support@grants.gov for technical assistance. 
+
+This NOFO contains three merit review phases: 
+
+Phase 1: Applicants will submit a 10 page concept paper. Based on USAID’s evaluation of the 
+Initial Applications, only the top applicants will be invited to participate in Phase 2. 
+
+Phase 2: Selected applicants from Phase 1 will be invited to participate through a video 
+conference in an oral presentation to briefly present their proposed technical approach focusing 
+on USAID’s questions and clarifications. 
+
+1 | Page 
+
+
+Phase 3: Based on the evaluation of oral presentations, one or two apparently successful 
+applicant/s, will be selected to co-create the full application that would consist of a technical 
+and cost application. Based on the apparently successful applicant’s concept, a program 
+description will be developed with USAID which will be incorporated into the resulting 
+Cooperative Agreement. USAID will evaluate the resulting program description and the 
+accompanying cost application from the applicant and grade it as acceptable or not acceptable. 
+
+Please send any questions to the point(s) of contact identified in section D. USAID intends to 
+make an award to the successful and responsible applicant whose application best meets the 
+requirements of this NOFO and the Merit Review Criteria contained herein. While one award is 
+anticipated as a result of this NOFO, USAID reserves the right to fund any, many or none of the 
+applications submitted. The finally selected applicant will be responsible for ensuring the 
+achievement of the program objectives. Please read each section of the NOFO. 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable 
+unique entity identifier and System for Award Management (SAM) requirements detailed in 
+Section C.1. The registration process may take many weeks to complete. Therefore, applicants 
+are encouraged to begin registration early in the process. 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the 
+part of the Government nor does it commit the Government to pay for any costs incurred in 
+preparation or submission of comments/suggestions or an application. Applications are 
+submitted at the risk of the applicant. All preparation and submission costs are at the applicant’s 
+expense. 
+
+Thank you for your interest in USAID programs. 
+
+Sincerely, 
+
+/s/ 
+
+Armando Espinosa 
+Regional Agreement Officer 
+USAID/India 
+
+2 | Page 
+
+
+SECTION A: PROGRAM DESCRIPTION 5 
+A.1 Authorizing Legislation 5 
+A.2 Program Framework 5 
+SECTION B: FEDERAL AWARD INFORMATION 11 
+B.1 Estimate of Funds Available and Number of Awards Contemplated 11 
+B.2 Expected Performance Indicators, Targets, Baseline Data, and Data Collection 11 
+B.3 Anticipated Start Date and Period of Performance for Federal Awards 12 
+B.4 Substantial Involvement 13 
+B.5 Authorized Geographic Code 13 
+B.6 Nature of the Relationship between USAID and the Recipient 13 
+SECTION C: ELIGIBILITY INFORMATION 14 
+
+C.1. Eligible Applicants 14 
+
+C.2 Cost Share or Leverage 14 
+C.3 Other 15 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 16 
+
+D.1. Agency Point of Contact 16 
+
+D.2 Questions and Answers 16 
+
+D.3 General Content and Form of Application 16 
+
+D.4 Application Submission Procedures 16 
+
+D.5 Overall Selection Process 17 
+
+D.6 Content and Form of Application Submission 18 
+SECTION E: APPLICATION REVIEW INFORMATION 30 
+E.1 Criteria 30 
+
+E.2 Review and selection Process 30 
+
+E.3 Phase 2 – Oral Presentation 31 
+
+E.4 Phase 3 – Co-Creation 31 
+
+E.5 Final Technical Application/Program Description 32 
+
+E.6 Cost/Business Review 32 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 34 
+
+F.1 Federal Award Notices 34 
+
+F.2 Administrative & National Policy Requirements 34 
+
+3 | Page 
+
+
+F.3 Reporting Requirements 35 
+
+F.4 Program Income 35 
+
+F.5 Environmental Compliance 35 
+
+F.6 ADS 303.3.35.2 Covered Telecommunication and Video Surveillance Equipment or 
+Services (Effective Date: 08/18/2020 37 
+
+F.7 Procurement of “Covered Material” 38 
+
+F.8 Program Reporting 39 
+
+F.9 Branding & Marking 43 
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 45 
+SECTION H: OTHER INFORMATION 46 
+ANNEX 1: CERTIFICATIONS, ASSURANCES, OTHER STATEMENTS OF THE 
+RECIPIENT AND SOLICITATIONS STANDARD PROVISIONS 47 
+ANNEX 2: PAST PERFORMANCE QUESTIONNAIRE 67 
+ANNEX 3: PRELIMINARY GENDER EQUALITY AND SOCIAL INCLUSION ANALYSIS 
+71 
+1. Background 71 
+
+2. Main Findings by Domain 72 
+
+2.1 Laws, Policies, Regulations, and Institutional Practices. 72 
+
+2.3 Gender Roles, Responsibilities and Time Use 74 
+
+2.4 Access to and Control over Assets and Resources 76 
+
+2.5 Patterns of Power and Decision-making 77 
+
+3. Analysis Of Issues And Recommendations By Technical Component 78 
+
+4 | Page 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+A.1 Authorizing Legislation 
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+A.2 Program Framework 
+A.2.1 Purpose 
+The purpose of the Cleaner Air and Better Health (CABH) activity is to strengthen air pollution 
+mitigation and exposure reduction systems in selected regions of India, contributing to a cleaner 
+environment and healthier population. Through the CABH activity, USAID/India will support 
+the Government of India (GOI) to address air pollution and its health impacts by: supporting 
+Indian counterparts in identifying and developing regulatory interventions for improved 
+governance on air pollution mitigation and health impacts; leveraging U.S. and Indian 
+innovation, finance and expertise for air pollution mitigation measures and reducing exposure to 
+air pollution; helping strengthen the science underpinning solutions; and raising awareness 
+across stakeholders to drive social and behavioral transformation. 
+
+A.2.2 Problem Statement 
+The World Health Organization has declared air pollution a global environmental health 
+emergency. In India, it threatens to unravel national development progress and impede the 
+country’s Journey to Self-reliance (J2SR). Exposure to air pollution in India is among the 
+highest in the world and continues to increase. 
+
+India has made great strides in growing its economy, creating a world-class scientific 
+community, and establishing a vibrant private sector. Yet exposure to air pollution in India is 
+among the highest in the world and continues to worsen over time. In 2015, an estimated 99.9 
+percent of the Indian population lived in areas where air pollution levels exceeded WHO air 
+quality guidelines.1 India includes 11 of the world’s 15 most polluted cities,2 a crisis that led to 
+
+1.2 million premature deaths in 2017 according to the 2019 State of Global Air.3 Air pollution 
+causes billions of dollars in lost economic productivity. The World Bank estimated the cost of 
+air pollution in India at $505 billion per year or 7.7 percent of total GDP in 2013, a 5 factor 
+increase from 1990, and labor losses in India due to air pollution were estimated to be 55 billion 
+US dollars.4 Deaths and disability from air pollution either matched or exceeded the burden of 
+1 https://www.healtheffects.org/publication/gbd-air-pollution-india 
+
+2 2018 World Health Organization database on city level air pollution monitoring for PM 2.5. 
+
+3 Health Effects Institute. 2019. State of Global Air 2019. Special Report. Boston, MA:Health Effects Institute. 
+
+4 World Health Organization (WHO), ‘Household Air Pollution and Health,’ 2018 -https://www.who.int/newsroom/
+fact-sheets/detail/household-air-pollution-and-health 
+
+5 | Page 
+
+
+disease caused by tobacco use. There is growing evidence to show that the health and economic 
+effects on women and men differ because of their gendered roles and responsibilities. These 
+factors, amongst many, threaten India’s prosperity by increasing pressure on India's social 
+services infrastructure, compromising an already challenged workforce, undermining economic 
+productivity and further marginalizing those who do not have the means to mitigate 
+exacerbating problems due to pollution. 
+
+While it might be tempting to search for a silver bullet or panacea to solve India’s air pollution 
+problems, there is no such solution. The sources of air pollution are diverse and varied by time 
+and location. Challenges are different in both rural and urban areas for all genders and 
+marginalized communities. Energy processes account for a large source of air pollution 
+exposure in India, from coal-fired power plants, industrial operations (namely from coal 
+combustion), diesel-based backup generation, and indoor biomass burning for cooking and 
+heating. Vehicles (inefficient and air-polluting two and three-wheeler motor bikes, cars, trucks, 
+and buses) are also a primary contributor to ambient air pollution mostly in urban areas. Other 
+sources of air pollution include open burning of agricultural, forest land and solid waste. If India 
+is to manage its air pollution challenges, behavior change and improvements to waste 
+management systems and infrastructure are of the essence. Reducing pollution at its source is an 
+assured tool for tackling air pollution. 
+
+Although mitigation will take time it should be understood that measures are needed to reduce 
+air pollution exposure, which disproportionately impacts poor and marginalized populations, 
+which have fewer resources immediately. Traditionally the environment sectors have played a 
+key role in achieving air quality; however, the public health sector can play an important role by 
+increasing awareness on air pollution and reducing exposure which would maximize program 
+efforts. Due to these factors, a multi-sectoral response is needed to address this complex issue. 
+
+There is strong momentum building across domestic and international stakeholders to take on 
+this challenge. The Government of India released the National Clean Air Programme (NCAP) in 
+January of 2019. The strategy proposes a 20-30% reduction targets by 2024 for reducing 
+particulate matter of less than 2.5 microns (PM2.5) or 10 microns (PM10) at both the regional 
+and urban scales, and identify priority mitigation actions and interventions. 
+
+The US Government interagency is actively collaborating to support India’s efforts to improve 
+air quality management and reduce exposure to air pollution and its health impacts through a 
+suite of activities. USAID supported Enabling Air Quality program helped in the design, 
+implementation and evaluation of pilots that advance evidence-based regulatory reform, 
+including the world’s first emissions trading scheme for fine particulate matter in the city of 
+Surat in the Indian state of Gujarat. The Environmental Health and Safety Plus Center program 
+is helping equip factories to plan, execute and assess interventions that achieve measurable and 
+lasting reductions in air pollution emissions. The Clean Air Catalyst program will create a 
+replicable data-to-impact methodology consisting of participatory source attribution; structured 
+identification of root causes of the most health-damaging air pollution; and interventions to 
+reduce the most toxic air pollution sources to improve human health. Understanding how 
+different pollutants impact women, men, and marginalized communities differently is critical to 
+ensure gender equality and female empowerment and successful implementation of this activity. 
+
+6 | Page 
+
+
+In addition, USAID is supporting an effort to channel the emerging public outcry about air 
+pollution, and the network of local champions and organizations working on air quality, into a 
+cohesive, strategic, and action-oriented movement demanding change in up to four cities in 
+India. Through a partnership with the SMART Cities Platform, USAID supports the city of 
+Indore to manage its air quality by employing citizen research and evidence based 
+communications. 
+
+A.2.3 Theory of Change 
+The theory of change for CABH is that IF air pollution mitigation systems are strengthened 
+AND IF air pollution exposure is reduced THEN the environment would be cleaner and the 
+population healthier. In doing so, CABH will contribute toward India’s ability to meet its 
+NCAP commitments. 
+
+Through the CABH activity, USAID/India will enhance India’s efforts to reduce pollution and 
+address pollution health impacts as envisioned under Development Objective two (DO2) of 
+USAID’s India Country Development Cooperation Strategy (CDCS) 2020-2024 
+(https://www.usaid.gov/sites/default/files/documents/1861/India_CDCS_2020-2024.pdf ) 
+
+A.2.4 Objectives and Key Results 
+There are two objectives for this activity: 1. Improve air pollution mitigation; 2. Reduce 
+exposure to air pollution. Four results are envisioned under each of the two objectives. 
+
+Objective 1: Improve air pollution mitigation 
+
+Reducing pollution requires a complex engagement on a technological, governance, financial, 
+and behavioral level, with cooperation among regulators, industry, and civil society. Many 
+programs for air pollution mitigation have been initiated in India for air pollution by various 
+ministries. However, numerous gaps remain, including bringing these various initiatives and 
+others into holistic air quality management frameworks; promoting individual level adoption of 
+these interventions; creating an enabled environment where private sectorinitiatives can 
+promote these policies; and strengthening the capacity of governmental agencies to actualize 
+these policies. 
+
+Under this objective, USAID/India seeks for the CABH activity to mitigate air pollution. 
+Mitigation refers to the reduction of air pollutants being emitted into the environment through 
+either process changes that prevent the generation of emissions at its source, to the use of air 
+pollution control devices that prevent pollutants from being emitted into the environment. 
+This objective is grounded in the notion that a combination of tools, ranging from improved 
+governance and complementary market-based approaches, to behavior change at the community 
+and individual level, to the use of cleaner energy and abatement technologies, can help mitigate 
+air pollution. 
+
+The results and illustrative interventions under this objective are provided below: 
+
+7 | Page 
+
+
+Result 1.1: Improved capacity of decision-makers to use evidence-based approaches for 
+air quality management; formulating policy; and implementing and enforcing mitigation 
+actions. 
+
+This will include supporting the development, testing and introduction of systematic air 
+quality management tools as well as regulatory, policy and other frameworks. 
+Illustratively, CABH could support atmospheric modeling, cost-benefit analysis, and 
+other tools to enable central, state and local air management bodies to identify cost-
+effective solutions. 
+
+Result 1.2: Communities are empowered to advocate and act for improved air quality. 
+
+With the consequences of air pollution felt by both rural and urban communities, 
+community action can be mobilized and serve as a powerful tool for improving air 
+quality. CABH could support citizens’ movements that are building community demand 
+for change and empowering communities (gender balanced) to advocate and act for 
+improved air quality. 
+
+Result 1.3: Increased use of market-based and enterprise-led approaches that 
+
+complement traditional regulatory approaches to mitigate air pollution. 
+
+This will include catalyzing private sector participation including incubators/accelerators 
+and small and medium enterprises in the development, testing, demonstration and scale-
+up of air pollution technologies and practices; and introducing and/or expanding the use 
+of innovative finance models, such as development impact bonds and pay-for-results 
+mechanisms, to support investment in air pollution technologies and practices. 
+
+Result 1.4: Increased deployment of mitigation technologies and systems, including 
+source elimination, cleaner energy and air pollution control devices; improved landscape 
+management. 
+
+CABH will support government, private sector and public-private partnerships in 
+deploying mitigation technologies and systems. Illustratively, the activity could: (i) help 
+further take to scale the Emissions Trading Scheme for air pollution mitigation; (ii) 
+support the regulatory design and finance for retrofitting diesel vehicles as India 
+leapfrogs to level 6 emission standards; and (iii) promote improved land use and 
+agricultural practices that contribute to air pollution, such as reducing crop residue 
+burning and rejuvenating degraded landscapes. 
+
+Objective 2: Reduce exposure to air pollution 
+
+Exposure reduction, for the purposes of this activity, refers to processes that reduce the amount 
+of air pollution that is absorbed by the public through inhalation, contributing to reduced health 
+effects. These processes will include, for example, improved indoor air quality, behavioral 
+changes that reduce time spent outdoors during high pollution times, as well as using self
+
+
+8 | Page 
+
+
+protection devices such as masks to reduce pollution at the point of inhalation. This objective 
+recognizes that a combination of approaches is needed to reduce exposure to air pollution, from 
+individual behavioral change to the improvement of indoor air quality. It recognizes the need 
+for additional evidence of what health interventions may be successful for reducing exposure, 
+such as the effective use of health practitioners (doctors, nurses, community health officers, and 
+other frontline health workers) as channels for influencing behavioral change. 
+
+The results and illustrative interventions under this objective are provided below: 
+
+Result 2.1: Improved capacity of decision-makers to use evidence-based approaches for 
+reducing exposure and improving health. 
+
+This will support research; stakeholder engagement; feedback loops between researcher, 
+decision-makers and users, and so forth to inform policies and practices that promote 
+indoor air quality measures. Illustratively, research could be related to developing and/or 
+improving building codes that take ventilation and other environmental health factors 
+into account. 
+
+Result 2.2: Expanded evidence base for high-impact health interventions. 
+
+This will include research, adaptation and deployment of tools and technologies that will 
+lower direct exposure to air pollution, particularly for the most vulnerable (children with 
+pneumonia, pregnant women, etc.) such as tools and technologies related to the use of 
+personal protection equipment, improved access to cookstoves and more. 
+
+Result 2.3: Increased adoption of behavioral change for exposure reduction. 
+
+Illustrative interventions include supporting local organizations in public education and 
+advocacy efforts; engaging healthcare practitioners as messengers; supporting 
+community efforts to reduce exposure; involving women to include their view points (a 
+change in the social norm), and other efforts to promote behavior change. 
+
+Result 2.4: Improved indoor environment. 
+
+Illustrative interventions include support for promoting the adoption of building codes 
+(e.g., for ventilation), promoting cleaner building operations and maintenance, and the 
+operationalization of the Ujjwala scheme and other demonstrations that may help 
+improve indoor air pollution. 
+
+A.2.5 Proposed Geographic Focus Areas 
+In their response to the solicitation, offerors will propose where their interventions will be 
+conducted and provide the analysis supporting the geographic focus. Although the offeror can 
+propose both urban and rural areas, emphasis should be placed on supporting non-attainment 
+cities as identified by NCAP. The selection of geographic location will be finalized during the 
+co-creation (Phase 3) and would be subject to MoEFCC approval. 
+
+9 | Page 
+
+
+A.2.6 Link to Agency Priorities 
+The CABH activity is aligned with India Country Development Cooperation Strategy (2020-24) 
+and other broader USAID priorities such as the Journey to Self Reliance, Indo-Pacific Strategy, 
+Private Sector Engagement Strategy, and Environment and Natural Resources Management 
+Framework. 
+
+A.2.7 Guiding Principles 
+Coordination: USAID/India and the applicant will finalize the teaming arrangement/ 
+consortium framework (if applicable) through the co-creation process. The CABH activity will 
+engage with relevant host government ministries. The activity will coordinate with current 
+USAID-funded activities and leverage the work of other relevant actors and stakeholders to 
+ensure complementarity and avoid duplication of efforts. There may be opportunities to engage 
+with the Gandhi-King Development Foundation. 
+
+Gender and Social Inclusion: Activity will widen its impact by taking explicit account of: (1) 
+the disproportionate and severe health effects of air pollution on different segments of 
+population based on gender, ethnicity, and disability through transition strategies that address 
+problems for all the population equally. Please see annex 3 for detailed information on gender 
+and social inclusion. 
+
+Flexible and Adaptive Programming: USAID recognizes the importance of thinking critically 
+and shifting strategic decisions to respond to emerging development challenges. This activity 
+should maintain the flexibility and adaptability to ensure responsiveness to evolving local 
+dynamics and to take advantage of opportunities, as well as mitigate challenges in a timely and 
+effective manner. This will require a management approach that regularly reassesses the 
+operating environment in targeted urban and/or rural areas, to allow any necessary course 
+corrections and adjustments to specific ongoing implementation as necessary based on 
+information feedback. The activity will be flexible enough to be able to adapt to changing 
+circumstances and respond with different approaches, as needed. 
+
+Note: The term “program” as used in 2 CFR 200 and this NOFO is typically considered by 
+USAID to be an Activity supporting one or more Project(s) pursuant to specific Development 
+Objectives. Please see 2 CFR 700 for the USAID specific definitions of the terms “Activity” 
+and “Project” as used in the USAID context for purposes of planning, design, and 
+implementation of USAID development assistance. 
+
+END OF SECTION A 
+
+10 | Page 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+B.1 Estimate of Funds Available and Number of Awards Contemplated 
+USAID intends to award one Cooperative Agreement pursuant to this notice of funding 
+opportunity. Subject to funding availability, successful ongoing implementation and at the 
+discretion of the Agency, USAID in total government funding intends to provide US$15 Million 
+through incremental funding over a five (5) year period. 
+
+USAID reserves the right to change the funding amounts, cycle, and terms of the resulting 
+Cooperative Agreement as a result of availability of funds and US Government requirements. 
+The Recipient will be notified in writing should such changes occur. 
+
+B.2 Expected Performance Indicators, Targets, Baseline Data, and Data Collection 
+Monitoring, Evaluation and Learning: USAID/India intends for the activity to be subject to 
+rigorous monitoring, evaluation and learning approach to (a) ensure the intended results and 
+impact are being generated; and (b) ensure the tracking and reporting of results to inform 
+activity management if, and when, course corrections may be necessary; 
+
+The Monitoring, Evaluation and Learning (MEL) plan should include the activity’s logic model, 
+(logical framework orothers), key performance indicators, including draft targets for each 
+indicator and information on data quality assurances; and a calendar of key performance 
+management tasks. Further, the plan should describe the process for monitoring, evaluating, and 
+learning from implementation to adapt and achieve results. The CABH activity should use 
+results-based management and the performance metrics approach as a tool for activity design, 
+implementation, monitoring and evaluation. 
+
+Tentative list of indicators to monitor results is given below. The final list of indicators will be 
+developed during the co-creation (Phase 3). 
+
+Air pollutants, such as PM2.5 or PM10, reduced through interventions supported by USAID 
+
+● 
+Percentage of households in targeted areas that implement at least one practice to reduce 
+health impact of air pollution 
+● 
+Projected greenhouse gas emissions reduced or avoided through 2030 from adopted 
+laws, policies, regulations, or technologies related to clean energy as supported by USG 
+assistance 
+● 
+Projected greenhouse gas emissions reduced or avoided from adopted laws, policies, 
+regulations, or technologies related to sustainable landscapes as supported by USG 
+assistance 
+● 
+Number of people reached with communications and knowledge dissemination activities 
+(sex and social group disaggregated) 
+11 | Page 
+
+
+● 
+Number of new evidence products generated 
+● 
+Number of laws, policies, regulations, or guidelines, developed/implemented/adopted 
+with USG support 
+● 
+Number of tools, innovations, and practices adopted for mitigating the air pollution 
+sources in various sectors 
+● 
+Percentage of female participants in USG-assisted programs designed to increase access 
+to productive economic resources (assets, credit, income or employment) 
+● 
+Number of persons trained with USG assistance to advance outcomes consistent with 
+gender equality or female empowerment through their roles in public or private sector 
+institutions or organizations 
+● 
+Amount of investment mobilized (in USD) for addressing air pollution projects as 
+supported by USG assistance 
+● 
+Number of private sector partnerships established for technology adoption and 
+implementation 
+● 
+Number of institutions with improved capacity to address air pollution issues as 
+supported by USG assistance. 
+Annual Pause and Reflect session to inform annual reporting and the following year work plans. 
+These Pause and Reflect sessions serve to review what types of interventions may be necessary 
+to adjust course. A mid-term and final evaluation will be conducted by a third party as per 
+USAID guidelines.The mid-term evaluation will be undertaken in year two of the project 
+implementation to assess the activity Theory of Change (TOC), risks and assumptions, and 
+review the progress towards expected results and make mid-course corrections, if needed. The 
+evaluation will measure processes, early progress on getting results, modification in the project 
+implementation, if any. 
+
+Considering the progress and requirement, a final performance evaluation will be undertaken to 
+assess relevance, effectiveness, efficiency, sustainability and results against the proposed 
+objectives of the project. 
+
+USAID/India recognizes that development efforts yield positive change more quickly if they are 
+coordinated and collaborative, test promising new approaches in a continuous search for 
+improvement, and build on what works, while eliminating what does not. The recipient must 
+therefore propose and implement a Collaboration, Learning and Adaptation (CLA) approach in 
+the project to continuously assess the activity’s causal pathways, target outcomes, and adjust the 
+interventions and approach as necessary to yield the most effective course of action. The CLA 
+Plan must clearly relate to the MEL Plan. 
+
+B.3 Anticipated Start Date and Period of Performance for Federal Awards 
+The anticipated period of performance is five (5) years. The estimated start date will be upon the 
+signature of the award, on or about September, 2021. 
+
+12 | Page 
+
+
+B.4 Substantial Involvement 5 
+In accordance with ADS 303.3.11, USAID will remain substantially involved over the life of 
+the Cooperative Agreement to assist the Recipient in achieving the expected outcomes and 
+results of the program. Some examples of potential areas of substantial involvement during 
+performance include the following: 
+
+● 
+Approval of recipient's implementation plans; 
+● 
+Approval of the recipient's monitoring and evaluation plans; 
+● 
+Approval of key recipient personnel; and 
+● 
+Joint participation will be necessary to ensure achievement of key objectives during the 
+performance of the activity. 
+B.5 Authorized Geographic Code 
+The authorized geographic code for the procurement of services and commodities is 937. Code 
+937 is defined as the United States, the recipient country (India), and developing countries, 
+but excluding any country that is a prohibited source. There are currently no prohibited source 
+countries, but the list is updated regularly and can be found here: 
+
+http://www.usaid.gov/sites/default/files/documents/1864/310mac.pdf 
+
+B.6 Nature of the Relationship between USAID and the Recipient 
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the CABH activity 
+which is authorized by Federal statute. The successful applicant/recipient will be responsible for 
+ensuring the achievement of the program objectives and the efficient and effective 
+administration of the award through the application of sound management practices. The 
+Recipient will assume responsibility for administering Federal funds in a manner consistent 
+with underlying agreements, program objectives, and the terms and conditions of the Federal 
+award. 
+
+END OF SECTION B 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+5 This Substantial Involvement section is subject to change following the Co-Creation Workshop and submission 
+of the Final Application (Phase 3) 
+
+13 | Page 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+C.1. Eligible Applicants 
+This funding opportunity is unrestricted and is open to all eligible U.S and non-U.S. nongovernmental 
+organizations (other than those from foreign policy restricted countries), 
+including foundations, institutions of higher education, consortiums and public international 
+organizations, etc. Individuals are not eligible to participate. 
+
+Pursuant to 2 CFR 200.400(g), it is USAID policy not to award profit under assistance 
+instruments such as Cooperative Agreements. While for-profit firms may participate, pursuant 
+to 2 CFR 700.13(A)1), Prohibition against Profit, no profit will be paid to any for-profit entity 
+receiving or administering Federal financial assistance as a recipient or subrecipient. 
+
+USAID welcomes organizations that have not previously received financial assistance from 
+USAID to submit their applications. 
+
+Though not required during the Phase 1 and Phase 2 application process, the “Apparently 
+Successful Applicant6” (ASA) must provide a valid DUNS number in the SF-424 form that is to 
+be submitted along with their full application. The ASA should also have successfully registered 
+in SAM (System for Award Management) prior to award. For those who have previously 
+registered in SAM, they must renew and maintain an active SAM registration during the time 
+they have concept notes or applications under consideration by a Federal awarding agency, or 
+during an active Federal award. 
+
+C.2 Cost Share or Leverage7 
+Under this NOFO there is not a mandatory cost share requirement. However, a minimum 
+leverage of 25% of the award amount is required. 
+
+What is Leverage? 
+Leveraging represents all of the non-USAID resources that are expected to be applied to a 
+program which will enable the activity to engage in interventions that are of shared interest and 
+will enable the interventions to be continued after the CABH ends. Leveraging may include 
+financial contributions, third party contributions, the value of donated services and property, 
+including intellectual property; or may be anything of value that can be measured in some form 
+that permits evaluation of the contribution’s impact on achieving desired results. Third parties 
+can include the host government and the private sector. 
+
+6 Apparently Successful Applicant(s). The applicant for USAID funding recommended for an award after the merit 
+review, but who has not yet been awarded cooperative agreement by the Agreement Officer. Apparently successful 
+applicant status confers no right and constitutes no USAID commitment to an award, which still must be obligated 
+by the Agreement Officer. 
+
+7 For more information on Leverage, please see: 
+
+https://www.usaid.gov/sites/default/files/documents/1861/India_RFIP_CostShareProgramIncomeLeverage.pdf 
+
+ADS 303.3.27 Public-Private Partnerships 
+
+14 | Page 
+
+
+What is Private Sector? 
+For the purposes of CABH, the “private sector” will be defined broadly as: for-profit, 
+commercial entities and their affiliated foundations; financial institutions, investors and 
+intermediaries; business associations and cooperatives; micro, small, medium and large 
+enterprises that operate in the formal and informal sectors; American, local, regional, and 
+multinational scale businesses; and for-profit approaches that generate sustainable income (e.g., 
+a venture fund run by a non-governmental organization (NGO) or a social enterprise). 
+
+What is Cost-Share? 
+Cost-share is a subset of leveraging. However, cost-share becomes a condition of the award 
+when it is made part of the approved award budget. Cost sharing must be verifiable from the 
+recipient’s records, is subject to the requirements of 2 CFR 200.306, and is auditable. If the 
+recipient does not meet its cost sharing requirement, it can result in questioned costs. For 
+USAID/India, cost share has been further defined as those contributions provided by the 
+recipient organization itself (either cash or in-kind). 
+
+C.3 Other 
+An organization may submit only one (1) concept paper as a prime or consortium leader under 
+this NOFO. However, organizations may be part of other consortiums as a sub-recipient. 
+
+C.4 Pre-award Survey / Risk Assessment 
+The ASA will be responsible for ensuring achievement of the objectives described in the 
+NOFO. Therefore, the AO will decide on whether to subject the ASA to a pre-award survey, 
+and based on the results, will make a determination if the prospective recipient is a responsible 
+entity, i.e., whether it has the necessary organization, experience, adequate accounting and 
+operational controls, and technical skills—or ability to obtain them—in order to achieve the 
+objectives of the project and comply with the terms and conditions of the award. The ASA must 
+agree to practice mutually agreed-upon methods of accountability for funds and other assets 
+provided or funded by USAID. In the absence of a positive risk assessment, an award can 
+ordinarily not be made. However, in rare cases, an award can be made with “Specific 
+Conditions” (as in 2 CFR 200.207), but only where it appears likely that the applicant can 
+correct the deficiency within a reasonable time period. 
+
+Note: A pre-award survey does not commit USAID to make any award. 
+
+END OF SECTION C 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+15 | Page 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+D.1. Agency Point of Contact 
+Mr. Armando Espinosa 
+
+Agreement Officer 
+
+aespinosa@usaid.gov 
+
+D.2 Questions and Answers 
+Questions regarding this NOFO should be submitted by email to indiarco@usaid.gov, with a 
+copy to vvats@usaid.gov no later than the date and time indicated on the cover sheet, or as per 
+any amendment to furnish information regarding this NOFO. Questions and Concept Paper 
+file/s submission must be compatible with Microsoft (MS) Office in a MS Windows 
+environment and/or Adobe Acrobat (.pdf). The subject of each e-mail must read as: 
+NOFO #72038621RFA00004 - Cleaner Air and Better Health (CABH) 
+
+D.3 General Content and Form of Application 
+Applicants are expected to review, understand, and comply with all aspects of the NOFO. 
+Applicants must ensure the necessary documents are complete and received at USAID on time. 
+All submissions received by the stated deadlines in the NOFO will be reviewed in accordance 
+with the review criteria contained in Section E of this NOFO. Failure to do so may result in the 
+submission being considered non-responsive and will not be reviewed. 
+
+Submissions must be in electronic format. Applicants’ authorized representatives are to sign 
+their names (manually or digitally) on the cover pages of their submissions, as well as in 
+required certifications. For a submission to be considered timely, the electronic transmission 
+must be submitted by email to indiarco@usaid.gov, with a copy to vvats@usaid.gov and 
+received by the USAID/India internet server no later than the date and time indicated on the 
+cover sheet of this NOFO. 
+
+D.4 Application Submission Procedures 
+The following provides the estimated timing for conducting the merit review process. This 
+timeline is subject to change: 
+
+Submission/Action Estimated Date of Submission and/or 
+Activity 
+Phase 1 Submission of Concept Paper 04/23/2021 
+Phase 2 Oral Presentation 05/25/2021 - 05/28/2021 
+Phase 3 Co-Creation Workshop 06/21/2021-07/09/2021 
+
+16 | Page 
+
+
+Receive Full Application (Technical 
+and Cost Application) 07/26/2021 
+It is highly recommended that applicants read the entire NOFO before submitting an 
+application. Respond to Merit Review criteria as appropriate and comply with all aspects of the 
+NOFO. Failure to do so will be at the Applicant’s risk. 
+
+D.5 Overall Selection Process 
+The purpose of having three Merit Review phases is to identify an Applicant that will have the 
+greatest chance of success to achieve the activity objectives. 
+
+Below is the process diagram for this NOFO. 
+Merit Review Phase 1 - Concept Paper: Applicants will be invited to submit a Concept Paper, 
+including a notional budget estimate. Information regarding the Concept Paper submission is in 
+SECTION D.6 of this NOFO. 
+
+Phase 1 is the submission and review of a written concept paper. Concept Papers will be 
+reviewed for technical soundness, organizational and management approach and the applicant’s 
+institutional capability and past experience. The highest rated concept paper applicants will be 
+invited to participate in Phase 2. 
+
+In the event USAID determines that none of submitted Concept Papers are acceptable, 
+USAID will issue an amendment to seek a second round of interested applicants. 
+
+Merit Review Phase 2 - Oral Presentation: Selected Applicants will be invited to orally 
+present their concepts through videoconference to be held approximately ten (10) days after 
+being notified that their concept paper was accepted for Phase 2. This oral presentation is a 
+requirement. The format, technical requirements, and videoconference information will be made 
+available to those Applicants invited to participate in the oral presentations. The Applicant’s 
+concept paper author/s and lead technical backstops must be part of the presentation team. 
+
+USAID will not be responsible for costs associated with presentation. 
+
+17 | Page 
+
+
+One or two applicants will be selected from the Merit Review Phase 2 as the Apparently 
+Successful Applicant (ASA). The ASA will be notified by letter approximately two (2) weeks 
+after completion of oral presentations. The ASA will be invited to participate in Phase 3. 
+
+At the completion of Phase 2, the competitive process of ADS 303 will be satisfied. 
+
+Merit Review Phase 3 - Application co-creation: Approximately one (1) week after phase 2, 
+ASA will receive a notification for a week long co-creation workshop to be hosted by 
+USAID/India via video conference to develop the technical and cost application. Participants in 
+this co-creation workshop will include the ASA, USAID, and potentially other stakeholders 
+such as MoEFCC. Additional information regarding the logistics and content of the workshop 
+will be provided as part of the ASA Notification Letter. Based on the results of the final review, 
+USAID will select the Apparently Successful Applicant (ASA). 
+
+After the workshop, ASA will continue to work remotely to refine its approach and will 
+complete the technical application (including the Program Description and other elements) and 
+the final cost application to be submitted within one (1) week of the end of the co-creation 
+workshop. 
+
+USAID will review the technical and cost application, and provide additional questions, if any, 
+within one (1) week. 
+
+USAID reserves the right to ask two or more applicants to work collaboratively on a program 
+description and cost application if, in USAID’s opinion, combining their concepts will result in 
+a more effective overall program. 
+
+No funding will be made available prior to the award of the Cooperative Agreement. 
+Applicants, including the organization selected to collaboratively develop the Program 
+Description, are responsible for all costs related to the oral presentation phase and the co-
+creation workshop. Once the award is signed, the implementing partner may start incurring 
+costs. Applicants not selected for the consecutive phase will be notified at the end of each 
+phase. Unsuccessful applicants may request additional information following such notification. 
+
+D.6 Content and Form of Application Submission 
+(a) Phase 1 – Concept Paper Content and Format: 
+The concept paper must demonstrate an understanding of the activity and introduce the 
+applicant’s strategy and methodology, including its strategic approach and realistic yet 
+innovative interventions. 
+
+Applicants must format their Concept Paper as follows: 
+
+● 
+Spacing: Singled-spaced; 
+● 
+Font: Times New Roman, 12 points; 
+● 
+Margins: one-inch margins on all sides; 
+● 
+Paper Size: 8.5 inches x 11 inches; 
+18 | Page 
+
+
+● 
+any graphs, charts, exhibits, tables, etc. contained in the body of the concept paper shall 
+be numbered and included in the stated page limits (see below). Table font may be 
+reduced to Times New Roman, 10-point. 
+Concept Papers should be no more than 10 pages, exclusive of cover page, table of contents and 
+annexes. They must be presented taking into account and in the order of the technical evaluation 
+criteria found in Section E.2: 
+
+● 
+Cover Page (not included in the page count) and must contain— 
+❖ Project Title 
+❖ Notice of Funding Opportunity number
+❖ Name, address and telephone number of the Organization (primary or lead) 
+❖ Proposed consortium members
+❖ Contact Person’ Name and Signature, Title/Position, Email address, phone nos. OR 
+❖ Name and Signature of Individual authorized to negotiate terms, conditions and 
+countersign the award; Title/Position; Email address; telephone nos. 
+❖ DUNS, TIN and, if applicable, LOC number. 
+● 
+Annexes (not included in the page count)
+❖ Acronym List/Definition (not to exceed 1 page) 
+❖ Timeline (not to exceed 1 page)
+❖ Organizational chart/Staffing plan (general, not to exceed 1 page) 
+❖ Past performance (1 page per sub-awardee/partner) 
+❖ Other charts, graphs, tables, data or information considered essential to the 
+application (not to exceed two pages)
+❖ Proposed Notional Budget - estimated cost summary, direct, and indirect costs by 
+the applicant and sub-awardees/partners (not to exceed one page) 
+● 
+Technical Approach (included in the page count) – 
+Applicants must describe how they propose to achieve the objectives and elaborate on how 
+the proposed technical approach is the most effective way to address the intent of the NOFO. 
+At a minimum, the applicant must provide: 
+
+a. An understanding of the air pollution problem in India and its impact, the Government 
+of India priorities in addressing air pollution, the key stakeholders, and the challenges 
+and opportunities for mitigating air pollution and its health impacts. 
+b. A technical approach to achieving the objectives and results and the proposed 
+strategies/interventions. 
+c. A discussion regarding where interventions will be conducted and provide the analysis 
+supporting the geographic focus. 
+d. A plan for collaboration with GOI and other stakeholders. 
+e. A plan for leveraging funds and private sector engagement in helping achieve the 
+objectives of the activity. 
+f. A plan for sustainability (how the project will be supported and can continue without 
+donor funding) and gender integration. 
+19 | Page 
+
+
+g. A list of tentative indicators and targets (a maximum of 5) that would be crucial for 
+achieving the project objectives. 
+h. A proposed timeline, i.e. duration or time needed to complete the proposed 
+interventions. This duration should not exceed 5 years. 
+● 
+Organizational Management and Staffing Plan (included in the page count) 
+USAID/India does not expect one organization to have all of the professional skills, services, 
+and knowledge base required to meet the results; it is for this reason consortiums are 
+encouraged. The Applicant should clearly define the value each consortium member brings, 
+describe the skills and capacity of each consortium member, and how they complement one 
+another. 
+
+USAID/India recommends the key personnel positions to be between 3-5. Any number above 
+that should be strongly supported by the technical and management approach. The Applicant 
+should also briefly mention how the skill sets of their proposed key personnel will contribute to 
+achieving the objectives and results of the NOFO. 
+
+The Applicant should succinctly outline an inclusive leadership approach that will create a 
+shared common vision and purpose that builds trust and recognizes the value and 
+contribution of all consortium members . 
+
+● 
+Institutional Capability and Past Performance (included in the page count) 
+USAID/India understands that achievement of desired outcomes relies on the overall 
+performance of an organization. For this reason, USAID/India will evaluate both the Applicant 
+and all proposed consortium members. Not only will technical capacity be examined, but also 
+the ability of each consortium member to work with each other, focused on a common purpose. 
+Past performance information must be provided related to the specific technical nature of the 
+activity. The Applicant must provide recent performance information for each consortium 
+member (as an Annex; no longer than one page per organization). The Applicant is strongly 
+encouraged to provide specific examples of significant impact of their past projects and how 
+cooperation in prior partnerships/consortia contributed to that impact. 
+
+USAID will determine the relevance (complexity, scope, size and magnitude) of 
+similar performance information as a predictor of probable performance under the subject 
+requirement. USAID will consider relevant projects successfully performed during the 
+past 3 to 5 years to be “recent performance information”. 
+
+The Applicant should address the following points: 
+
+1. Demonstrated successful experience in managing and implementing similar programs, in 
+size and scale, preferably in South and South East Asia; 
+2. Timeliness of performance, cost, and scope; and 
+3. How the Headquarters management team contributed to success, if applicable. 
+20 | Page 
+
+
+(b) Phase 2 – Oral Presentation Instructions 
+Based on USAID’s merit review of Concept Papers, only Applicant/s whose concept papers are 
+rated high will be invited to an oral presentation via video conferencing. The order of 
+presentation among the selected Applicants will be randomly determined by the Agreement 
+Officer. 
+
+Applicants who will be invited to the Oral Presentations will be notified promptly as to the date 
+of their scheduled presentation. They should expect at least one(1) week notice before their 
+scheduled oral presentation. At the time of the invitation, USAID will provide the initial 
+discussion items based on the review of Concept Papers. 
+
+Oral Presentations are a condition of award as technical discussions will also occur at this stage. 
+The video conference joining instruction will be provided prior to the scheduled date. 
+
+The audience for the Oral Presentation will consist of the Selection Committee (SC) and the 
+Agreement Officer. The Agreement Officer will chair the Oral Presentations. While the Concept 
+Paper will be presented in PowerPoint format, the remaining discussions will be in Question 
+and Answer (Q&A) format with some time for consultation among members of the presenting 
+team. Each team member should be an expert and should use the PowerPoint to present the 
+salient/important points of the Concept Paper without reading the slide contents verbatim to the 
+audience. Team members must be able to actively participate in the discussion of subsequent 
+Q&A. 
+
+The Oral Presentation Agenda will be shared with the applicants who reach Phase 2. Each oral 
+presentation will be evaluated and scored by the SC in accordance with the merit review criteria 
+set forth under Section E.3 of this NOFO. In the presentation, the applicant should summarize 
+their concept note while also addressing the questions raised by USAID on concept note 
+submitted in Phase 1. During oral presentation the applicant should also explain how data 
+collection, analysis and reporting of performance data will be managed under the project; and 
+how monitoring and evaluation data will be shared and used to inform program learning and 
+adaptive management. In addition, in accordance with the Guiding Principle on Learning and 
+Adapting, the Applicant should explain how it will utilize an adaptive learning approach to 
+ensure lessons gleaned from performance and context monitoring are incorporated into the 
+activity. The MEL approach should describe how routine assessments and internal evaluations 
+will be used to inform programmatic decision-making.The presentation should also give an 
+expanded list of indicators and targets (in addition to the five provided in the concept note 
+(Phase 1)) which are significant in achieving the activity results.The applicants selected for oral 
+presentation are required to present their detailed leverage plan. 
+
+Applicant Participants 
+
+The Applicant’s concept paper author/s and lead technical backstops must be part of the 
+presentation team. Selected Applicant is also highly encouraged to include participants from 
+proposed consortium members (if applicable). Selected Applicants are limited to five 
+participants and must be present for the presentation via video conference on the date and time 
+
+21 | Page 
+
+
+specified (to be provided in the ASA Notification Letter for Phase 2). 
+
+Notification 
+
+Upon completion of the oral presentations, USAID will inform the highly rated Applicant/s that 
+its application has been selected to proceed to the next stage of the review process. For the 
+selected applicant(s), USAID will provide a written summary (feedback) of their Oral 
+Presentation/Discussion to further guide the co-creation workshop preparation. Unsuccessful 
+Applicants will have the opportunity to request additional information following a notification 
+that they were not selected to proceed to the next phase. 
+
+USAID reserves the right to select another applicant from the pool of Selected Applicants in 
+phase 2 in case final agreement is not reached with the initially selected ASA in Phase 3. 
+
+(c) Phase 3 - Co-creation Workshop Instructions 
+The highly rated Applicant/s will develop the Program Description for the resulting Cooperative 
+Agreement in collaboration with USAID/India. Approximately two weeks after the notification, 
+a one-week co-creation workshop will be hosted by USAID/India. The workshop will be 
+conducted through videoconferencing and other forms of remote communication. This 
+workshop, participants will include the highly rated Applicant/s, USAID, and potentially other 
+stakeholders, will bring together the selected technical approach to further define program 
+activities. The highly rated Applicant/s will make a determination as to who will be the 
+appropriate representatives from its team/consortium. Other stakeholder inclusion in the 
+workshop will be determined by USAID at a later date (but before the workshop dates), and 
+likely set forth in the ASA Notification Letter for Phase 3. 
+
+The Program Description should include, at a minimum, expanded information on the 
+Applicant’s Technical Approach and Organizational Management and Staffing. In addition, the 
+Program Description will articulate its strategies in implementing its Monitoring, Evaluation 
+and Learning Methodology that will facilitate adapting learning and management (“Pause and 
+Reflect”). The Applicant must also demonstrate how it will apply adaptive management 
+techniques to inform program management and key decisions. 
+
+A highly rated applicant which may be the ASA should also anticipate commencing budget 
+formulation during this workshop, once a programmatic framework is in place, which clearly 
+illustrates how the ASA will accomplish the activity objectives. Additional logistics and content 
+of the workshop will be provided as part of the ASA Notification Letter for Phase 3. 
+
+Phase 3 – Technical and Cost/Business Application 
+
+Upon completion of the Co-creation Workshop, the ASA will be notified to submit a final 
+Technical and Cost/Business Application. Only electronic submission via email to the Agency 
+Point of Contact at indiarco@usaid.gov with a copy to vvats@usaid.gov will be accepted. 
+
+22 | Page 
+
+
+(1) Technical Application Instruction 
+The ASA will develop its Technical Application, which will be the Program Description of the 
+resulting Cooperative Agreement in collaboration with USAID. The Technical Application is 
+the most important part of consideration in making the award decision. It must demonstrate the 
+Applicant’s capabilities and expertise with respect to achieving the goals of this activity. It must 
+be specific, complete and presented concisely. The technical applications should not be more 
+than 45 pages. 
+
+Detailed format and content of the Technical Application will be developed together by the 
+ASA and USAID. 
+
+The Technical Application will include the Program Description co-created during the Co-
+creation Workshop. 
+
+As part of the final Technical Application, the ASA will also furnish the following (included in 
+the 45 page limit): 
+
+● 
+Gantt Chart of Program Activities 
+● 
+Rapid Start-Up Plan 
+● 
+Updated Program Organizational Chart 
+● 
+Curriculum Vitae of Key Personnel and other pertinent staff (management and technical 
+personnel) named in the Organizational Chart 
+● 
+Monitoring, Evaluation and Learning Plan 
+● 
+Draft Branding Strategy and Marking Plan 
+● 
+Environmental and climate risk mitigation 
+(2) Cost/Business Application Instruction 
+The Cost/Business Application must be submitted separately from the Technical Application. 
+The Applicant shall submit a budget broken down by program years and in detailed costs for 
+implementation of the program including the subrecipient's cost. The excel sheet should include 
+a summary budget. The budget breakdown must be presented in an unlocked Microsoft Excel 
+(version 2000 or later) spreadsheet with no hidden or locked cells/sheets. The budget 
+breakdown must be accompanied by a budget narrative which provides in detail the 
+assumptions made for each of the cost elements. The application must provide evidence that the 
+funds requested are reasonable and would be used in a cost-effective manner. 
+
+The Cost/Business Application must contain the following: 
+
+(i) Cover Page – containing the same information as the Technical Application cover page. 
+(ii) A summary of the budget must be submitted using Standard Form 424, 424A and 424B. 
+Forms can be retrieved from: 
+23 | Page 
+
+
+Instructions for SF424 
+http://www.grants.gov/web/grants/form-instructions/sf-424instructions.
+html 
+Application for 
+Federal Assistance 
+(SF-424) 
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+Instructions for SF424A 
+http://www.grants.gov/web/grants/form-instructions/sf-424ainstructions.
+html 
+Budget Information 
+(SF-424A) 
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+Instructions for SF424B 
+http://www.grants.gov/web/grants/form-instructions/sf-424binstructions.
+html 
+Assurances (SF424B) 
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+The cost application must consist of a summary budget in US dollars. The Applicant must sign 
+and submit the cost application standard form number SF-424 and SF-424A. 
+
+(iii) Detailed/itemized budget breakdown (provided in spreadsheet) 
+The budget breakdown should be presented along the following line items: 
+Line Item Year 1 Year 2 Year 3 Year 4 Year 
+5 
+Total 
+I. Personnel 
+II. Fringe Benefits 
+III. Allowance 
+IV. Travel and 
+Transportation 
+
+24 | Page 
+
+
+V. Trainings and 
+workshop 
+VI. Equipment and 
+Supplies 
+VII. Contractual 
+VIII.. Other Direct Costs 
+IX. Total Direct Costs 
+X. Indirect Costs (i.e., 
+overhead, G&A, etc.) 
+XI. Total Federal Cost 
+
+Detailed breakdown should include the following: 
+
+• Personnel – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. Direct salaries, wages and allowances must ’include position title, 
+salary rate, level of effort, and salary escalation factors. Specify the budget for the 
+portion of the Activity to be passed through to any subrecipients. See 2 CFR 200.330 
+for assistance in determining whether the sub-tier entity is a subrecipient or 
+contractor. The subrecipient budgets must align with the same requirements as the 
+Applicant’s budget, including those related to fringe and indirect costs. The name, 
+daily and annual salary, expected level of effort of each person charged to the 
+program; same information should be provided for Consultants. 
+• Fringe Benefits – (if applicable) If the Applicant has a fringe benefit rate approved 
+by an agency of the U.S. Government, the Applicant must use such rate and provide 
+evidence of its approval. If an Applicant does not have a fringe benefit rate 
+approved, the Applicant must propose a rate and explain how the Applicant 
+determined the rate. In this case, the Budget Narrative must include a detailed 
+breakdown of all items of fringe benefits (e.g., superannuation, gratuity, etc.) and the 
+costs of each, expressed in U.S. dollars and as a percentage of salaries. 
+• Allowances: Allowances must be broken down by specific type and by person and 
+must be in accordance with the Applicant’s policies. All salaries, benefits and 
+allowances must be based on written compensation policies of the organization. 
+
+25 | Page 
+
+
+Allowances should be in accordance with the applicant’s policies and the applicable 
+regulations and policies. Explain assumptions in the Budget Narrative. If the 
+organization has standing policies across all projects for annual salary escalations 
+that exceed current inflation rates, those policies and the effective date of those 
+policies must be provided with the application. The Applicant must also confirm that 
+the policy applies to all staff across all projects. 
+
+• Travel and Transportation: Travel, per diem and other transportation expenses must 
+be detailed in the financial plan to include the number of international trips, from 
+where to where, number of per diem days and rates. Per diem and other travel 
+allowances must be based on written travel policies of the employer organization 
+(Applicant may choose to refer to the Federal Standardized Travel Regulations for 
+cost estimates). 
+• Equipment: Detail all equipment to be purchased, including the type of equipment, 
+the manufacturer, the unit cost, the number of units to be purchased and the expected 
+geographic source. The Budget Narrative must include the purpose of the equipment 
+and supplies and the basis for the estimates. 
+• Supplies: Detail all materials and supplies expected to be purchased, including type, 
+unit cost, and number of units. The budget narrative must include the purpose of 
+supplies and the basis for the estimates. 
+• Contractual: Detail of all contractual, sub-recipients and sub-grants. Separate budget 
+breakdown (using the same line item breakdown of the prime Applicant) for each 
+sub-recipient/sub-award 
+• Indirect cost: must be supported with information (i.e., Negotiated Indirect Cost Rate 
+Agreement) to substantiate the calculation of the indirect cost. 
+• Other Direct Cost: This may include other costs not elsewhere specified, such as 
+report preparation costs, passports and visas fees, medical exams and inoculations, as 
+well as any other miscellaneous costs which directly benefit the Activity proposed 
+by the applicant. The applicant should indicate the subject, venue and duration of 
+any proposed conferences and seminars, and their relationship to the objectives of 
+the Activity, along with estimates of costs. Otherwise, the narrative should be 
+minimal. 
+• For commercial organizations, no profit or fee shall be included in the budget. All 
+reasonable and allowable expenses, both direct and indirect, which are related to the 
+program and are in accordance with applicable cost principles under 2 CFR 200 and 
+2 CFR 700 
+(iv) Budget Narrative 
+The budget narrative should explain all budget assumptions and how the costs are derived. It 
+26 | Page 
+
+
+will provide information regarding the basis of estimates for each line item, including reference 
+to source used to estimate the costs (i.e., organization’s policy, payroll document, vendor 
+quotes, etc.) 
+
+(v) Other administrative documentation 
+a. Evidence of responsibility 
+The Agreement Officer requires from the Applicant certain documents to be submitted in order 
+to determine the Applicant’s responsibility as well as to assess USAID’s risk should an award 
+be made. The information submitted shall substantiate that the Applicant: 
+
+• Has adequate financial, management and personnel resources and systems or the ability to 
+obtain such resources as required during the performance of the award; 
+• Has the ability to comply with the award conditions, taking into account all existing and 
+currently prospective commitments of the Applicant, non-governmental and governmental; 
+• Has a satisfactory record of performance. Past relevant unsatisfactory performance is 
+ordinarily sufficient to justify a finding of non-responsibility, unless there is clear evidence 
+of subsequent satisfactory performance; 
+• Has a satisfactory record of integrity and business ethics; and 
+• Is otherwise qualified and eligible to receive a cooperative agreement under applicable 
+laws and regulations. 
+b. Indirect cost rate justification 
+A copy of the Applicant organization’s current Negotiated Indirect Cost Rate Agreement 
+(NICRA), if it has one with a U.S. Federal Agency. Applicant and proposed subawardee(
+s)/partner(s) that do not currently have a NICRA from their cognizant agency (USAID 
+or another U.S. Federal Agency) must also submit copies of the partners’ financial reports for 
+the previous 3-year period, which have been audited by a certified public accountant or other 
+auditor satisfactory to USAID. 
+
+● 
+Reviewed financial statements that provide the user with comfort that, based on the 
+accountant’s review, the accountant is not aware of any material modifications that should 
+be made to the financial statements for the statements to be in conformity with the 
+applicable financial reporting framework. During a review engagement, the Accountant 
+obtains limited assurance that there are no material modifications that should be made to 
+the financial statements. Therefore, the objective of a review of the financial statements is 
+to obtain limited assurance that there are no material modifications that should be made to 
+the financial statements. A review does not contemplate obtaining an understanding of the 
+entity’s internal control; assessing fraud risk; testing accounting records; or other 
+procedures ordinarily performed in an audit. The CPA issues a report stating the review 
+was performed in accordance with Statements on Standards for Accounting and Review 
+Services; that management is responsible for the preparation and fair presentation of the 
+financial statements in accordance with the applicable financial reporting framework and 
+for designing, implementing and maintaining internal control relevant to the preparation. 
+27 | Page 
+
+
+● 
+Audited financial statements that provide the user with the auditor’s opinion that the 
+financial statements are presented fairly, in all material respects, in conformity with the 
+applicable financial reporting framework. In an audit, the auditor is required by auditing 
+standards generally accepted in the United States of America (GAAS) to obtain an 
+understanding of the entity’s internal control and assess fraud risk. The auditor also 
+corroborates the amounts and disclosures included in the financial statements by obtaining 
+audit evidence through inquiry, physical inspection, observation, third-party 
+confirmations, examination, analytical procedures and other procedures. The auditor 
+issues a report that states that the audit was conducted in accordance with GAAS, the 
+financial statements are the responsibility of management, provides an opinion that the 
+financial statements present fairly in all material respects the financial position of the 
+company and the results of operations are in conformity with the applicable financial 
+reporting framework (or issues a qualified opinion if the financial statements are not in 
+conformity with the applicable financial reporting framework. The auditor may also issue 
+a disclaimer of opinion or an adverse opinion if appropriate). 
+Applicants that have not received a grant, cooperative agreement or contract from the U.S. 
+Government are required to submit a copy of their accounting manual. 
+
+c. Proof of Business Registration to conduct business in India 
+d. The applicant must complete the following documents and submit a signed copy with 
+their application: 
+(1) “Certifications, Assurances, Representations, and Other Statements of the Recipient” 
+document found at https://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf. 
+((2) Assurances for Non-Construction Programs (SF-424B) 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of 
+Compliance if your organization’s systems have been certified by 
+USAID/Washington’s Office of Acquisition and Assistance (M/OAA). 
+e. Proof of Duns and SAM registration. 
+USAID may not award to an Applicant until the Applicant has complied with all applicable 
+unique entity identifier and System for Award Management (SAM) requirements. The 
+Applicant is required to: 
+
+● 
+Be registered in SAM before submitting its full application 
+● 
+Provide valid unique identifier (DUNS number) in its application; and, 
+● 
+Continue to maintain an active SAM registration with current information at all times during 
+which it has an active Federal award or an application or plan under consideration by a Federal 
+awarding agency. 
+28 | Page 
+
+
+The registration process may take several weeks to complete. Therefore, Applicants are 
+
+encouraged to obtain them early to be eligible for an award under this NOFO. 
+
+DUNS number: http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.sam.gov 
+
+Completion of an early registration does not constitute any commitment on the part of the U.S. 
+
+Government to make an award. 
+
+f. Consortium arrangements 
+If the Applicant has established a consortium or another legal relationship among its partners, the 
+Cost/Business application must include a copy of the legal relationship between the parties. The 
+agreement should include a full discussion of the relationship between the Applicant and SubApplicant(
+s) including identification of the Applicant with whom USAID will work with for 
+purposes of Agreement administration, identity of the Applicant which will have accounting 
+responsibility, how Agreement effort will be allocated and the express agreement of the 
+principals thereto to be held jointly and severely liable for the acts or omissions of the other. 
+
+g. Negotiation 
+Upon consideration of award or during the negotiations leading to an award, Applicants may be 
+
+required to submit additional documentation deemed necessary for the Agreement Officer to 
+
+make an affirmative determination of responsibility. Applicants should not submit the 
+
+information below with their applications! The information in this section is provided so that 
+
+Applicant may become familiar with additional documentation that may be requested by the 
+
+Agreement Officer: 
+
+● 
+Bylaws, constitution, and articles of incorporation, if applicable. 
+● 
+Whether the organizational travel, procurement, financial management, accounting 
+manual and personnel policies and procedures, especially regarding salary, 
+promotion, leave, differentials, etc., submitted under this section have been reviewed 
+and approved by any agency of the Federal Government, and if so, provide the 
+name, address, and phone number of the cognizant reviewing official. The Applicant 
+should provide copies of the same. 
+END OF SECTION D 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+29 | Page 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+E.1 Criteria 
+All applications will be reviewed in accordance with the review criteria set forth below. The 
+purpose of the merit process is to identify an Applicant with the best approach to achieve the 
+CABH Activity objectives and results, as described in Section A. 
+
+The criteria presented below have been tailored to the requirements of this NOFO. Applicants 
+should note that these criteria serve to: (a) identify the significant matters that Applicants should 
+address in their applications, and (b) set the standards against which applications will be 
+evaluated. 
+
+The criteria listed below are presented so that Applicants will know which areas require 
+emphasis in the preparation of their applications during the appropriate phase. 
+
+E.2 Review and selection Process 
+Phase 1 – Concept Paper 
+The concept paper should be written from a comprehensive viewpoint that shows innovations 
+and approaches proposed by the Applicant and lays out how the Applicant is uniquely capable 
+of achieving the objectives and results set forth in Section A. See also Section D5(a). 
+
+The concept paper will be reviewed based on the following merit criteria. The criteria listed 
+below are presented in order of importance – Factor 1 is the most important factor, and Factor 2 
+is more important than Factor 3. 
+
+(a) Factor 1 - Technical Approach 
+Applicants will be evaluated on: 
+
+● 
+The extent to which the Applicant clearly articulates its innovative and feasible technical 
+approach for each of the core areas set forth in section A and convincingly demonstrates 
+the rationale of how it will achieve the desired objectives/results of the CABH Activity, 
+including the indicators and proposed targets. 
+● 
+The extent to which the applicant demonstrates ability to leverage funds and engage 
+with the private sector to help achieve the objectives. 
+● 
+The justification for geographies where their interventions will be conducted. 
+● 
+The extent to which the Applicant clearly demonstrates how it will engage with GOI 
+ministries and agencies, state level agencies, the private sector and other relevant 
+stakeholders, and how its approach will maintain the sustainability of the activity results. 
+(b) Factor 2- Organizational Management and Staffing 
+Applicants will be evaluated on the extent to which the Applicant’s well-articulated 
+management plan and staffing plan demonstrates how the Applicant will effectively and 
+
+30 | Page 
+
+
+efficiently achieve the activity objectives and results.The applicant will also be evaluated based 
+on clarity on roles and responsibilities of consortium members and skills of key personnel. 
+
+(c) Factor 3 - Institutional Capability and Past Performance 
+Applicants will be evaluated on the degree to which the Applicant convincingly demonstrates 
+through its past experience that it possesses the institutional capacity to successfully implement 
+the proposed intervention to achieve the project objectives and results. 
+
+Institutional capacity and past performance records for both Applicant and its proposed 
+consortium members will be closely reviewed and evaluated for their relevance and 
+performance experience on similar projects performed within the last 3-5 years. Relevance is 
+defined as projects performed of a similar scope, magnitude and scale. The Applicant and its 
+partners have the technical and management experience and skills to implement the proposed 
+interventions. 
+
+Performance information will be used for responsibility determination. USAID may use 
+performance information obtained from sources other than those identified by the Applicant. 
+USAID will utilize existing databases of agreements performance information, if any, and 
+solicit additional information from the references provided in and from other sources if and 
+when the Agreement Officer finds the existing databases to be insufficient for evaluating an 
+applicant’s performance. 
+
+In cases where an Applicant lacks relevant past performance history or in which information on 
+past performance is not available, the Applicant will not be evaluated favorably or unfavorably 
+on past performance. In such cases the Applicant will be rated “neutral”. The “neutral” rating 
+provided to these applicants is at the Agreement Officer's discretion based on the past 
+performance ratings for all other applicants. Prior to assigning a "neutral" past performance 
+rating, the Agreement Officer may take into account a broad range of information related to an 
+applicant’s past performance. 
+
+E.3 Phase 2 – Oral Presentation 
+The applicant will be evaluated based on how effectively the applicant responds to the questions 
+and clarifications raised by USAID on the technical approach, organizational management and 
+staffing, the MEL approach - how MEL is aligned with the activity theory of change, how 
+information and knowledge from learning and strategic collaboration will be utilized to inform 
+programmatic adaptations and decision-making; and the level of ambition in establishing 
+realistic and achievable indicators and targets to achieve the project objectives and results. 
+
+E.4 Phase 3 – Co-Creation 
+Only those who succeed from the Phase 2 Merit Review will be invited to join the co-creation 
+phase which will result in the submission of Final Technical and Cost/Business 
+Applications for final evaluation. USAID reserves the right to select another Applicant from 
+the pool of Phase 2 merit review participants in case final agreement is not reached with the 
+
+31 | Page 
+
+
+initially selected Applicant reaching Phase 3. 
+
+E.5 Final Technical Application/Program Description 
+There will be no evaluation factors during Phase 3 (Co Creation Workshop) but the resulting 
+Program Description on the basis of which ASA will submit the technical application will be 
+incorporated into the resulting Cooperative Agreement. The technical application is the most 
+important part of consideration in making the award decision. 
+
+At this stage, USAID/India will evaluate the Final Technical Application of the ASA as 
+“Acceptable” or “Unacceptable”. In the event that negotiations fail to improve the ASA’s final 
+technical application/program description, the Agreement Officer may determine the application 
+as “Unacceptable”. 
+
+E.6 Cost/Business Review 
+During the Co-creationWorkshop, USAID/India and the ASA will commence negotiation 
+regarding the anticipated costs associated with implementing the Program Description. 
+Following the Workshop, the ASA will finalize a Cost/Business Application based upon the 
+discussions. 
+
+The Cost/Business Application will be reviewed separately from the Technical Application. 
+Although Cost/Business Application will not be rated, the Applicant should have a structure that 
+will allow it to provide the greatest value (highest result) at a reasonable cost. 
+
+The Agency will evaluate the cost/business application of the applicant(s) under consideration 
+for an award as a result of the merit criteria review to determine whether the costs are allowable 
+in accordance with the cost principles found in 2 CFR 200 Subpart E and to ensure that all 
+compliance requirements have been satisfied and the Agreement Officer can make an 
+affirmative determination of responsibility. 
+
+Cost will be reviewed for general completeness, reasonableness, allowability and allocability. 
+Cost realism is an assessment of the accuracy with the proposed costs and represents the most 
+probable cost of performance within the Applicant’s technical and management approach. Cost 
+realism review will be performed as part of the review process to: 
+
+(i) verify the Applicant’s understanding of the activity objective; 
+(ii) assess the degree to which the cost application reflects the approaches and/or risk 
+assessments made in the technical application as well as the risk that the Applicant will 
+provide the supplies or services for the offered cost; and 
+(iii) assess the degree to which the cost included in the cost application accurately 
+represents the work effort included in the technical application. 
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a preaward 
+survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+
+32 | Page 
+
+
+objectives of the program and comply with the terms and conditions of the award. Depending 
+on the result of the risk assessment, the AO will decide to execute the award, not execute the 
+award, or award with “specific conditions” (2 CFR 200.208). 
+
+END OF SECTION E 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+33 | Page 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+F.1 Federal Award Notices 
+The notice of award will be provided electronically to the successful applicant’s point of contact 
+listed in the application. Notification will also be made electronically to unsuccessful applicants 
+pursuant to ADS 303.3.7.1.b. For the successful application, USAID may reach out to the 
+applicant with clarifying questions and a request for a revised application by a specified date. 
+USAID reserves the right to award without requesting clarifications or additional detail on an 
+application. 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have 
+been appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential applicants are hereby 
+notified of these requirements and conditions for the award. The Agreement Officer is the only 
+individual who may legally commit the Government to the expenditure of public funds. No 
+costs chargeable to the proposed Agreement may be incurred before receipt of either a fully 
+executed Agreement or a specific, written authorization from the Agreement Officer. 
+
+Applicants are advised that costs incurred prior to receipt of either a fully executed Agreement 
+(in electronic or print form) or a specific, written authorization from the Agreement Officer are 
+not allowable and therefore are ineligible for reimbursement under the Agreement. The 
+Agreement Officer will also provide written notification electronically to the unsuccessful 
+Applicants’ Points of Contact. Requests for additional information from unsuccessful Applicants 
+will not be considered. 
+
+F.2 Administrative & National Policy Requirements 
+The resulting cooperative agreement will be administered in accordance with the following 
+policies and regulations. : 
+
+For U.S. Non-governmental organizations 
+● 
+2 CFR 700 https://www.ecfr.gov/cgi-bin/textidx?
+SID=531ffcc47b660d86ca8bbc5a64eed128&mc=true&node=pt2.1.700&rgn=div5 
+● 
+2 CFR 200 https://ecfr.gov/cgi-bin/textidx?
+tpl=/ecfrbrowse/Title02/2cfr200_main_02.tpl 
+
+● 
+ADS 303maa, Standard Provisions for U.S. Non-governmental Organizations 
+https://www.usaid.gov/sites/default/files/documents/303mab.pdf 
+
+For Non-U.S. Non-governmental organizations 
+
+● 
+ADS 303mab, Standard Provisions for Non-U.S. Non-governmental Organizations 
+https://www.usaid.gov/sites/default/files/documents/303mab.pdf 
+
+For Public International Organizations (PIOs) 
+
+● 
+ADS 308mab, Standard Provisions for Cost-Type Awards to PIOs 
+https://www.usaid.gov/sites/default/files/documents/308mab.pdf 
+
+34 | Page 
+
+
+USAID/India Office of Acquisition and Assistance (OAA) will administer this award. The AO 
+will designate an AOR to review, concur and/or approve on items outlined in Substantial 
+Involvement (Section B.3 of this NOFO). 
+
+F.3 Reporting Requirements 
+The Recipient will adhere to all reporting requirements listed below; further, US Nongovernmental 
+organizations need to be in compliance with 2 CFR 200 and 2 CFR 700 
+(specifically 2 CFR 200.327-329). 
+
+The Recipient will submit all reports by the due date for approval from the Agreement Officer’s 
+Representative (AOR). The Recipient will consult with the AOR on the format and content 
+prior to submission. In addition to the reports below, the AOR may request additional 
+information to contribute to the internal USAID project reviews. 
+
+F.4 Program Income 
+If the successful applicant is a non-profit organization, any program income generated under the 
+award will be added to USAID funding (and any cost-sharing that may be provided, if 
+applicable), and used for program purposes. However, pursuant to 2 CFR 200.307 Program 
+Income, if the successful Applicant is a for-profit or commercial organization, any program 
+income generated under the award will be deducted from the U.S. Government share of this 
+award to determine the amount of USAID funding. 
+
+Program income will be subject to 2 CFR 200.307 for U.S. NGOs or the standard provision 
+entitled Program Income for non-U.S. NGOs. If the successful Applicant is/are a PIO, any 
+program income generated under the award will be added to USAID funding (and any non-
+USAID funding that may be provided) and used for program purposes. 
+
+F.5 Environmental Compliance 
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered and that USAID include environmental 
+sustainability as a central consideration in designing and carrying out its development programs. 
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ads/200/), 
+which, in part, require that the potential environmental impacts of USAID-financed activities 
+are identified prior to a final decision to proceed and that appropriate environmental safeguards 
+are adopted for all activities. 
+
+1a) Respondent environmental compliance obligations under these regulations and procedures 
+are specified in the following paragraphs of this Notice of Funding Opportunity. 
+
+1b) In addition, the recipient must comply with host country environmental regulations unless 
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+regulations, the latter shall govern. 
+
+35 | Page 
+
+
+1c) No activity funded under this award will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). 
+(Hereinafter, such documents are described as “approved Regulation 216 environmental 
+documentation.”) 
+
+An Initial Environmental Examination (IEE) will be prepared and approved during the co-
+creation and selection of various components for this activity. Prior to award, USAID will 
+approve the IEE and also make it publicly available in the USAIS’s environmental compliance 
+database. The IEE will cover activities expected to be implemented under this award. The 
+recipient shall be responsible for implementing all IEE conditions pertaining to activities to be 
+funded after the award. 
+
+2a) As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient, in 
+collaboration with the USAID Cognizant Technical Officer and Mission Environmental Officer 
+or Bureau Environmental Officer, as appropriate, shall review all ongoing and planned activities 
+under this award to determine if they are within the scope of the approved Regulation 216 
+environmental documentation. 
+
+2b) If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written 
+USAID approval of environmental documentation amendments. 
+
+2c) Any ongoing activities found to be outside the scope of the approved Regulation 216 
+environmental documentation shall be halted until an amendment to the documentation is 
+submitted and written approval is received from USAID. 
+
+3) If the approved Regulation 216 documentation is (1) an IEE that contains one or more 
+Negative Determinations with conditions and/or (2) an Environmental Assessment (EA), the 
+recipient shall: 
+3a) Unless the approved Regulation 216 documentation contains a complete environmental 
+mitigation and monitoring plan (EMMP) or a project mitigation and monitoring (M&M) plan, 
+the recipient shall prepare an EMMP or M&M Plan describing how the recipient will, in 
+specific terms, implement all IEE and/or EA conditions that apply to proposed project activities 
+within the scope of the award. The EMMP or M&M Plan shall include monitoring the 
+implementation of the conditions and their effectiveness. 
+
+3b) Integrate a completed EMMP or M&M Plan into the initial work plan. 
+
+3c) Integrate an EMMP or M&M Plan into subsequent Annual Work Plans, making any 
+necessary adjustments to activity implementation in order to minimize adverse impacts to the 
+
+36 | Page 
+
+
+environment. 
+
+4a) Cost and technical applications must reflect environmental compliance costs and 
+approaches. 
+
+4b) Recipient will be expected to comply with all conditions specified in the approved IEE 
+and/or EA. 
+
+4c) If an IEE, as developed, includes a Positive Determination for one or more activities, the 
+recipient will be required to develop and submit an EA addressing these activities. 
+
+5a) USAID anticipates that environmental compliance and achieving optimal development 
+outcomes for the proposed activities will require environmental management expertise. 
+Respondents to the NOFO should therefore include as part of their application their approach to 
+achieving environmental compliance and management, to include: 
+
+5b) The respondent’s approach to implementing an IEE or EA. 
+
+5c) The respondent’s approach to providing necessary environmental management expertise, 
+including examples of past experiences of environmental management of similar activities. 
+
+5d) The respondent’s illustrative budget for implementing the environmental compliance 
+activities. For the purposes of this solicitation, applicants should reflect illustrative costs for 
+environmental compliance implementation and monitoring in their cost proposal. 
+
+F.6 ADS 303.3.35.2 Covered Telecommunication and Video Surveillance Equipment or 
+Services (Effective Date: 08/18/2020 
+Effective August 13, 2020, a recipient may not procure covered telecommunication equipment 
+or services for the implementation of their program using award funds. 2 CFR 200.216, 
+applicable to US organizations, and the standard provision “Prohibition on Certain 
+Telecommunication and Video Surveillance Services or Equipment” applicable to non-US 
+NGOs, implement Section 889(b) of the John S. McCain National Defense Authorization Act 
+(NDAA) for Fiscal Year 2019 (Pub. L. 115-232) that prohibits the use of award funds, 
+including direct and indirect costs, cost share and program income, to procure covered 
+telecommunication and video surveillance services or equipment. The statute covers certain 
+telecommunications equipment and services produced or provided by Huawei Technologies 
+Company or ZTE Corporation, Hytera Communications Corporation, Hangzhou Hikvision 
+Digital Technology Company, or Dahua Technology Company (or any subsidiary or affiliate of 
+such entities). 
+Such covered telecommunication equipment or services must not be reimbursed to the recipient 
+as a direct or indirect cost or accepted as part of cost share. Additionally, the recipient must not 
+use any program income generated under the award to purchase covered telecommunication 
+equipment or services. 
+
+37 | Page 
+
+
+F.7 Procurement of “Covered Material” 
+1. Except as provided in paragraph 2 below, and notwithstanding anything in this [award or 
+contract] to the contrary, no funds under this [award or contract] may be used for the 
+procurement of “Covered Material” as listed below without the prior written consent of the 
+[Contracting/Agreement] Officer. For purposes of this [provision or special contract 
+requirement], “Covered Material” shall consist of the following: 
+● 
+Surgical N95 Filtering Facepiece Respirators, including devices that are 
+disposable half-face-piece non-powered air-purifying particulate respirators intended 
+for use to cover the nose and mouth of the wearer to help reduce wearer exposure to 
+pathogenic biological airborne particulates; 
+● 
+PPE surgical masks, including masks that cover the user’s nose and mouth and 
+provide a physical barrier to fluids and particulate materials; 
+● 
+PPE nitrile gloves, including those defined at 21 CFR 880.6250 (exam gloves) 
+and 878.4460 (surgical gloves) and such nitrile gloves intended for the same 
+purposes; and 
+● 
+Level 3 and 4 Surgical Gowns and Surgical Isolation Gowns that meet all of the 
+requirements in ANSI/AAMI PB70 and ASTM F2407-06 and are classified by 
+Surgical Gown Barrier Performance based on AAMI PB70. 
+For clarity, non-medical grade masks, including cloth masks, are not included in the list of 
+Covered Material above. Further, USAID may modify the list of Covered Material from time-
+to-time, in writing; any such changes to the list shall apply prospectively. 
+
+2. The restrictions set forth in paragraph 1 above shall not apply to the procurement of Covered 
+Material: 
+(a) for the protection of and use by the [recipient’s or contractor’s] or sub-[recipient’s or 
+contractor’s] staff; or 
+(b) for the safe and effective continuity of USAID-funded programs, including for the 
+protection of beneficiaries, provided that such items are manufactured locally or in the 
+same geographical region as the country in which USAID is providing assistance, as 
+defined by the U.S. Department of State’s regional system (Africa, East Asia and the 
+Pacific, Europe and Eurasia, Near East, South and Central Asia, and Western 
+Hemisphere), and provided that such items are not, and could not reasonably be 
+expected to be, meant for the United States market. 
+The AO may change the exemptions set forth in this paragraph in writing; any such changes 
+shall apply prospectively. 
+
+38 | Page 
+
+
+3. “Staff” for the purposes of the Exception in 2(a) is defined as any individuals receiving 
+financial compensation from the recipient or contractor or sub-recipient or subcontractor. 
+4. For each purchase of Covered Material under Exception 2(b), the recipient or contractor 
+must provide the AO/CO with contemporaneously dated documentation that the order of 
+Covered Material is not meant for, and could not reasonably be meant for, the U.S. market. The 
+AO/CO will then upload the statement into ASIST. This documentation can take the form of a 
+simple email verification from a vendor or a brief, contemporaneously dated, written statement 
+or e-mail from the recipient or contractor confirming its conversation with the vendor. 
+F.8 Program Reporting 
+The Recipient must submit a copy of each report required by this Agreement to the Agreement 
+Officer, the AOR, and the Development Experience Clearinghouse (DEC). Submission to the 
+DEC must be through the public-facing and searchable DEC Website (http://dec.usaid.gov). 
+
+The title page of all reports forwarded to USAID must include a descriptive title, the author's 
+name, Cooperative Agreement number, the project number and title, the Recipient’s name, the 
+name of the USAID office, and the publication or issuance date of the report. 
+
+(1) Annual Implementation Plan 
+The Recipient must work with USAID to develop and submit an initial annual implementation 
+work plan within 45 calendar days of the effective date of the award. Subsequent annual 
+implementation plans will be submitted within 30 days before the start of the succeeding fiscal 
+year. The AOR will review and approve the plan within 15 calendar days after receipt of the 
+draft implementation plan. 
+
+The implementation plan must include, at a minimum: 
+
+● 
+Proposed accomplishments and expected progress towards achieving program results and 
+performance measures tied to the Monitoring, Evaluation and Learning (MEL) Plan 
+● 
+Timeline for implementation of the year’s proposed interventions, including target 
+completion dates 
+● 
+Information on how interventions will be put in place 
+● 
+Gender Action Plan that will define how gender will be integrated in the activity cycle 
+● 
+Environmental Risk Mitigation Plan which will describe how environmental compliance 
+and climate risk management will be integrated into activity interventions 
+● 
+Personnel requirements to achieve expected outcomes 
+● 
+Details of collaboration with other major partners 
+● 
+Annual budget with estimates of projected monthly expenditures 
+(2) Monitoring, Evaluation and Learning (MEL) Plan 
+The MEL Plan must describe the agreed upon framework of goals, outcomes, and outputs for 
+the program, along with performance indicators, baselines and targets defined for each, and sex
+
+
+39 | Page 
+
+
+disaggregated where appropriate. The MEL Plan must describe the evaluative work that the 
+implementing partner will conduct for its own management decision-making, institutional 
+learning, and accountability purposes (see ADS 203.3.1, as revised, for more detailed guidance). 
+
+During the first sixty (60) days after the award is made, the Recipient will work closely with the 
+USAID AOR to finalize its MEL Plan. The plan must identify specific indicators for measuring 
+the following aspects of the recipient’s performance: 
+
+● 
+progress toward meeting program objectives and sub-objectives; 
+● 
+time frame for achieving these objectives and sub-objectives; 
+The Recipient will collaborate with the USAID AOR to review/update its MEL Plan, and to 
+monitor and report to USAID. 
+
+Both quantitative and qualitative indicators need to be developed and special attention paid to 
+data sources, collection methods, and data quality assessment. 
+
+Program monitoring and evaluation comprises an essential component of this cooperative 
+agreement for the following reasons: 
+
+● 
+informs USAID of progress; 
+● 
+enables detailed and on-going design of activities and sub-activities; 
+● 
+builds counterparts’ capacity to collect and analyze the data for sound decision-making; 
+and 
+At a minimum, the MEL Plan must include the following: 
+
+▪ 
+Automated and other methods used to gather, store, manipulate, summarize, analyze, 
+and/or report performance data. 
+▪ 
+Procedures for regular communication with USAID regarding the status of monitoring 
+activities, including a means for early notification of problems. 
+▪ 
+Means of addressing a discovered lack of progress or success. Procedures will focus on 
+learning from mistakes, analyzing them, and ascertaining the reason for missteps. 
+▪ 
+A learning and research agenda and how this agenda will help achieve activity level 
+results and contribute to national and international knowledge and learning. 
+▪ 
+Information about all activities to be monitored under the MEL Plan. The list of activities 
+must be provided in a logical framework which: 
+▪ 
+Links activities to Agreement results—both those dictated by USAID in the program 
+description and lower level or complementary results contained in the Recipient’s 
+approach. 
+▪ 
+Describes assumptions being made about the relationship of the activity to the Agreement 
+result. 
+▪ 
+Identifies the indicators against which progress is to be measured. Includes methods to be 
+used for monitoring 
+40 | Page 
+
+
+▪ 
+Provides an illustrative schedule for discrete monitoring activities tied to the overall 
+program implementation plan. 
+● 
+Gender Consideration: 
+To the greatest extent possible, the Recipient should seek to include both men and women in all 
+aspects of this program including participation and leadership in e.g., meetings, training, etc. 
+The Recipient must collect, analyze and submit to USAID sex-disaggregated data and proposed 
+actions that will address any identified gender-related issues. 
+
+In order to ensure that USAID assistance makes the maximum optimal contribution to gender 
+equality, performance management systems and evaluations must include gender-sensitive 
+indicators and sex-disaggregated data when the technical analyses supporting the Agreement 
+demonstrates that: 
+
+▪ 
+The different roles and status of women and men affect the activities to be undertaken; and 
+▪ 
+The anticipated results of the work would affect women and men differently. 
+(3) Quarterly Performance Reports 
+The Recipient will submit quarterly reports that give insight into the progress of planned 
+activities. Such reports follow USAID fiscal quarters, i.e., Quarter 1 covers October-
+December; Quarter 2 covers January-March; Quarter 3 covers April-June; Quarter 4 covers 
+July-September. The quarterly report is due within 30 days after the fiscal quarter’s end. In lieu 
+of the fourth quarter report, the Recipient will submit an Annual Progress Report (see Section 
+F.4(4)4 below). 
+
+The narrative report will include qualitative and quantitative information describing activities 
+
+carried out and specific results achieved during the quarter. In addition, the narrative report 
+
+will indicate key implementation challenges encountered and how they were, or are planned to 
+
+be, resolved. To the extent where MEL Plan includes quarterly targets, this should be reflected 
+
+in the narrative report. 
+
+(4) Annual Progress Reports 
+The Recipient must submit an annual progress report within 30 days after the end of the fiscal 
+year to cover annual performance from the fiscal year. At a minimum, both quarterly and annual 
+progress reports will contain: 
+
+● 
+Progress (interventions completed, benchmarks achieved, and performance 
+standards completed) made since the last report by region and province as 
+applicable 
+● 
+Problems encountered and whether they were solved or are still outstanding 
+● 
+Proposed solutions to new or ongoing problems 
+● 
+Success stories 
+● 
+Security concerns 
+● 
+Information on new opportunities for program expansion 
+41 | Page 
+
+
+● 
+Qualitative data on program achievement and results 
+● 
+Updated/filled MEL Plan, as an attachment 
+● 
+Documentation of the best practices that can be taken to scale 
+● 
+Progress to date on sustainability, gender and environmental mitigation plans 
+● 
+Update on monthly expenditures for the quarter vis-à-vis annual budget 
+(5) Financial Reporting: 
+(a) Quarterly Financial Report 
+The Recipient must submit the Federal Financial Form (SF-425) quarterly, no later than 30 days 
+after the end of the quarter to the Agreement Officer Representative (AOR) and the Controller. 
+
+Electronic copies of SF-425 and instructions for using it can be found at: 
+
+http://www.forms.gov/bgfPortal/docDetails.do?dId=15149 
+
+(b) Final Financial Report 
+Within 90 days following the estimated completion date of this award, the Recipient must 
+submit to the: (a) USAID/Washington, M/CFO/CMP-LOC Unit; (b) Agreement Officer 
+(indirco@usaid.gov ); (c) Controller (indiarfmo@usaid.gov ); and (c) Agreement 
+Officer Representative (AOR). 
+
+(c) Foreign Tax Reports 
+Reporting of foreign taxes under this agreement shall follow the standard provision entitled 
+“Reporting Host Government Taxes” in this award. 
+
+ Host government taxes are not allowable where the Agreement Officer provides the necessary 
+means to the recipient to obtain an exemption or refund of such taxes, and the recipient fails to 
+take reasonable steps to obtain such exemption or refund. Otherwise, taxes are allowable in 
+accordance with the Standard Provision, “Applicability of 2 CFR 200 and 2 CFR 700,” and 
+must be reported as required in this provision. 
+
+The Recipient must include this reporting requirement in all applicable sub-agreements, 
+including subawards and contracts. 
+
+(6) Close-out Plan 
+No later than six (6) months prior to the completion date of the agreement, the Recipient will 
+submit a close-out plan for the Agreement Officer (AO) approval. The close-out plan shall 
+
+include: 
+
+● 
+Draft property disposition plan 
+● 
+Plan for the phase-out of in-country operations 
+● 
+Delivery schedule for all reports or other deliverables required under the 
+agreement 
+42 | Page 
+
+
+● 
+Timetable for completing all required actions in the close-out plan, including 
+submission date of the final property disposition plan to the AO. 
+(7) Final Report 
+The Recipient must submit, within ninety (90) days following the expiration of this cooperative 
+agreement, a detailed final report. The final report will cover the entire period of the award and 
+will include, but is not limited to: 
+
+(i) executive summary; 
+(ii) overall description of the activities and methods of assistance used under the Program 
+during the period of this Cooperative Agreement, and the significance of these activities; 
+(iii) brief description of the cumulative results towards achieving the program objectives and the 
+performance indicators, as well as an analysis of how the indicators illustrate the program’s 
+impact on the accomplishment of the program’s overall objectives; 
+(iv) an assessment of impact of the program in assisting USAID in meeting targets, as well as 
+any unmet targets and the reasons for them; 
+(v) section reporting on gender, sustainability and institutionalization, environmental 
+compliance and climate risk mitigation; 
+(v) success stories; 
+(vi) discussion on the issues and problems that emerged during program implementation and 
+how they were overcome; 
+(vii) cost-effectiveness; 
+(viii) lessons learned; and 
+(ix) recommendations for USAID’s future interventions. 
+The final/completion report shall also contain an index of all reports and information products 
+produced under this agreement. 
+
+F.9 Branding & Marking 
+It is a federal statutory and regulatory requirement that all USAID programs, projects, activities, 
+public communications, and commodities that USAID partially or fully funded under a USAID 
+grant or cooperative agreement or other assistance award or sub-award, must be marked 
+appropriately overseas with the USAID identity. See Section 641, Foreign Assistance Act of 
+1961, as amended and 2 CFR 700.16. 
+
+Under the regulation, USAID requires the submission of a Branding Strategy and a Marking 
+Plan by the Apparently Successful Applicant, as defined in the regulation. A Branding 
+Implementation Strategy and Marking Plan must be in accordance with USAID Branding and 
+Marking Plan as required per ADS 320 at the following link: 
+
+https://www.usaid.gov/sites/default/files/documents/1868/320.pdf 
+
+The Branding and Marking Plan may include a request for a waiver or exceptions to marking 
+requirements established in 2 CFR 700.16. The Agreement Officer is responsible for evaluating 
+and approving the Branding Strategy and Marking Plan (including any request for exceptions 
+
+43 | Page 
+
+
+and waiver) of the ASA, consistent with the provisions ”Branding Strategy”, “Marking Plan”, 
+and “Marking of USAID-funded Assistance Awards” contained in AAPD 05-11 and in 2 CFR 
+
+700.16. Please note that in contrast to “exception” to marking requirements, waivers based on 
+circumstances in the host country must be approved by the Mission Director or other USAID 
+Principal Officers, see 1 CFR 700.16(j). 
+END OF SECTION F 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+44 | Page 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+G.1 AGENCY POINT OF CONTACT(POC) FOR QUESTIONS 
+Agency Point of Contact 
+
+Name: Armando Espinosa 
+
+Title: Agreement Officer 
+
+Email: aespinosa@usaid.gov 
+
+Above is the Points of contact (POC) for questions while the funding opportunity is open. 
+
+All prospective Applicants must send their questions in writing by the due date and time 
+specified on the cover page of this NOFO in order to allow a reply to reach all prospective 
+Applicants before the submission of their Initial Application. Oral explanations or instructions 
+given before award will not be binding. Any information given to a prospective Applicant 
+concerning this NOFO will be furnished promptly to all other prospective Applicants as an 
+amendment of this NOFO if that information is necessary in submitting applications or if lack 
+of it would be prejudicial to any other prospective Applicants. 
+
+END OF SECTION G
+
+ THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+45 | Page 
+
+
+SECTION H: OTHER INFORMATION 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of 
+public funds. Any award and subsequent incremental funding will be subject to the availability 
+of funds and continued relevance to Agency programming. 
+
+ATTACHMENTS: 
+
+1. Annex 1: Certifications, Assurances, Other Statement of the Recipient and Solicitations 
+Standard Provisions 
+2. Annex 2: Past Performance Questionnaire 
+3. Annex 3: Preliminary Gender Equality and Social Inclusion Analysis 
+END OF SECTION H
+
+ THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+46 | Page 
+
+
+ANNEX 1: CERTIFICATIONS, ASSURANCES, OTHER STATEMENTS OF THE 
+RECIPIENT AND SOLICITATIONS STANDARD PROVISIONS 
+
+The following certifications are required for full application submissions in Phase 3. 
+
+Certification, Assurances, Other Statements of the Recipient and Solicitation Standard Provisions 
+can be at website http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+Part I – Certifications and Assurances 
+Part II – Key Individual Certification Narcotics Offenses and Drug Trafficking 
+Part III – Participant Certification Narcotics Offenses and Drug Trafficking 
+Part IV – Representation by Organization Regarding a Delinquent Tax or a Felony 
+
+Criminal Conviction 
+Part V – Other Statements of Recipient 
+Part VI – Standard Provisions for Solicitations 
+
+CERTIFICATIONS, ASSURANCES, OTHER STATEMENTS OF THE RECIPIENT 
+AND SOLICITATIONS STANDARD PROVISIONS 
+
+NOTE: When these Certifications, Assurances, and other Statements of Recipient are used for 
+cooperative agreements, the term 'Grant' means 'Cooperative Agreement'
+
+ 1. Assurance of Compliance with Laws and Regulations Governing NonDiscrimination 
+in Federally Assisted Programs 
+Note: This certification applies to Non-U.S. organizations if any part of the program will 
+be undertaken in the United States. 
+
+(a) The recipient hereby assures that no person in the United States will, on the bases set forth 
+below, be excluded from participation in, be denied the benefits of, or be otherwise subjected 
+to discrimination under, any program or activity receiving financial assistance from USAID, 
+and that with respect to the Cooperative Agreement for which application is being made, it 
+will comply with the requirements of: 
+47 | Page 
+
+
+(1) Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352, 42 U.S.C. 2000-d), which 
+prohibits discrimination on the basis of race, color or national origin, in programs and activities 
+receiving Federal financial assistance; 
+(2) Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), which prohibits 
+discrimination on the basis of handicap in programs and activities receiving Federal 
+financial assistance; 
+(3) The Age Discrimination Act of 1975, as amended (Pub. L. 95-478), which prohibits 
+discrimination based on age in the delivery of services and benefits supported with 
+Federal funds; 
+(4) Title IX of the Education Amendments of 1972 (20 U.S.C. 1681, et seq.), which 
+prohibits discrimination on the basis of sex in education programs and activities receiving 
+Federal financial assistance (whether or not the programs or activities are offered or 
+sponsored by an educational institution); and 
+(5) USAID regulations implementing the above nondiscrimination laws, set forth in Chapter 
+II of Title 22 of the Code of Federal Regulations. 
+(b) If the recipient is an institution of higher education, the Assurances given herein extend to 
+admission practices and to all other practices relating to the treatment of students or clients of 
+the institution, or relating to the opportunity to participate in the provision of services or other 
+benefits to such individuals, and must be applicable to the entire institution unless the recipient 
+establishes to the satisfaction of the USAID Administrator that the institution's practices in 
+designated parts or programs of the institution will in no way affect its practices in the program 
+of the institution for which financial assistance is sought, or the beneficiaries of, or participants 
+in, such programs. 
+2. Certification Regarding Lobbying 
+The undersigned certifies, to the best of his or her knowledge and belief, that: 
+
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the 
+undersigned, to any person for influencing or attempting to influence an officer or employee of 
+any agency, a Member of Congress, an officer or employee of Congress, or an employee of a 
+Member of Congress in connection with the awarding of any Federal contract, the making of 
+any Federal Cooperative Agreement, the making of any Federal loan, the entering into of any 
+cooperative agreement, and the extension, continuation, renewal, amendment or modification 
+of any Federal contract, grant, loan, or cooperative agreement. 
+48 | Page 
+
+
+(2) If any funds other than Federal appropriated funds have been paid or will be paid to 
+any person for influencing or attempting to influence an officer or employee of any 
+agency, a member of Congress, an officer or employee of Congress, or an employee of a 
+Member of Congress in connection with this Federal contract, grant, loan, or cooperative 
+agreement, the undersigned must complete and submit Standard Form-LLL, “Disclosure of 
+Lobbying Activities,” in accordance with its instructions. 
+(3) The undersigned must require that the language of this certification be included in the 
+award documents for all subawards at all tiers (including contracts, subawards, and contracts 
+under grants, loans, and cooperative agreements) and that all subrecipients must certify and 
+disclose accordingly. 
+This certification is a material representation of fact upon which reliance was placed when this 
+transaction was made or entered into. Submission of this certification is a prerequisite for 
+making or entering into this transaction imposed by section 1352, title 31, United States Code. 
+Any person who fails to file the required certification will be subject to a civil penalty of not 
+less than $10,000 and not more than $100,000 for each such failure. 
+
+3. Statement for Loan Guarantees and Loan Insurance 
+“The undersigned states, to the best of his or her knowledge and belief, that: If any funds 
+
+have been paid or will be paid to any person for influencing or attempting to influence an 
+
+officer or employee of any agency, a Member of Congress, an officer or employee of 
+
+Congress, or an employee of a Member of Congress in connection with this commitment 
+
+providing for the United States to insure or guarantee a loan, the undersigned must complete 
+
+and submit Standard Form-LLL, “Disclosure Form to Report Lobbying,” in accordance with 
+
+its instructions. 
+
+Submission of this statement is a prerequisite for making or entering into this transaction 
+
+imposed by section 1352, title 31, U.S. Code. Any person who fails to file the required 
+
+statement will be subject to a civil penalty of not less than $10,000 and not more than 
+
+$100,000 for each such failure.” 
+
+4. Prohibition on Assistance to Drug Traffickers for Covered Countries and Individuals 
+(ADS 206) 
+USAID reserves the right to terminate this Agreement, to demand a refund or take other 
+appropriate measures if the Grantee is found to have been convicted of a narcotics offense or 
+to have been engaged in drug trafficking as defined in 22 CFR Part 140. The undersigned 
+must review USAID ADS 206 to determine if any certifications are required for Key 
+Individuals or Covered Participants. 
+If there are COVERED PARTICIPANTS: USAID reserves the right to terminate assistance to 
+or take other appropriate measures with respect to, any participant approved by USAID who is 
+
+49 | Page 
+
+
+found to have been convicted of a narcotics offense or to have been engaged in drug 
+trafficking as defined in 22 CFR Part 140. 
+
+5. Certification Regarding Terrorist Financing, Implementing Executive Order 13224 
+By signing and submitting this application, the prospective recipient provides the certification 
+set out below: 
+
+1. The Recipient, to the best of its current knowledge, did not provide, within the 
+previous ten years, and will take all reasonable steps to ensure that it does not and will not 
+knowingly provide, material support or resources to any individual or entity that commits, 
+attempts to commit, advocates, facilitates, or participates in terrorist acts, or has 
+committed, attempted to commit, facilitated, or participated in terrorist acts, as that term is 
+defined in paragraph 3. The certification in the preceding sentence will not be deemed 
+applicable to material support or resources provided by the Recipient pursuant to an 
+authorization contained in one or more applicable licenses issued by the U.S. Treasury’s 
+Office of Foreign Assets Control (OFAC). 
+2. The following steps may enable the Recipient to comply with its obligations 
+under paragraph 1: 
+a. Before providing any material support or resources to an individual or entity, the Recipient 
+will verify that the individual or entity does not (i) appear on the master list of Specially 
+Designated Nationals and Blocked Persons, which is maintained by OFAC, or (ii) is not 
+included in any supplementary information concerning prohibited individuals or entities that 
+may be provided by USAID to the Recipient. 
+b. Before providing any material support or resources to an individual or entity, the Recipient 
+also will verify that the individual or entity has not been designated by the United Nations 
+Security (UNSC) sanctions committee established under UNSC Resolution 1267 (1999) (the 
+“1267 Committee”) [individuals and entities linked to the Taliban, Usama bin Laden, or the 
+Al- Qaida Organization]. To determine whether there has been a published designation of an 
+individual or entity by the 1267 Committee, the Recipient should refer to the consolidated list 
+available online at the Committee’s Web site: 
+http://www.un.org/Docs/sc/committees/1267/1267ListEng.htm. 
+
+c. Before providing any material support or resources to an individual or entity, the 
+Recipient will consider all information about that individual or entity of which it is aware 
+and all public information that is reasonably available to it or of which it should be aware. 
+d. The Recipient also will implement reasonable monitoring and oversight procedures 
+to safeguard against assistance being diverted to support terrorist activity. 
+50 | Page 
+
+
+3. For purposes of this Certification – 
+a. “Material support and resources” means currency or monetary instruments or financial 
+securities, financial services, lodging, training, expert advice or assistance, safehouses, false 
+documentation or identification, communications equipment, facilities, weapons, lethal 
+substances, explosives, personnel, transportation, and other physical assets, except medicine 
+or religious materials.” 
+(i) “Training" means instruction or teaching designed to impart a 
+specific skill, as opposed to general knowledge. 
+(ii) “Expert advice or assistance" means advice or assistance derived 
+from scientific, technical, or other specialized knowledge. 
+b. “Terrorist act” means -
+(i) an act prohibited pursuant to one of the 12 United Nations 
+Conventions and Protocols related to terrorism (see UN terrorism conventions 
+Internet site: http://untreaty.un.org/English/Terrorism.asp); or 
+(ii) an act of premeditated, politically motivated violence 
+perpetrated against noncombatant targets by subnational groups or 
+clandestine agents; or 
+(iii) any other act intended to cause death or serious bodily injury to a 
+civilian, or to any other person not taking an active part in hostilities in a situation 
+of armed conflict, when the purpose of such act, by its nature or context, is to 
+intimidate a population, or to compel a government or an international organization 
+to do or to abstain from doing any act. 
+c. “Entity” means a partnership, association, corporation, or other organization, 
+group or subgroup. 
+d. References in this Certification to the provision of material support and resources must not 
+be deemed to include the furnishing of USAID funds or USAID-financed commodities to the 
+ultimate beneficiaries of USAID assistance, such as recipients of food, medical care, micro- 
+enterprise loans, shelter, etc., unless the Recipient has reason to believe that one or more of 
+these beneficiaries commits, attempts to commit, advocates, facilitates, or participates in 
+terrorist acts, or has committed, attempted to commit, facilitated or participated in terrorist acts. 
+e. The Recipient’s obligations under paragraph 1 are not applicable to the procurement of 
+goods and/or services by the Recipient that are acquired in the ordinary course of business 
+51 | Page 
+
+
+through contract or purchase, e.g., utilities, rents, office supplies, gasoline, etc., unless the 
+Recipient has reason to believe that a vendor or supplier of such goods and services commits, 
+attempts to commit, advocates, facilitates, or participates in terrorist acts, or has committed, 
+attempted to commit, facilitated or participated in terrorist acts. 
+
+This Certification is an express term and condition of any agreement issued as a result of this 
+application, and any violation of it will be grounds for unilateral termination of the agreement 
+by USAID prior to the end of its term. 
+
+6. Certification Regarding Trafficking in Persons, Implementing Title XVII of the National 
+Defense Authorization Act for Fiscal Year 2013 
+Note: This certification must be completed prior to receiving an award if the estimated value 
+of services required to be performed under the award outside the United States exceeds 
+$500,000. This certification must also be submitted annually to the Agreement Officer during 
+the term of the award. 
+
+By signing below, the applicant or recipient, as applicable, through its duly designated 
+representative, after having conducted due diligence, hereby certifies the following: 
+
+1. The application/recipient has implemented procedures to prevent any activities described 
+in section (a) of the Mandatory Provision “Trafficking in Persons” and to monitor, detect, and 
+terminate any contractor, subawardee, employee, or other agent of the applicant/recipient 
+engaging in any activities described in such section; and 
+2. To the best of the representative’s knowledge, neither the applicant/recipient, nor 
+any employee, contractor, or subawardee of the applicant/recipient, nor any agent of the 
+applicant/recipient or of such a contractor or subawardee, is engaged in any of the activities 
+described in section (a) the Mandatory Provision “Trafficking in Persons.” 
+7. Certification of Recipient 
+By signing below the recipient provides certifications and assurances for (1) the Assurance 
+
+of Compliance with Laws and Regulations Governing NonDiscrimination in Federally 
+
+Assisted Programs, (2) the Certification Regarding Lobbying, (3) the Prohibition on 
+
+Assistance to Drug Traffickers for Covered Countries and Individuals (ADS 206), (4) the 
+
+Certification Regarding Terrorist Financing Implementing Executive Order 13224, and (5) 
+
+the Certification Regarding Trafficking in Persons above. 
+
+These certifications and assurances are given in consideration of and for the purpose of 
+
+obtaining any and all Federal grants, loans, contracts, property, discounts, or other Federal 
+
+financial assistance extended after the date hereof to the recipient by the Agency, including 
+
+52 | Page 
+
+
+installment payments after such date on account of applications for Federal financial 
+assistance that was approved before such date. The recipient recognizes and agrees that such 
+Federal financial assistance will be extended in reliance on the representations and agreements 
+made in these assurances, and that the United States will have the right to seek judicial 
+enforcement of these assurances. These assurances are binding on the recipient, its successors, 
+transferees, and assignees, and the person or persons whose signatures appear below are 
+authorized to sign these assurances on behalf of the recipient. 
+
+Request for Application or Annual Program Statement No. 
+
+Application No. 
+Date of Application 
+Name of Recipient 
+Typed Name and Title 
+
+Signature 
+
+Date 
+
+53 | Page 
+
+
+Part II – Key Individual Certification Narcotics Offenses and Drug Trafficking 
+
+I hereby certify that within the last ten years: 
+
+1. I have not been convicted of a violation of, or a conspiracy to violate, any law or regulation 
+of the United States or any other country concerning narcotic or psychotropic drugs or other 
+controlled substances. 
+2. I am not and have not been an illicit trafficker in any such drug or controlled substance. 
+3. I am not and have not been a knowing assistor, abettor, conspirator, or colluder with others 
+in the illicit trafficking in any such drug or substance. 
+Signature: 
+Date: 
+Name: 
+Title/Position: 
+Organization: 
+Address: 
+Date of Birth: 
+
+NOTICE: 
+
+1. You are required to sign this Certification under the provisions of 22 CFR Part 140, 
+Prohibition on Assistance to Drug Traffickers. These regulations were issued by the 
+Department of State and require that certain key individuals of organizations must sign this 
+Certification. 
+2. If you make a false Certification you are subject to U.S. criminal prosecution under 18 
+U.S.C. 1001. 
+54 | Page 
+
+
+Part III – Participant Certification Narcotics Offenses and Drug Trafficking 
+
+1. I hereby certify that within the last ten years: 
+a. I have not been convicted of a violation of, or a conspiracy to violate, any law or regulation 
+of the United States or any other country concerning narcotic or psychotropic drugs or other 
+controlled substances. 
+b. I am not and have not been an illicit trafficker in any such drug or controlled substance. 
+c. I am not or have not been a knowing assistor, abettor, conspirator, or colluder with others 
+in the illicit trafficking in any such drug or substance. 
+2. I understand that USAID may terminate my training if it is determined that I engaged in 
+the above conduct during the last ten years or during my USAID training. 
+Signature: 
+
+Name: 
+
+Date: 
+
+Address: 
+Date of Birth: 
+
+NOTICE: 
+
+1. You are required to sign this Certification under the provisions of 22 CFR Part 140, 
+Prohibition on Assistance to Drug Traffickers. These regulations were issued by the 
+Department of State and require that certain participants must sign this Certification. 
+2. If you make a false Certification you are subject to U.S. criminal prosecution under 18 
+U.S.C. 1001. 
+55 | Page 
+
+
+Part IV – Representation by Organization Regarding a Delinquent Tax Liability or a 
+Felony Criminal Conviction 
+
+(a) As required by sections 744 and 745 of Division E of the Consolidated and Further 
+Continuing Appropriations Act, 2015 (Pub. L. 113-235), and similar provisions, if contained 
+in subsequent appropriations acts, none of the funds made available by that Act may be used 
+to enter into an assistance award with any organization that – 
+(1) “Was convicted of a felony criminal violation under any Federal law within the preceding 
+24 months, where the awarding agency has direct knowledge of the conviction, unless the 
+agency has considered, in accordance with its procedures, that this further action is not 
+necessary to protect the interests of the Government”; or 
+(2) “Has any unpaid Federal tax liability that has been assessed for which all judicial and 
+administrative remedies have been exhausted or have lapsed, and that is not being paid in a 
+timely manner pursuant to an agreement with the authority responsible for collecting the tax 
+liability, where the awarding agency has direct knowledge of the unpaid tax liability, unless 
+the Federal agency has considered, in accordance with its procedures, that this further action 
+is not necessary to protect the interests of the Government”. 
+It is USAID’s policy that no award may be made to any organization covered by (1) or (2) 
+above, unless the M/OAA Compliance Division has made a determination that suspension 
+or debarment is not necessary to protect the interests of the Government. 
+
+(b) Applicant Representation: 
+(1) The Applicant represents that it is [ ] is not [ ] an organization that was convicted of a 
+felony criminal violation under a Federal law within the preceding 24 months. 
+(2) The Applicant represents that it is [ ] is not [ ] an organization that has any unpaid Federal 
+tax liability that has been assessed for which all judicial and administrative remedies have been 
+exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an 
+agreement with the authority responsible for collecting the tax liability. 
+56 | Page 
+
+
+Part V – Other Statements of Recipient 
+
+1. Authorized Individuals 
+The recipient represents that the following persons are authorized to negotiate on its behalf 
+with the Government and to bind the recipient in connection with this application or grant: 
+Name Title: 
+Telephone No. 
+Facsimile No. 
+
+2. Taxpayer Identification Number (TIN) 
+If the recipient is a U.S. organization, or a foreign organization which has income 
+effectively connected with the conduct of activities in the U.S. or has an office or a place 
+of business or a fiscal paying agent in the U.S., please indicate the recipient’s TIN: 
+
+TIN: 
+
+3. Data Universal Numbering System (DUNS) Number 
+(a) Unless otherwise specified in the solicitation using an applicable exemption, in the space 
+provided at the end of this provision, the recipient should supply the Data Universal 
+Numbering System (DUNS) number applicable to that name and address. Recipients should 
+take care to report the number that identifies the recipient's name and address exactly as stated 
+in the proposal. 
+(b) The DUNS is a 9-digit number assigned by Dun and Bradstreet Information Services. If 
+the recipient does not have a DUNS number, the recipient should call Dun and Bradstreet 
+directly at 1-800-333-0505. A DUNS number will be provided immediately by telephone at no 
+charge to the recipient. The recipient should be prepared to provide the following information: 
+(1) Recipient’s name. 
+(2) Recipient’s address. 
+(3) Recipient's telephone number. 
+57 | Page 
+
+
+(4) Line of business. 
+(5) Chief executive officer/key manager. 
+(6) Date the organization was started. 
+(7) Number of people employed by the recipient. 
+(8) Company affiliation. 
+(c) Recipients located outside the United States may email Dun and Bradstreet at 
+globalinfo@dbisma.com to obtain the location and phone number of the local Dun 
+and Bradstreet Information Services office. 
+The DUNS system is distinct from the Federal Taxpayer Identification Number (TIN) 
+
+system. DUNS: 
+
+4. Letter of Credit (LOC) Number 
+If the recipient has an existing Letter of Credit (LOC) with USAID, please indicate the 
+LOC number: 
+LOC: 
+
+5. Procurement Information 
+(a) Applicability. This applies to the procurement of goods and services planned by the 
+recipient (i.e., contracts, purchase orders, etc.) from a supplier of goods or services for the 
+direct use or benefit of the recipient in conducting the program supported by the grant, and not 
+to assistance provided by the recipient (i.e., a subgrant or subagreement) to a subgrantee or 
+subrecipient in support of the subgrantee’s or subrecipient's program. Provision by the recipient 
+of the requested information does not, in and of itself, constitute USAID approval. 
+(b) Amount of Procurement. Please indicate the total estimated dollar amount of goods 
+and services which the recipient plans to purchase under the grant: 
+$ ______________________ 
+
+(c) Nonexpendable Property. If the recipient plans to purchase nonexpendable equipment 
+which would require the approval of the Agreement Officer, indicate below (using a continuation 
+page, as necessary) the types, quantities of each, and estimated unit costs. Nonexpendable 
+equipment for which the Agreement Officer's approval to purchase is required is any article of 
+58 | Page 
+
+
+nonexpendable tangible personal property charged directly to the grant, having a useful life of 
+more than one year and an acquisition cost of $5,000 or more per unit. 
+
+TYPE/DESCRIPTION (Generic) _______________ 
+
+QUANTITY _______________________________ 
+
+ESTIMATED UNIT COST ____________ 
+
+(d) Source If the recipient plans to purchase any goods/commodities which are not in 
+accordance with the Standard Provision “USAID Eligibility Rules for Procurement of 
+Commodities and Services,” indicate below (using a continuation page, as necessary) the 
+types and quantities of each, estimated unit costs of each, and probable source. “Source” 
+means the country from which a commodity is shipped to the cooperating country or the 
+cooperating country itself if the commodity is located in the cooperating country at the time of 
+purchase. However, where a commodity is shipped from a free port or bonded warehouse in 
+the form in which received, “source” means the country from which the commodity was 
+shipped to the free port or bonded warehouse. Additionally, “available for purchase” includes 
+“offered for sale at the time of purchase” if the commodity is listed in a vendor’s catalog or 
+other statement of inventory, kept as part of the vendor’s customary business practices and 
+regularly offered for sale, even if the commodities are not physically on the vendors’ shelves 
+or even in the source country at the time of the order. In such cases, the recipient must 
+document that the commodity was listed in the vendor’s catalog or other statement of 
+inventory; that the vendor has a regular and customary business practice of selling the 
+commodity through “just in time” or other similar inventory practices; and the recipient did 
+not engage the vendor to list the commodity in its catalog or other statement of inventory just 
+to fulfill the recipient’s request for the commodity. 
+TYPE/DESCRIPTION __________
+
+QUANTITY __________________ 
+
+ESTIMATED GOODS ___________________ 
+
+PROBABLE GOODS _____________________ 
+
+PROBABLE (Generic) __________________ 
+
+UNIT COST _________________________ 
+
+SOURCE ___________________ 
+
+(e) Restricted Goods. If the recipient plans to purchase any restricted goods, indicate below 
+(using a continuation page, as necessary) the types and quantities of each, estimated unit costs 
+of each, intended use, and probable source. Restricted goods are Agricultural Commodities, 
+59 | Page 
+
+
+Motor Vehicles, Pharmaceuticals, Pesticides, Used Equipment, U.S. Government-Owned 
+Excess Property, and Fertilizer. 
+
+TYPE/DESCRIPTION ______________
+
+QUANTITY ___________________ 
+ESTIMATED _______________ 
+PROBABLE 
+
+INTENDED USE (Generic) ________________ 
+UNIT COST _____________________ 
+SOURCE ______________________ 
+
+(f) Supplier Nationality. If the recipient plans to purchase any goods or services from 
+suppliers of goods and services whose nationality is not in accordance with the Standard 
+Provision “USAID Eligibility Rules for Procurement of Commodities and Services,” indicate 
+below (using a continuation page, as necessary) the types and quantities of each good or 
+service, estimated costs of each, probable nationality of each non-U.S. supplier of each good 
+or service, and the rationale for purchasing from a non-U.S. supplier. 
+TYPE/DESCRIPTION _____________
+QUANTITY _______________ 
+ESTIMATED ___________
+PROBABLE SUPPLIER _______________ 
+NATIONALITY _______________ 
+RATIONALE (Generic) ________ 
+UNIT COST (Non-US Only) _____________ 
+FOR NON-US ________________ 
+
+6. Past Performance References 
+On a continuation page, please provide past performance information requested in the RFA. 
+
+7. Type of Organization 
+The recipient, by checking the applicable box, represents that - 
+
+(a) If the recipient is a U.S. entity, it operates as [ ] a corporation incorporated under the laws 
+of the State of, [ ] an individual, [ ] a partnership, [ ] a nongovernmental nonprofit organization, 
+[ ] a state or local governmental organization, [ ] a private college or university, [ ] a public 
+college or university, [ ] an international organization, or [ ] a joint venture; or 
+60 | Page 
+
+
+(b) If the recipient is a non-U.S. entity, it operates as [ ] a corporation organized under the 
+laws of _____ (country), [ ] an individual, [ ] a partnership, [ ] a nongovernmental 
+nonprofit organization, [ ] a nongovernmental educational institution, [ ] a governmental 
+organization, [ ] an international organization, or [ ] a joint venture. 
+8. Estimated Costs of Communications Products 
+The following are the estimate(s) of the cost of each separate communications product (i.e., 
+any printed material [other than non-color photocopy material], photographic services, or 
+video production services) which is anticipated under the grant. Each estimate must include 
+all the costs associated with preparation and execution of the product. Use a continuation page 
+as necessary. 
+
+61 | Page 
+
+
+Part VI – Standard Provisions for Solicitations 
+
+(Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award 
+will also contain the following “required as applicable” Standard Provisions: 
+
+Please note that the resulting award will include all standard provisions (both mandatory 
+and required as applicable) in full text. 
+
+1. Branding Strategy – Assistance (June 2012) 
+a. Applicants recommended for an assistance award must submit and negotiate a 
+"Branding Strategy," describing how the program, project, or activity is named and positioned, 
+and how it is promoted and communicated to beneficiaries and host country citizens. 
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, 
+confers no rights to the applicant and constitutes no USAID commitment to an award. 
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by 
+the Agreement Officer will make the applicant ineligible for an award. 
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, in 
+the budget portion of the application. These costs are subject to the revision and negotiation 
+with the Agreement Officer and will be incorporated into the Total Estimated Amount of the 
+grant, cooperative agreement or other assistance instrument. 
+e. The Branding Strategy must include, at a minimum, all of the following: 
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+plaques, stickers, banners, press events, materials, and so forth. 
+(2) The intended name of the program, project, or activity. 
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the USAID logo 
+and brandmark, with the tagline “from the American people” as found on the USAID Web site 
+at http://www.usaid.gov/branding, unless Section F of the RFA or APS states that the USAID 
+Administrator has approved the use of an additional or substitute logo, seal, or tagline. 
+(ii) It is acceptable to cobrand the title with the USAID Identity and the applicant's identity. 
+62 | Page 
+
+
+(iii) If branding in the above manner is inappropriate or not possible, the applicant must 
+explain how USAID's involvement will be showcased during publicity for the program or 
+project. 
+(iv) USAID prefers to fund projects that do not have a separate logo or identity that competes 
+with the USAID Identity. If there is a plan to develop a separate logo to consistently identify 
+this program, the applicant must attach a copy of the proposed logos. Section F of the RFA or 
+APS will state if an Administrator approved the use of an additional or substitute logo, seal, or 
+tagline. 
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+(4) Planned communication or program materials used to explain or market the program 
+to beneficiaries. 
+(i) Describe the main program message. 
+(ii) Provide plans for training materials, posters, pamphlets, public service announcements, 
+billboards, Web sites, and so forth, as appropriate. 
+(iii) Provide any plans to announce and promote publicly this program or project to host 
+country citizens, such as media releases, press conferences, public events, and so forth. 
+Applicant must incorporate the USAID Identity and the message, “USAID is from the 
+American People.” 
+(iv) Provide any additional ideas to increase awareness that the American people support 
+this project or program. 
+(5) Information on any direct involvement from the host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+(6) Any other groups whose logo or identity the applicant will use on program materials and 
+related materials. Indicate if they are a donor or why they will be visibly acknowledged, and 
+if they will receive the same prominence as USAID. 
+e. The Agreement Officer will review the Branding Strategy to ensure the above information 
+is adequately included and consistent with the stated objectives of the award, the applicant's 
+cost data submissions, and the performance plan. 
+f. If the applicant receives an assistance award, the Branding Strategy will be included in 
+and made part of the resulting grant or cooperative agreement. 
+63 | Page 
+
+
+(END OF PROVISION)
+
+ 2. Marking Plan – Assistance (June 2012) 
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and other 
+items that will visibly bear the “USAID Identity,” which comprises of the USAID logo and 
+brandmark, with the tagline “from the American people.” The USAID Identity is the official 
+marking for the Agency, and is found on the USAID Web site at http://www.usaid.gov/branding. 
+Section F of the RFA or APS will state if an Administrator approved the use of an additional or 
+substitute logo, seal, or tagline. 
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers 
+no rights to the applicant and constitutes no USAID commitment to an award. 
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by 
+the Agreement Officer will make the applicant ineligible for an award. 
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget 
+portion of the application. These costs are subject to the revision and negotiation with the 
+Agreement Officer and will be incorporated into the Total Estimated Amount of the 
+grant, cooperative agreement or other assistance instrument. 
+
+e. The Marking Plan must include all of the following: 
+(1) A description of the public communications, commodities, and program materials that the 
+applicant plans to produce and which will bear the USAID Identity as part of the award, 
+including: 
+(i) Program, project, or activity sites funded by USAID, including visible infrastructure projects 
+or other sites physical in nature; 
+(ii) Technical assistance, studies, reports, papers, publications, audio-visual productions, 
+public service announcements, Web sites/Internet activities, promotional, informational, 
+media, or communications products funded by USAID; 
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, including 
+commodities or equipment provided under humanitarian assistance or disaster relief 
+programs; and 
+64 | Page 
+
+
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's identity. 
+(v) Events financed by USAID, such as training courses, conferences, seminars, exhibitions, 
+fairs, workshops, press conferences and other public activities. If the USAID Identity cannot 
+be displayed, the recipient is encouraged to otherwise acknowledge USAID and the support of 
+the American people. 
+(2) A table on the program deliverables with the following details: 
+(i) The program deliverables that the applicant plans to mark with the USAID Identity; 
+(ii) The type of marking and what materials the applicant will use to mark the 
+program deliverables; 
+(iii) When in the performance period the applicant will mark the program deliverables, 
+and where the applicant will place the marking; 
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+Identity , and 
+(v) The rationale for not marking program deliverables. 
+(3) Any requests for an exemption from USAID marking requirements, and an explanation 
+of why the exemption would apply. The applicant may request an exemption if USAID 
+marking requirements would: 
+(i) Compromise the intrinsic independence or neutrality of a program or materials where 
+independence or neutrality is an inherent aspect of the program and materials. The applicant 
+must identify the USAID Development Objective, Interim Result, or program goal furthered 
+by an appearance of neutrality, or state why an aspect of the award is presumptively neutral. 
+Identify by category or deliverable item, examples of material for which an exemption is 
+sought. 
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy recommendations 
+whose data or findings must be seen as independent. The applicant must explain why each 
+particular deliverable must be seen as credible. 
+(iii) Undercut host-country government “ownership” of constitutions, laws, regulations, 
+policies, studies, assessments, reports, publications, surveys or audits, public service 
+announcements, or other communications. The applicant must explain why each particular 
+item or product is better positioned as host-country government item or product. 
+65 | Page 
+
+
+(iv) Impair the functionality of an item. The applicant must explain how marking the item 
+or commodity would impair its functionality. 
+(v) Incur substantial costs or be impractical. The applicant must explain why marking would 
+not be cost beneficial or practical. 
+(vi) Offend local cultural or social norms, or be considered inappropriate. The applicant must 
+identify the relevant norm, and explain why marking would violate that norm or otherwise be 
+inappropriate. 
+(vii) Conflict with international law. The applicant must identify the applicable international 
+law violated by the marking. 
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and 
+will approve or disapprove any exemption requests. The Marking Plan will be reviewed to 
+ensure the above information is adequately included and consistent with the stated objectives of 
+the award, the applicant's cost data submissions, and the performance plan. 
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions, will be included in and made part of the resulting grant or cooperative 
+agreement, and will apply for the term of the award unless provided otherwise. 
+(END OF PROVISION) 
+
+[END OF ANNEX I] 
+
+66 | Page 
+
+
+ANNEX 2: PAST PERFORMANCE QUESTIONNAIRE 
+
+On the following pages, summarize the Applicant’s performance in each rating factor listed 
+below. Each factor has a set of sub factors with four possible adjectival ratings. Determine the 
+adjectival rating that most nearly represents your experience with this applicant and indicate your 
+assessment by placing an “X” under the appropriate heading. 
+
+Applicant performance factors are: 
+
+A. Institutional Capacity 
+B. Quality of Service 
+C. Timeliness of Performance 
+D. Teaming Arrangements 
+Adjectival ratings are defined below and should be used as a reference in assessing performance: 
+OUTSTANDING Applicant’s performance significantly exceeded the agreement 
+requirements. 
+GOOD Applicant’s performance exceeded the agreement requirements. 
+SATISFACTORY Applicant’s performance met agreement requirements. 
+UNSATISFACTORY Applicant’s performance was less than acceptable and was unable to 
+perform the agreement requirements successfully. 
+N/A Not applicable 
+
+67 | Page 
+
+
+A Institutional 
+Capacity 
+Outstanding Good 
+Acceptable Unsatis 
+factory N/A Additio 
+nal 
+Comm 
+ents 
+1. Did Applicant 
+provide effective 
+contract/agreement 
+and project 
+management? 
+2. How effective 
+has the 
+Applicant been 
+in understanding 
+and responding 
+to Customer’s 
+Organization? 
+3. Did the Applicant 
+establish and 
+maintain effective 
+quality control 
+standards and 
+procedures? 
+4. Did the Applicant 
+demonstrate cost 
+efficiencies in 
+performing the 
+required effort and 
+was the effort 
+performed within the 
+estimated cost/price? 
+
+B QUALITY OF 
+SERVICES 
+Outstandi 
+ng 
+Good Acceptable Unsatisfact 
+ory 
+N/A Additional 
+Comments 
+
+68 | Page 
+
+
+1. Did the Applicant 
+provide quality 
+services? 
+2. Did the Applicant 
+provide quality 
+reports and 
+documentation (i.e., 
+accurate,current and 
+complete)? 
+3. Was the Applicant 
+able to solve any 
+performance 
+problems without 
+extensive guidance 
+from the Customer 
+Organization 
+counterparts? 
+4. Did the 
+Applicant 
+supply 
+professional and 
+qualified 
+personnel? 
+5. Did the Applicant 
+respond to emerging 
+situations to include 
+staffing and 
+responsiveness? 
+C TIMELINESS OF 
+PERFORMANCE 
+Outstandi 
+ng 
+Good Acceptable Unsatisfact 
+ory 
+N/A Additional 
+Comments 
+1. Did the Applicant 
+adhere to the 
+deliverable/report 
+schedules in the: 
+(a) Performance of 
+Services? 
+
+69 | Page 
+
+
+(b) Delivery of 
+reports and other 
+documentation? 
+(c) Qualified 
+Staffing? 
+D TEAMING 
+ARRANGEMENTS 
+Outstanding Good Acceptable Unsatisfactory N/A Additional 
+Comments 
+1. Did the Applicant 
+have an effective 
+partnership with its 
+team members? 
+2. What percentage 
+of the 
+contract/agreement 
+work was 
+performed by 
+Applicant? 
+3. Did the Applicant 
+effectively manage 
+sub‐grant programs? 
+4. Did the Applicant 
+utilize local 
+organizations and/or 
+networks 
+effectively? 
+
+END OF PAST PERFORMANCE QUESTIONNAIRE 
+[END OF ANNEX 2] 
+
+70 | Page 
+
+
+ANNEX 3: PRELIMINARY GENDER EQUALITY AND SOCIAL INCLUSION 
+ANALYSIS 
+
+1. Background 
+Pursuant to Automated Directives System (ADS) 2058 and in alignment with the United States 
+Agency for International Development’s (USAID) ‘Gender Equality and Female Empowerment 
+Policy’9Individual Operating Units (OU) are responsible for conducting gender analyses at the 
+design stage of new projects/programs, and for ensuring that the Policy is implemented 
+throughout each stage of the Program Cycle. This Gender Analysis pertains to the design of 
+USAID/India’s ‘Pollution and Health Impacts’ project, which aims to enhance the Government 
+of India’s efforts to reduce pollution and its health impacts (PHI) by strengthening air pollution 
+mitigation systems and practices and reducing exposure. 
+
+USAID/India recently launched its new Country Development Cooperation Strategy (CDCS) in 
+January 2020. The new CDCS acknowledges that in order for India to accelerate its own 
+inclusive development and foster enhanced regional connectivity, all of its citizens must have 
+opportunities to participate in the nation’s development free of barriers related to gender, sex, 
+identity, geography, disability status or age. In the next five years USAID/India will measurably 
+contribute to gender equality and women’s empowerment (GEWE), prevent or respond to gender 
+based violence (GBV), and promote social inclusion. USAID will do this by: ensuring that all its 
+strategies, projects, and activity designs are informed by a gender and social inclusion analysis; 
+tracking indicators that measure change in social and gender norms and outcomes where 
+appropriate; and perhaps most importantly, increasing USAID’s understanding of how gender 
+and social inequality impacts India’s future progress. 
+
+The new CDCS emphasizes India’s efforts to reduce pollution and address health impacts. To 
+achieve its objectives of reducing pollution and mitigating its health effects, USAID will 
+improve air quality (IR2.1) and reduce exposure to air pollution (IR2.2), mainly through 
+expanded use of clean energy through public private partnerships (PPPs). These efforts are 
+designed to and will benefit all people. USAID will widen their impact by taking explicit account 
+of: (1) the disproportionate and severe health effects of household air pollution generated by 
+biomass cooking fuels on poor rural and urban women, men and children through transition 
+strategies that address this problem; and (2) the opportunity afforded to support women’s 
+
+8 U.S. Agency for International Development (USAID), ADS Chapter 205, “Integrating Gender Equality and 
+Female Empowerment in USAID’s Program Cycle,” 2017 (as revised) -
+https://www.usaid.gov/sites/default/files/documents/1870/205.pdf 
+9USAID, “Gender Equality and Female Empowerment Policy”, 2012 -
+
+https://www.usaid.gov/sites/default/files/documents/1865/GenderEqualityPolicy_0.pdf 
+
+71 | Page 
+
+
+employment and leadership throughout the energy value chain and foster innovations that 
+improve women’s access to and use of clean energy products. 
+
+It is important to note that a Gender Analysis is not a “woman’s analysis,” but needs to consider 
+the different threats, impacts, and opportunities of males and females. As such, this analysis 
+considers these questions and their social/economic implications throughout the various stages of 
+the PHI project (improve air pollution mitigation and reduce exposure to air pollution) program 
+cycle– from activity design and implementation, monitoring and evaluation (M&E), and learning 
+and adapting. Throughout the Gender Analysis and in the design and implementation of PHI 
+project, USAID and its partners will emphasize the importance of equitable provision of 
+services, as well as means to promote women to be actively engaged as decision-makers in 
+energy sector policies, and proportionately involved in various aspects of the value chain - not 
+only as consumers, but also in planning, and participants within the multiple sector workforces. 
+Core to this approach, is continuously measuring the level of men’s and women’s engagement. 
+
+2. Main Findings by Domain 
+Evidence of gender inequality in India is stark. India ranks 108 out of 149 countries included in 
+the World Economic Forum Global Gender Gap Index on the basis of four indicators: economic 
+participation and opportunity, educational attainment, health and survival, and political 
+empowerment, and specifically ranks 110 out of 149 countries for the Health and Survival index. 
+Per National Family Health Survey (NFHS-4) report, India has made remarkable progress in 
+reducing its maternal mortality ratio to 130 per 100,000 live births (2016), but the rate is still 
+high, particularly in the poorest states. There are 63 million “missing women” in India due to son 
+preference, sex selective abortions, and post-natal neglect of girls and women in nutrition and 
+healthcare. This highlights the disproportionate challenges that Indian women face across all 
+sectors. 
+
+Notwithstanding this situation, the GOI has recognized gender equality and women’s 
+empowerment as key, not only to the health of the nation, but also to its social and economic 
+development. There is growing importance given to addressing gender-based inequities and 
+developing gender-sensitive policies and programs in the health and energy sector. 
+
+There is a growing body of evidence that demonstrates that when energy laws, policies, projects 
+and other market development activities are done in a gender-informed manner, where the needs 
+and priorities of all people are taken into account, those energy sector components are more 
+likely to effectively meet the needs of the whole population and are more able to deliver better 
+and more impactful outcomes for society as a whole, and women and girls in particular. 
+
+2.1 Laws, Policies, Regulations, and Institutional Practices. 
+In the context of this analysis, ‘laws’ include formal statutory laws and informal and customary 
+legal systems that create/enforce these laws. ‘Policies and regulations’ include formal and 
+
+72 | Page 
+
+
+informal rules and procedures adopted by public institutions for making decisions and taking 
+public action regarding the governance of actors in the energy and health sector. ‘Institutional 
+practices’ can be formal or informal and include behaviors or norms related to human resources 
+(hiring and firing), professional conduct (workplace harassment - a form of gender-based 
+violence), and the like. 
+
+There are biological differences between men and women that are often not considered in health 
+research.10 According to the U.S. Institute of Medicine, every cell in our bodies has a sex, 
+meaning that women and men differ at a cellular level. However, toxicology and biomedical 
+research predominantly use male subjects and ignore female subjects.11 Human health pollution 
+thresholds created by governments to regulate most chemicals and toxins are determined using 
+male physiology. The health sector is only starting to understand the different health impacts 
+between men and women associated with pollution. Institutional practices on managing 
+pollutants are informed by our scientific understanding of the health effects. Therefore, 
+understanding how different pollutants impact women and men differently is critical to ensuring 
+gender equality and female empowerment. 
+
+There is growing evidence of sex differences in how certain pollutants affect women, girls, men, 
+and boys.12,13 For instance, lung cancer kills more women every year than breast, ovarian, and 
+uterine cancers combined.14 Researchers found sex differences in the incidence of respiratory 
+diseases. Women are more susceptible to inflammatory lung disease induced by air pollution, 
+and show worse adverse pulmonary health outcomes than men.15 Air pollution is also a major 
+risk factor for cardiovascular disease.16 Recently, Harvard researchers discovered that women 
+with diabetes exposed to particulate matter (PM) have a 44% greater risk for cardiovascular 
+
+10 Sims, J., & Butter, M. (2002). Health and Environment: Moving Beyond Conventional Paradigms. In G.
+Sen, A. George, & P. Östlin (Eds.), Engendering International Health: The Challenge of Equity (pp. 210235). 
+Cambridge, MA: MIT Press. 
+11 Westervelt, A. (2015, April 30). The medical research gender gap: how excluding women from clinical 
+trials is hurting our health. The Guardian. Last accessed on October 2, 2019 at 
+https://www.theguardian.com/lifeandstyle/2015/apr/30/fda-clinical-trials-gender-gap-epa-nih-institute-ofmedicine-
+cardiovascular-disease 
+12 Butter, M.E. (2005). Are Women More Vulnerable to Environmental Pollution? Journal of Human 
+Ecology, 20(3), 221-226. https://doi.org/10.1080/09709274.2006.11905931 
+13 Clougherty, J.E. (2010). A growing role for gender analysis in air pollution epidemiology. Environmental 
+Health Perspectives, 118(2), 167-176. https://doi.org/10.1289/ehp.0900994 
+14 Westervelt, A. (2015, April 30). The medical research gender gap: how excluding women from clinical 
+trials is hurting our health. The Guardian. Last accessed on October 2, 2019 at 
+https://www.theguardian.com/lifeandstyle/2015/apr/30/fda-clinical-trials-gender-gap-epa-nih-institute-ofmedicine-
+cardiovascular-disease 
+15 Cabello, N., Mishra, V., Sinha, U., et al. (2015). Sex differences in the expression of lung inflammatory 
+mediators in response to ozone. American Journal of Physiology Lung Cellular and Molecular Physiology, 
+309, L1150-L1163. https://doi.org/10.1152/ajplung.00018.2015 
+16 Sethi, R. (2012). Air Pollution and Disease and Gender. Air and Water Borne Diseases, 1, e116. 
+https://doi.org/10.4172/2167-7719.1000e116 
+
+73 | Page 
+
+
+disease, and 66% increased risk for stroke.17 Also health symptoms from pollution may differ 
+between men and women at different ages. For example, air pollution is known to impede 
+cognitive performance, especially for men as they get older.18 
+
+In an effort to reduce indoor pollution from cooking fuels, the GOI launched the Ujjwala (Bright) 
+Program in 2016 to provide free LPG connections to poor households so they can cook with nonpolluting 
+fuel. The LPG connections are registered in the name of an adult woman. By January 
+2019, 60 million new households had LPG connections19. In 2017, 44 percent of beneficiaries 
+belonged to SC and ST families.20 
+
+2.2 Cultural Norms and Beliefs: 
+In a large and diverse country such as India, there is an extreme variance in cultural norms and 
+beliefs in India which directly affects the assumed roles and responsibilities of men and women 
+in economic activities. Religion, level of education, social standing, and rural versus urban 
+residence can all influence collective cultural norms and beliefs. Development policies in India 
+have tended to centre more on women’s reproductive rather than productive roles, as shown by 
+the amount of investment in population and family planning programmes. Women have 
+disproportionate unpaid care work burden, including unpaid work that is heavily impacted by 
+whether or not a household has access to affordable and reliable power; in public/social 
+situations that are mixed, it is often men who have louder voices and are in stronger positions to 
+set cultural, political, and economic agendas; and in rural communities with limited/no access to 
+electricity, women and girls are more often responsible for spending time collecting firewood for 
+cooking fuel and heating. In India, women on average work nine hours a day compared to the 
+seven-hour work day of men. The majority of women’s time is spent on unpaid activities such as 
+household chores and caregiving for family members. In addition to contributing to “time 
+poverty,” the scarcity of discretionary time available to an individual, the regular task of 
+gathering firewood away from home, increases the risk of women and girls being exposed to 
+gender-based violence. 
+
+2.3 Gender Roles, Responsibilities and Time Use 
+As such a large and diverse country, there is an extreme variance in cultural norms and beliefs, 
+
+17 Harvard T.H. Chan School of Public Health. (2015, November 5). Air pollution and cardiovascular 
+disease: increased risk for women with diabetes. Last accessed on October 2, 2019 at 
+https://www.hsph.harvard.edu/news/press-releases/air-pollution-and-heart-disease-raise-risk-for-womenwith-
+diabetes/
+18 Zhang, X., Chen, X., & Zhang, X. (2018). The impact of exposure to air pollution on cognitive 
+performance. Proceedings of the National Academy of Sciences of the United States of America, 115 (37), 
+9193-9197. https://doi.org/10.1073/pnas.1809474115 
+19 Narayanan, N , The Modi years: Are More Indians using Cooking Gas because of the Ujjwala Scheme?, 
+Scroll, accessed on July 2, 2019 
+20 Free LPG Ujjwala scheme achieves 8 cr target before schedule, Outlook, 06 September 2019, accessed 
+July 22, 2020 
+
+74 | Page 
+
+
+and the assumed roles and responsibilities of men and women in economic activities. Gender 
+differences in mobility, responsibilities and roles create differences in the personal environments 
+of women and men, thus leading to different hazards and exposures. The two main factors 
+associated with gender roles and responsibilities, leading to differences in exposure to pollutants 
+are: (1) workplace exposure and (2) household exposure. 
+
+Gendered household activities significantly impact female exposure to air pollutants from 
+cooking and lighting, and toxins from cleaning products. Household air pollution can be very 
+hazardous, depending on the type of fuel, stove, ventilation, and lighting sources of the 
+household. Household emissions contribute to approximately 50-60% of premature air pollution 
+deaths in India.21 In low and middle income countries, the dominant household energy sources 
+are: biomass, dung, coal, and/or kerosene. Without proper ventilation, exposure to particulates 
+and hazardous gases can be very high. Current estimates suggest almost half of the world’s 
+population rely on biomass for cooking and heating.22 When biomass is scarce, poor 
+communities have limited options, causing them to use even more toxic energy sources like the 
+burning of plastic, bleached paper, preserved wood, and trash. NFHS-4 (2017) states that 0.7 % 
+of lowest quintile households use LPG, Natural Gas or Biogas. Because women and girls do the 
+majority of cooking compared to men and boys, they are at greater risk of disease and mortality 
+from household air pollution. Health risks to women and infants from household air pollution 
+are: respiratory disease, eye infections, depressed immune response, and low birthweight. In 
+developing countries, there is a high prevalence of chronic bronchitis in women due to indoor 
+smoke from cooking.23 
+
+Outdoor air pollution is also a major concern, which may impact men slightly more than women 
+due to occupational differences. Outdoor air pollution, mostly PM2.5, led to 4.2 million 
+premature deaths worldwide in 2016.24 91% of the premature deaths occurred in low and middle 
+income countries, predominantly in Asia. There is now substantial evidence linking air pollution 
+and cardiovascular disease, such that 58% of ambient air pollution premature deaths were due to 
+heart disease and strokes. In 2012, the WHO found higher mortality rates for men (53% of 
+premature mortalities) than women (44% of premature mortalities) from outdoor air pollution, 
+
+21 Lelieveld, J., Evans, J.S., Fnais, M., et al. (2015). The contribution of outdoor air pollution sources to 
+premature mortality on a global scale. Nature, 525, 367-371. https://doi.org/10.1038/nature15371 
+22 Mortimer, K., Ndamala, C.B., Naunje, A.W., et al. (2017). A cleaner burning biomass-fuelled cookstove 
+intervention to prevent pneumonia in children under 5 years old in rural Malawi (the Cooking and 
+Pneumonia Study): a cluster randomised controlled trial. Lancet, 389 (10065), 167–175. 
+https://doi.org/10.1016/S0140-6736(16)32507-7 
+23 Sims, J., & Butter, M. (2002). Health and Environment: Moving Beyond Conventional Paradigms. In G.
+Sen, A. George, & P. Östlin (Eds.), Engendering International Health: The Challenge of Equity (pp. 210235). 
+Cambridge, MA: MIT Press. 
+24 World Health Organization (WHO). (2018). Ambient (Outdoor) Air Quality and Health. Geneva, 
+Switzerland: WHO. Last accessed on October 4, 2019 at https://www.who.int/en/news-room/factsheets/
+detail/ambient-(outdoor)-air-quality-and-health 
+
+75 | Page 
+
+
+which in part may be linked to gender differences in occupation. 
+
+2.4 Access to and Control over Assets and Resources 
+Monitoring the differential effects of air pollution on women and men, as well as the use and 
+exposure to them are critical for securing the health and well-being of both men and women. 
+However data collection at national and sub-national levels are quite limited, and varies 
+substantially across countries.25 Limited collection, and application of gender-environment 
+statistics, affects the ability of decision-makers to implement policies and programming that 
+protect both women and men. Due to the persistence of the data gap on gender and the 
+environment, the International Union for Conservation of Nature (IUCN) developed a Gender 
+and Environment Resource Center in 2013. The aim is to identify and close data gaps on 
+environment and gender information by compiling disaggregated data to inform environmental 
+ministries and gender policies and programs.26 While the IUCN’s platform has gathered 
+information on a variety of indicators, they are mostly focused at the international level.27 At the 
+national and sub-national levels, much progress must be made to increase equal access to 
+information and resources on the impacts of pollution to women and girls. Increased capacity can 
+help women use productive resources (e.g., social benefits, public services, technology, etc.) to 
+prevent and reduce pollution to improve their health and well-being. 
+
+Control over the management of resources in many societies and communities is not equal in 
+households. Pollution impacts the quality of natural resources, and in times of environmental 
+insecurity, women bear the greatest burden. For example, in India ozone air pollution has led to 
+an estimated 14%-16% of wheat and rice yield losses28, thus affecting the food security of rural 
+and urban areas.29 In India, crop losses lead to changes in food prices, farm incomes, nutritional 
+access, and workloads. The largest impacts are almost always on the most vulnerable groups in 
+
+25 United Nations Environment Program & International Union for Conservation of Nature (UNEP & IUCN). 
+(2018). Gender and Environment Statistics: Unlocking Information for Action and Measuring the SDGs. Nairobi, 
+Kenya: UNEP. Last accessed on October 4, 2019 at https://genderandenvironment.org/resource/gender-andenvironment-
+statistics-unlocking-information-for-action-and-measuring-the-sdgs/
+26 IUCN. (n.d.) Gender and Environment Resource Center. Washington, DC: IUCN. Last accessed on October 4, 
+2019 at https://genderandenvironment.org/
+27 United Nations Environment Program & International Union for Conservation of Nature (UNEP & IUCN). 
+(2018). Gender and Environment Statistics: Unlocking Information for Action and Measuring the SDGs. Nairobi, 
+Kenya: UNEP. Last accessed on October 4, 2019 at https://genderandenvironment.org/resource/gender-andenvironment-
+statistics-unlocking-information-for-action-and-measuring-the-sdgs/
+28 Sharma, A. et. al. Revisiting the crop yield loss in India attributable to ozone. Atmospheric Environment: 
+X Volume 1, January 2019, 100008. Last accessed on Jul 22, 2020 at 
+https://www.sciencedirect.com/science/article/pii/S2590162119300115?via%3Dihub 
+29 Mortensen, S., & Pandey, D. (2018, June 5). Ozone air pollution and gender inequality in India. Stockholm 
+Environment Institute. Last accessed on October 4, 2019 at https://www.sei.org/perspectives/ozone-air-pollutiongender-
+inequality-india/ 
+
+76 | Page 
+
+
+particular poor women.30 
+
+Control of household resources, largely dominated by male family members will also impact 
+how health expenditure is used and whether or not expenditure for reduced exposure can be 
+incurred. An All India Institute of Medical Sciences (AIIMS), the Indian Statistical Institute, 
+Prime Minister's Economic Advisory Council, and Harvard University research study examined 
+2,377,028 outpatients records between January to December 2016 to find that only 37% of 
+women got access to health care, as compared to 67% of men31. 
+
+Lastly, women play a pivotal role in developing, marketing, and selling clean technologies for 
+reducing pollution, such as clean cookstoves. Women around the world are creating technologies 
+and businesses to address environmental pollution. Contrary to gender stereotypes, women are 
+the highest adopters of technological solutions, especially pollution-reducing technologies, such 
+as solar power32 and there may be potential in extending this to the air pollution space. 
+
+2.5 Patterns of Power and Decision-making 
+This domain of the Gender Analysis examines the ability of women and men to decide, 
+influence, and exercise control over material, human, intellectual, and financial resources, in the 
+family, community, and country. As discussed in the examples above, there is an imbalance in 
+the representation of women in decision-making positions in the government and throughout the 
+energy and health sector. As such, the power dynamic regarding energy and health sector 
+planning is skewed greatly toward the opinions, needs, and input of men. However, at the 
+household level, many women may have a better understanding of electricity consumption 
+patterns, and health needs and may be in a stronger position than men to make informed 
+decisions pertaining to health and energy utilization. Likewise when women are included in 
+decision-making at high levels in government and the private sector, market development 
+activities, policies and energy planning processes are more likely to take into account the 
+differential needs and priorities of women and girls. For example, including women in project 
+design can help to ensure the inclusion of interventions that specifically meet the needs of 
+women that are otherwise not recognized, identified or addressed.33 
+
+30 Mortensen, S., & Pandey, D. (2018, June 5). Ozone air pollution and gender inequality in India. Stockholm 
+Environment Institute. Last accessed on October 4, 2019 at https://www.sei.org/perspectives/ozone-air-pollutiongender-
+inequality-india/ 
+31 Access to health care a distant dream for most Indian women, DW, accessed from DW.com on July 22, 
+2020 
+
+32 Earley, K. (2016, July 9). From basket weavers to salt farmers: the women leading a renewables revolution. The 
+Guardian. Last accessed on October 14, 2019 at https://www.theguardian.com/sustainablebusiness/
+2016/jul/09/women-leading-clean-energy-revolution33 USAID and IUCN, “Advancing Gender in the Environment: Making the Case for Women in the Energy 
+Sector,” 2018 -https://www.usaid.gov/sites/default/files/documents/1865/IUCN-USAIDMaking_
+case_women_energy_sector.pdf 
+
+77 | Page 
+
+
+3. Analysis Of Issues And Recommendations By Technical Component 
+In consideration of the aforementioned domains examined, there are a number of 
+recommendations that pertain to USAID’s design, management, and monitoring of the project at 
+large: 
+
+Technical Components and 
+Expected Results 
+Potential Gender Issues 
+and Relevance to 
+Illustrative 
+Interventions 
+Recommendations, Specific Actions, 
+General Consideration 
+Objective 1: Improve air Data and evidence do Ensure that opportunities for capacity 
+pollution mitigation: not regularly exist to 
+explain the impacts of 
+building and exchanges are promoted 
+to potentially marginalized/ 
+● 
+Result 1.1: Improved pollution vis-a-vis 
+gender differences. 
+underrepresented individuals in the 
+workforce, to ensure the broadestcapacity of decision-Without this evidence, possible range of viewpoints aremakers to use policies and actions may considered in the provision of technical 
+evidence-based not adequately take into assistance. 
+approaches for air 
+quality management 
+(e.g. atmospheric 
+account all populations’ 
+needs. 
+Due to gender norms, 
+Advocate for women’s (in all their 
+diversity) participation in the decision 
+making process to ensure gendermodeling, cost-benefit communities may not balance of policymakers and other 
+analysis); formulate adequately involve stakeholders in any policy discussion. 
+policy; implement and women in policy 
+enforce mitigation 
+actions 
+discussions and 
+considerations, making 
+their needs less well 
+known. 
+Work with Ministries of Environment 
+and Health to leverage and capitalize 
+women’s roles and potential 
+contributions in the energy value chain 
+● 
+Result 1.2: Community in policies, programs and interventions; 
+members are 
+empowered to advocate Encourage gender focal points to 
+and act for improved 
+air quality 
+develop internal institutional 
+frameworks to increase women’s 
+participation, as well as to provide 
+input to other relevant ministries’ and 
+● 
+Result 1.3: Increased stakeholders’ gender diversity 
+use of market-based initiatives (women should be part of 
+approaches to mitigate 
+pollution that 
+complement traditional 
+design team that will conduct some of 
+these studies) The mechanism will 
+ensure that women have an equitable 
+role in the design of energy sector 
+regulatory approaches analyses. 
+● 
+Result 1.4: Increased The mechanism will work with 
+deployment of stakeholders and local/international 
+gender specialists to ensure analyses 
+
+78 | Page 
+
+
+mitigation technologies are appropriately structured in scope, 
+and systems, including and take serious consideration of 
+source elimination, 
+cleaner energy, air 
+economic roles of women (many of 
+which may be informal), and the 
+environmental impact onpollution control underrepresented members ofdevices, and improved communities. 
+landscape management. 
+Objective 2: Reduce exposure Data and evidence do Create gender specific 
+to air pollution not regularly exist to 
+explain the impacts of 
+outreach/communication material; and 
+ensure that information pertaining to 
+● 
+Result 2.1: Improved pollution vis-a-vis 
+gender differences. 
+pollution and health are delivered in a 
+medium accessible to women. 
+capacity of decision-Without this evidence, 
+makers to use policies and actions may Involve men and family members to 
+evidence-based not adequately take into change some of the norms that govern 
+approaches for 
+reducing exposure and 
+account all populations’ 
+needs. 
+indoor household air pollution. 
+improving health 
+Some behaviors are 
+● 
+Result 2.2: The anchored in cultural 
+evidence base for high-expectations and norms. 
+impact health 
+interventions is 
+expanded 
+It may be very difficult 
+to change those beliefs 
+and norms to reduce 
+exposure risks. 
+● 
+Result 2.3: Increased Gender roles and 
+adoption of behavioral 
+change for exposure 
+reduction 
+responsibilities may 
+limit the possibility to 
+improve indoor 
+environments if women 
+do not have a say in 
+● 
+Result 2.4: Improved finances or household 
+indoor environments modifications. 
+
+END OF PRELIMINARY GENDER EQUALITY AND SOCIAL INCLUSION 
+ANALYSIS 
+
+[END OF ANNEX 3] 
+
+79 | Page 
+
+
+ END OF NOFO 
+
+80 | Page 
+
+

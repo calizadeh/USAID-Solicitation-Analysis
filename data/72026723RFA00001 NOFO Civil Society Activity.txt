@@ -1,0 +1,3561 @@
+ 
+
+Lockup_IRAQ_RGB_HIGH 
+
+
+Issue Date: November 23, 2022 
+
+Deadline for Questions: December 4, 2022, 4:00 PM (Baghdad Time) 
+
+Applications Deadline Submission: January 23, 2023 
+
+Closing Time: 4:00 PM (Baghdad Time) 
+
+ 
+
+Subject: USAID/Iraq Notice of Funding Opportunity Number: 72026723RFA00001 
+
+ 
+
+Program/Opportunity Title: Iraq Civil Society Activity 
+
+ 
+
+Catalog of Federal Domestic Assistance (CFDA) Number: 98.001 
+
+ 
+
+To: All Interested Respondents/Parties: 
+
+ 
+
+The United States Agency for International Development (USAID) through its Mission in Iraq 
+(USAID/Iraq) seeks applications from eligible applicants to implement the Iraq Civil Society 
+Activity. 
+
+ 
+
+USAID intends to make a single award to the responsible applicant whose application best meets 
+the objectives of this Notice of Funding Opportunity (NOFO) based on the merit review criteria 
+described herein and subject to a risk assessment. Eligible parties interested in applying are 
+encouraged to read this NOFO thoroughly to understand the type of program sought, application 
+submission requirements, and selection process. While one award is anticipated as a result of this 
+NOFO, USAID reserves the right to fund any or none of the applications submitted. Subject to 
+funds availability, the anticipated funding for the Iraq Civil Society Activity is $25 million over a 
+five-year period, including a minimum of $5 million for a subgrants component and $5 million for 
+a Rapid Response component. Final authority for assistance awards resides with the USAID/Iraq 
+Agreement Officer. 
+
+ 
+
+For the purposes of this NOFO the term "Grant" is synonymous with "Cooperative Agreement"; 
+"Grantee" is synonymous with "Recipient"; and "Grant Officer" is synonymous with "Agreement 
+Officer". 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. Potential applicants should regularly check the website to 
+ensure they have the latest information pertaining to this notice of funding opportunity. It is the 
+responsibility of the applicant to ensure that the entire NOFO has been received from the internet 
+in its entirety and USAID bears no responsibility for data errors resulting from transmission or 
+conversion processes. If you have difficulty registering on www.grants.gov or accessing the 
+NOFO, please contact the Grants.gov Helpdesk at 1-800-518-4726 or via email at 
+support@grants.gov for technical assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifiers and System for Award Management (SAM) requirements. The registration 
+
+
+process may take many weeks to complete. Therefore, applicants are encouraged to begin 
+registration early in the process, if not registered. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished 
+
+to all potential applicants through an amendment to this notice posted on www.grants.gov. Eligible 
+parties interested in submitting an application are encouraged to read this NOFO thoroughly to 
+understand the type of program sought, application submission requirements, and selection 
+process. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the 
+part of the U.S. Government, nor does it commit the Government to pay for any costs incurred in 
+preparation or submission of comments/suggestions or an application. Applications are submitted 
+at the risk of the applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zachary Clarke 
+
+Regional Agreement Officer 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+ 
+
+Section A – Program Description………………………………………………….…………….. 4 
+
+Section B – Award Information…………...………………………………..…….………..…….13 
+
+Section C – Eligibility Information…………………………………...…………….…………...16 
+
+Section D – Application and Submission Information………………..………………………....19 
+
+Section E – Application Review Information………………………………..…………………..34 
+
+Section F – Award and Administration Information…………...………………..…………........38 
+
+Section G – Agency Contacts……………………………………………………………………54 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+ 
+
+Iraq Civil Society Activity 
+
+Goal [Note to applicants, this subsection will be included in the final award]: 
+
+The USAID funded Iraq Civil Society Activity will increase citizen engagement in the public 
+sphere, especially among women and youth, while supporting civil society organizations (CSOs) 
+to connect to and empower citizens and other CSOs. The expected activity result is a relevant, 
+active, resilient, and inclusive civil society sector that more effectively fosters change towards an 
+increasingly equitable and democratic Iraq. 
+
+The Iraq Civil Society Activity (“The Activity”) has three main objectives: 
+
+● Objective 1: Increase the engagement and agency of citizens, especially women and 
+youth, to actively contribute to positive change on shared citizen-identified priorities, as 
+well as on priority sectors, including climate change mitigation and adaptation, and 
+gender and youth inclusion. 
+● Objective 2: Increase sustainability and resilience of civil society organizations (CSOs) 
+to represent citizens’ interests and advance community-led development. 
+● Objective 3: Strengthen a public sphere that fosters the active and inclusive participation 
+of civil society in public discourse and citizen-driven change, including among 
+marginalized groups. 
+
+
+Background: 
+
+USAID partners with Iraq in its transition to a stable, democratic state. This transition has been 
+challenged by persistent conflict, entrenched elites, a culture of corruption, and civil society 
+organizations struggling to effectively play their role as a bridge between Iraq’s people and its 
+government. 
+
+Iraq’s citizens seeking change have taken to the streets in successive protest movements 
+beginning in 2015 and reaching a fever pitch in 2019. “The constitution guarantees freedom of 
+assembly, but protesters are frequently at risk of violence or arrest, and these dangers became 
+acute during the 2019 protest movement.” Recent polling across the region has indicated a 
+waning public support for “democracy” and general indifference to outright support for more 
+authoritarian approaches to governance1. 
+
+1 https://www.bbc.com/news/world-middle-east-62001426 
+
+Support for civic action and increased, more effective, and credible civil society engagement is 
+the primary mechanism for countering this loss of hope and channeling the frustration into more 
+positive pathways for change. Iraqi civil society requires additional support to represent citizens’ 
+interests and effect change. While street protest movements and elections are important channels 
+for citizens seeking change, citizens have other avenues that are currently underutilized and 
+underdeveloped. Young Iraqis who led the protest movements in 2019 have remained active in 
+their communities, focusing on issues of environment, community development, and government 
+
+
+accountability, and capitalizing on that energy through direct support to civic actors provides 
+USAID an opportunity to mitigate democratic backsliding in Iraq, as well as advance sectoral 
+priorities. 
+
+However, Iraqi civil society has limited capacity to make this change. In addition, funding from 
+USAID has been reduced and targeted in other areas in recent years. The last USAID country-
+wide civil society specific award was from 2012-2015. This paralleled a reduction in donor funds 
+for all activities in Iraq, including civil society. From 2014 to date, most funding for civil society 
+has focused on the distribution of humanitarian aid, stabilization programming, and some 
+reconciliation work in select geographic areas. Very little of the current available funding 
+includes CSO institutional capacity or organizational resilience building support, advocacy skills 
+building, or support to CSO networking. There has been little funding for CSOs for other critical 
+skills that help develop legitimacy, such as developing and engaging with constituencies to 
+support their missions, increasing citizen engagement to make sustainable changes in public life, 
+engaging the government, and networking. 
+
+Additionally, while the role of civil society has grown since 2003, the government has recently 
+restricted space for civil society. In addition, citizen engagement in public life and/or 
+constructive interaction with government is at a minimum; and, in recent elections, even voter 
+turnout fell notably. Citizens need more access to information and there is a dearth of 
+opportunities for constructive citizen-government dialogue. If access to information and dialog 
+is increased, trust by the government in the role of civil society and its vital role in democratic 
+governance will improve. 
+
+Activity Problem Statement: 
+
+Iraqi civil society has suffered shocks and stressors that have limited its capacity and resilience 
+to effectively aggregate, network, and represent the interests of all citizens and limited citizen 
+engagement in the public sphere. Donors’ shifting priorities to shorter-term programming, 
+particularly humanitarian assistance, broke early, post-2003 momentum in the growth of CSOs’ 
+advocacy, networking, and ability to foster change, and left Iraq’s CSOs with a credibility 
+problem due to a perception the organizations lacked focus and simply chased funds. Although 
+some organizations have survived shifting funding priorities and political winds, it is clear that 
+without an active civil society, gaps in citizens' understanding, skills, and avenues necessary to 
+pursue positive change through the public sphere other than protest movements and elections 
+have grown. As such, reinvigorated work with civil society to generate interest in and lay the 
+groundwork for more citizen participation is necessary for civic initiatives to effectively 
+represent citizen needs and hold the government accountable. 
+
+Marginalization of specific population groups further contributes to eroding trust in 
+government. These groups include women and girls, youth and religious/ethnic 
+minorities. Marginalized groups are increasingly and systematically excluded from government 
+and decision making, both locally and at the national level. Although mitigated by the fall of 
+Islamic State of Iraq and Syria (ISIS), these groups still face physical insecurity and 
+disenfranchisement. 
+
+As outlined in USAID’s gender analysis released as part of a May 2022 Request for Information, 
+Iraqi women and girls face particular challenges stemming from years of disenfranchisement and 
+marginalization. Their role in civil society has been a bright spot in terms of political 
+participation, leadership, and engagement. However, challenges remain, including online 
+harassment and physical threats, particularly for women representing minority groups or working 
+in more conservative areas of the country. Lack of appropriate legal frameworks or 
+
+
+implementation of existing legal protections hinders full female participation in civic life. The 
+cycle of protests that began in October 2019 featured women not just as participants but as 
+leaders in the movement. Through their participation, women focused attention on issues of 
+equal access to social and economic justice. For the first time in current history, women’s voices 
+on these issues were not only raised, but raised in an organized and forceful manner. However, 
+this momentum needs to be followed through and combined with support from the broader 
+community, particularly men, to ensure calls for change are realized. 
+
+Youth in Iraq have played a key role in civic action, including leading protests, and calling for 
+widespread reform to improve governance, the rule of law, employment opportunities, and 
+access to public services. With nearly 60 percent of the population under the age of 25, this 
+demographic represents one of the largest age groups in Iraq. Unfortunately, this population 
+remains systematically excluded from politics, and have experienced significant trauma from 
+conflict and the breakdown of traditional, societal frameworks. Across the country, young people 
+are disillusioned and mistrustful of political institutions, in particular local/municipal 
+government bodies. In a 2021 USAID survey, only 6 percent of young people surveyed (nearly 
+800 across the country) said they trusted local government.2 Moreover, only 30 percent of 
+respondents believed their community was supportive of young people participating in local 
+politics. Despite these statistics, young people remain engaged. In the same survey, 55 percent 
+noted that they had contacted a local official at least once. This is a high level of engagement 
+when compared to other countries in the region, such as Lebanon, where only 30 percent of 
+youth made contact. A whole-of-community approach is critical for strengthening the enabling 
+environment and support for young people in Iraq to participate in civic and political life, and be 
+critical agents of change to help move an issue from protest to policy. 
+
+2 
+https://www.youthpower.org/sites/default/files/YouthPower/files/resources/DRG%20Youth%20Civic%20Engagement%20Brief%20YP2LE.pdf. 
+
+Given the political environment in Iraq since 2019, civil society has a unique opportunity to 
+engage the government, particularly at the local level, on issues of critical interest to Iraqi 
+citizens including reliable public services, prudent and impartial governance, and an end to 
+corruption. Thematic issues such as environment/climate change, gender based violence and 
+community development are other areas of concern to Iraqis that throughout USAID 
+consultations in support of the design of this program were expressed consistently by existing 
+civil society organizations and community leaders. Marginalized groups are increasingly and 
+systematically excluded from government and decision making both locally and at the national 
+level. Although the fall of Islamic State of Iraq and Syria (ISIS) led to a more stable security 
+situation in the country, citizens and particularly marginalized citizens still face physical 
+insecurity and disenfranchisement. The sense of marginalization has expanded among civil 
+society activists and social media influencers who demand change and inclusion. Support for 
+their efforts will keep democratic engagement alive at a volatile time in Iraq’s political 
+development. 
+
+Theory of Change and Activity Objectives: 
+
+The Iraq Civil Society Activity will empower Iraqi citizens, citizen groups, and civil society 
+organizations to increase their engagement in the public sphere while enhancing their skills to 
+seek and affect meaningful change in their communities and society. The Activity will also 
+provide tailored capacity building to cover any skill gaps that civil society may need - preferably 
+
+
+through networks of CSOs in Iraq and/or the region acting as “incubators” for this skills 
+
+The theory of change is as follows: 
+
+IF civic initiatives, especially with marginalized communities, effectively engage and empower 
+citizens to identify, prioritize, advocate for, and contribute to shared priorities of their 
+communities; AND 
+
+IF civil society is more capable and resilient and CSOs work together more effectively to 
+inclusively represent citizen interests 
+
+THEN civic initiatives more accurately reflect citizen needs; 
+
+AND CSOs will have broader citizen support and increased credibility to advocate for change in 
+accordance with local priorities; 
+
+Administrator Power has emphasized “localization” as a priority for USAID programming across 
+sectors. USAID has defined “localization” along four principal lines of effort that include 
+channeling a larger portion of funding directly to local civil society, business, and other 
+institutions that are supported by and accountable to local communities. The Agency has a 
+mandate to shift not only funding but also to put local partners in the lead to co-design projects, 
+set priorities, drive implementation, and evaluate impact of aid programs. Grounded in these 
+principles, the Iraq Civil Society Activity has 3 defined objectives: 
+
+ 
+
+Objective 1: Increase the engagement and agency of citizens, especially women and youth, 
+to actively contribute to positive change on shared citizen-identified priorities. 
+
+Under Objective 1, the Expected Results of the Activity are: 
+
+1. Improved civic knowledge and practices that help citizens forge a shared vision of 
+democratic processes and how to use them to seek change. 
+2. Increased women’s participation and leadership in civil society, and the amplification of 
+their voices. 
+3. Increased participation of targeted marginalized groups, including youth, in civil society, 
+and the amplification of their voices. 
+
+
+ 
+
+Under this objective, the Activity will increase the ability of individual citizens, and informal 
+citizens’ groups not organized as registered CSOs, to engage productively in public life, 
+including identifying local challenges and providing suggested solutions. The Activity will give 
+citizens a better understanding of how they can improve their local communities through locally 
+driven approaches to identifying, addressing, and sustaining citizen initiatives. There is a natural 
+overlap between this objective and objective 2 in that the Recipient will engage Iraqi CSOs to act 
+as implementing agents/partners and leaders in this community-driven work stream, from design 
+through to monitoring and evaluation phases. 
+
+ 
+
+Objective 2: Increase sustainability and resilience of civil society organizations (CSOs) to 
+represent citizens’ interests and advance community-led development. 
+
+Under Objective 2, the Expected Results of the Activity are: 
+
+1. CSOs more effectively network and build coalitions to improve advocacy and 
+institutional effectiveness. 
+
+
+
+2. CSOs increasingly hold local and national policymakers accountable through new and 
+creative approaches that mobilize citizen engagement. 
+3. CSOs are able to advocate effectively to create positive change on behalf of their 
+constituents. 
+4. CSOs are increasingly able to adapt to Iraq’s dynamic context and adjust their approaches 
+to adapt to challenges like climate change, gender equality setbacks, and/or changes in 
+their operating environment. 
+
+
+ 
+
+Under this objective, the Activity will increase the skills of CSOs to mobilize citizens and build 
+constituencies around issues of shared interest as well as more effectively lead advocacy 
+campaigns for change, which will simultaneously enhance their ability to network with one 
+another to amplify their voices and those of the citizens they represent. Much work has 
+previously been done to develop the capacity of CSOs in Iraq; however, this Activity must 
+employ a new approach of building CSO networks that are: focused on specific activities/issues; 
+build the capacity of their members in line with USAID Capacity Building 2.0 approach3; and 
+seek to build longer-term sustainability. The Activity will build systematic capacity that goes 
+beyond just administrative, financial, and procurement systems, but digs deeper into monitoring, 
+evaluation, learning (MEL), strategy development, fundraising, strategic communications, 
+advocacy, and organizational resilience-building capacities. This broadened approach will allow 
+CSOs to better weather unexpected shocks to the external environment. 
+
+3 https://usaidlearninglab.org/resources/capacity-
+20#:~:text=Capacity%202.0%20focuses%20on%20adaptive,just%20at%20the%20organizational%20ones. 
+
+ 
+
+Under this objective, the Activity will create and implement a demand-driven small, sub-grants 
+component valued at $1 million annually to enable local sustainability, and shift more leadership, 
+ownership, decision-making, and implementation to local groups. A co-creation and co-design 
+process that includes the implementing partner/s, USAID and other stakeholders as required and 
+will include joint development of focus and themes regarding calls for proposals, consultation 
+with local partners and review of proposals, is anticipated. In line with USAID’s emphasis on 
+localization, the Activity will support the organic and locally led priorities of Iraq’s CSOs 
+through these small sub-grants while also presenting opportunities to address specific issues and 
+priorities important to USAID, including but not limited to climate change, transparency, 
+accountability, gender inclusion, and youth inclusion. The sub-grants component will not include 
+funds for renovation, rehabilitation, or construction related activities. 
+
+ 
+
+Objective 3: Strengthen a public sphere that fosters the active and inclusive participation 
+of civil society in public discourse and citizen-driven change, including among 
+marginalized groups. 
+
+Under Objective 3, the Expected Results of the Activity are: 
+
+1. Improved timely and reliable access to information by citizens, including through digital 
+technologies, resulting from CSO and citizen advocacy. 
+2. Increased use of public information by civil society and marginalized groups to inform 
+citizens and increase government transparency. 
+3. Greater public understanding of the role of civil society and CSOs in democratic 
+governance. 
+4. Increased opportunities for safe, constructive citizen-government interaction to affect 
+community-driven change. 
+
+
+
+ 
+
+Under this objective, the Activity will work with civil society to improve timely and reliable 
+access to government information by citizens, create information resources to expand 
+information and evidence available to the government for improved policy and program 
+implementation, and increase public awareness and citizen engagement on critical community 
+and national level concerns. The Activity will support CSO’s in developing coherent and 
+effective communication strategies that lead to enhanced public understanding of citizens' role in 
+governance as well as the role of civil society in supporting civic action for better governance to 
+improve the perception and credibility of Iraqi civil society. Expected result 4, focused on 
+increased opportunities for citizen-government interaction presents a natural overlap with 
+USAID’s governance-focused activities and requires the Activity to collaborate closely with that 
+implementing partner. Under this Activity however, USAID is focused on CSO-driven and 
+citizen-driven approaches to engagement with government and technical approaches to 
+increasing opportunities for this interaction, especially considering the violence citizens have 
+experienced and witnessed during the street protest movements. 
+
+ 
+
+Programming Approach - Refine And Implement/Inception Phase 
+
+ 
+
+As the situation on the ground in Iraq continues to be dynamic, new challenges or new 
+opportunities arise regularly, and may arise between the design and launch of this activity. The 
+nature of the Iraqi environment requires shorter planning cycles, active monitoring and robust 
+feedback systems that allow managers to adapt implementation at every stage. To identify 
+challenges and allow flexibility and adaptation at an early stage of implementation, the Activity 
+must apply a Refine and Implement (R&I) approach for an initial four-month refinement 
+phase. During this period the partner will initiate the co-creation process with USAID that will 
+characterize implementation through the life of the activity and culminate in the first year’s 
+implementation plan, with a draft life of activity implementation plan. USAID recommends that 
+potential applicants review and utilize USAID’s Civil Society Assessment Tool to inform their 
+approach toward this analytical and planning phase. Furthermore, although typically an 
+implementation strategy and anticipated results established at the application stage will likely 
+differ from the time of award, in the Iraq context implementation plans may be constrained to 
+carry out what was initially envisioned. In response to this tension, a Refine and Implement 
+(R&I) approach will be applied to this activity. As such in the initial four month R&I period the 
+implementing partner can carry out an inception/refinement phase to its proposed technical, 
+implementation, and monitoring and evaluation plan, that should include a landscape analysis, 
+political economy analyses and/or other sectors or issue specific research and assessment 
+components. The R&I period will also be extremely important to support the localization 
+approach through deep dives into communities, to identify community leaders, women-led, 
+youth-led or youth-focused, and marginalized community leaders, groups, and/or issue-focused 
+organizations with whom to partner. As USAID requires more localization in all its awards, we 
+recognize that, particularly in non-permissive environments, the necessary relationships to truly 
+localize and co-design activities in partnership with local communities, groups, leaders, and 
+CSOs, takes time. This inception phase is that time. 
+
+ 
+
+Flexible Activity Modifier Component for Rapid Response 
+
+This component is focused on identifying and seizing opportunities in the sector as an adaptive, 
+collaborative program management tool. Rapid response actions must be targeted to 
+opportunities that emerge or may fill a gap in technical expertise or information required to 
+
+
+achieve the objectives of the program. This requires co-creation and collaboration with USAID 
+prior to invocation and will be initiated with agreement of USAID. The purpose of this 
+component is to address the variabilities of the operational context in Iraq which requires 
+programmatic flexibility particularly given the volatility of the political environment. With 
+approval of the Agreement Officer, it is envisioned this rapid response mechanism will provide 
+USAID/Iraq the ability to support leaders, movements and other emerging opportunities and 
+evolving needs within the objectives of the program. It could also be used to scale and expand 
+efforts. As needed and as directed by the Agreement Officer, in consultation with the USAID 
+AOR, the awardee will present unique opportunities for assistance programming related to the 
+program objectives. The cost line item will allow the release of rapid response funds to the 
+Applicant and its partners for immediate activities to seize identified opportunities. Subject to the 
+availability of additional funding, USAID may choose to invoke the activity modifier for rapid 
+response to implement additional interventions at any point in the life of the activity. Any 
+modification of the agreement is anticipated to include a process of co-creation and co-design, to 
+include joint development of concepts for the modifier alongside USAID and partners. Full 
+concepts for the modifier for rapid response activities will be developed prior to the modification 
+of the anticipated award through a revised Activity Description and detailed budget submitted by 
+the Applicant. The expenditure of funds for the activation of the modifier or rapid response 
+component, will be dependent on review and approval by the AOR and AO in consultation with 
+the MEO, of the revised Activity Description and detailed budget. 
+
+The topline figure to be set-aside for the program modifier is $1 million per year ($5 million total 
+under the total estimated annual cost of the program); however, USAID recognizes the fluid 
+operating environment and future modifications may be possible if they fit within the scope of 
+the defined activity objectives, are sufficiently justified and according to the availability of 
+funds. Any such modification would be at the discretion of the Agreement Officer and consider 
+regulatory and policy requirements for competition. 
+
+Other Requirements 
+
+ 
+
+Collaborate, Coordinate, and Share Data with USAID’s third-party monitoring (TPM) 
+contractor: The Recipient must collaborate, coordinate and share monitoring, evaluation, 
+research, analysis, and reporting data and products with USAID/Iraq’s TPM contractor for 
+verification, feedback, reporting and Collaboration, Learning and Adaptation (CLA) purposes. 
+
+ 
+
+Partnerships: USAID strongly encourages applicants to engage Iraqi and international groups 
+that bring complementary capacity in their submissions. 
+
+ 
+
+Guiding Operational Principles 
+
+Inclusive Development/ Diversity, Equity, Inclusion and Accessibility (DEIA) principles: 
+
+The Recipient must incorporate the following principles into the design and measurement of 
+activities: 
+
+ 
+
+Inclusive Development: Inclusion is one of USAID’s core values. USAID promotes a 
+nondiscriminatory and inclusive approach to development that ensures that all people – including 
+those who face discrimination and thus may have limited access to a country’s benefits, legal 
+protections, or social participation (including, but not limited to LGBTQI+ people, persons with 
+disabilities, religious/ethnic minorities, women and girls, youth in underprivileged communities) 
+– are fully included and can participate in and benefit from development processes and 
+activities. 
+
+
+ 
+
+Youth Engagement Policy: USAID’s Youth Policy outlines a conceptual approach to youth in 
+development and provides guiding principles and operational practices in support of USAID’s 
+efforts to mainstream youth in development, carry out more effective programs, and elevate 
+youth participation. If youth and women continue to feel disassociated from the democratic 
+government, and are unable to secure gainful employment and/or receive a living wage, then 
+they will continue to lose confidence in Iraq’s democratic development. 
+
+ 
+
+Gender Inclusion: The 2020 Gender Equality and Women’s Empowerment Policy affirms 
+USAID's vision of a prosperous and peaceful world in which women, girls, men, and boys enjoy 
+equal economic, social, cultural, civil, and political rights and are equally empowered to secure 
+better lives for themselves, their families, their communities, and their countries. Advancing 
+gender equality is at the core of USAID’s efforts to promote greater stability and prosperity, and 
+support a more transparent and participatory democratic process in Iraq. The Recipient must 
+systematically consider gender aspects and implications of specific interventions and seek 
+opportunities to promote women participation in targeted interventions. To that end, data 
+collected for monitoring and evaluation purposes must be gender disaggregated and other 
+monitoring and evaluation tools, including surveys, must include questions to elicit information 
+enabling differentiation of impact based on gender. In May 2022 USAID/Iraq released a draft 
+gender analysis focused on elections and political process which can be found at this link. 
+
+ 
+
+Sustainability, Legacy, and Localization 
+
+The Applicant’s approach to sustainability of the goals and objectives is a key consideration for 
+USAID. To the extent possible, reasonable, and within the bounds of Do No Harm and conflict 
+sensitivity - recognizing the diversity and societal divisions in Iraq - the Recipient must engage 
+Iraqi CSOs with existing capacity and competitive advantage to implement the activity and to 
+maximize skills transfer and direct relationship building across CSOs throughout Iraq, and 
+between Iraqi CSOs and Iraq’s citizens. The Recipient must build the institutional capacity of 
+CSOs that it works with while also increasing the resilience of Iraq’s civil society. The aim is to 
+foster partnerships and to introduce tools and mechanisms in a manner that will continue to 
+develop beyond the timeframe and life of the activity. The Activity’s interventions may build on 
+existing opportunities and support target entities that are committed to investing in and receiving 
+tailored assistance to improve their technical, organizational, as well as partnership and alliance-
+building skills to engage in inclusive development. To further sustain the outcomes of this 
+Activity and foster local ownership, interventions should not only focus on building and 
+strengthening the capacity of local partner CSOs, but also fostering the motivation to utilize the 
+new knowledge, skills, and the benefits of broader collaboration and coordination. Additionally, 
+the Recipient is required to work with local partners to understand their legal parameters and 
+maximize the resources available to them through networking to continue and build on the 
+interventions beyond the life of the Activity. Other donors and the private sector could play a 
+role in this space. 
+
+ 
+
+Link to USAID’s Local Capacity Development (LCD) Policy 
+https://www.usaid.gov/sites/default/files/documents/LCD_Policy_-_FORMATTED_508_01-
+11.pdf 
+
+ 
+
+Collaborating, Learning and Adapting (CLA) 
+
+USAID has put time and effort into building a culture of CLA into its operations. The Recipient 
+must model a CLA culture and integrate that culture into internal processes and in the 
+implementation of activities. A collaborative working relationship between the Recipient and 
+
+
+relevant USAID staff is required and as described above will include aspects of co-
+creation. Where applicable and appropriate, the Recipient should collaborate with the Mission’s 
+other implementing partners, interagency colleagues, and/or other donors. In addition, all 
+products, briefings, and facilitated events should focus on providing recommendations for how 
+the Mission can use that data to make evidence-based decisions and adapt programming as 
+necessary. 
+
+ 
+
+USAID defines CLA as a set of practices that help improve development effectiveness 
+throughout activity implementation. Key aspects for ongoing investigation include: 
+
+● Collaborating: Are we collaborating with the right partners and promoting synergy 
+across USAID activities and activities implemented by others? 
+● Learning: Are we asking questions relevant to improving activity implementation and/or 
+sharing information regarding implementation across audiences who can increase 
+understanding of the effectiveness of implementation? 
+● Adapting: Are we using information gathered through CLA activities to pause, reflect 
+and inform decisions regarding adaptation of the program if necessary? 
+
+
+Flexibility and Adaptability of Activities and Managing Risk: 
+
+As Iraq's operational environment shifts frequently, the Activity must be able to operate in a 
+wide range of possible security, economic, and political environments. Applicants should address 
+how they will approach programming under such variable conditions. USAID desires to fund an 
+activity which is adaptive to contextual changes in order to achieve the stated objectives. During 
+implementation of the Activity, plans and methods for assessing, mitigating, and adapting to risk 
+factors should be vetted with USAID and regularly reviewed. 
+
+ 
+
+USAID recognizes that risks abound in the Iraq context and as such we expect the grantee to 
+have an approach to implementation that accounts for and mitigates risk to the greatest possible 
+degree. This means risk that program description objectives are not met as well as risk to 
+implementing partners operating in the field. USAID has made the following critical 
+assumptions with respect to the activity’s theory of change, and these may serve as a basis for 
+considering risk mitigation efforts. 
+
+ 
+
+Activity Level Assumptions: 
+
+● The Applicant and its partners have the ability to operate in the field to identify and 
+engage local partners, assess their needs and abilities as organizations, as well as transfer 
+knowledge and skills to them as well as manage a small granting mechanism. 
+● The Applicant is able to partner with local organizations through sub-awards, within and 
+outside of the small granting mechanism, when appropriate. 
+● The Applicant and its partners have the ability to track and analyze Iraq’s political, social, 
+and economic developments and are willing and capable to engage with the stakeholders 
+and adjust programming accordingly. 
+● Iraqi CSOs will continue to have the space needed to operate without government 
+interference. 
+● Iraqi CSOs are willing to work with the United States Government 
+● The Applicant and its partners have the ability to operate throughout both Federal Iraq 
+and the Iraqi Kurdistan Region. 
+● The Applicant and its partners will register with the appropriate local government 
+entities. 
+
+
+[END OF SECTION A] 
+
+
+ 
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+Subject to the availability of funding and at the discretion of the Agency, USAID/Iraq intends to 
+provide $25,000,000 in total USAID funding and anticipates supporting one (1) Cooperative 
+Agreement over the course of five (5) years pursuant to this notice of funding opportunity. USAID 
+anticipates an initial obligation of $7.5M for approximately 18 months of implementation. 
+
+ 
+
+2. Expected Performance Indicators, Targets, Baseline Data, and Data Collection 
+
+
+The overall goal of the Civil Society Activity (“The Activity”) is to increase citizen engagement 
+in the public sphere, especially among women and youth, while supporting CSOs to connect to 
+and empower citizens and one another, thereby enhancing CSO resilience, increasing its 
+credibility and effectiveness. The expected result is a more active and inclusive civil society 
+sector that effectively fosters change and contributes to a more equitable and democratic Iraq. 
+This activity has three main objectives. 
+
+• Objective 1: Increase sustainability and resilience of CSOs to represent citizens’ 
+interests and advance community-led development. 
+• Objective 2: Increase the engagement and agency of citizens, especially women and 
+youth, to actively contribute to positive change on shared priorities. 
+• Objective 3: Strengthen a public sphere that fosters the active and inclusive participation 
+of civil society in public discourse and citizen-driven change. 
+
+
+ Expected Activity Level Results: 
+
+• CSOs hold local decision-makers accountable through new and creative approaches that 
+mobilize citizen engagement. 
+• CSOs effectively aggregate and advocate for the interests and needs of all citizens. 
+• Formal and informal organizations are able to advocate effectively to create positive 
+change on behalf of their constituents. 
+• Increased women’s participation in civil society, and the amplification of their voices. 
+• Increased participation of targeted marginalized groups in civil society. 
+• Greater public understanding of the role of civil society and CSOs in democratic 
+governance. 
+• Credibility of CSOs increased among citizens. 
+
+
+USAID/Iraq will request applications from potential recipients in which they describe a results-
+oriented set of interventions that they propose to perform in support of achievement of the above 
+Objectives. 
+
+ 
+
+3. Start Date and Period of Performance for Federal Awards 
+
+
+ 
+
+The period of performance anticipated herein is five (5) years. The estimated start date will be 
+upon the signature of the award, which is anticipated on or about May 01, 2023. 
+
+ 
+
+4. Substantial Involvement 
+
+
+ 
+
+
+Consistent with 2 CFR 200.24 Cooperative Agreement and the USAID Automated Directive 
+Services (ADS) 303.3.11 Cooperative Agreements and Substantial Involvement, USAID/Iraq 
+anticipates having substantial involvement throughout the implementation of the Iraq Civil Society 
+Activity. 
+
+ 
+
+USAID has designated an Agreement Officer’s Representative (AOR) for this cooperative 
+Agreement. The role of the AOR is to assist in the programmatic monitoring and administration 
+of the award. 
+
+ 
+
+The Agreement Officer (AO) may delegate the approval listed in the items below to the AOR, 
+except for authority to change the program description, the period of performance, the approved 
+budget, and key personnel that require AO approval. 
+
+USAID’s substantial involvement under the award is expected to be as follows: 
+
+1. Approval of Annual Implementation Plans (i.e., work plans); 
+2. Approval of the detailed Monitoring, Evaluation and Learning Plan (MEL Plan); 
+3. Approval of Key Personnel and any changes in Key Personnel; and 
+4. Approval of the Recipient’s subawards, in accordance with 2 CFR 200.308(c)(6), managed 
+through the award. 
+
+
+ 
+
+5. Title to Property 
+
+
+ 
+
+Property title under the resultant agreement shall vest with the recipient in accordance with the 
+requirements of 2 CFR 200.310-316. 
+
+ 
+
+6. Authorized Geographic Code 
+
+
+ 
+
+The geographic code for this program is 937 (the United States, the recipient country, and 
+developing countries other than advanced developing countries, but excluding any country that is 
+a prohibited source) for the procurement of commodities and services, per ADS 310.3.1.1. 
+
+ 
+
+7. Nature of the Relationship between USAID and the Recipient 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Iraq Civil Society 
+Activity which is authorized by Federal statute. 
+
+ 
+
+The successful Recipient will be responsible for ensuring the achievement of the program 
+objectives and the efficient and effective administration of the award through the application of 
+sound management practices. The Recipient will assume responsibility for administering Federal 
+funds in a manner consistent with underlying agreements, program objectives, and the terms and 
+conditions of the Federal award. The Recipient, using its own unique combination of staff, 
+facilities, and experience, has the primary responsibility for employing whatever form of sound 
+organization and management techniques may be necessary in order to assure proper and efficient 
+administration of the resulting award. 
+
+ 
+
+8. Selection of Instrument 
+
+
+ 
+
+
+Beginning in February 2022, USAID conducted a series of consultations with Iraq’s non-state 
+actors, CSOs, formal and informal groups, as well as other donors and international 
+implementing organizations operating in the sector. The outcome of the consultations and 
+corresponding analysis of both consultations, research documents, data, and other information 
+was the development of the concept for the new Civil Society Activity. The elements of this 
+concept support that the Agency’s programmatic needs would be best met by providing funds 
+and/or in-kind support to an implementing organization, where the primary beneficiary is the 
+recipient organization, who then provides a benefit to third party civil society organizations 
+throughout Iraq. The activity will require a flexible approach as it will prioritize 
+experimentation, particularly when supporting any newly emerging civic groups or movements, 
+exploring new ways of supporting existing groups and networks, as well as seeking sustainable 
+funding models that are specific to the Iraq context. Critical to the activity’s success will be co-
+creation approaches and bringing together a wide range of stakeholders to jointly define 
+problems and brainstorm solutions. Given the nature of work with informal entities and groups 
+of citizens seeking to organize around common goals, USAID support should be provided 
+through an assistance mechanism. USAID intends to provide funds to an eligible organization 
+that has experience in the civil society sector. 
+
+We are not seeking to contract for supplies or services to be provided to USAID for its direct use 
+or benefit therefore an acquisition mechanism is not appropriate. The principal purpose of the 
+Assistance instrument is to transfer Federal financial assistance to the recipient to carry out in the 
+designated program. 
+
+ 
+
+9. Other Information 
+
+
+ 
+
+Award will be made to a responsible Applicant(s) whose Application best meets the requirements 
+of this NOFO and the merit review criteria contained herein. Issuance of this NOFO does not 
+constitute an award commitment on the part of the Government, nor does it commit the 
+Government to pay for costs incurred in the preparation and submission of an Application. In 
+addition, final award of any resultant award cannot be made until funds have been fully 
+appropriated, allocated, and committed through internal USAID procedures. While it is anticipated 
+that these procedures will be successfully completed, the potential applicant is hereby notified of 
+these requirements and conditions for award. The Application is submitted at the risk of the 
+Applicant; all preparation and submission costs are at the Applicant's expense. 
+
+ 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ 
+
+SECTION C: APPLICATION ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+
+ 
+
+Eligibility for this NOFO is unrestricted, except that individuals and government entities are 
+not eligible. 
+
+ 
+
+The Applicant must have established financial management, monitoring and evaluation 
+processes, internal control systems, and policies and procedures that comply with established 
+U.S. Government standards, laws, and regulations. The successful Applicant(s) will be subject 
+to a positive risk assessment by the Agreement Officer (AO). 
+
+ 
+
+A positive risk assessment means that the applicant possesses or has the ability to obtain the 
+necessary management competence to plan and carry out the assistance program to be funded, 
+and that the applicant will practice mutually agreed upon methods of accountability for funds 
+and other assets provided by USAID. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+
+ 
+
+There is no cost sharing requirement anticipated under this award. 
+
+ 
+
+3. Fee/Profit 
+
+
+ 
+
+While for-profit firms may participate, pursuant to 2 CFR 200.400(g), it is USAID policy not 
+to award Fee/Profit to prime recipients and subrecipients under assistance instruments. 
+However, while Fee/Profit is not allowed for sub-awards, the prohibition does not apply when 
+the recipient acquires goods and services in accordance with 2 CFR 200.317-326, 
+“Procurement Standards.” Forgone profit does not qualify as cost-share. 
+
+ 
+
+4. Limitations on submissions 
+
+
+ 
+
+Each applicant is limited to one Application submission under this NOFO as the prime 
+Applicant. There is no limitation on being included as a potential sub-awardee across multiple 
+applications. The use of exclusive teaming arrangements is discouraged. 
+
+ 
+
+5. Partner Vetting Pre-Award Requirements 
+
+
+ 
+
+a. USAID has determined that any award resulting from this assistance request for applications 
+is subject to vetting. An applicant that has not passed vetting is ineligible for award. 
+
+
+ 
+
+b. The following are the vetting procedures for this request for applications: 
+
+
+i. Prospective applicants review the attached USAID Partner Information Form, USAID 
+Form 500-13, and submit any questions about the USAID Partner Information Form or 
+these procedures to the Agreement Officer by the Question and Answer deadline in the 
+RFA. 
+
+ii. The Agreement Officer notifies the Applicant when to submit the USAID Partner 
+
+
+Information Form. Due to the time frame for making this award and the length of the 
+vetting process, these forms must be submitted as soon as feasible once the individuals 
+are identified. USAID reserves the right to award to the next best applicant if the higher 
+rated applicant’s vetting is not completed with enough time to finalize an award. 
+
+ 
+
+The designated vetting official is: 
+
+Vetting official: Jonathan Hartrey 
+
+Email: iraqaidvsu@usaid.gov 
+
+(for inquiries only). 
+
+ 
+
+iii. The applicants must notify proposed subrecipients and contractors of this requirement 
+when the subrecipients or contractors are subject to vetting. 
+
+Note: Applicants who submit using non-secure methods of transmission do so at their own 
+risk. 
+
+ 
+
+c. Selection proceeds separately from vetting. Vetting is conducted independently from any 
+discussions the agreement officer may have with an applicant. The applicant and any 
+proposed subrecipient or contractor subject to vetting must not provide vetting information to 
+anyone other than the vetting official. The applicant and any proposed subrecipient or 
+contractor subject to vetting will communicate only with the vetting official regarding their 
+vetting submission(s) and not with any other USAID or USG personnel, including the 
+agreement officer or the agreement officer's representatives. The agreement officer 
+designates the vetting official as the only individual authorized to clarify the applicant's and 
+proposed subrecipient's and contractor's vetting information. 
+
+
+ 
+
+d. 
+
+
+i. The vetting official notifies the applicant that it: Is eligible based on the vetting results, is 
+ineligible based on the vetting results, or must provide additional information, and 
+resubmit the USAID Partner Information Form with the additional information within the 
+number of days the vetting official specified in the notification. 
+
+ii. The vetting official will coordinate with the agency that provided the data being used for 
+vetting prior to notifying the applicant or releasing any information. In any determination 
+for release of information, the classification and sensitivity of the information, the need to 
+protect sources and methods, and the status of ongoing law enforcement and intelligence 
+community investigations or operations will be taken into consideration. 
+
+e. Reconsideration: 
+
+
+ i. Within 7 calendar days after the date of the vetting official's notification, an applicant that 
+vetting has determined to be ineligible may request in writing to the vetting official that 
+the Agency reconsider the vetting determination. The request will include any written 
+explanation, legal documentation and any other relevant written material for 
+reconsideration. 
+
+ii. Within 7 calendar days after the vetting official receives the request for reconsideration, 
+the Agency will determine whether the applicant's additional information merits a revised 
+decision. 
+
+iii. The Agency's determination of whether reconsideration is warranted is final. 
+
+
+f. Revisions to vetting information: 
+
+
+ i. Applicants who change key individuals, whether the applicant has previously been 
+determined eligible or not, must submit a revised USAID Partner Information Form to the 
+vetting official. This includes changes to key personnel resulting from revisions to the 
+technical portion of the application. 
+
+ii. The vetting official will follow the vetting process of this provision for any revision of 
+the applicant's Form. 
+
+g. Award. At the time of award, the agreement officer will confirm with the vetting official that 
+the apparently successful applicant is eligible after vetting. The agreement officer may award 
+only to an apparently successful applicant that is eligible after vetting. 
+
+
+ 
+
+6. Additional Vetting Requirements 
+
+
+ 
+
+In addition to the vetting requirements found in [to be updated at the time of award], the 
+terms and requirements of the USAID/Iraq Vetting Mission Order is incorporated by 
+reference. The Recipient is responsible for seeking vetting in accordance with the 
+requirements of the USAID/Iraq Vetting Mission Order and Section [to be updated at the 
+time of award] of this award. 
+
+ 
+
+The term “subaward” may include both contracts and sub-assistance awards. All subawards, 
+which require vetting and were proposed in the pre-award application(s) and associated 
+budget(s), are not approved at the time of award unless a Notice of Eligibility was sent prior 
+to award for that organization or individual being vetted. Any such subaward that requires 
+vetting must also be approved by the AO in accordance with Section [to be updated at the 
+time of award] after it is successfully vetted. 
+
+ 
+
+The Recipient may not incur costs for any subawards, which require vetting under the vetting 
+provision or USAID/Iraq Vetting Mission Order, under this award until vetting has been 
+successfully completed. Any costs incurred in relation to a subaward that requires vetting but 
+has not been successfully vetted are unreasonable as they are outside the terms of the 
+agreement and unallowable. 
+
+ 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+ 
+
+
+ 
+
+SECTION D: APPLICATION SUBMISSION INFORMATION 
+
+ 
+
+ 
+
+1. Agency Point of Contact 
+
+
+ 
+
+Only the Agreement Officer is authorized to make commitments on behalf of USAID. The 
+Agreement Officer is listed below: 
+
+ 
+
+Mr. Zachary Clarke 
+
+Regional Agreement Officer 
+
+USAID/MERP 
+
+zclarke@usaid.gov 
+
+ 
+
+The Point of Contact (POC) for information on this NOFO is: 
+
+ 
+
+Ms. Olga Ekkert 
+
+Senior Acquisition & Assistance Specialist 
+
+USAID/Iraq 
+
+oekkert@usaid.gov 
+
+ 
+
+The above contact information is only for informational purposes. The NOFO itself and 
+any subsequent amendments can be found at www.grants.gov. All Applications must be 
+submitted according to instructions contained in this NOFO. 
+
+ 
+
+In order to maintain a fair and transparent funding opportunity, USAID maintains strict 
+guidelines on who within USAID may be contacted regarding applications or questions 
+about the opportunity. Applicants may only contact USAID via the email address provided 
+in this NOFO. Failure to comply with the USAID points of contact guidance mandated in 
+the NOFO may disqualify the Applicant(s). 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions and requests for clarification regarding this NOFO should be submitted by email 
+to BaghdadOAADropbox@usaid.gov no later than the date and time indicated on the cover 
+letter. The subject line must read “72026723RFA00001 Iraq Civil Society Activity”. 
+
+ 
+
+Any information given to a prospective Applicant concerning this NOFO will be furnished 
+promptly to all other prospective Applicants as an amendment to this NOFO on 
+www.grants.gov, if that information is necessary in submitting applications or if the lack 
+of it would be prejudicial to any other prospective Applicant. Please check www.grants.gov 
+for any amendments. 
+
+ 
+
+3. Applicants’ Responsiveness 
+
+
+ 
+
+All Applications received by the closing date and time will be reviewed for responsiveness 
+to the specifications outlined in these guidelines and the application format. Section E: 
+
+
+Application Review Information addresses technical merit review criteria. Applicants must 
+review, understand, and comply with all aspects of this NOFO. Failure to do so may lead 
+to the disqualification of an Application. It is the Applicant’s responsibility to ensure that 
+all necessary documentation is complete and received on time. 
+
+ 
+
+No addition or modifications will be accepted after the submission date. PDF documents 
+are the preferred file format, though MS Word documents will be accepted, if necessary. 
+
+ 
+
+4. Application Process 
+
+
+ 
+
+In accordance with 5 CFR 1320, which implements the Paperwork Reduction Act, USAID 
+requires an electronic submission of the application. 
+
+ 
+
+Applications in response to this NOFO must be submitted to 
+BaghdadOAADropbox@usaid.gov no later than the closing date and time indicated on the 
+cover letter, as amended. Late applications will not be reviewed nor considered. 
+
+ 
+
+It is the Applicant’s responsibility to ensure that all necessary documentation is complete 
+and received on time. Only electronic (email) submission will be accepted. For an 
+application sent by multiple emails, please indicate in the subject line of the email whether 
+the email relates to the technical or cost application, and the desired sequence of multiple 
+emails and of attachments (e.g. "No. 1 of 4", etc.). For example, if your cost application is 
+being sent in two emails, the first email should have a subject line which says: 
+"[organization name], Cost Application, Part 1 of 2". 
+
+ 
+
+USAID’s preference is that the technical application be submitted as a single email 
+attachment, e.g. that you consolidate the various parts of a technical application into a 
+single document before sending them. If this is not possible, please provide instructions on 
+how to collate the attachments. USAID will not be responsible for errors in compiling 
+electronic applications if no instructions are provided or are unclear. 
+
+ 
+
+ After you have sent your applications electronically, immediately check your own email 
+to confirm that the attachments you intended to send were sent. If you discover an error in 
+your transmission, please send the material again and note in the subject line of the email 
+that it is a "corrected" submission. Do not send the same email more than once unless there 
+has been a change, and if so, please note that it is a "corrected" email. 
+
+ 
+
+5. Application Submission Instructions 
+
+
+ 
+
+Each applicant must furnish the complete information required by this NOFO. Applications 
+must be submitted in English and two separate parts/two separate emails: (1) Technical 
+application and (2) Cost/business application. The technical application must address 
+technical aspects only while the Business Application must present the costs. 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose 
+other than for U.S. Government evaluation, should mark the title page with the following 
+legend: 
+
+ 
+
+
+“This application includes data that shall not be disclosed outside the U.S. Government and 
+shall not be duplicated, used, or disclosed – in whole or in part – for any purpose other than 
+to evaluate this application. If, however, a grant is awarded to this Applicant as a result of 
+– or in connection with – the submission of this data, the U.S. Government shall have the 
+right to duplicate, use, or disclose the data to the extent provided in the resulting grant. This 
+restriction does not limit the U.S. Government’s right to use information contained in this 
+data if it is obtained from another source without restriction. The data subject to this 
+restriction are contained in pages ___." 
+
+ 
+
+Mark each sheet of data to be restricted with the following legend: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title 
+page of this application.” Applicants should retain for their records one (1) copy of the 
+application and all enclosures which accompany it. 
+
+ 
+
+Both the Technical and Business Application must include a cover page containing the 
+following information: 
+
+ 
+
+− Program Name 
+− Notice of Funding Opportunity (NOFO) Number: 72026723RFA00001 
+− Name of the Organization Submitting the application 
+− Unique Entity Identifier (UEI) number 
+− Applicant Contact Person (name, phone, email) 
+− Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title organization, mailing 
+address, telephone number and email address) 
+− Full Address of Applicant Organization 
+− Type of Organization (e.g. US, non-US, multilateral, private, for-profit, non-
+profit) 
+− Name(s) of any proposed sub-recipients or partnerships, if any (identify if any 
+of the organizations are local organizations, per USAID’s definition of “local 
+entity” under ADS 303), and sub-recipients’ or partnerships’ Unique Entity 
+Identifiers (UEIs) 
+
+
+ 
+
+Technical and Cost Application must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent 
+sections. Please ensure that applications comply with the page limitations. 
+
+
+ 
+
+● Use standard 8 ½ x 11 (or A4), single sided, single-spaced, 12 point Times New Roman 
+font, 1 inch margins, left justification and headers and/or footers on each page including 
+consecutive page numbers, date of submission, and Applicant’s name. Ten point font can 
+be used for graphs and charts. Tables however must comply with the 12 point Times New 
+Roman requirement. 
+
+
+ 
+
+● The Technical Application must be submitted via Microsoft Word or PDF formats (or 
+equivalent). Zipped files are not allowed. 
+
+
+ 
+
+
+● The Business Application must include an Excel spreadsheet (or equivalent) with all cells 
+unlocked and no hidden formulas or sheets. 
+
+
+ 
+
+● The total size of each e‐mail transmission should not exceed 10MBs. USAID will not be 
+responsible for errors in compiling electronic applications if no instructions are provided 
+or are unclear. 
+
+
+ 
+
+1. Technical Application Format 
+
+
+
+
+
+
+
+
+The Applicant must organize the Technical Application to follow the technical evaluation 
+criteria. The page length of the entire Technical Application must not exceed 25 pages, 
+including executive summary (1 page), Technical Approach (15 pages), Management 
+Approach (4 pages), Personnel Qualifications and Experience (3 pages), overview of 
+Monitoring and Evaluation Plan (2 pages). Annexes, including the two plans, must not 
+exceed an additional 10 pages in total. All pages of the Technical Application must be 
+sequentially numbered. Failure to include all information or to organize the application in 
+the manner prescribed immediately below will result in rejection of the application. 
+
+ 
+
+The Technical Application must be organized as follows: 
+
+ 
+
+A. Cover Page containing information listed on the previous page of this NOFO (not included 
+in page limitation). 
+
+
+ 
+
+B. Table of Contents that follows the technical application format outlined herein (not 
+included in page limitation). 
+
+
+ 
+
+C. Executive Summary (1 page): The Executive Summary must provide a high-level 
+overview of key elements of the technical application. 
+
+
+ 
+
+D. Technical Approach (15 pages): describing the following: 
+
+
+ 
+
+a) A discussion of the development context, including a brief background on the specific 
+
+development challenge/opportunity and the needs that will be addressed by the Activity (include 
+a description of the target population and any gender integration specific challenges). 
+
+ 
+
+b) A statement of how the goals and objectives relate to specific challenges and opportunities in 
+Iraq and in the civil society sector(s). Applicants should indicate how proposed activities will 
+contribute to supporting specific U.S. government objectives included in the Integrated Country 
+Strategy such as Iraq's governance institutions improve accountability, transparency, and 
+performance in serving its citizens and stated USAID priorities described throughout the NOFO 
+Program Description, such as localization, conflict sensitivity/do no harm, gender integration, 
+inclusive development, and climate change, as emphasized by Administrator Power in numerous 
+public statements including the Fiscal Year (FY) 2023 President’s Budget Request . 
+
+ 
+
+c) The technical approach to be used, including the specific program activities to be 
+
+conducted and implemented, including the following specifics; 
+
+● Under Objective 1, the Applicant must engage Iraqi CSOs to act as implementing 
+agents/partners and leaders in this community-driven work stream, from design through to 
+monitoring and evaluation phases. Applicants must articulate their technical approach for 
+accomplishing this, name any local partners already identified, and describe how this and 
+
+
+
+objective 2 will inter-relate and mutually reinforce one another. Core sectors for the focus 
+of this activity will be co-created with USAID. 
+● Under Objective 2, the Activity will create and implement a demand-driven small grants 
+program to enable local sustainability, and shift more leadership, ownership, decision-
+making, and implementation to local groups. The Applicant must articulate how this would 
+be structured, used, and add value to the objective and the overall Activity as well as any 
+other compelling details related to the Applicant’s vision for a dedicated small granting 
+program. The successful applicant will co-create core sectors for the focus of this activity 
+with USAID. 
+● Under Objective 3, the Activity will work with Iraqi CSOs to advocate for increased 
+quantity and quality of government information available to citizens in federal Iraq as well 
+as the Iraqi Kurdistan Region. Information may be provided to the public through 
+information technology, social media or traditional media. Applicants should outline how 
+they intend to work with Iraqi CSOs on increasing public awareness and access to reliable 
+information as well as how they will advocate how it should be disseminated to citizens 
+once it is acquired. In addition, the Applicants must identify how this information could or 
+will be used as a driver for positive change. 
+● Under the Activity Modifier/Rapid Response Component ($5 million total): the 
+Applicant must lay out clear criteria for activating this component, what conditions should 
+be present, and what the sequence of programming interventions would potentially be 
+should those conditions be present. 
+● With respect to the necessary Local Capacity Development elements present in the 
+activity description, the Applicant will incorporate relevant organizational capacity and 
+resilience related findings in their support to local partners (if known) and articulate this in 
+their technical approach. 
+● In order to meet USAID’s expectations with respect to gender integration, the Applicant 
+will clearly express their approach to integrating gender equality, women’s empowerment, 
+and protection of women and girls in the technical approach and describe how it will 
+prepare a nuanced, and flexible gender action plan for this award, which will be submitted 
+in accordance with the reporting requirements for the award. 
+● The Applicant will specifically describe how it will ensure participation and leadership of 
+USAID/Iraq’s key targeted demographics - women, youth, and marginalized 
+communities - in the activities under this award through genuine partnership with 
+individuals and groups led by, consisting of, and representing these demographics in the 
+spirit of the phrase, Nothing About Us, Without Us. 
+● The Applicant should describe how it will use the conflict sensitivity analysis and 
+implementation strategy throughout the life of the award and how it will inform activity 
+design and implementation. 
+● The Applicant should describe how the activity will respond to dynamic changes in the 
+operating environment and should incorporate regular risk assessment and flexibility to 
+revise program activities that quickly respond to the needs of citizens, civil society, and 
+other partners, the United States Government (USG), key stakeholders, and the changing 
+political environment. 
+
+
+ 
+
+d) A clear description of how the applicant will ensure the sustainability of the approaches 
+
+that are developed and the results that are achieved via the activity and any proposed partnerships 
+within the activity. For example, what specific steps and actions will the applicant take to ensure 
+sustainable results and impacts beyond the term of USAID’s financial support? 
+
+ 
+
+
+The Technical Approach of the successful applicant will form the basis of the Program Description 
+in the resulting award. Therefore, the Technical approach must be written as a stand alone 
+document. Furthermore, the PD must be written from the perspective of USAID. That is, it must 
+say “[organization name or project name] will do xyz…” as opposed to “we will do xyz…” 
+
+ 
+
+E. Project Management Approach (4 pages) 
+
+
+ 
+
+The approach must include: 
+
+ 
+
+a) Refine and Implement (R&I) Period 
+
+ 
+
+The Applicant must submit a brief narrative description of the R&I Plan specific to the 
+four-month R&I period. This will include a matrix that illustrates proposed interventions 
+and when they will take place. The following must be included: 
+
+ 
+
+● A summary of the main tasks that the Applicant plans to complete during the R&I period. 
+● The methodology and timeline for development of a Gender Action Plan, Civil Society 
+Landscape Analysis, Political Economy Analysis, and Conflict Sensitivity Analysis. 
+● A description of any other planned studies or surveys to be undertaken in year 1 with clear 
+justification for their use in terms of learning, baseline understanding or adaptive 
+management benchmarks. 
+● A description of any innovative approaches or technologies to be tested in the first 18 
+months of implementation and a methodology to demonstrate the efficacy of these 
+approaches prior to scaling or further deployment. 
+● A timeline and processes for regular consultation with USAID during the R&I period and 
+through the first year of implementation, to include discussion of adaptive management 
+needs identified (also can be referred to as “pause and reflect” sessions). 
+● Consultation with USAID on the refinement and planning for co-creation and approval 
+processes related to sub-grant awards. 
+
+
+ 
+
+b) Identification of potential partners for activities. This list is illustrative as core sectors 
+for focus (climate, gender, community development etc.) of this activity will be developed 
+concurrently with USAID. 
+
+ 
+
+c) A well-defined partnership framework that specifies the roles and responsibilities of 
+
+any proposed partners, including the particular expertise, resources and other assets they 
+will bring to an alliance/partnership, and what will result as a consequence of such 
+participation and engagement; 
+
+ 
+
+d) A clearly articulated approach to incorporate lessons learned from previous efforts. This 
+activity will build on previous investments in the civil society sector (USAID and non-
+USAID) and expand into new activities supporting citizens and community-led activities. 
+Applicants must ensure that lessons-learned from previous civil society capacity 
+strengthening efforts are integrated into this design. Applications should describe what 
+other USAID, USG, and other donor entities are operating in this space and how they will 
+relate to, coordinate with, mutually support, and/or avoid duplication. 
+
+ 
+
+e) An efficient and logical structure for overall program implementation, including how 
+the applicant will divide labor, responsibilities and funding with partners or any potential 
+
+Sub-grantees. 
+
+
+ 
+
+f) An organizational chart for the applicant’s proposed implementation structure. 
+
+ 
+
+F. Personnel Qualifications and Experience (3 pages of total narrative in the application 
+body and in the annex CVs of proposed key personnel not to exceed 2 pages each) – 
+This section must include: 
+
+
+ 
+
+a) A staffing plan that corresponds to the skills and experience called for by the applicant’s 
+approach and project management / implementation plan, catering to the technical 
+approach, necessity for flexibility and adaptability, and the other specific elements of the 
+program description. 
+
+ 
+
+b) Technical and managerial experience and skills. 
+
+ 
+
+c) Subject matter expertise related to the activity objectives, program description, and 
+
+proposed approaches. 
+
+ 
+
+d) Focused, practical experience in managing and implementing similar programs in 
+
+developing countries. 
+
+ 
+
+Required Key Personnel: 
+
+ 
+
+The proposed staffing plan must include the following key personnel positions: 
+
+ 
+
+● Chief of Party (COP) is responsible for overall program management and will be expected 
+to interact regularly with program staff, USAID Mission staff, civil society organizations, 
+GOI officials, other donors, and all program stakeholders. Desired qualifications for the 
+position include: 
+○ Master’s degree in social sciences, community development, communications, 
+business, international development, and/or other related fields. 
+○ Ten (10) years work experience implementing civil society activities including 
+engagement with legal frameworks imposed on civil society, grants to local 
+organizations, citizen engagement, and CSO financial and organizational 
+sustainability. 
+○ Five (5) years experience in managing staff with proven skills in managing diverse 
+teams across a wide implementation area. 
+○ Strong coordination and communication skills to include a variety of stakeholders 
+(national, international, government, non-government, international organization, 
+donor). 
+○ Fluent written and spoken English. Some knowledge of Arabic is preferred. 
+○ Knowledge of the Middle East Region is a plus. 
+
+
+
+
+
+ 
+
+● Deputy Chief of Party (DCOP) will work closely with the COP in overseeing program 
+operations and will have strong written and oral communication skills as well as 
+operational, implementation experience. The incumbent will assume technical direction 
+and oversight of the civic participation grants component of the program. S/he will be 
+expected to interact regularly with project and Mission staff, as well as with civil society 
+partners and all stakeholders to the program. Desired qualifications include: 
+○ A Master’s degree in social sciences, community development, communications, 
+business, international development, and/or other related fields. 
+
+
+
+
+
+
+○ At least eight (8) years of experience working in the engagement of civil society. 
+○ Demonstrated experience developing systems to identify potential partners, 
+evaluation of capacity of partners, and managing grants (in-kind and cash) with 
+local partners, training development and other technical areas related to the 
+objectives of this activity. 
+○ The DCOP must also demonstrate professional capacity in written English and 
+experience presenting to a variety of audiences (national and international). 
+○ Professional proficiency in Arabic is preferred. 
+○ Knowledge of the Middle East Region is a plus. 
+
+
+
+
+ 
+
+● Civil Society Capacity Development Technical Specialist and Coordinator will be 
+responsible for the provision and oversight of technical direction and assistance in support 
+of improved public outreach and information, coalition building, and improved 
+organizational management capacity. The individual will support development of 
+financial capacity and will support any technical trainers engaged in this or other areas of 
+capacity development. Desired Qualifications include: 
+○ University degree in management, public administration, finance, or related field. 
+○ At least 8 years of demonstrated experience and expertise in civil society 
+strengthening, including capacity development; community mobilization; and civil 
+society-related training and facilitation. Work with grassroots communities and 
+advocacy movements is a plus. 
+○ Previous work experience with civil society in Iraq is required. 
+○ Candidates must also have a high level of interpersonal and communication skills. 
+○ English and Arabic language proficiency are both required. 
+
+
+
+
+
+ 
+
+A balance of technical experience, management qualifications and compliance experience 
+is encouraged in the proposed team. Expatriate staff will be considered for this program 
+but skilled Regional experts and/or Iraqi nationals are encouraged. Proposed staff from the 
+region should have demonstrated ability to work in a diverse environment with flexibility 
+and adaptive approaches to learning and sharing experience. 
+
+ 
+
+G. Overview of Monitoring, Evaluation and Learning Plan (2 pages) 
+
+
+The Applicant must submit a proposed activity level Monitoring, Evaluation and Learning 
+Plan (MEL Plan) to rigorously and credibly document the activity’s effectiveness and to 
+commit to sharing and learning from ongoing work and accomplished results. USAID 
+acknowledges that there could be multiple approaches to achieving the objectives outlined 
+in this project description, and the specific indicators may vary somewhat depending upon 
+the technical approaches proposed. It is also acknowledged that output indicators may be 
+necessary for overall day-to-day management of the program, however, the Applicant 
+should vest more time in developing quality outcome level indicators that have the ability 
+to track overall achievements toward the goal and objectives and engage in effective 
+discussions about innovations introduced and any adaptations that may be required. This 
+entails identifying indicators and realistic (yet ambitious) targets that correspond to and 
+measure the activity’s interventions at different levels of results (goal, objectives, expected 
+outcomes, outputs) and are linked to established baselines to assess the performance of 
+proposed interventions. It may be necessary to also consider proxy indicators with the 
+caveat that there may be challenges to attribution. Gender-focused indicators should be 
+included and disaggregation of output indicators by sex and age is required where 
+appropriate. The Applicant must rely on context monitoring to understand the influences, 
+conditions, and external factors that impact implementation of interventions. 
+
+
+Collaborating, learning and adapting (CLA) approaches must be applied throughout the 
+course of implementation for all interventions. 
+
+ 
+
+The MEL Plan must elaborate on methods and assessment tools the Applicant will use for 
+collecting, monitoring, analyzing, reporting, and maintaining the data. The Applicant 
+should use a mix of custom and standard indicators from the Standard Foreign Assistance 
+Master Indicator List. All people-level indicators must be disaggregated by sex and age. 
+The Applicant shall consider quality indicators over quantity when developing its list of 
+performance indicators. The following are some illustrative indicators and learning 
+questions. The Applicant will provide their suggested indicators and proposed learning 
+questions, that align with outcomes flowing from their particular stated technical 
+approach. 
+
+ 
+
+Illustrative Activity Level Indicators 
+
+● Number of local partners’ activities that aim to influence laws, policies, and reforms in the 
+legal, information, financial spaces following USAID support. 
+● Number of CSO activities resulting in a measurable increase in visibility and/or credibility 
+of CSOs within Iraqi society. 
+● CBLD - 9 Percent of USG-assisted organizations with improved performance. 
+● Number of CSOs using evidence/research to support their advocacy and policy work. 
+● Number of consensus building forums (multi-party, civil/security sector, and/or civil 
+/political) held with USG Assistance. 
+● Percentage of CSOs assisted that have a youth engagement strategy. 
+● Number of public policies introduced, adopted, repealed, changed, or implemented with 
+U.S. Government (USG) assistance (outcome). 
+● Number of USG-assisted civil society organizations (CSOs) that participate in legislative 
+proceedings and/or engage in advocacy and/or information dissemination and analysis with 
+legislatures. 
+
+
+ 
+
+Illustrative Learning Questions 
+
+● How and to what extent have barriers to inclusion and leveraged opportunities for 
+strengthening the engagement of Iraqi citizens in civic processes been addressed? 
+● What are effective and sustainable mechanisms or processes to integrate local, community, 
+sub-national, national, and regional voices, priorities, and contributions into civil society 
+strengthening efforts? 
+● What are effective and sustainable mechanisms or processes that enable the participation 
+of civil society and public organizations in developing locally-led solutions to improve 
+citizen confidence and engagement in democratic governance? 
+
+
+ 
+
+USAID encourages the use of complexity-aware monitoring and evaluation 
+methodologies. For more on Complexity Aware Monitoring: 
+https://usaidlearninglab.org/complexity-aware-monitoring/approaches 
+
+USAID also encourages the inclusion of pause and reflect sessions that include USAID 
+Mission staff, at key points in the activity’s annual performance implementation, identified 
+by the Recipient, to review progress, identify pivot points, and address challenges 
+adaptively. This creates opportunities to reconfirm the assumptions from which the design 
+is built and review that the theory of change is still valid or if adjustments to the approach 
+are required, what those adjustments may need to be. The periodic pause and reflect 
+sessions are particularly critical in this space due to the often fluid political and security 
+environment. They do not need to be long in duration. The awardee is encouraged to use a 
+
+
+political economic analysis lens to inform these sessions. Political economic analysis does 
+not need to take the form of formal reporting or engage a lengthy process but should be 
+used to refine understanding of the context and check that assumptions are valid on a 
+periodic basis. 
+
+ 
+
+In addition to data collection, performance indicators, and possible pause and reflect 
+sessions, the MEL Plan should identify other assessments, evaluations, or learning products 
+and events that may be used to assess the effectiveness of activities and progress towards 
+results as well as determine the necessary strategy shifts. 
+
+ 
+
+H. Annexes (not to exceed a total of ten [10] pages). Annexes are not included in the 25 page 
+limit: 
+
+
+ 
+
+– Illustrative MEL Plan with indicators 
+– Resumes (key personnel) (not counted in the 10 page limit for annexes but each 
+resume is limited to a maximum of 2 pages) 
+– Mobilization Plan (4 pages) 
+– Institutional Capabilities/Experience (1 page) - This section must include: 
+
+
+ 
+
+a) A concise description of the Applicant's, as well as prospective or 
+existing local or other partners’, previous work and experience relative to 
+the activities being proposed. 
+
+i. A list of up to three awards involving similar or related awards in 
+which the Applicant was a prime or sub-partner, whether or not 
+involving USAID, during the past three years. If the Applicant submits 
+an award on which they were a sub, please specify, to the 
+degree possible, the role played as a sub. 
+
+ 
+
+b) For each award, include a brief statement about: 
+
+i. The relevance and brief description of work performed; 
+
+ii. Results achieved; 
+
+iii. Duration, size, value; and 
+
+iv. Award numbers and contact information with current email 
+addresses and telephone numbers. 
+
+ 
+
+No other annexes shall be included in the application. 
+
+ 
+
+I. Branding Strategy & Marking Plan 
+
+
+ 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and 
+Marking Plan to be evaluated and approved by the Agreement Officer and incorporated 
+into any resulting award 
+
+ 
+
+J. Other relevant information 
+
+
+ 
+
+Links to applicable regulations and references: 
+
+- Systems for Award Management (SAM) at www.sam.gov 
+
+ 
+
+- ADS Series 300 Acquisition and Assistance 
+
+
+https://www.usaid.gov/who-we-are/agency-policy/series-300 
+
+ 
+
+Further background on USAID’s Gender can be found here: 
+
+ 
+
+Gender: Gender Equality and Women's Empowerment and ADS Chapter 205 - Integrating 
+Gender Equality and Female Empowerment in USAID's Program Cycle. 
+
+ 
+
+2. Business (Cost) Application Format 
+
+
+
+
+
+
+
+
+The Cost or Business Application portion of the Application shall be submitted separately 
+from the Technical Application. While there is no page limit for this portion of the 
+application, the Applicant is encouraged to be as concise as possible, but still provide the 
+necessary details. 
+
+The business (cost) application must illustrate the entire period of performance, using the 
+budget format shown in the SF-424A. 
+
+Prior to award, the applicant may be required to submit additional documentation deemed 
+necessary for the Agreement Officer to assess the applicant’s risk in accordance with 2 
+CFR 200.206. 
+
+The Applicant should not submit any additional information with their initial application. 
+
+The Business Application must contain the following sections: 
+
+a) Cover Page 
+
+b) SF 424 Form(s) 
+
+The applicant must sign and submit the cost application using the SF-424 series at 
+Standard Form 424 
+
+ 
+
+(1) SF-424 - Application for Federal Assistance; 
+
+(2) SF-424A - Budget Information – Non-Construction Programs; and 
+
+(3) SF-424B - Assurances – Non-Construction Programs; 
+
+ 
+
+c) Required Certifications and Assurances 
+
+ 
+
+The applicant must complete the following documents and submit a signed copy 
+with their application: “Certifications, Assurances, Representations, and Other 
+Statements of the Recipient” document found at: 
+
+https://www.usaid.gov/ads/policy/300/303mav 
+
+ 
+
+d) Summary Budget: inclusive of all Activity costs broken out by major budget 
+category and by fiscal year for interventions to be implemented by the Applicant 
+and any potential sub-recipients for the entire period of the Activity. 
+
+ 
+
+ e) Budget and Budget Narrative 
+
+
+The Budget Narrative must contain sufficient detail to allow USAID to 
+understand the proposed costs. The applicant must ensure the budgeted costs 
+address any additional requirements identified above, such as Branding and 
+Marking. The Budget Narrative must be thorough, including sources for costs to 
+support USAID’s determination that the proposed costs are fair and reasonable. 
+
+The budget includes: 
+
+(1) a budget with a breakdown by activity year, sufficient to allow the Agency to 
+determine that the costs represent an efficient use of funding to implement the 
+Applicant’s activity. 
+
+(2) a detailed budget for each sub-recipient, broken out by budget category and by 
+year, for the entire implementation period of the Activity with an accompanying 
+budget narrative which provides, in detail, the total costs for implementation of 
+the Activity. 
+
+The Applicant must include a budget with an accompanying budget narrative 
+(word document) which provides, in detail, the total costs for implementation of 
+the Activity. 
+
+ 
+
+The budget must be submitted in US dollars, in Excel format using the template 
+provided with visible formulas and unlocked cells to enable USAID to check the 
+formulas and calculations included. All cells that are derivative calculations from 
+other information submitted on the budget template must be calculated in the cell 
+from the relevant equation and cannot be submitted as just a final value. 
+
+The following major line items with a budget narrative must be included. Each 
+major line item must be supported by detailed breakdowns of each expected sub-
+expense under that line: 
+
+ 
+
+i. Personnel: Must be proposed consistent with 2 CFR 200.430 Compensation 
+- Personal Services. The applicant’s budget must include position title, salary rate, 
+level of effort, and salary escalation factors for each position. A detailed level of 
+effort estimate must be included for all key personnel. Other non-key personnel 
+costs should be estimated based on the estimated number of full- and part-time 
+staff needed to successfully enable the Applicant to meet their technical scope of 
+work. Allowances, when proposed, must be broken down by specific type and by 
+position. The applicant must explain all assumptions in the budget narrative. The 
+budget narrative must demonstrate that the proposed compensation is reasonable 
+for the services rendered and consistent with what is paid for similar work in other 
+activities of the applicant. The applicant must provide their established written 
+policies on personnel compensation. If the applicant’s written policies do not 
+address a specific element of compensation that is being proposed, the budget 
+narrative must describe the rationale used and supporting market research. 
+
+ii. Fringe Benefits: (if applicable) If the applicant has a fringe benefit rate 
+approved by an agency of the U.S. Government, the ASA must use such a rate and 
+provide evidence of its approval. If an applicant does not have a fringe benefit rate 
+approved, the applicant must propose a rate and explain how the applicant 
+determined the rate. In this case, the budget narrative must include a detailed 
+
+
+breakdown comprised of all items of fringe benefits (e.g., superannuation, gratuity, 
+etc.) and the costs of each, expressed in U.S. dollars and as a percentage of salaries. 
+
+ 
+
+iii. Travel and Transportation: The application should provide details to 
+explain the purpose of the trips, the number of trips, the origin and destination, the 
+number of individuals traveling, and the duration of the trips. Per Diem and 
+associated travel costs must be based on the applicant’s normal travel policies. 
+When appropriate please provide supporting documentation as an attachment, 
+such as company travel policy, and explain assumptions in the budget narrative. 
+
+ 
+
+iv. Supplies: The application should specify the procurement of all tangible 
+personal property other than those described in Equipment. A computing device is 
+a supply if the acquisition cost is less than the lesser of the capitalization level 
+established by the non-Federal entity for financial statement purposes or $5,000, 
+regardless of the length of its useful life. The application should indicate the 
+quantity of the equipment to be purchased, the unit cost and the total price. 
+
+ 
+
+v. Equipment: The application should specify the procurement of any tangible 
+personal property (including information technology systems) having a useful life 
+of more than one year and a per-unit acquisition cost which equals or exceeds the 
+lesser of the capitalization level established by the non-Federal entity for financial 
+statement purposes, or $5,000. The application should indicate the quantity of the 
+equipment to be purchased, the unit cost and the total price. 
+
+ 
+
+vi. Other Direct Costs: The application should provide a breakdown of all 
+anticipated other direct costs (i.e. the amount, type, and unit cost with as much 
+detail as possible) not elsewhere specified, such as report preparation costs, 
+passports and visas fees, medical exams and inoculations, as well as any other 
+miscellaneous costs which directly benefit the program proposed by the applicant. 
+The applicant should also indicate the subject, venue and duration of any proposed 
+conferences and seminars, and their relationship to the objectives of the program 
+along with estimates of costs. Otherwise, the narrative should be minimal. 
+
+ 
+
+vii. Subawards: (If applicable) The application should specify the budget for 
+the portion of the program to be passed through to any subrecipients. See 2 CFR 
+200.330 for assistance in determining whether the subtier entity is a subrecipient 
+and any identified consortium partners or contractor. The subrecipient budgets 
+must align with the same requirements as the Applicant’s budget, including those 
+related to fringe and indirect costs. 
+
+ 
+
+ viii. Flexible Activity Modifier Component for Rapid Response: The 
+application should include the topline figure to be set-aside for the program 
+modifier is $1million per year ($5 million total under the total estimated annual 
+amount of the award). 
+
+ ix. Subgrants Component: The application should include set-aside for a 
+demand-driven small, sub-grants component valued at a minimum of $5 million 
+over a five-year period to enable local sustainability, and shift more leadership, 
+ownership, decision-making, and implementation to local groups. 
+
+ 
+
+
+x. Indirect Costs - The applicant must submit the most recent Negotiated 
+Indirect Cost Rate Agreement NICRA. 
+
+ 
+
+If the organization or its sub-recipient has never received a NICRA then a 10 
+percent de minimis indirect cost rate may be applicable. 
+
+ 
+
+f) Prior Approvals in accordance with 2 CFR 200.407 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any 
+requirements for prior approval by the Agency. If the applicant would like the 
+award to reflect approval of any cost elements for which prior written approval is 
+specifically required for allowability, the applicant must specify and justify that 
+cost. See 2 CFR 200.407 for information regarding which cost elements require 
+prior written approval. 
+
+ 
+
+g) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have 
+approved at the time of award. For each proposed subaward the applicant must 
+provide the following: 
+
+● Name of organization 
+
+● UEI Number 
+
+● Confirmation that the subrecipient does not appear on the Treasury 
+Department’s Office of Foreign Assets Control (OFAC) list 
+
+● Confirmation that the subrecipient does not have active exclusions in the 
+System for Award Management (SAM) 
+
+● Confirmation that the subrecipient is not listed in the United Nations Security 
+designation list 
+
+● Confirmation that the subrecipient is not suspended or debarred 
+
+● Confirmation that the applicant has completed a risk assessment of the 
+subrecipient, in accordance with 2 CFR 200.331(b) 
+
+● Any negative findings as a result of the risk assessment and the applicant’s 
+plan for mitigation. 
+
+ 
+
+ h) SAM requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all 
+applicable unique entity identifier (UEI) and System for Award Management 
+(SAM) requirements. The applicant (unless the applicant has an exception 
+approved by the Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+i. Provide a valid UEI number for the applicant and all proposed sub-recipients; 
+
+ii Be registered in SAM before submitting its application. SAM is streamlining 
+processes, eliminating the need to enter the same data multiple times, and 
+consolidating hosting to make the process of doing business with the government 
+more efficient (www.beta.sam.gov) . 
+
+iii. Continue to maintain an active SAM registration with current information 
+at all times during which it has an active Federal award or an application or plan 
+under consideration by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants 
+are encouraged to begin the process early. If an applicant has not fully complied 
+with the requirements above by the time USAID is ready to make an award, 
+USAID may determine that the applicant is not qualified to receive an award and 
+use that determination as a basis for making an award to another applicant. 
+
+UEI and SAM registration: https://sam.gov./content/entity-registration 
+
+ 
+
+ 
+
+Note: Request for Application is NOT a commitment to funding. USAID/Iraq reserves 
+the right to make no award under this RFA at any stage of the process at no cost to the 
+USG. 
+
+ 
+
+ 
+
+[END OF SECTION D] 
+
+ 
+
+THE REMAINDER OF THIS PAGE IS LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ 
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. Application Merit Review Criteria 
+
+
+The Application Merit Review Criteria prescribed here are tailored to the requirements of 
+this particular NOFO. The Applicant should note that these criteria serve to: 
+
+(a) identify the significant matters which the Applicant should address in the 
+application, and 
+
+(b) set the standard against which the Applications will be evaluated. 
+
+ 
+
+Technical and other factors will be evaluated relative to each other, as described here and 
+prescribed by the Technical Application Format. The Technical Application will be 
+evaluated by a Merit Review Committee (MRC) using the ratings described in this section. 
+
+ 
+
+2. Review and Selection Process 
+
+
+ 
+
+a) Merit Review and Rating 
+
+
+ 
+
+USAID will conduct a merit review of Applications received that comply with the 
+instructions in this NOFO. The Applications will be reviewed and evaluated using an 
+adjectival rating system (Exceptional, Very Good, Satisfactory, Marginal, 
+Unsatisfactory) in accordance with the definitions below: 
+
+ 
+
+ 
+
+Adjective 
+
+Merit Review Criterion 
+
+Exceptional 
+
+An Exceptional Application has the following characteristics: 
+
+• A comprehensive and thorough Application of exceptional merit. 
+
+• Application meets and fully exceeds the Government expectations 
+or exceeds NOFO objectives and presents very low risk or no 
+overall degree of risk of unsuccessful performance. 
+
+• Strengths significantly outweigh any weaknesses that may 
+exist. 
+
+Very Good 
+
+A Very Good Application has the following characteristics: 
+
+• Application demonstrating a strong grasp of the objectives. 
+
+• Application meets NOFO objectives and presents a low overall 
+degree of risk of unsuccessful project performance. 
+
+• Strengths significantly outweigh any weaknesses that exist. 
+
+Satisfactory 
+
+A Satisfactory Application has the following characteristics: 
+
+• Application demonstrating a reasonably sound response and a 
+good grasp of the objectives. 
+
+
+
+
+• Application meets NOFO objectives and presents a moderate 
+overall degree of risk of unsuccessful project performance. 
+
+• Strengths outweigh weaknesses. 
+
+Marginal 
+
+A Marginal Application has the following characteristics: 
+
+• Application shows a limited understanding of the objectives. 
+
+• Application meets some or most of the NOFO objectives, but 
+presents a significant overall degree of risk of unsuccessful project 
+performance. 
+
+• Weaknesses equal or outweigh any strength that exists. 
+
+Unsatisfactory 
+
+An Unsatisfactory Application has the following characteristics: 
+
+• The Application does not meet the NOFO objectives or requires a 
+major rewrite of the Application. 
+
+• Present an unacceptable degree of risk of unsuccessful project 
+performance. 
+
+• Weaknesses demonstrate a lack of understanding of the 
+Government’s needs. 
+
+• Weaknesses significantly outweigh any strength that exists. 
+
+ 
+
+
+
+ 
+
+ 
+
+Technical applications will be evaluated on the extent to which they are complete, presented 
+concisely, and responsive to the instructions and the criteria shown below. 
+
+ 
+
+The criteria below are listed in descending order of importance. Bullets are not sub criteria; 
+rather, they are factors for consideration under each criterion and will not be reviewed 
+separately. 
+
+ 
+
+ 
+
+Criterion 1. Soundness of Technical Approach 
+
+The applicant’s technical approach - including proposed activity strategy, suggested 
+methodologies, and proposed plan for integration and implementation of the proposed refine 
+and implement/inception phase within the technical approach - will be evaluated on the 
+clarity, consistency, quality, appropriateness to the Iraq context, engagement strategy to 
+work with local partners and grantees, and likelihood of the proposed technical approach 
+and proposed interventions to achieve the objectives and intended results of this activity, 
+including the USAID sectoral priorities, within the implementation period. 
+
+ 
+
+Criterion 2. Soundness of Program Management Approach, Staffing Approach, 
+
+
+
+
+Qualifications of Key Personnel and Institutional Capability 
+
+The applicant’s program management/implementation and staffing approach will be 
+evaluated on: 
+
+• Clarity and soundness of the program management and implementation approach, 
+including the proposed first year draft implementation plan matrix which integrates the 
+applicant’s refine and implement approach. 
+
+• Clarity and appropriateness of roles and responsibilities for each key technical position, 
+including partner personnel proposed to implement the agreement. 
+
+• Clarity and appropriateness of the organizational structure of the entire project team, 
+including partner organizations. 
+
+• Extent to which the proposed key personnel demonstrate experience necessary to carry out 
+the proposed technical and management actions, including how well they meet the minimum 
+qualifications. 
+
+ 
+
+Criterion 3. Soundness of MEL Plan 
+
+The soundness of the MEL plan will be evaluated on: 
+
+• Clarity, feasibility, and comprehensiveness of applicant’s approach to the MEL plan; 
+
+• Extent to which it corresponds to the stated goals and objectives outlined in the technical 
+approach; and 
+
+• Clear learning approach to explore potential outcomes and innovations introduced through 
+program activities at different points over the course of implementation. 
+
+ 
+
+
+
+ 
+
+ 
+
+b) Business Review 
+
+
+ 
+
+The Agency will review the cost application of the applicant under consideration for an award 
+(i.e., the apparently successful applicant) as a result of the merit criteria review to determine 
+whether the costs are allowable in accordance with the cost principles found in 2 CFR 200 
+Subpart E. 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a 
+preaward survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+
+
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+3. Anticipated Announcement and Federal Award Dates 
+
+
+Based on the NOFO issue date and considering that no submission extensions will be 
+granted, and if there are no delays in the review/evaluation process, USAID anticipates 
+having an award in place by May 01, 2023. 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE IS LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, the potential applicant is hereby 
+notified of these requirements and conditions for the award. 
+
+ 
+
+The Agreement Officer is the only individual who may legally commit the Government to the 
+expenditure of public funds. No costs chargeable to the proposed Agreement may be incurred 
+before receipt of either a fully executed Agreement or a specific, written authorization from the 
+Agreement Officer. 
+
+ 
+
+The Cooperative Agreement signed by the Agreement Officer is the authorizing document, which 
+shall be transmitted to the Recipient for countersignature to the authorized agent of the successful 
+organization(s) electronically. 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+The Agreement Officer will use applicable policies and standard provisions in the administration 
+
+of the resulting award. No deviations are currently contemplated to the standard provisions for the 
+Cooperative Agreement resulting from this NOFO. The standard provisions to be used will be the 
+Mandatory Standard Provisions for U.S. Non-governmental Recipients or the Mandatory Standard 
+Provisions for Non-U.S. Non-governmental Recipients. 
+
+ 
+
+For U.S. organizations, the resulting federal award will be administered in accordance with the 
+following policies and regulations: ADS 303, 2 CFR 700, 2 CFR 200, and ADS 303maa, Standard 
+Provisions for U.S. NGOs are applicable. For complete copies of 2 CFR 200 and 2 CFR 700, 
+please also see ADS 303.4. 
+
+ 
+
+For non-U.S. organizations, ADS 303mab, Standard Provisions for Non-U.S. NGOs will apply. 
+
+ 
+
+This NOFO only contains provisions that are required at this stage. Final provisions will be 
+incorporated in the final award as applicable to the selected Recipient. 
+
+ 
+
+3. Reporting Requirements 
+
+
+ 
+
+Program Reports shall be in accordance with applicable USAID Standard Provisions. All written 
+documentation must be submitted in professional-level English. The reports listed below are the 
+initial reports that USAID anticipates requiring from the successful recipient. Based on the 
+evolving nature of the agreement, USAID may provide modified reporting requirements. 
+
+ 
+
+
+Note: USAID’s fiscal year starts on October 1 and ends on September 30. Four fiscal quarterly 
+periods begin on October 1, January 1, April 1, and July 1. 
+
+ 
+
+a. Financial Reporting: 
+
+
+ 
+
+Financial Reports shall be in accordance with applicable USAID Standard Provisions. 
+
+ 
+
+Quarterly Financial Report: Quarterly Financial Reports shall be due within 30 days following 
+the end of each quarter corresponding to USAID’s fiscal year from October 1 through September 
+30. 
+
+ 
+
+In accordance with 2 CFR 200.327, Standard Form 425 (SF-425) and SF-425A are used to report 
+accrued expenditures. Reporting periods are calendar quarters. Quarterly financial reports are due 
+no later than 30 days after the end of each calendar quarter (January 30, April 30, July 30, and 
+October 30). 
+
+ 
+
+Quarterly Accruals Reporting: Accruals are the estimated cost of the liability recognized during 
+the period for goods and/or services received but not disbursed, or goods and/or services invoiced 
+but not recorded. 
+
+ 
+
+USAID performs a quarterly accrual exercise at the end of each quarter; i.e. December 31, March 
+31, June 30, and September 30. The Recipient is expected to submit four quarterly accrual 
+expenditures reports 15 days before the end of a quarter per year. The Recipient must submit a 
+spreadsheet showing cumulative disbursements and estimated (un-disbursed) accruals to the AOR. 
+
+ 
+
+Final Financial Report: The Final Financial Report shall be due within 90 days following the 
+expiration of the award. Financial Reports shall be in accordance with 2 CFR 700. USAID requires 
+recipients to use the Standard Form 425 or Standard Form 425a, Federal Financial Report, or such 
+other forms authorized for obtaining financial information as may be approved by OMB. 
+
+ 
+
+Financial reports shall be submitted as follows: Financial Analyst, Office of Financial 
+Management (Baghdadfmo@usaid.gov) and AOR. 
+
+ 
+
+Foreign Tax Reports: Reporting of foreign taxes under this agreement shall follow the standard 
+provision entitled “Reporting Host Government Taxes (December 2014)” of this award document. 
+
+ 
+
+Host government taxes are not allowable where the Agreement Officer provides the necessary 
+means to the recipient to obtain an exemption or refund of such taxes, and the recipient fails to 
+take reasonable steps to obtain such exemption or refund. Otherwise, taxes are allowable in 
+accordance with the Standard Provision, “Applicability of 2 CFR 200 and 2 CFR 700 (December 
+2014),” and must be reported as required in this provision. 
+
+ 
+
+The Recipient must include this reporting requirement in all applicable sub-agreements, including 
+subawards and contracts. 
+
+ 
+
+b. Performance Reporting and Plan Requirements: 
+
+
+ 
+
+
+The Recipient shall be responsible to USAID/Iraq for all matters related to the execution of the 
+agreement. Specifically, the Recipient shall report to the Agreement Officer (AO) and to the 
+Agreement Officer’s Representative (AOR), who will be designated by the AO prior to award. All 
+approved performance reports and technical reports shall be posted to the Development Experience 
+Clearinghouse (DEC), as appropriate. 
+
+ 
+
+All reports listed below shall be submitted by the specified due dates, electronically via email for 
+approval by the USAID AOR unless otherwise agreed upon with the AOR. The Recipient will 
+consult the AOR on the format and expected content of reports prior to submission. The Recipient 
+should always be ready for revision in program indicators and reporting requirements. 
+
+ 
+
+ 
+
+TYPE OF REPORT 
+
+DUE DATE (Counted from 
+Effective Award Date) 
+
+DISTRIBUTION 
+
+Quarterly and Annual 
+Performance Reports 
+
+ 
+
+Within 30 calendar days after 
+the end of each quarter; fourth 
+quarter report will comprise the 
+annual performance report. 
+
+[English and a summary in 
+Arabic, soft copy] 
+
+AOR or A/AOR. 
+
+Acceptance will be 
+provided in writing after 
+AOR review and revisions 
+made by Recipient. 
+
+Annual Implementation 
+Plan 
+
+Within 60 calendar days of the 
+date of award. By September 15 
+of each subsequent year. 
+
+[English and Arabic, soft 
+copy] 
+
+AOR or A/AOR. 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+Grants Manual 
+
+Within 90 calendar days of the 
+date of the award 
+
+[English, soft copy] 
+
+AOR or A/AOR and AO 
+
+ 
+
+Monitoring, Evaluation and 
+Learning Plan (MEL) 
+
+A full MEL is expected to be 
+submitted within 90 calendar 
+days of the date of award. 
+Updates to the MEL will be 
+submitted by October 30 for 
+subsequent years. 
+
+[English, soft copy] 
+
+AOR and A/AOR. 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+Geographic Information 
+Systems (GIS) Reporting 
+
+Twice annually as part of the 
+2nd Quarterly Performance 
+Report and the Annual Report. 
+
+Geospatial (geo-referenced) 
+data will be submitted or 
+
+AOR and A/AOR 
+
+Approval will be provided 
+in writing after AOR review 
+and revisions made by 
+Recipient. 
+
+
+
+
+updated for each project site. 
+
+[English, soft copy] 
+
+ 
+
+Environmental Mitigation 
+and Monitoring Plan 
+(EMMP) 
+
+With submission of the first 
+Annual Implementation Plan, 
+within 60 calendar days of the 
+date of the award. 
+
+Updated and submitted at least 
+once per year using 
+USAID/Iraq’s template. 
+[English, soft copy] 
+
+AOR and MEO (Mission 
+Environment Officer). 
+
+Approval will be provided 
+in writing after AOR and 
+MEO review and revisions 
+made by Recipient. 
+
+Conflict Sensitivity 
+Analysis Implementation 
+Strategy 
+
+Within 120 calendar days of 
+the date of award. 
+
+ 
+
+AOR or A/AOR. 
+
+Acceptance will be 
+provided in writing after 
+AOR review and revisions 
+made by Recipient. 
+
+Gender Analysis and 
+Action Plan 
+
+Within 120 calendar days of 
+the date of award. 
+
+[English, soft copy] 
+
+AOR or A/AOR. 
+
+Acceptance will be 
+provided in writing after 
+AOR review and revisions 
+made by Recipient. 
+
+Final Report 
+
+90 calendar days after 
+completion of the award. 
+
+[English and Arabic, soft 
+copy] No page limit. 
+
+AOR, AO and DEC 
+(Reference to M.21) 
+
+AO approval after AOR 
+review and approval after 
+revisions made by 
+Recipient. 
+
+Closeout/Demobilization 
+Plan 
+
+120 calendar days prior to 
+award completion date. 
+
+Approved, in writing, by the 
+AO. 
+
+Other Reporting 
+
+Submitted upon request 
+
+[English/Arabic, soft copy] 
+
+AOR 
+
+Project Fact sheet 
+
+Submitted 90 days after award 
+using the USAID/Iraq template. 
+It will then be updated at least 
+quarterly. 
+
+AOR 
+
+
+
+
+[English/Arabic] 
+
+ 
+
+Highlights & Success Stories 
+
+Submitted regularly during the 
+project lifetime, and at a 
+minimum three highlights 
+and/or success stories per each 
+quarter. 
+
+[English] 
+
+AOR 
+
+Reporting reference in Standard Provisions 
+
+Reporting of Foreign Taxes 
+– Reference to RAA13. 
+Reporting Host Government 
+Taxes 
+
+The recipient must annually 
+submit a report by April 16 of 
+the next year. 
+
+FMO/AOR/AO 
+
+Participant Training 
+(TEAMS) 
+
+Within 30 days after the end 
+of each Federal Fiscal year 
+quarter. Recipient is 
+responsible for submitting data 
+into TEAMS directly. 
+
+[English] 
+
+AOR, A/AOR and Mission 
+R-2 Verifier 
+
+
+
+ 
+
+The Recipient will allow at least 10 business days for review and comments from the AOR on any 
+draft report submission. All reports and plans are subject to written approval by the AOR, except 
+for the Closeout Plan and the Property Disposition Plan, which are subject to Agreement Officer’s 
+approval. 
+
+● Quarterly Performance Reports: 
+
+
+The Recipient will report performance progress for the program under the award and 
+monitor and track indicators as reviewed and agreed to with USAID on a quarterly basis, 
+by submitting a quarterly report. Quarterly performance reports will be submitted 30 
+calendar days after the end of each quarter and contain the following information: 
+
+ 
+
+(1) A comparison of actual accomplishments with the goals and objectives established 
+for the period, including up-to-date figures for indicators identified in the Monitoring, 
+Evaluation & Learning Plan (MELP). Whenever appropriate, and the output of programs 
+or projects can be readily quantified, such quantitative data should be related to cost data 
+for computation of unit costs. 
+
+ 
+
+(2) Reasons why established goals were not met, if appropriate. 
+
+ 
+
+
+(3) Other pertinent information including, when appropriate, analysis and explanation of 
+cost overruns or high unit costs. 
+
+ 
+
+A general quarterly performance report template, in addition to the indicator reporting, 
+will be provided by the AOR. The Recipient must submit via email a copy of quarterly, 
+annual, and final performance reports to the AOR in accordance with 2 CFR 200.328. 
+
+ 
+
+The timing, format and other instructions will be agreed by the AOR and the Recipient’s 
+Key Personnel at the outset of implementation. 
+
+ 
+
+● Annual Implementation Plan: 
+
+
+ 
+
+Submitted annually to the AOR for approval, the first Implementation Plan, including 
+activity planning and timeframe, is due 60 calendar days of the date of the award. For 
+the subsequent years, the implementation plan will be submitted for approval by 
+September 15 of every year. The plan shall include subcontract and sub-grants planning. 
+Additionally, the plan will include weekly submissions of key activity highlights to the 
+AOR in bullet form. 
+
+ 
+
+Annual Implementation Plans are to be submitted in English to the AOR and Alternate 
+AOR via email. 
+
+ 
+
+● Grants Manual: 
+
+
+ 
+
+The Recipient shall submit a Grants Manual to the AOR and the Agreement Officer 
+within 90 days of the date of the award. 
+
+ 
+
+● Monitoring, Evaluation and Learning Plan (MEL): 
+
+
+ 
+
+ The applicant will be responsible for developing and tracking activity targets, outputs and 
+impact, and overall activity indicators in the application which gauge individual program 
+activities and program effectiveness. Within 90 days of signing the award, the Recipient 
+must submit the activity Monitoring, Evaluation and Learning Plan (MEL) to the AOR for 
+approval. It is the AOR responsibility to review, collaborate on any necessary changes and 
+finally approve the MELP. The MEL must adhere to USAID's ADS 201.3.4.10, which 
+requires that, “Activities must have an approved Activity MEL Plan in place before major 
+implementation actions begin.” 
+
+ 
+
+The Recipient must ensure that the MEL Plan is adjusted to USAID's fiscal calendar of 
+October 1 to September 30. Revisions to the MEL Plan must be approved by the AOR. The 
+activity MEL Plan must be updated on an annual basis (by fiscal year) and should be revised 
+as needed in response to changes in the activity or context that occur during the life of the 
+activity. 
+
+The MEL plan must contain the following: 
+
+1. Introduction: This section introduces the activity MEL Plan, describes the structure of 
+the plan, sets the time/period covered by the plan, and describes how it will be updated. 
+
+
+1.1 Activity Theory of Change: Include a summary description of the activity 
+theory of change. 
+
+1.2 Logic model: Add a logic model that graphically depicts the activity theory of 
+change. Add performance indicators and learning questions to the logic model 
+where relevant to indicate the connection between elements of the theory of 
+change and MEL tasks. 
+
+2. Monitoring Plan: The Monitoring Plan, at a minimum, must include the 
+following: 
+
+2.1 Description: Describe the activity’s monitoring approach, including 
+monitoring processes, systems, data collection methodologies and internal control 
+procedures. 
+
+2.2 Performance Monitoring: Describe the efforts to monitor activity 
+performance. Include a list of the relevant high quality performance indicators of 
+the activity’s outputs and outcomes. The indicators must measure progress and 
+achievement of the intended results, their baseline values (or plan for collecting 
+baseline), and quarterly, annual and life of activity targets. The targets should be 
+listed in an annex (see Indicators summary tracking table), in the form of an 
+Indicators Tracking Table. For each indicator, the MEL Plan must include a 
+Performance Indicator Reference Sheet, also as an annex (see PIRS template). 
+
+2.3 Context Monitoring: Describe any efforts for monitoring the activity’s 
+context and emerging risks that could impact achievement of the activity’s results, 
+this includes setting up at least 1-2 context indicators. 
+
+3. Beneficiary Feedback Plan: The MEL Plan must include a Beneficiary Feedback 
+plan that includes: 
+
+● Determination on whether collecting beneficiary feedback is appropriate for the 
+activity. If not, then a written explanation for why not. 
+● Describe procedures for collecting feedback from beneficiaries. 
+● Describe procedures for responding to feedback from beneficiaries. 
+● Describe procedures for reporting beneficiary feedback to USAID. 
+
+
+4. Evaluation Plan: The MEL Plan must include plans for collaborating with external 
+evaluators: If USAID is planning to conduct an external evaluation of this activity, the 
+MEL Plan must describe how the Recipient will collaborate with the external evaluation 
+team. 
+
+5. Collaborating, Learning, and Adapting Approach (CLA): The MEL Plan must 
+include learning questions related to the theory of change or knowledge gaps and plans to 
+address them. It must describe plans for strategic collaboration with other activities or 
+stakeholders, reflection opportunities, how the implementing partner will use new 
+knowledge and learning for adaptations, and plans for knowledge capture at closeout. 
+
+
+6.Gender/inclusiveness considerations: Describe how gender analysis and other 
+disaggregated data will be incorporated into the M&E methodology 
+
+7. Resources: Specify the budget allocated to monitoring, evaluation, and learning by 
+listing the tasks, estimated costs, and proportion of the budget. 
+
+8. Roles and Responsibilities: Describe the general and individual roles and 
+responsibilities for activity monitoring, evaluation and CLA tasks and approaches. 
+
+9. Schedule of the Activity MEL Plan Tasks: Provide a schedule of recurring tasks 
+related to monitoring, evaluation, CLA or other planned learning efforts during the 
+activity and the individuals who are responsible for them. 
+
+10. Schedule of the Activity MEL Plan Deliverables to USAID: List the various 
+monitoring, evaluation, and CLA or other learning deliverables (including ad hoc and 
+recurring reports) that will be provided to USAID. 
+
+ Annex A: 
+
+Indicator tracking table: 
+
+This plan may be adapted to include other information based on what is most relevant to the 
+needs of the activity implementing partner or the USAID Operating Unit. 
+
+Instructions 
+
+1. Indicator: State the name and unique identifier for the indicator that will measure 
+the expected result listed in the next column. Disaggregates of an indicator may be listed 
+on a separate row below the parent indicator. Indicators should be disaggregated by 
+community, by sex and where appropriate, by age, disability, and vulnerable ethnic and 
+religious minority status. 
+
+2. Result Measured by Indicator: State the result statement and the unique identifier 
+for the expected result in the theory of change that the indicator intends to measure. 
+
+3. Type of Indicator: State whether the indicator is (1) a “Performance” indicator or a 
+“Context” indicator, and (2) a “Standard” indicator or a “Custom” indicator. 
+
+4. Data Source: State the source of the data or planned source of the data. 
+
+5. Frequency: State how often the data are reported to USAID (quarterly, annually) 
+
+6. Unit of Measure: State the unit of measure (e.g., number of hours, percent of 
+households). 
+
+7. PPR: State “Y” if this indicator is included in the PPR or “N” if this indicator is not 
+included in the PPR. (Note: standard indicators are required to be reported in the PPR.) 
+
+
+8. Baseline Date: State the month and year (mm/yyyy) when the baseline data were 
+collected. If the baseline is still planned, state the month and year when the baseline is 
+planned to be collected. 
+
+9. Baseline Value: State the value of the indicator at “baseline,” i.e., before major 
+implementation actions of the planned USAID-supported activity. Enter “TBD” if the 
+baseline has not yet been collected. 
+
+10. Target Date: State the month and year (mm/yyyy) for when the target value is 
+expected to be achieved. This may be aligned with the reporting frequency of the 
+indicator, it may be an end-of-activity target, or some other relevant milestone date. 
+
+11. Target Value: State the estimated value of the indicator expected on the target date 
+(quarterly/fiscal year, annually/per fiscal year, life of activity target). 
+
+Annex B. 
+
+PIRS template: PIRS guidance and template 
+
+ 
+
+For each indicator, the MELP must include a Performance Indicator Reference Sheet 
+which provides a precise definition, information on disaggregation, the data source, 
+frequency of data collection, collection method, the party responsible for data collection, 
+when baseline information will be collected, and expected annual/outyear targets. 
+Indicators should be disaggregated by gender, youth age groups, urban/rural, and 
+disability, as feasible. 
+
+ 
+
+USAID’s website contains further background on USAID’s MEL approach as well as 
+more detail on developing a MELP. 
+
+ 
+
+In line with the Agency’s recent directives on agency-wide implementation of the 
+Development Information Solution (DIS), USAID/Iraq will likely transition to the DIS 
+during the life of this activity, potentially in the first or second year of implementation. 
+In anticipation of this transition, the Recipient should review publicly available 
+information 
+
+(https://www.usaid.gov/work-usaid/resources-for-partners/development-information-
+solution) and be prepared to transition to data entry into the DIS should it be required by 
+USAID in the future. 
+
+ 
+
+The Recipient is responsible for oversight of the operations of the supported activities. 
+The Recipient must monitor its activities under this Agreement to assure compliance with 
+applicable Federal requirements and performance expectations are being achieved. 
+Monitoring by the Recipient must cover each program, function, or activity. Events may 
+occur between the scheduled performance reporting dates that have significant impact 
+upon the supported activity. In such cases, the Recipient must immediately notify the 
+AOR and the AO as soon as the following types of conditions become known: 
+
+ 
+
+❖ Problems, delays, or adverse conditions which will materially impair the 
+ability to meet the objective of the award. This disclosure must include a 
+
+
+
+statement of the action taken, or contemplated, and any assistance needed 
+to resolve the situation. 
+
+
+ 
+
+❖ Favorable developments which enable meeting time schedules and 
+objectives sooner or at less cost than anticipated or producing more or 
+different beneficial results than originally planned. Notifications must 
+include a statement of actions taken and / or any assistance needed to resolve 
+the situation. 
+
+
+ 
+
+Notifications must include a statement of actions taken and / or any assistance needed to 
+resolve the situation. 
+
+ 
+
+Additionally, USAID/Iraq currently has a third-party monitoring contractor. The Recipient 
+agrees to provide any information needed to enable this contractor to properly monitor 
+activities under this award. 
+
+ 
+
+It is anticipated that USAID will conduct performance evaluations during the life of the 
+activity. The Recipient will provide any necessary information or support to enable the 
+third-party evaluators to properly conduct such evaluations. 
+
+ 
+
+ 
+
+● Geographic Information Systems (GIS) Reporting: 
+
+
+ 
+
+The Implementation Plan will also apply geospatial methods using Geographic 
+Information Systems (GIS) technology to support USAID’s effort to incorporate 
+geographic data and analysis into USAID’s overall development planning, design, and 
+monitoring & evaluation. The Recipient is not expected to purchase or utilize GIS 
+software unless it is relevant for implementation of their activities. The Recipient can 
+utilize any of the GIS tools publicly available. When geographic data is acquired through 
+data use or ownership agreements with the host-country government or other entity, the 
+Recipient must ensure that the agreement makes it permissible for the geographic data to 
+be submitted to, and used by, USAID and other U.S. Embassy agencies. Please refer to 
+the USAID link for more details. 
+
+ 
+
+The Recipient shall provide geographic location or coordinate data twice annually as part 
+of the 2nd Quarterly Performance Report and the Annual Report for all USAID-
+supported sites as follows: 
+
+ 
+
+A. Activity Location Data 
+
+The Recipient must collect and submit Activity Location Data (ALD) and Location of 
+Intended Beneficiaries according to the following four requirements: 
+
+ 1. Level of Geographic Detail 
+
+At a minimum, the location(s) where the activity is implemented must be collected 
+at the Exact Site Level, unless otherwise specified by USAID. The Location of the 
+Intended Beneficiaries shall be collected at least at the Administrative Unit 1 Level 
+(i.e., Region), and where possible/appropriate at the Administrative Unit 3 Level 
+(i.e., Commune) or at the Administrative Unit 2 Level (i.e., Province). 
+
+ 2. Activity Location Data Collection Standards 
+
+
+Activity Location Data must be collected according to the standards provided by 
+USAID, such as the use of standard names, boundaries, and locations in Latin script. 
+Activity location data collection standards are detailed in 579saa: 
+
+ 3. Activity Location Data Submission Method and Frequency 
+
+Activity Location Data must be submitted quarterly and the Annual Report to an 
+Agency approved reporting tool or in a digital format according to the standards and 
+procedures provided by USAID. If the Activity Location Data has not changed since 
+the previous data submission, it must be indicated when the data is submitted. 
+
+ 4. Activity Location Data Risk 
+
+Activity Location Data must exclude personally identifiable information. If the 
+Activity Location Data collected by the Recipient requires protection from 
+unauthorized access to mitigate data risk, the Recipient must notify USAID before 
+submitting the Activity Location Data to USAID and implement mitigation 
+techniques to protect the data from unauthorized access in consultation with USAID. 
+
+ 
+
+ B. Geographic Data Assets 
+
+Geographic data assets are primary or derived data assets that are developed or utilized 
+during a project. All geographic data assets must be submitted in accordance with the 
+special clause or provision “Submission of Datasets to the Development Data Library 
+(DDL)” per ADS 302.3.5.21. 
+
+ 
+
+NOTE: Activity Location Data (ALD) and geographically disaggregated indicators are 
+not considered geographic assets. ALD should be submitted as reported in accordance 
+with section “A. Activity Location Data” sub-section “3. Activity Location Data 
+Submission Method and Frequency” above. 
+
+ 
+
+1. Geographic Data Files 
+
+a. Both primary and derived Geographic Data Files must be submitted. 
+
+b. Geographic Data Files must be submitted in Shapefile (.shp), GeoTIFF (.tif), CSV 
+(.csv), or GeoJSON (.geojson) file formats. 
+
+c. In addition to fulfilling the submission requirements noted above, Geographic 
+Data Files that are stored in other file formats that may be useful to end users can be 
+voluntarily submitted in those file formats. For example, Geographic Data Files 
+stored in a File Geodatabase (.gdb) or as a Web Map Service (WMS) can also be 
+submitted. 
+
+d. Geographic Data Files that are stored in Shapefile (.shp) or GeoTIFF (.tif) formats 
+will include metadata that follows ISO 19115 using the ISO 19139 XML 
+implementation schema. 
+
+e. Geographic Data Files that are stored in a CSV or GeoJSON format and contain 
+latitude/longitude coordinates will include supplementary information regarding the: 
+
+1. Method used to create the latitude/longitude coordinates; 
+
+2. Spatial reference used to generate the latitude/longitude coordinates; and 
+
+3. Geographical precision of the latitude/longitude coordinates using the 
+International Aid Transparency Initiative standards. For example, a 
+
+
+latitude/longitude coordinate may represent an exact location, the center of a 
+populated place, or the center of a subnational administrative unit. This 
+information must be included in addition to the actual CSV dataset. 
+
+f. Geographic Data Files that are stored in Shapefile (.shp), GeoTIFF (.tif), or 
+GeoJSON (.geojson), JSON (.json) file formats will use the Geographic Coordinate 
+System World Geodetic System 1984 (GCS WGS 1984) spatial reference. If the use 
+of a different spatial reference was required for an analysis, the spatial reference that 
+was used must be indicated elsewhere in the metadata. 
+
+2. Geographic Data Processing and Analysis Files 
+
+a. Geographic Data Processing and Analysis Files that are written in programming 
+languages will include a description of the language they are written in (e.g., a Python 
+file would be .py, a Javascript file would be .js, etc.), the intended purpose of the file, 
+use limitations, and execution instructions. 
+
+b. Geographic Data Processing and Analysis Files will include descriptive comments 
+and relative pathnames to enable efficient and effective use by an end user. 
+
+c. Geographic Data Processing and Analysis Files are stored in an online repository, 
+such as GitHub, these files can also be submitted as a clone of the repository. 
+
+3. Geographic Data Visualization Files 
+
+a. Geographic Data Visualization Files created using desktop GIS software will be 
+submitted in Esri Map Document (.mxd) or QGIS Project (.qgs) file formats. 
+
+b. Geographic data visualization products that are finalized in separate desktop 
+software or stored in a different file format can also be submitted if they may be of 
+use to an end user. For example, when a data visualization product is stored as a Map 
+Package or is finalized in Adobe Illustrator, the Map Package (.mpk), or Adobe 
+Illustrator (.ai) file can be additionally submitted. 
+
+c. Geographic Data Visualization Files written in a programming language and 
+used to generate web-based data visualization products will include an indication of 
+the programming language (for example, a Python file would be .py, a Javascript file 
+would be .js, etc.) 
+
+d. Geographic Data Visualization Files will reference relative pathnames to the 
+source of all Geographic Data Files that are displayed in the data visualization 
+product. 
+
+e. When products created with the Geographic Data Visualization Files are included 
+in documents that are submitted to the USAID Development Experience 
+Clearinghouse (DEC), such as a report that includes a map created with a Geographic 
+Data Visualization File, the URL that links to the location of the document in the 
+DEC must be provided. 
+
+ 
+
+● Environmental Mitigation and Monitoring Plan (EMMP): 
+
+
+ 
+
+Submitted annually to the AOR and MEO for approval, the first Environmental 
+Mitigation and Monitoring Plan (EMMP) is due 60 calendar days of the date of the 
+award, with submission of the first Annual Implementation Plan. For the following 
+
+
+subsequent years, the Recipient shall update and submit at a minimum once per year 
+using USAID/Iraq’s template. 
+
+ 
+
+Refer to Section Environmental Compliance Requirement for complete details. 
+
+ 
+
+● Conflict Sensitivity Analysis Implementation Strategy 
+
+
+ 
+
+The Recipient will submit a Conflict Sensitivity Analysis and Implementation Strategy 
+during the Refine and Implement period prior to the end of Year 1. The Conflict 
+Sensitivity Analysis and Implementation Strategy must include a conflict-sensitivity 
+analysis to inform design and ensure that conflict sensitive approaches are incorporated 
+throughout implementation. From this analysis, the Applicant will develop an annual 
+implementation strategy as a component of the Annual Work Plan. The Conflict 
+Sensitivity Implementation Strategy must ensure a ‘do no harm’ approach is integrated 
+into activities to minimize potential negative impacts (including gender and ethnic 
+tensions) and maximize positive impacts (community stability, etc.). The Applicant must 
+analyze the two-way relationship between conflict and a more empowered, effective, and 
+prominent civil society in Iraq. The Applicant will update the Conflict Sensitivity 
+Implementation Strategy annually and submit as a part of the Annual Work Plan. 
+
+ 
+
+● Gender Analysis and Action Plan: 
+
+
+ 
+
+The Recipient shall submit a Gender Analysis and Action Plan within 120 calendar days 
+of the date of the award to the AOR for approval. 
+
+ 
+
+To meet USAID’s expectations with respect to gender integration, the Applicant 
+will clearly express their approach to integrating gender equality, women’s 
+empowerment and protection of women and girls in a nuanced, and flexible gender 
+action plan, submitted by the end of the refine and implement phase of this award 
+(within 4 months of award). The Applicant should review USAID/Iraq’s draft 
+sector gender analysis as part of the process of development of this plan (available 
+at this link). 
+
+ 
+
+● Final Report 
+
+
+ 
+
+The Recipient must prepare and submit the final report required by this Agreement to the 
+Agreement Officer’s Representative in English within 90 calendar days after 
+completion of the award and to the Development Experience Clearinghouse (DEC) at 
+http://dec.usaid.gov. 
+
+ 
+
+Refer to Standard Provisions Section M.21 Submissions to the Development Experience 
+Clearinghouse and Publications (June 2012). 
+
+The final performance report should contain, but not be limited to the following 
+information: 
+
+ 
+
+❖ Executive summary 
+❖ Describe the methods of assistance used and the pros and cons of these 
+methods 
+❖ Brief description and mapping of the results of the program 
+
+
+
+❖ How this program assisted USAID in meeting targets 
+❖ Success stories 
+❖ Problems and how they were overcome 
+❖ Cost-effectiveness 
+❖ Final-year (and/or final fiscal year) as well as cumulative life-of-
+activity indicator reporting 
+❖ Lessons learned, and 
+❖ Recommendations for USAID’s future interventions 
+
+
+ 
+
+● Close out/Demobilization Plan 
+
+
+ 
+
+In order to efficiently close-out this activity and reduce time and costs for both parties, 
+USAID/Iraq requests that, 120 calendar days prior to award completion, the Recipient 
+shall submit a closeout/demobilization plan for AOR approval. The 
+closeout/demobilization plan shall include: 
+
+ 
+
+a) a draft property disposition plan, 
+
+b) plan for the phase-out of operations, 
+
+c) delivery schedule for all reports or other deliverables required under the 
+agreement, and 
+
+d) timetable for completing all required actions in the demobilization plan, 
+including the submission date of the final property disposition plan to the 
+Agreement Officer. 
+
+ 
+
+● Other Reporting 
+
+
+ 
+
+During the life of the award, the Recipient may be required to prepare and submit other 
+special reports concerning specific activities and/or analyses as directed by the AOR or 
+other USAID Officials in English and/or Arabic. These requests will be in writing and 
+will specify the due date. 
+
+ 
+
+4. Program Income 
+
+
+ 
+
+Program income is not anticipated. 
+
+ 
+
+5. Environmental Compliance 
+
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of USAID’s 
+activities on the environment be considered, and that USAID include environmental sustainability 
+as a central consideration in designing and carrying out its development programs. This mandate 
+is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System 
+(ADS) Parts 201.5.10g and 204 (https://www.usaid.gov/who-we-are/agency-policy/series-200), 
+which, in part, require that the potential environmental impacts of USAID-financed activities are 
+identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. 
+
+Environmental compliance obligations under these regulations and procedures are specified in the 
+following paragraphs of this NOFO. In addition, the recipient must comply with host country 
+
+
+environmental regulations unless otherwise directed in writing by USAID. In case of conflict 
+between host country and USAID regulations, the latter shall govern. 
+
+No activity funded under this NOFO will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). RCE 
+ME 22-68 received concurrence from the Middle East BEO on August 18, 2022, for activities under 
+this NOFO. 
+
+Specifically, the activities envisioned in this NOFO fall into the following classes of action: 
+
+● Education, technical assistance, or training programs except to the extent such programs 
+include activities directly affecting the environment (such as construction of facilities, etc.) 
+● Analyses, studies, academic or research workshops and meetings 
+● Document and information transfers 
+
+
+In case of a sub-grants component, the recipient will be required to use an Environmental Review 
+Form (ERF) or Environmental Review (ER) checklist using impact assessment tools to screen 
+grant applications to ensure the funded applications will result in no adverse environmental impact, 
+to develop mitigation measures, as necessary, and to specify monitoring and reporting. Use of the 
+ERF or ER checklist is called for when the nature of the grant applications to be funded is not well 
+enough known to make an informed decision about their potential environmental impacts, yet due 
+to the type and extent of activities to be funded, any adverse impacts are expected to be easily 
+mitigated. Implementation of sub-grant activities cannot go forward until the ERF or ER checklist 
+is completed and approved by USAID. The recipient is responsible for ensuring that mitigation 
+measures specified by the ERF or ER checklist process are implemented. 
+
+The recipient will be responsible for periodic reporting to the USAID Agreement Officer 
+Representative, as specified in this NOFO. 
+
+USAID anticipates that environmental compliance and achieving optimal development outcomes 
+for the proposed activities will require environmental management expertise. Respondents to the 
+NOFO should therefore include as part of their application their approach to achieving 
+environmental compliance and management, to include: 
+
+● The respondent’s approach to developing and implementing an environmental review 
+process for a grant fund and/or an EMMP. 
+● The respondent’s approach to providing necessary environmental management expertise, 
+including examples of past experience of environmental management of similar activities. 
+● The respondent’s illustrative budget for implementing the environmental compliance 
+activities. For the purposes of this NOFO, applicants should reflect illustrative costs for 
+environmental compliance implementation and monitoring in their cost application. 
+
+
+ As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient, in 
+collaboration with the USAID Agreement Officer Representative and Mission Environmental 
+Officer or Bureau Environmental Officer, as appropriate, shall review all ongoing and planned 
+activities under this NOFO to determine if they are within the scope of the approved Regulation 
+216 environmental documentation. 
+
+
+If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written USAID 
+approval of environmental documentation amendments. 
+
+Any activities found to be outside the scope of the approved Regulation 216 environmental 
+documentation shall be halted until an amendment to the documentation is submitted and written 
+approval is received from USAID. 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ 
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+
+The Agreement Officer for this Award is: 
+
+ 
+
+Mr. Zachary Clarke 
+
+Regional Agreement Officer 
+
+USAID/MERP 
+
+zclarke@usaid.gov 
+
+ 
+
+ 
+
+The Acquisition and Assistance Specialist for this Award is: 
+
+ 
+
+Ms. Olga Ekkert 
+
+Senior Acquisition & Assistance Specialist 
+
+USAID/Iraq 
+
+oekkert@usaid.gov 
+
+ 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+ 
+
+ 
+
+[END OF NOFO 72026723RFA00001] 
+
+

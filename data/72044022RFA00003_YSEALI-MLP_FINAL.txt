@@ -1,0 +1,4506 @@
+ 
+
+ 
+
+Issue Date: May 10, 2022 
+
+Deadline for Question Clarifications: May 17, 2022 
+
+Closing Date: June 20, 2022 (09:00 am, Hanoi Time) 
+
+ 
+
+ 
+
+Subject: Notice of Funding Opportunity (NOFO) Number: 72044022RFA00003 
+
+ 
+
+Activity Title: Young Southeast Asian Leaders Initiative - Mekong Leadership Program 
+
+ 
+
+ 
+
+Dear Prospective Applicants: 
+
+ 
+
+The United States Agency for International Development (USAID) in Vietnam (USAID/Vietnam) 
+is seeking applications for a Cooperative Agreement from qualified entities to implement the Young 
+Southeast Asian Leaders Initiative - Mekong Leadership Program. Eligibility for this award is not 
+restricted. The authority for the NOFO is found in the Foreign Assistance Act of 1961, as amended. 
+
+ 
+
+USAID intends to make an award to the responsible applicant whose application best meets the 
+requirements of this NOFO and the Merit Review Criteria contained herein. While one award is 
+anticipated as a result of this Notice of Funding Opportunity (NOFO), USAID reserves the right to 
+fund any or none of the applications submitted. 
+
+ 
+
+Applicants under consideration for an award that have never received funding from USAID may be 
+subject to a pre-award audit to determine fiscal responsibility, ensure adequacy of financial 
+controls, and establish an indirect cost rate. 
+
+ 
+
+For the purposes of this NOFO the term “Grant” is synonymous with “Cooperative Agreement”; 
+“Grantee” is synonymous with “Recipient”; and “Grant Officer” is synonymous with “Agreement 
+Officer”. Eligible organizations interested in submitting an application are encouraged to read this 
+funding opportunity thoroughly to understand the type of program sought, application submission 
+requirements and evaluation process. The successful applicant will be responsible for ensuring the 
+achievement of the program objectives. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. Potential applicants should regularly check the website to 
+ensure they have the latest information pertaining to this notice of funding opportunity. It is the 
+responsibility of the applicant to ensure that the NOFO has been received from the internet in its 
+entirety and USAID bears no responsibility for data errors resulting from transmission or 
+conversion processes. If you have difficulty registering on www.grants.gov or accessing the NOFO, 
+please contact the Grants.gov Helpdesk at 1-800-518-4726 or via email at support@grants.gov for 
+technical assistance. 
+
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifier and System for Award Management (SAM) requirements detailed in Section D.8. 
+The registration process may take many weeks to complete. Therefore, applicants are encouraged to 
+begin registration early in the process. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished to 
+all potential applicants through an amendment to this notice posted on www.grants.gov. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the part 
+of the Government nor does it commit the Government to pay for any costs incurred in preparation 
+or submission of comments/suggestions or an application. Applications are submitted at the risk of 
+the applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ /s/ 
+
+ 
+
+Bryan Moody 
+
+Agreement Officer 
+
+Office of Acquisition & Assistance 
+
+USAID/Vietnam 
+
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+TABLE OF CONTENTS........................................................................................................... 3 
+SECTION A: FUNDING OPPORTUNITY DESCRIPTION ................................................... 5 
+SECTION B: FEDERAL AWARD INFORMATION ............................................................ 15 
+B.1 ESTIMATED AMOUNT OF FUNDS AVAILABLE AND NUMBER OF AWARDS 
+CONTEMPLATED 15 
+B.2 PERIOD OF PERFORMANCE 15 
+B.3 SUBSTANTIAL INVOLVEMENT 15 
+B.4 AUTHORIZED GEOGRAPHIC CODE 15 
+B.5 NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 15 
+SECTION C: ELIGIBILITY INFORMATION...................................................................... 17 
+C.1 ELIGIBLE APPLICANTS 17 
+C.2 COST SHARING OR MATCHING 17 
+C.3 ELIGIBILITY OF GOODS AND SERVICES FOR USAID FINANCING 17 
+C.4 ELIGIBILITY OF ACTIVITIES UNDER USAID’S ENVIRONMENTAL REGULATIONS 18 
+C.5 LIMITATIONS ON SUBMISSIONS 19 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION .................................. 20 
+D.1. AGENCY POINT OF CONTACT 20 
+D.2. QUESTIONS AND ANSWERS 20 
+D.3. SUBMISSION DATE AND TIME 21 
+D.4. APPLICANTS RESPONSIVENESS 21 
+D.5. APPLICATION SUBMISSION PROCEDURES 21 
+D.6. TECHNICAL APPLICATION INSTRUCTIONS 24 
+D.7. COST APPLICATION INSTRUCTIONS 30 
+D.8. SYSTEM FOR AWARD MANAGEMENT 35 
+D.9. PRE-AWARD COSTS 36 
+D.10. BRANDING STRATEGY AND MARKING PLAN (BS/MP) 36 
+D.11. CONFLICT OF INTEREST PRE-AWARD TERM (AUGUST 2018) 41 
+D.12. PRE-AWARD RESPONSIBILITY DETERMINATION AND RISK ASSESSMENT 41 
+SECTION E: APPLICATION REVIEW INFORMATION ................................................... 43 
+E.1 CRITERIA 43 
+E.2 TECHNICAL EVALUATION FACTORS 43 
+E.3 COST/BUSINESS APPLICATION EVALUATION 43 
+E.4 DETERMINATION OF AWARD 44 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION ......................... 45 
+F.1 FEDERAL AWARD NOTICES 45 
+F.2 ADMINISTRATION 45 
+F.3 PAYMENT AND FINANCIAL REPORTING 45 
+F.4 REPORTING REQUIREMENTS 45 
+F.5 SUBMISSION OF DEVELOPMENTAL EXPERIENCE DOCUMENTATION 49 
+F.6 PROGRAM INCOME 49 
+ATTACHMENT A: REFERENCES ....................................................................................... 51 
+ATTACHMENT B: BUDGET TEMPLATE .......................................................................... 52 
+ATTACHMENT C: STANDARD PROVISIONS ................................................................... 53 
+ATTACHMENT D: PLANNED PRE-AWARD SCHEDULE ................................................ 56 
+
+
+
+SECTION A: FUNDING OPPORTUNITY DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+ 
+
+A.1 BACKGROUND AND DEVELOPMENT CHALLENGES 
+
+ 
+
+Launched in 2013, the Young Southeast Asian Leaders Initiative (YSEALI) is the U.S. 
+government’s signature program to strengthen leadership development and networking in Southeast 
+Asia. Through a variety of programs and engagements, including U.S. educational and cultural 
+exchanges, regional exchanges, and seed funding, YSEALI seeks to build the leadership 
+capabilities of youth in the region, strengthen ties between the United States and Southeast Asia, 
+and nurture an ASEAN community. Deepening collaboration with young leaders is a critical 
+element of the United States’ commitment to the Asia-Pacific region and of cultivating an ASEAN 
+community. Recognizing that over 65 percent of ASEAN’s population is under the age of 35, 
+YSEALI is a critical investment in the next generation of Southeast Asian leaders. 
+
+ 
+
+Within ASEAN, the sub-group of Mekong countries including Cambodia, Laos, Myanmar, 
+Thailand, and Vietnam form a rapidly developing, resource-rich region. Vietnam, Cambodia, and 
+Laos continue to grow at rates of 6-7%. More than 1,000 US companies are active in the five 
+Mekong countries. US Foreign Direct Investment to Vietnam and Cambodia has increased at a rate 
+higher than 10% per year in recent years. Thailand and Vietnam are two of America’s top 20 
+trading partners. Being 40% of a total population of 240 million, youth play a key role in shaping 
+the region’s social-economic development. Vietnam has the largest population in the region. 
+Vietnam's youth population (ages 15-39) is 37.84 million, providing Vietnam with a unique socio-
+economic development opportunity. Mekong countries are key diplomatic, economic, and security 
+partners for the United States. The U.S. has allocated more than $2 billion in development 
+assistance to bilateral and regional initiatives in the Mekong over the last decade. 
+
+ 
+
+Access to education and employment opportunities for youth in Vietnam and across the Mekong 
+sub-region countries have increased in recent years. However, there is a growing recognition among 
+governments, universities, civil society organizations and regional bodies such as ASEAN, that 
+much more can be done to promote young people’s participation and contribution to critical 
+development challenges in the Mekong sub-region, including in the fields of climate change, 
+environment, and biodiversity. Young people now need the knowledge, skills, and platforms to 
+participate and contribute to climate, environment, and biodiversity resilience goals. There is also a 
+need to create the enabling conditions and space for young people to study, conduct research, and 
+develop and apply innovative approaches to address climate change, environment, and biodiversity 
+issues. 
+
+ 
+
+Climate Change: The Mekong region is one of the most vulnerable places on earth to the impacts of 
+climate change, which compounds existing and projected threats. It impacts the region’s people, 
+biodiversity and natural resources with cascading effects. Water scarcity, for example, leads to 
+reduced agricultural productivity, leading to food scarcity, unemployment and poverty. Across the 
+
+
+NOFO No.72044022RFA00003Young Southeast Asian Leaders Initiative-Mekong Leadership Program
+
+region, temperatures have risen and continue to rise. Sea level rise is threatening the region’scoastal communities. Degradation of ecosystems from climate change will decrease theirproductivity and capacity to provide livelihoods for people of the Greater Mekong.1
+
+Environment: Economic growth in the Mekong region is bringing more complex developmentchallenges, includingenvironmental degradation, especially as it relates to waste, air, and waterquality, impacts of plastic pollution, and effects on public health. Recent expansion in the scale andintensity of these agricultural activities has come with significant coststo the environment.2
+
+Biodiversity: The vast Greater Mekong region with its 200 million acres contain some of the mostbiologically diverse habitats in the world. Population growth, poor land-use planning and economicpolicies have led to deforestation and biodiversity loss across the Greater Mekong region. Loss offorest habitat and biodiversity weakens the region's ability to adapt to the impacts of climate changeand puts communities at risk.
+
+Gender: Addressing gender equality is a stated priority forall ASEAN Member States. Over the 
+past decade, economic development, government measures, and the efforts of civil society have led 
+to significant improvements in reproductive health, narrowing gender gaps in education and 
+increasing women’s labor force participation. However, the World Economic Forum’s 2021 GlobalGender Gap report revealed a mixed record for the Member States.While some countries have 
+increased women’s economic participation-mostly in the agriculture and informal sectors-there 
+remains a significant political empowerment gap in all countries in the Mekong sub-region.
+
+In the Mekong Sub-region (as well asgenerally in ASEAN Member States) women are under-
+represented at all policy-making, leadership and decision-making levels and with afew exceptions,
+parliaments have far less than the 30 percent threshold recommended by the United NationsConvention on the Elimination of All Forms of Discrimination against Women. Those women who 
+do enter leadership positions in politics, education and the economy often have to contend with amale-dominated culture, with real power remaining in men’s hands. The World Health 
+Organization (WHO) estimates that 37.7 percent of women in the region have experienced gender-
+based violence in their lifetime. UN Women reports that an entrenched acceptance of men’s powerover women fosters environments in which violence against women is accepted and normalized.
+Women who face all forms of discrimination are often particularly vulnerable to violence,
+harassment, and abuse3. 
+
+Gender roles and responsibilities place the responsibility for the majority ofdomestic and unpaid 
+care work on women creating formidable barriers to women’s career and professional aspirations in 
+academia, in government, and in the private sector. As the family member(s) with primaryresponsibility for care work, many women -especially those 25-35 years of age -may have littlechoice but to pass up challenging educational, research and leadership opportunities to fulfill theirdomestic roles and return to formal or informal employment if and when these domesticresponsibilities lessen.
+
+1WWF (WorldWildlife Fund)
+2WWF (WorldWildlife Fund)
+3ASEANGender Mainstreaming Strategic Framework 2021-2025
+
+
+All of these gender disparities may have an impact on the YSEALI-MLP reaching its objectives. 
+While younger cohorts of female university students may be eager and able to participate, the 
+Activity must consider how to retain older cohorts (25-35) who may have less time and family 
+support for their participation. This will impact women’s contribution to innovation, research and 
+academic publications and to private sector startups. 
+
+ 
+
+All the climate-related changes have a differential impact on women and people from poor and 
+minority communities. Globally, women and girls spend 200 million hours every day collecting 
+water. In Southeast Asia, as elsewhere, this responsibility contributes to significant time poverty 
+among many of the world’s poorest women and girls, preventing them from going to work or 
+school, from starting or growing businesses, and from engaging in social activities.4 Across 
+Southeast Asia, climate change effects have propelled an influx of rural inhabitants towards urban 
+and peri-urban slum areas. Traditionally, migrant workers have largely been men but across the 
+Mekong region migration has become increasingly feminized. Gender-based violence has also been 
+found to increase under the effects of climate change, as pressure on natural resources can lead to 
+conflicts, and women standing up to defend their environmental rights are often targeted. Climate 
+change has direct and indirect impacts on health, and those with pre-existing physical or social 
+vulnerabilities are the most at risk. Poor and rural communities are more likely to face difficulties in 
+accessing health services, which hinders their adaptive capacities.5 
+
+4 USAID. Gender Equality and Female Empowerment in WASH. Technical Brief 4. Water And Development 
+Technical Series. August 2020. 
+
+5 Pross, C., Han, J Y-C., Kim, D. and Vigil, S. (2020). Climate change, gender equality and human rights in Asia: 
+regional review and promising practices. UN Women-Asia and the Pacific. https://asiapacific.unwomen.org/en/digital-
+library/publications/2021/01/climate-change-gender-equality-and-human-rights-in-asia 
+
+6 FAO. 2016. State of the World’s Forests 2016. Forests and agriculture: land-use challenges and opportunities. Rome 
+
+ 
+
+Many countries in the ASEAN region now have some reference to gender and women in their 
+national biodiversity strategies and action plans, although these plans face challenges in 
+implementation. Women and men have different roles and capacities in using and preserving 
+biological diversity. Women and men also have different vulnerabilities to changes in access to 
+biological resources and ecosystem services. Social norms and structural biases often mean that 
+women’s roles, capacities and vulnerabilities are less “visible” compared to that of men. Women in 
+many countries in the ASEAN region, including indigenous women, have less access to biological 
+resources compared to men, as well as relatively little voice in deciding how these should be 
+managed. The gender-based differentiation of ownership and use rights in land and forests can have 
+major implications for the management of these resources. Youth may also be disadvantaged in 
+accessing land and forest tenure. Gender-responsive approaches include promoting women’s equal 
+voice in decision-making at all levels of policy-making and implementation for biological diversity 
+conservation.6 
+
+ 
+
+Within the YSEALI-MLP it will be particularly important to ensure male and female youth from 
+poor and indigenous communities - the communities most impacted by biodiversity loss- are 
+included among participants. 
+
+ 
+
+A.2 THEORY OF CHANGE 
+
+
+
+Based on the well-documented environmental challenges facing the Greater Mekong region, 
+USAID recognizes an opportunity to leverage the latent talents of young leaders to address climate 
+change, environment, and biodiversity. ASEAN’s recent State of Climate Change report (October 
+2021) puts forward a vision of net-zero emissions by 2050 and calls for a “whole-nation approach” 
+that engages all sectors in society, including youth, in achieving this vision. 
+
+ 
+
+The activity theory of change is based on a leadership development model that starts with the 
+growth and development of youth leaders, individually and as a cohort (age 18-35 throughout the 
+ASEAN region and Timor Leste). Through capacity strengthening interventions, learning and 
+collaborating to engage as a cohort, and establishing a platform for sharing resources/expertise and 
+networking, young leaders will gain sufficient knowledge, and skills; pilot innovation approaches to 
+address pressing climate change, environment, and biodiversity challenges, and contribute to 
+strengthening relationships across the region. The activity will create systematic opportunities for 
+youth leaders to collaborate, providing both a learning community for those involved in the activity 
+and incentivizing, where appropriate, cross-border research and/or innovations at the local level 
+through a small grants program. 
+
+ 
+
+The activity theory of change is that: 
+
+ 
+
+If young leaders have sufficient knowledge and skills, and effective collaborative platforms to 
+participate in and contribute to then they will work more effectively to address shared issues related 
+to climate change, environment, and biodiversity in the Mekong region. 
+
+ 
+
+Outcomes under this activity include: 
+
+ 
+
+● At the individual level: 
+○ Changes in knowledge, skills, and behaviors related to leadership and the focus 
+themes 
+
+
+
+● At the cohort level 
+○ Strengthened relationships among cohort members 
+
+
+
+● As change agents, youth leaders will intervene in their areas of influence (communities, 
+universities, institutions, etc.). Outcomes related to their initiatives are difficult to pre-
+determine but outcome areas may include: 
+○ Application of evidence to influence policy dialogue or community / public 
+discourse 
+○ Increased citizen engagement in climate change, environment, or biodiversity issues 
+○ Other outcomes as determined by youth leaders 
+
+
+
+
+
+ 
+
+A.3 ACTIVITY OBJECTIVES 
+
+
+ 
+
+The purpose of this activity is to expand the YSEALI with a particular focus on the Mekong sub-
+region. Drawing on experience from the Young African Leaders Initiative - Regional Leadership 
+Centers, this activity proposes to establish a YSEALI - Mekong Leadership Program (YSEALI-
+MLP) to: 
+
+
+1) Build the leadership capabilities of youth in Southeast Asia with focus themes of climate 
+change, environment, and biodiversity within the Mekong sub-region countries of 
+Cambodia, Laos, Myanmar, Thailand, and Vietnam, 
+2) Strengthen ties among Mekong sub-region countries, other ASEAN countries (plus Timor-
+Leste), and the United States, and 
+3) Nurture a community of leaders who work locally and across borders to address shared 
+issues relating to the focus themes. 
+
+
+ 
+
+The proposed program will target youth across Southeast Asia using a sequenced approach focused 
+first on Vietnamese participants and then expanding participation to the ASEAN countries and 
+Timor-Leste. 
+
+ 
+
+Focus Themes: 
+
+ 
+
+Climate Change - Advance equitable and ambitious actions to confront the climate crisis with dual 
+climate change priorities of mitigation (reducing emissions) and adaptation (improving resilience to 
+climate impacts). 
+
+ 
+
+Environment - Ensure that the environment and the natural resources upon which human lives and 
+livelihoods depend are managed in ways that sustain productivity growth, a healthy population, as 
+well as the intrinsic spiritual and cultural value of the environment. 
+
+ 
+
+Biodiversity - Conserve biodiversity and manage natural resources in ways that maintain their long-
+term viability and preserve their potential to meet the needs of present and future generations. 
+
+The program will facilitate a co-creation process with the host Vietnamese Higher Education 
+Institution (HEI), prospective partner(s), and other key stakeholders to assess needs and ensure a 
+locally-led design of tailored interventions in line with the sequenced approach focused first on 
+Vietnam participants and then expanding participation to ASEAN countries and Timor-Leste. The 
+proposed targeted participants are youth leaders between the ages of 18-35 from Brunei, Burma, 
+Cambodia, Indonesia, Malaysia, Philippines, Laos, Singapore, Thailand, Timor-Leste and Vietnam, 
+including students, academics, and professionals from the government, non-government, and 
+private sectors, who are engaged in the focus themes of climate change, environment, and 
+biodiversity and who can contribute to addressing these issues in the Mekong sub-region. 
+Participation will be open to citizens of all ASEAN countries and Timor-Leste. 
+
+ 
+
+Illustrative interventions may include: 
+
+ 
+
+● Conduct needs assessment on capacity building and develop a leadership training program 
+for targeted young leaders engaged in the focus themes in the Mekong sub-region. 
+● Educate and share best-practices on addressing shared Mekong sub-region issues. 
+● Provide competitive “Changemakers Challenge” subgrants for local and cross-border 
+research and innovations. 
+● Develop a community/network of Mekong-centric youth leaders and changemakers. 
+● Develop a platform for sharing resources and expertise among the YSEALI-MLP network. 
+● Partner with the host Vietnamese HEI to co-develop and co-implement the YSEALI-MLP. 
+● Conduct the leadership training program at the host Vietnamese HEI in Ho Chi Minh City 
+
+
+
+and in the Mekong region of Vietnam as feasible. 
+
+
+ 
+
+A.4 CROSS CUTTING ISSUES 
+
+
+ 
+
+A.4.1. Partnerships 
+
+ 
+
+The YSEALI-MLP will be hosted by a Vietnamese HEI, namely the Vietnam National University - 
+Ho Chi Minh City (VNU-HCM), and will partner with local, regional, and international relevant 
+stakeholders. A core principle is to seek, identify, develop and support partnerships to achieve the 
+program objectives. The activity will strategically engage with a wide range of partners from the 
+public and private sectors who can support, advance, expand or accelerate the program. 
+
+ 
+
+A.4.2. Gender and Diversity, Equity, Inclusion, and Accessibility (DEIA) 
+
+ 
+
+Gender equality is essential for achieving USAID’s development goals. USAID policy and the 
+Women's Entrepreneurship and Economic Empowerment Act (P.L. 428) require that all USAID 
+programs include activities to address gender disparities, reduce gender based violence and/or 
+empower women and girls. USAID programs are encouraged to address women or men that are 
+particularly disadvantaged or that have strong unmet needs for empowerment. 
+
+Inclusion is one of USAID’s core values and USAID is committed to executing a comprehensive 
+approach to advancing DEIA policies and practice. USAID promotes a nondiscriminatory and 
+inclusive approach to development that ensures that all people – including those who face 
+discrimination and thus may have limited access to a country’s benefits, legal protections, or social 
+participation (including, but not limited to, indigenous peoples, LGBTQI+ people, persons with 
+disabilities, religious/ethnic minorities, and youth) – are fully included and can participate in and 
+benefit from development processes and activities. 
+
+The interventions must promote gender and inclusion in the selection of participants, the design of 
+the leadership and focus themes training, and the overall implementation of the program. All 
+people-level indicators must be disaggregated by sex, age groups, and appropriate gender-sensitive 
+indicators should be included in the MEL Plan. 
+
+ 
+
+A.4.3. Capacity Development 
+
+ 
+
+As articulated under USAID’s Local Capacity Development Policy7, USAID/Vietnam defines local 
+capacity development as: “improving the performance of local systems and stakeholders—
+including civil society, government, the private sector, academia, and more—to achieve results.” 
+The activity capacity building approach should: 
+
+7 Local Capacity Development Policy Overview, USAID. https://usaidlearninglab.org/sites/default/files/resource/files/local_capacity_development_policy_one-
+pager_final.pdf 
+
+ 
+
+● Recognize that there is always a system and there are capacities at many levels within the 
+system. 
+● Develop diverse capacities by responding to local priorities and leveraging local 
+strengths/assets. 
+● Be mindful of, and mitigate, the unintended consequences of our engagement. 
+● Nurture local ownership of capacity development through partnerships based on mutuality. 
+
+
+
+● Measure performance and monitor for improvement over time. 
+
+
+ 
+
+An intentional approach to capacity building entails: 
+
+ 
+
+● Allocating resources (human, financial, and/or other) for capacity development. 
+● Ensuring capacity development is demand-driven and responsive to the needs of local actors 
+to achieve results. 
+● Identifying capacity strengths and gaps to inform capacity development support. 
+● Identifying performance improvement and capacity development solutions (beyond training) 
+that address needs. 
+● Monitoring progress on capacity improvements. 
+
+
+ 
+
+Innovative approaches to capacity development that are evidence-based are encouraged during co-
+creation and implementation of the activity. 
+
+ 
+
+A.4.4. Sustainability 
+
+ 
+
+The activity will ensure sustainability by integrating the following approaches: 
+
+ 
+
+a) Stakeholders’ ownership of the interventions. 
+b) Mechanisms for continuous involvement of the host HEI, relevant government 
+agencies, and industry partners in designing, planning, implementing, monitoring 
+and evaluating the activity should be in place throughout the performance period. 
+c) Increasing the necessary human resources capacity of the host HEI to co-develop 
+and co-implement youth leadership programs. 
+
+
+
+
+ 
+
+A.4.5. Private Sector Engagement 
+
+ 
+
+The USAID’s PSE Policy outlines the value of aligning the interests of the private sector, the host 
+government, and the donor community. Stronger university-industry linkages in implementing the 
+program will be key performance indicators for the assistance program. The activity implementing 
+partner will clearly identify potential industry partners, define approaches, and measurable 
+outcomes for proposed activities. 
+
+ 
+
+USAID is committed to increasing the sustainable impact of our development assistance programs 
+through strategic partnerships with the private sector. The implementing partner will reach out to 
+the private sector and explore ways in which collaboration with USAID might help each partner to 
+more effectively solve key problems, advance our respective interests, and achieve far greater 
+development results and impacts. In an effort to facilitate private sector investments and market-
+informed approaches, broaden the level of partner engagement, and help enhance the prospects of 
+sustainable, wide-scale impact, the prospective implementing partner should mobilize private sector 
+expertise, contributions and resources. 
+
+ 
+
+A.4.6. Shock-Responsiveness 
+
+ 
+
+
+COVID-19 is having impacts on education and economies globally and its impacts in Vietnam 
+continue to evolve. It is also possible that COVID-19 will not be the only emergent shock or change 
+in context during the life of this award. The prospective implementing partner will specify strategic 
+approaches that consider the evolving conditions in planning, design, and management of assistance 
+activities. The prospective implementing partner is encouraged to look beyond challenges for 
+potential opportunities to adopt digital innovations in leadership development and in addressing 
+regional issues. The Shock Responsive Programming and Adaptive Mechanisms guide can help 
+inform how to develop an activity that can be responsive to a context subject to emergent or 
+recurrent crises or conflict. 
+
+ 
+
+A.4.7. Collaborating, Learning, and Adapting 
+
+ 
+
+The prospective implementing partner will adopt an approach that contributes to USAID/Vietnam’s 
+commitment to a multifaceted Collaborating, Learning & Adaptinghigher education learning agenda. 
+8 (CLA) approach to 
+development. The CLA approach is based on the understanding that development efforts yield more 
+effective results if they are coordinated and collaborative; test promising, new approaches in a 
+continuous yet also rapid, targeted search for generating improvements and efficiencies; and build 
+on what works and eliminate what doesn’t. The prospective implementing partner will develop an 
+activity-wide learning agenda that outlines how it will embed learning throughout implementation. 
+The agenda will include specifics on how the learning will cascade down to partners and be 
+integrated in interactions with stakeholders. The activity learning agenda should also support, where 
+applicable, USAID’s Agency-wide 
+
+8 https://usaidlearninglab.org/cla-toolkit 
+
+ 
+
+A sufficient and reasonable portion of the budget should be allocated for collaboration, learning, 
+and adaptive management. That includes allocating funds for CLA related activities or processes, 
+such as convening partners, facilitating knowledge capture and sharing, or investment in 
+organizational development and adaptive management skills. 
+
+ 
+
+Collaborating 
+
+ 
+
+● Lead by example with key partners to develop and maintain relationships with key 
+stakeholders. In the early stages use techniques like snowballing to identify key stakeholders 
+across the government, community, and education spectrum. 
+● Support co-creation throughout the project cycle, including the development of work plans 
+and key deliverables with key stakeholders including, but not limited to, activity partners, 
+government, and students. 
+● Providing expert facilitation to support effective collaboration among youth leaders. 
+
+
+ 
+
+Learning 
+
+ 
+
+● Ensuring monitoring approaches support continuous learning and adaptive management. 
+This may include: 
+○ Identifying key learning questions that drive the activity’s MEL approach and use of 
+information for adaptive management. 
+
+
+
+
+
+
+○ Having an intentional approach to stakeholder feedback to inform adaptations during 
+implementation. 
+○ Conduct regular after-action reviews both internally and with key stakeholders. 
+○ Integrating qualitative approaches to monitoring (e.g. Most Significant Change in the 
+Activity Monitoring, Evaluation & Learning Plan [AMELP]). 
+
+
+● Develop a knowledge management system that is accessible to key stakeholders. 
+
+
+ 
+
+Adapting 
+
+ 
+
+● Pause and Reflect sessions should be integrated throughout implementation, particularly 
+before work planning to ensure learning is used to inform future work. 
+● The prospective implementing partner is encouraged to share its learning and adaptations 
+with USAID to inform USAID’s higher education, climate change, environment, and 
+biodiversity portfolios, and other YSEALI programs more broadly. 
+● USAID will provide flexibility to the implementer to adapt when learning indicates 
+adjustments are necessary. 
+
+
+ 
+
+ Enabling Conditions 
+
+ 
+
+● The prospective implementing partner is expected to foster an organizational culture that 
+supports an open exchange of ideas internally and externally. This should include 
+supporting regular formal and informal reviews of activities, learning priorities, and 
+providing opportunities for staff and stakeholders to provide feedback. 
+
+
+ 
+
+A.5 PERFORMANCE MONITORING AND EVALUATION 
+
+
+ 
+
+In line with the emphasis on CLA approaches above, the Implementing Partner will be required to 
+develop a robust performance monitoring approach that answers critical learning questions that - 
+when answered - support data use and adaptive management. Questions are illustrative; the 
+Implementing Partner will finalize the learning questions in their Activity Monitoring, Evaluation 
+& Learning Plan (AMELP). 
+
+ 
+
+● Is the Activity achieving its intended results? If yes, what is enabling this? What is 
+hindering the achievement of results? 
+○ To help answer this question, the implementing partner will be required to track the 
+following standard indicators / outputs: 
+■ YOUTH 1 - Number of youth trained in soft skills/life skills through USG 
+assisted programs (disaggregated by sex and age groups). 
+■ YOUTH 6 - Number of youth who complete USG-assisted leadership 
+programs (disaggregated by sex and age groups). 
+■ GNDR-8: Number of persons trained with USG assistance to advance 
+outcomes consistent with gender equality or female empowerment through 
+their roles in public or private sector institutions or organizations. 
+■ STIR-10: Number of innovations supported through USG assistance. 
+
+
+
+○ Based on the interventions identified, the implementing partner will also be required 
+to identify key outcome indicators at the individual, cohort, and wider institutional / 
+
+
+
+
+
+
+community level to track during the life of the agreement. 
+● Are there any negative consequences because of the Activity’s support? If so, what are they 
+and how can they be mitigated? 
+
+
+
+● What are the perceptions of beneficiaries about the Activity support? Do they consider it 
+useful? In what ways can we improve in response to this feedback? 
+● If the Activity's inputs and outputs are not leading to intended outcomes, what needs to be 
+adjusted in the theory of change? 
+● To what extent is the activity targeting leaders from diverse backgrounds across the region? 
+● To what extent does participation in the activity increase leadership skills, behaviors, and 
+practices? 
+● To what extent was cross-border collaboration fostered? To what end? 
+
+
+ 
+
+Given the to-be-determined nature of initiatives to be undertaken by youth leaders, USAID 
+anticipates that the Implementing Partner will employ qualitative approaches to monitoring to 
+capture unanticipated outcomes, track progress, and/or receive beneficiary feedback. Approaches 
+may include Most Significant Change, outcome mapping, or another approach as preferred by the 
+IP and useful for adaptive management purposes. The IP’s MEL team is expected to coordinate 
+with the technical team on learning events and work in concert to develop learning and adaptation 
+recommendations based on performance monitoring data collected. 
+
+ 
+
+As part of its monitoring effort, the prospective implementing partner is expected to apply an 
+intentional approach to context monitoring, which involves monitoring key assumptions and risks 
+to the activity’s theory of change. 
+
+ 
+
+The prospective implementing partner may be requested to participate in an activity-level midterm 
+or final performance evaluation conducted by a third-party; this is to be determined. 
+
+ 
+
+ 
+
+ [END OF SECTION A] 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+B.1 ESTIMATED AMOUNT OF FUNDS AVAILABLE AND NUMBER OF AWARDS 
+CONTEMPLATED 
+
+ 
+
+Subject to funding availability, USAID intends to provide up to $5,514,000 in total USAID 
+funding, of which $750,000 is specifically made available to an American educational institution 
+for technical advisory programs in Vietnam, either as prime recipient or subrecipient. 
+
+ 
+
+USAID intends to award one (1) Cooperative Agreement pursuant to this NOFO. USAID reserves 
+the right to fund any one or none of the applications submitted. 
+
+ 
+
+B.2 PERIOD OF PERFORMANCE 
+
+ 
+
+The period of performance anticipated herein is three years, starting from [actual date to be filled in 
+at the time of award]. 
+
+ 
+
+B.3 SUBSTANTIAL INVOLVEMENT 
+
+ 
+
+Consistent with ADS 303.3.11, USAID/Vietnam anticipates a close working partnership with the 
+successful Applicant for this activity to assist in achieving the objectives. The specific areas of 
+USAID involvement will include, but are not limited to: 
+
+ 
+
+1. Approval of the Recipient’s Annual Implementation Plans during performance by the designated 
+Agreement Officer Representative (AOR); 
+
+ 
+
+2. Approval of selection of Recipient Key Personnel: Key Personnel positions will be identified and 
+stated in the award. The Recipient shall request prior approval from the USAID Agreement Officer 
+(AO) for the replacement of key personnel or changes in the key personnel positions; 
+
+ 
+
+3. Agency and Recipient Collaboration or Joint Participation: The Recipient must request prior 
+review and written concurrence from the AOR and obtain review and written approval from the AO 
+before entering into any sub-awards under the performance of this agreement; 
+
+ 
+
+4. Approval of the Recipient’s Monitoring, Evaluation and Learning (MEL) Plan by the AOR. 
+
+ 
+
+B.4 AUTHORIZED GEOGRAPHIC CODE 
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 937. 
+
+ 
+
+B.5 NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Young Southeast 
+Asian Leaders Initiative - Mekong Leadership Program which is authorized by Federal statute. The 
+successful Recipient will be responsible for ensuring the achievement of the program objectives and 
+
+
+the efficient and effective administration of the award through the application of sound management 
+practices. The Recipient will assume responsibility for administering Federal funds in a manner 
+consistent with underlying agreements, program objectives, and the terms and conditions of the 
+Federal award. 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+C.1 ELIGIBLE APPLICANTS 
+
+ 
+
+Organizations eligible to apply under this NOFO includes non-profit or for-profit non-governmental 
+organizations, inclusive of, foundations, colleges and universities, private businesses and 
+associations and excludes public international organizations and governmental organizations. 
+
+$750,000 of the Estimated Amount of Funds Available is specifically made available to an 
+American educational institution for technical advisory programs in Vietnam, either as prime 
+recipient or subrecipient. 
+
+ 
+
+While for-profit firms may participate, pursuant to 2 CFR 200.400(g), it is USAID policy not to 
+award profit to prime recipients and subrecipients under assistance instruments. However, while 
+profit is not allowed for sub-awards, the prohibition does not apply when the recipient acquires 
+goods and services in accordance with 2 CFR 200.317 -326, “Procurement Standards.” Forgone 
+profit does not qualify as cost-share. 
+
+ 
+
+Each applicant must be found to be a responsible entity before receiving an award. The Agreement 
+Officer (AO) may determine that a pre-award survey is required in accordance with ADS 303.3.9.1 
+to determine whether the applicant has the necessary organization, experience, accounting and 
+operational controls, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with established U.S. Government standards, laws, and 
+regulations. Applicants who do not currently meet all USAID requirements for systems and controls 
+may still be eligible under special award considerations and should not be discouraged from 
+applying. USAID welcomes applications from organizations that have not previously received 
+financial assistance from USAID. The prime recipient is encouraged to promote involvement of 
+“underutilized” partners and local organizations in the implementation of this activity. 
+
+ 
+
+C.2 COST SHARING OR MATCHING 
+
+ 
+
+USAID has established a minimum required cost share of 10% of the total estimated cost for this 
+
+activity, which is approximately US$551,400, to be contributed throughout the life of the activity. 
+Such funds may be mobilized from the recipient; other multilateral, bilateral, and foundation 
+donors; host governments; and local organizations, communities and private businesses that 
+contribute financially and in-kind to implementation of activities at the country level, but not from 
+other USG funding sources. This may include contribution of staff level of effort, office space or 
+other facilities or equipment which may be used for the activity, provided by the partner. For 
+guidance on cost sharing in grants and cooperative agreements, please see the ADS 303.3.10 and 2 
+CFR 200.306 for U.S. NGOs. For non-US NGOs, all cost sharing would be subject to the Required 
+as Applicable Provision “Cost Sharing” in the Mandatory Reference for ADS Chapter 303, 
+Standard Provisions for Non-U.S. Nongovernmental Organizations. 
+
+ 
+
+C.3 ELIGIBILITY OF GOODS AND SERVICES FOR USAID FINANCING 
+
+ 
+
+● Applicable Rules 
+
+
+ 
+
+
+The recipient must comply with USAID’s Rules for Procurement of Commodities and Services 
+Financed by USAID in 22 CFR 228 in the procurement and long-term lease (as defined in 22 CFR 
+228.01) of goods and services with USAID funds. These rules govern the source of USAID-
+financed commodities and the nationality of suppliers of USAID-financed commodities and 
+services, which must be in a country that is included in the authorized geographic code. These rules 
+apply to the recipient’s procurement contracts (as defined in 2 CFR 200) with vendors and to 
+subcontracts at all tiers under the recipient’s procurement contracts. 
+
+ 
+
+● Sub-Awards 
+
+
+ 
+
+These rules do not apply to sub-awards (as defined in 2 CFR 200.92) but do apply to the 
+procurement and long-term lease of goods and services by sub-recipients (as defined in 2 CFR 
+200.93) at all tiers, and to those sub-recipients’ procurement contracts and subcontracts with 
+vendors at all tiers. These rules do not apply to procurement or long-term lease of goods and 
+services with cost-sharing or program income funds. 
+
+ 
+
+● Restricted Commodities 
+
+
+ 
+
+“Restricted Commodities” are certain agricultural commodities, motor vehicles (excluding driver 
+service), pharmaceuticals, condoms and contraceptives, pesticides, used equipment, and non-local 
+purchase of fertilizer. Special rules apply to restricted commodities and are described in ADS 
+312.3.3. 
+
+ 
+
+C.4 ELIGIBILITY OF ACTIVITIES UNDER USAID’S ENVIRONMENTAL 
+REGULATIONS 
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of USAID’s 
+activities on the environment be considered and that USAID include environmental sustainability as 
+a central consideration in designing and carrying out its development programs. This mandate is 
+codified in Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System 
+(ADS) Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ADS/200), which, in part, require 
+that the potential environmental impacts of USAID-financed activities are identified prior to a final 
+decision to proceed and that appropriate environmental safeguards are adopted for all activities. 
+Recipient environmental compliance obligations under these regulations and procedures are 
+specified in the following paragraphs of this NOFO. 
+
+ 
+
+In addition, the Recipient must comply with host country environmental regulations unless 
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+regulations, the latter shall govern. 
+
+ 
+
+No activity funded under this CA will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). 
+(Hereinafter, such documents are described as “approved Regulation 216 environmental 
+documentation.”). 
+
+
+ 
+
+The Request for Categorical Exclusion has been approved for the YSEALI- Mekong Leadership 
+Program project, which covers activities expected to be implemented under this agreement. The 
+activities under the YSEALI- Mekong Leadership Program are among the classes of actions listed 
+in 22 CFR 216.2(c)(2) and have no foreseeable significant direct or indirect adverse effect on the 
+environment. Therefore, under 22 CFR 216.2(c)(1), neither an IEE nor an EA will be required for 
+these activities. Instead, a Categorical Exclusion is recommended as stated in: 
+
+ 
+
+• §216.2(c)(2)(i) Education, technical assistance, or training programs except to the extent 
+such programs include activities directly affecting the environment (such as construction of 
+facilities, etc.), 
+• §216.2(c)(2)(iii) Analyses, studies, academic or research workshops and meetings 
+• §216.2(c)(2)(v) Document and information transfers. 
+
+
+ 
+
+As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient, in collaboration 
+with the USAID Cognizant Technical Officer and Mission Environmental Officer or Bureau 
+Environmental Officer, as appropriate, shall review all ongoing and planned activities under this 
+CA to determine if they are within the scope of the approved Regulation 216 environmental 
+documentation. 
+
+ 
+
+If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written USAID 
+approval of environmental documentation amendments. 
+
+ 
+
+Any ongoing activities found to be outside the scope of the approved Regulation 216 environmental 
+documentation shall be halted until an amendment to the documentation is submitted and written 
+approval is received from USAID. 
+
+ 
+
+C.5 LIMITATIONS ON SUBMISSIONS 
+
+ 
+
+Each applicant is limited to one application submission under this NOFO as the prime Applicant. 
+There is no limitation on being included as a potential sub-awardee across multiple applications. 
+The use of exclusive teaming arrangements is discouraged. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+D.1. AGENCY POINT OF CONTACT 
+
+ 
+
+Only the Agreement Officer is authorized to make commitments on behalf of USAID. The 
+Agreement Officer is listed below: 
+
+ 
+
+Mr. Bryan Moody 
+
+Agreement Officer 
+
+USAID/Vietnam 
+
+15/F Tung Shing Square, 2 Ngo Quyen 
+
+Hanoi, Vietnam 
+
+Email: bmoody@usaid.gov 
+
+ 
+
+The point of contact for information about this NOFO is: 
+
+ 
+
+Ms. Huyen Dang 
+
+Acquisition and Assistance Specialist 
+
+USAID/Vietnam 
+
+15/F Tung Shing Square, 2 Ngo Quyen 
+
+Hanoi, Vietnam 
+
+Email: hdang@usaid.gov 
+
+ 
+
+The above contact information is only for informational purposes. The NOFO itself and any 
+subsequent amendments can be found at www.grants.gov. All applications must be submitted 
+according to instructions contained in this NOFO. 
+
+ 
+
+In order to maintain a fair and transparent funding opportunity, USAID maintains strict guidelines 
+on who within USAID may be contacted regarding applications or questions about the opportunity. 
+Applicants may only contact USAID via the email address provided above in this NOFO. Failure to 
+comply with the USAID points of contact guidance mandated in the NOFO may disqualify the 
+Applicant(s). 
+
+ 
+
+D.2. QUESTIONS AND ANSWERS 
+
+ 
+
+Questions and requests for clarification regarding this NOFO should be submitted via email to the 
+Agency Points of Contact above no later than the date and time indicated on the cover page. 
+
+ 
+
+Any information given to a prospective Applicant concerning this NOFO will be furnished 
+promptly to all other prospective Applicants as an amendment to this NOFO on www.grants.gov, if 
+that information is necessary in submitting applications or if the lack of it would be prejudicial to 
+any other prospective Applicant. Please check www.grants.gov for any amendments. 
+
+ 
+
+Applicants should not contact VNU-HCM, the host Vietnam HEI, during the application process. 
+Instead, applicants can refer to the VNU-HCM one-pager for information about the host HEI and 
+the notional support to be provided. 
+
+
+ 
+
+D.3. SUBMISSION DATE AND TIME 
+
+ 
+
+Applications must be submitted by email to points of contact stated in Section D.1 before the 
+respective due dates and times on the cover page. Applicants must ensure that the applications are 
+received at USAID/Vietnam in their entirety. No additions or modifications to submitted 
+applications will be accepted after the closing date and time. Late applications will be considered 
+only if the Agreement Officer determines it is in the Government’s interest. Each email submission 
+may not exceed 15 MB in size. 
+
+ 
+
+Hard copies, whether hand delivered or by postal mail, will not be accepted. 
+
+ 
+
+If you do not receive an email confirmation for receipt of applications, please contact the point of 
+contact at the email address noted above. 
+
+ 
+
+D.4. APPLICANTS RESPONSIVENESS 
+
+ 
+
+All applications received by the closing date and time will be reviewed for responsiveness to the 
+specifications outlined in these guidelines and the application format. Section E: Application 
+Review Information addresses technical evaluation application criteria. Applicants must review, 
+understand, and comply with all aspects of this NOFO. Failure to do so may lead to the 
+disqualification of an application. It is the Applicant’s responsibility to ensure that all necessary 
+documentation is complete and received on time. 
+
+ 
+
+D.5. APPLICATION SUBMISSION PROCEDURES 
+
+ 
+
+Submission of Applications 
+
+ 
+
+a. Applications must be submitted in two separate volumes: (a) Technical Application and (b) 
+Cost/ Business Application, each of which must be organized by the headings set forth below 
+and must include the information described below. The Technical application must address 
+technical aspects only while the Cost Application must present the costs, and address risk and 
+other related issues. 
+
+
+ 
+
+b. The subject line of application submissions must reference the NOFO No. 72044022RFA00003 
+and the title of the activity: YSEALI - Mekong Leadership Program. The applicant must 
+indicate in the subject line of the email if multiple emails are sent (e.g. “1 of 4”). 
+
+
+ 
+
+c. Applications in response to this NOFO must be in English, and in U.S. dollars. 
+
+
+ 
+
+Restriction on Disclosure and Use of Data 
+
+ 
+
+a. Applicants that include in their applications data that they do not want disclosed to the public 
+for any purpose, or used by the Government except for evaluation purposes shall: 
+
+ 
+
+
+i. Mark the title page with the following legend: “This application includes data that shall 
+not be disclosed outside the Government and shall not be duplicated, used, or disclosed - 
+in whole or in part - for any purpose other than to evaluate this application. If, however, 
+a grant or cooperative agreement is awarded to this Applicant as a result of - or in 
+connection with - the submission of this data, the Government shall have the right to 
+duplicate, use, or disclose the data to the extent provided in the resulting award. This 
+restriction does not limit the Government's right to use information contained in this data 
+if it is obtained from another source without restriction. The data subject to this 
+restriction are contained in sheets [insert numbers or other identification of sheets]”; and 
+
+
+ 
+
+ii. Mark each page containing restricted data with the following legend: “Use or disclosure 
+of data contained on this sheet is subject to the restriction on the title page of this 
+application.” 
+
+
+ 
+
+b. Applicants are advised that it is anticipated that the successful program narrative, submitted as 
+part of the technical application, will become the Program Description of the cooperative 
+agreement awarded as a result of this NOFO. Pursuant to the Freedom of Information Act of 
+1981, the public is entitled to request information from Agency award files. As a general rule, 
+information will be disclosed except: 
+
+ 
+
+i. Information submitted in response to this NOFO, prior to award of the grant, or 
+modifications or revisions thereto. 
+ii. Information properly classified or administratively controlled by USAID. 
+iii. Information specifically exempted from disclosure under the Freedom of Information 
+Act. 
+
+
+ 
+
+c. Upon award of the cooperative agreement resulting from this NOFO, USAID will disclose, use, 
+or duplicate any information submitted in response to this NOFO to the extent provided in the 
+award, and as required by the Freedom of Information Act. 
+
+ 
+
+Joint Program Description Development 
+
+ 
+
+USAID/Vietnam will engage in a co-creation process with the most highly rated Applicant, VNU-
+HCM as host Vietnam HEI, and other key stakeholders within and outside of USAID. The co-
+creation process is an integral part of this process to develop the most effective, holistic approach to 
+achieve program objectives. USAID expects the co-creation to be an ongoing, participatory 
+approach throughout the project cycle, including the development of work plans and key 
+deliverables with key stakeholders, with an emphasis on a shared vision, responsibility, decision-
+making and ownership over the ultimate program. It will involve collaborating with resource 
+partners, potential implementing partners, end users and other stakeholders toward a range of 
+outcomes, such as a richer understanding of the problem, a shared strategy for action, ideas or 
+specific solutions, or lessons and insights as well as to ensure a results-oriented activity. During the 
+co-creation, participants will design approaches to achieve a high degree of measurable, sustainable 
+impact. Through co-creation, USAID goes beyond knowledge sharing or learning from various 
+stakeholders and moves toward interactive and ongoing engagement with those who are affected by 
+or hold influence over an issue. 
+
+
+ 
+
+As part of the co-creation process during the pre-award phase, a Strategic Alignment Validation 
+Exercise (SAVE) will be conducted to validate the activity's high level objectives and the 
+Applicant’s proposed central pathways and technical approach to achieve them. Only the apparently 
+successful Applicant will be invited to the SAVE process. The competitive portion of the process is 
+concluded at this point and USAID and the Applicant may freely exchange information and 
+collaborate to finalize the program description and award documentation. USAID expects that the 
+SAVE process will include a (virtual or in-person) workshop, stakeholder engagements and 
+consultations, and other meetings and consultations, as necessary. USAID discourages exclusivity 
+agreements between partners at this stage. USAID wishes to maintain a high level of flexibility in 
+terms of creating a coalition of partners due to potential changes in the Applicant’s approach as a 
+result of SAVE. Consequently, only the apparently successful prime Applicant and its subgrantee(s) 
+will be engaged in the SAVE process, together with the host Vietnam HEI and other key 
+stakeholders to be determined by USAID. SAVE will inform the following stages where any 
+modifications in the teaming can be proposed by the Applicant as a result of the collaborative work 
+with USAID and potential stakeholders. 
+
+ 
+
+Any expenses incurred by Applicants during this time are solely the responsibility of the 
+Applicants. If at any point during the course of the SAVE process, the Agreement Officer 
+determines that the apparently successful Applicant is unable to provide satisfactory Technical and 
+Business Applications, or did not meet deadlines for submissions, or the Applicant and USAID 
+cannot come to agreement on the terms and conditions of the final award, then the Agreement 
+Officer may designate the next highest-evaluated Applicant from the Initial Application stage as the 
+apparently successful Applicant. 
+
+ 
+
+The duration of the SAVE process is expected to be approximately two (2) weeks. Thereafter, the 
+selected Applicant(s) will have additional time (approx. two (2) additional weeks) to prepare a final 
+technical and cost application for USAID consideration. See more specific dates below in 
+ATTACHMENT D: PLANNED PRE-AWARD SCHEDULE. 
+
+ 
+
+Further details on the co-development (SAVE) process will be shared with the apparently 
+successful Applicant. USAID reserves the right to invite more than one Applicant, if deemed 
+appropriate, or to not conduct a co-development meeting. 
+
+ 
+
+Final Application Submission 
+
+ 
+
+The Final Application will expand upon the Initial Application to provide details about the planned 
+activities and results to be achieved, incorporating ideas, adjustments, feedback, etc. that arose 
+during the SAVE process. Additional information regarding the Final Application will be provided 
+at the time of its request. A request for Final Application via a Request for Application (RFA) 
+should not be interpreted as a commitment to funding or guaranteed issuance of an award. If a Final 
+Application is successful and an award is issued, the Agreement Officer (AO) will appoint an 
+Agreement Officer’s Representative (AOR) at that time. 
+
+ 
+
+Pre-Award Audits/Surveys and Discussions 
+
+ 
+
+
+USAID reserves the right to perform a pre-award audit/survey which may include but is not limited 
+to: (1) interviews with individuals to establish their ability to perform award duties under project 
+conditions; (2) a review of the Applicant's financial condition, business and personnel policies and 
+procedures, etc.; and (3) site visits to the Applicant's institution. However, it must be understood 
+that USAID undertakes no obligation to perform any of the foregoing elements. Accordingly, 
+Applicants should submit their best and most complete application initially. 
+
+ 
+
+Authority to Commit USAID 
+
+ 
+
+The Agreement Officer is the only individual who may legally commit USAID to the expenditure 
+of public funds. No costs allocable to the proposed award will be reimbursed by USAID before 
+receipt of either a fully executed grant or cooperative agreement, or a specific written authorization 
+from the Agreement Officer. 
+
+ 
+
+D.6. TECHNICAL APPLICATION INSTRUCTIONS 
+
+ 
+
+(a) General 
+
+
+ 
+
+Applicants must organize the application to follow the technical evaluation criteria specified in 
+Section E. The page length for the application shall not exceed seventeen (17) pages. Within these 
+pages, the executive summary shall not exceed one (01) page. The only annexes to be evaluated are 
+listed hereunder and are not subject to the page limitation. 
+
+ 
+
+Technical application must be organized in the following manner: 
+
+ 
+
+I. Executive Summary – not to exceed one (01) page 
+II. Technical Solution 
+IV. Institutional Experience 
+V. Key personnel and Staffing Plan 
+V. Annexes - See below 
+
+
+ 
+
+Annex A: Activity Collaborating, Learning, and Adapting (CLA) Approach 
+Annex B: Staffing Pattern/ Organizational Chart, including title and position description of 
+proposed key personnel positions. 
+Annex C: Resumes and Letters of Commitment of the Chief of Party. 
+Annex D: Partner Letters of Commitment, if any. 
+
+
+ 
+
+(b) Limitations 
+
+
+ 
+
+USAID will not evaluate information submitted in excess of the above stated page limits. The 
+Technical Application shall be written in Time New Roman Font, 12-point size. The 12-point size 
+requirement does not apply to text boxes, footnotes, tables, graphs and charts, though these should 
+be used sparingly and not in place of basic text. Applicants shall use only 8.5 inch by 11-inch 
+(210mm by 297mm) paper, with margins no less than one inch on each border. Number each page 
+consecutively. 
+
+ 
+
+
+Note: A page in the Technical Application that contains a table, chart, graph, etc., not otherwise 
+explicitly excluded per the instruction, is subject to the page limitation. 
+
+ 
+
+Not included in this page limitation are the following: 
+
+ 
+
+● Cover Page – the Applicant must provide with the following information on the Cover Page: 
+
+
+ 
+
+a. Name of the organization submitting the application; 
+b. Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address); 
+c. Activity Title; 
+d. Notice of Funding Opportunity number; 
+e. Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ under 
+ADS 303.6); 
+f. Unique Entity ID (SAM). 
+
+
+
+
+ 
+
+● Table of Contents 
+● Acronym List 
+● Annexes (as specified in D.7(a) above) 
+
+
+ 
+
+Information from annexes should be summarized in the narrative of the Technical Application, as 
+appropriate for the context of the narrative. 
+
+ 
+
+(c) Content of the Technical Application 
+
+
+ 
+
+Technical applications should include the sections and content below and should be directed at the 
+program as described in Section A. Funding Opportunity Description. The technical application will 
+be the critical item of consideration in selection of an Applicant for an award. The information 
+provided in the technical application must be specific, complete, and presented concisely. The 
+technical application must demonstrate the Applicant's capabilities and expertise with respect to 
+achieving the goals of this program and specify the specific results to be achieved. The merit review 
+criteria set forth in Section E. Application Review Information of this NOFO indicate the relative 
+importance of each criterion so that Applicants will know which areas require emphasis in the 
+preparation of the technical application. Applicants are advised that lack of completeness or 
+superficiality of the application may constitute grounds for excluding it from consideration. 
+
+ 
+
+It is anticipated that a portion of the successful application will become the Program Description for 
+the award resulting from this NOFO. Thus, applications submitted in response to this NOFO 
+should, in addition to being responsive to the requirements described herein, be written in the active 
+voice and in results-oriented terms in order to address what is proposed to be done; why it is 
+proposed to be done, how it is proposed to be done, who will do it, where it will be done, when it 
+
+
+will be done, and the anticipated results and impact. 
+
+ 
+
+The Technical Application includes the information set forth below: 
+
+ 
+
+1. Executive Summary (maximum 01 page) 
+
+
+ 
+
+A succinct summary of the Applicant’s overall activity description. 
+
+ 
+
+2. Technical Solution [See Section E.2] 
+
+
+ 
+
+The Technical Solution should convincingly articulate the Applicant’s proposed activities to 
+accomplish the objectives presented in the Funding Opportunity Description, focusing on what 
+is technically and politically feasible within the three years of the Program. The Applicant 
+should not merely repeat what is already described in the Program Description but should 
+convincingly describe how the Applicant proposes to achieve the Activity Objectives (A.3), 
+detailing the results to be achieved and methodology employed. The Applicant should 
+demonstrate why the approach proposed is the most effective means to realize the Activity 
+Objectives and how the Guiding Principles will be leveraged to achieve sustainable results. The 
+Applicant should describe how they will identify possible interventions, structure their 
+management to achieve the Activity Objectives, and embody guiding principles in their work. 
+
+ 
+
+The Applicant must include an initial theory of change to illustrate its understanding of youth 
+leadership development with a focus on climate change, environment, and biodiversity themes 
+and possible entry points for change. The theory of change should detail assumptions, 
+underlying logic, and knowledge gaps that need further exploration during start-up. 
+
+ 
+
+Applicants are also strongly encouraged to offer innovative ideas about how to achieve the 
+objectives of the activity that demonstrate a solid understanding of youth leadership 
+development and Mekong sub-regional climate change, environment, and biodiversity issues, 
+and identify entry points that USAID may have overlooked in this solicitation. Applicants 
+should use this as an opportunity to identify any less-developed assumptions or unrealistic 
+expectations on the part of USAID in the NOFO and provide concrete alternatives or 
+adjustments as necessary. 
+
+ 
+
+The Applicant must describe how it will promote gender and social inclusion in the selection of 
+participants, the design of the leadership and focus themes training, and the overall 
+implementation of the program. 
+
+ 
+
+The Applicant should describe their proposed approach to identify and seek financial and/or in-
+kind co-funding, market-based, and strategic partnership opportunities with the private sector, 
+public sector, or local/regional/international actors that may enhance development results and 
+impacts under this award. 
+
+ 
+
+The applicant must separately describe how the $750,000 requirement for technical advisory 
+programs in Vietnam will be met by an American educational institution, either as prime 
+recipient or subrecipient. 
+
+
+ 
+
+3. Institutional Experience [See Section E.2] 
+
+
+The prime Applicant must demonstrate experience in youth leadership development programs 
+involving participation from multiple countries in a geographic region, such as Southeast Asia. 
+
+The prime Applicant and/or its subgrantee(s), if any, combined must demonstrate experience in 
+regional youth leadership development and the focus themes. 
+
+ 
+
+The Applicant must precisely describe its (or subgrantees’) specific role(s) in implementing the 
+experiences described and the development impact of the intervention. Also, the Applicant must 
+articulate how the described institutional experience will enhance the likelihood of successful 
+implementation of this activity and the applicant’s unique technical solution. 
+
+ 
+
+i. Prime applicant experience implementing regional youth leadership development and local 
+capacity building in developing countries during the last four years. At minimum, the 
+applicant should include experience directly related to: 
+
+
+
+
+
+
+ 
+
+• Developing a regional leadership program for young leaders with participation from 
+multiple countries. 
+• Educating and sharing best-practices on addressing shared regional issues. 
+• Organizing competitive subgrants for research and innovations, or other similar themes. 
+• Promoting gender and social inclusion in youth programs. 
+• Developing a community/network of regional youth leaders and changemakers. 
+• Developing a platform for sharing resources and expertise within a region. 
+• Partnering with a local institution to build local capacity to co-develop and co-
+implement youth leadership development programming. 
+• Enhancing program sustainability through mobilizing external financing, leveraging 
+financial and in-kind resources from outside partners, and gaining the long-term 
+commitment of private sector actors and local actors. 
+
+
+ 
+
+ii. Prime applicant and subawardee(s), if any, experience providing technical or advisory 
+services on the focus themes of climate change, environment, and biodiversity. At 
+minimum, the applicant should include collective experience directly related to: 
+
+
+ 
+
+• Assessing climate change, environment, and biodiversity issues and providing tailored 
+interventions, such as training programs, to address the issues. 
+• Facilitating mutually-beneficial partnerships with private sector, local/regional actors, 
+and other key stakeholders. 
+
+
+ 
+
+4. Key Personnel and Staffing Plan [See Section E.2] 
+
+
+ 
+
+a. Key Personnel: 
+
+
+ 
+
+USAID/Vietnam determined that three (3) personnel positions are key for this award, 
+including the Chief of Party. For this RFA, the Applicant need only identify by name the 
+
+
+proposed Chief of Party. No other individual should be identified nor will be evaluated, but 
+the positions will be included in the overall staffing plan as described below. The 
+Recipient's key personnel should have experience with the core roles of the Recipient in 
+previous programs. Staff must be politically savvy, adaptable and flexible, and able to create 
+a supportive, adaptive learning-oriented culture. 
+
+ 
+
+USAID expects relevant staff to have the appropriate qualifications and experience to work 
+as a team to manage a complex U.S. Government Program, especially the ability to bring in 
+regional and international best practices in youth leadership programs. 
+
+ 
+
+The COP should have at least 10 years of relevant working experience in the implementing 
+effective regional youth leadership programs, half of which should be in developing 
+countries. In addition to technical experience, the COP should have political savvy, 
+excellent organizational and management skills, proven leadership abilities within a multi-
+partner initiative, and experience representing projects at high levels of policy engagement. 
+
+ 
+
+The following skills and expertise should be largely found, collectively, within the Key 
+Personnel: 
+
+ 
+
+● Experience and expertise in facilitating multi-stakeholder collaboration. 
+● Knowledge of and experience in the focus themes. 
+● Experience with youth leadership development. 
+● Experience fostering private sector and/or donor partnerships. 
+● Experience in activities that reduce gender and social inclusion barriers in programs. 
+
+
+ 
+
+b. Staffing Plan: 
+
+
+ 
+
+Applicants must propose a staffing plan that convincingly demonstrates the Applicant’s ability 
+to successfully implement the Activity. The Applicant must describe how the proposed Staffing 
+Plan (including proposed COP) will ensure successful implementation and the approach by 
+which local Vietnamese labor and expertise will be maximized. If more than one full-time 
+expatriate is proposed, the Applicant must justify using more than one expatriate, as opposed to 
+local Vietnamese professions. 
+
+ 
+
+The Applicant must describe the division of roles and responsibilities between the applicant, 
+subawardees and other resource organizations, if any, in implementing the activity. The 
+Applicant shall describe staffing roles for any proposed sub-awardees with defined lines of 
+management, supervisory authority, and technical responsibility. The staffing plan shall clearly 
+and logically address how consultants will be used to complement full-time project staff and 
+whether they will be local or expatriate staff. 
+
+ 
+
+Describe the proposed partnership and how the core partner(s) and/or subwardee(s), including 
+institutional strengths, capabilities, resources leveraged, alignment with individual or 
+institutional priorities and mandates, and other appropriate context. Indicate institutional 
+commitment and roles to the proposed activities and their intended outcomes. Describe how the 
+
+
+proposed approach to partnership specifically fits the development problem(s) or challenge(s) 
+to be addressed. 
+
+ 
+
+Given that substantial collaboration is anticipated between partners at every stage of the 
+proposed activity (including concept development, activity design, and implementation), briefly 
+outline a plan for ensuring effective collaboration and communication between any proposed 
+partners. 
+
+
+5. Annexes 
+
+
+ 
+
+The Annexes should be labeled as noted below and do not count towards the Technical 
+Application page limit. 
+
+ 
+
+5.1 Annex A - Activity Collaborating, Learning, and Adapting (CLA) Approach (not to exceed 3 
+pages) 
+
+ 
+
+The Applicant should submit a short, concise CLA approach based on their theory of change. 
+The CLA approach should lay out the Applicant’s approach to adaptive management, and 
+discuss how the activity will answer identified learning questions and use information to inform 
+program management. The activity is encouraged to consider an internal developmental 
+evaluator role that supports continuous learning within the team. 
+
+ 
+
+5.2 Annex B ⎼ Staffing Pattern/ Organizational Chart 
+
+ 
+
+The Applicant must provide an organizational chart depicting its staffing plan including the 
+chain of command among staff. The chart must specify which personnel, if any, are employed 
+by a sub-awardee, if any. 
+
+ 
+
+The title and position description of each of the three (3) key personnel positions proposed 
+(including the Chief of Party) must be included in this Annex. 
+
+ 
+
+5.3 Annex C - Resume and Letter of Commitment of the Chief of Party 
+
+ 
+
+The submitted resume must include a minimum of five references with current email and 
+telephone number contact information. It should be noted that USAID reserves the right to 
+solicit references beyond those submitted. The resume may not exceed five pages and must, at 
+a minimum, identify the start year and month and end year and month for each former/current 
+employment listed. Also, a signed letter of commitment must be submitted for the Key Person 
+proposed, indicating (a) his/her intention to serve for a stated term of the service [state the 
+period in the letter], and (b) agreement to the compensation level which corresponds to the 
+levels set forth in the cost application. 
+
+ 
+
+5.4 Annex D ⎼ Partner Letters of Commitment 
+
+ 
+
+Applicants who intend to establish a consortium or partnerships must include Letters of 
+Commitment for all proposed entities/organizations in their application, indicating their 
+
+
+anticipated roles in the activity. In addition, these partners should indicate their relevant 
+experience and how their engagement will enhance the capacity of the Recipient to lead a 
+successful collective impact approach. 
+
+ 
+
+D.7. COST APPLICATION INSTRUCTIONS 
+
+ 
+
+The cost application must be submitted separately from the technical application. While no page 
+limit exists for the full cost application, Applicants are encouraged to be as concise as possible 
+while still providing the necessary details. The cost (business) application must illustrate the entire 
+period of performance, using the budget template provided in the Attachment B. 
+
+ 
+
+The cost application must contain the following sections: 
+
+ 
+
+1. Cover Page 
+2. SF 424 Forms 
+3. Budget and Budget Narrative 
+4. Approval of Subawards 
+5. Prior Approvals in accordance with 2 CFR 200.407 
+6. Funding Restrictions 
+7. Certifications, Assurances and Other Statements of the Recipient 
+8. History of Performance 
+1. Cover Page 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Cost Application Cover Page must contain the same information as the Technical Application 
+Cover Page. 
+
+ 
+
+2. SF 424 Form(s) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Applicant must sign and submit the cost application using the SF-424 series; SF-424, SF-424A 
+and SF-424B. Standard Forms and instructions can be found at the following link: 
+
+https://www.grants.gov/forms/sf-424-family.html. 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+3. Budget and Budget Narrative 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+While there is no page limit for this portion, the Applicant is encouraged to be as concise as 
+possible, but still provide the following necessary details: 
+
+ 
+
+• The budget to be presented under Cost/Business Application should relate to results specified 
+in Section A. Funding Opportunity Description, and delineate the cost inputs or each result, 
+and a disaggregation between the USAID (Federal Share) and cost-share (Non-federal share) 
+of the total program cost. 
+• The proposed budget should provide cost estimates for the management of the program 
+(including program monitoring, baseline assessments and assessments for environmental 
+
+
+
+compliance). Applicant should minimize their administrative and support costs for managing 
+the project to maximize the funds available for project activities. 
+• The breakdown of all costs associated with the program according to costs of, if applicable, 
+headquarters, regional, country, and/or local offices. 
+• The breakdown of all costs according to each partner organization or subcontractor/ 
+subgrantee involved in the program. 
+• The costs associated with external, expatriate technical assistance and those associated with 
+local in-country technical assistance. 
+• The breakdown of the financial and in-kind (cost share) contributions of all organizations 
+involved in implementing this Activity. 
+• Potential contributions of non-USAID or private commercial donors to this agreement. 
+• A procurement plan for commodities. 
+
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum (all 
+formulas must be displayed, and the budget must not be locked): 
+
+ 
+
+i. Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the Applicant and any 
+potential sub-applicants for the entire period of the Activity. 
+ii. Detailed Budget, including a breakdown by year, sufficient to allow the Agency to determine 
+that the costs represent a realistic and efficient use of funding to implement the applicant’s 
+Activity and are allowable in accordance with the cost principles found in 2 CFR 200 
+Subpart E. 
+iii. Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken out by 
+budget category and by year, for the entire implementation period of the Activity. 
+
+
+ 
+
+Budget Narrative: Applicants must provide a narrative justifying the unit rates for each cost 
+category proposed with supporting information as further specified under the following cost 
+categories. Any assumptions should be clearly stated. Applicants should keep in mind that it is their 
+responsibility to ensure that the information provided is sufficient to provide a basis for USAID to 
+determine that the costs proposed are reasonable and realistic. 
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a minimum: 
+
+ 
+
+• Personnel Salaries and Wages: Must be proposed consistent with 2 CFR 200.430 
+Compensation - Personal Services. The applicant’s budget must include position title, salary 
+rate, level of effort, and salary escalation factors for each position. Allowances, when 
+proposed, must be broken down by specific type and by position. Applicants must explain all 
+assumptions in the Budget Narrative. The Budget Narrative must demonstrate that the 
+proposed compensation is reasonable for the services rendered and consistent with what is 
+paid for similar work in other activities of the applicant. Applicants must provide their 
+established written policies on personnel compensation. If the applicant’s written policies do 
+not address a specific element of compensation that is being proposed, the Budget Narrative 
+must describe the rationale used and supporting market research. 
+
+
+ 
+
+
+• Fringe Benefits: If the Applicant has a fringe benefit rate that has been approved by an 
+agency of the U.S. Government, such rate should be used and evidence of its approval should 
+be provided. If a fringe benefit rate has not been so approved, the application should propose 
+a rate and explain how the rate was determined. If the latter is used, the narrative should 
+include a detailed breakdown comprised of all items of fringe benefits (e.g., unemployment 
+insurance, workers compensation, health and life insurance, retirement, etc.) and the costs of 
+each, expressed in dollars and as a percentage of salaries. 
+
+
+ 
+
+• Travel, Transportation and Per Diem: Provide details to explain the purpose of the trips, the 
+number of trips, the origin and destination, the number of individuals traveling, and the 
+duration of the trips. Per Diem and associated travel costs must be based on the applicant’s 
+normal travel policies. When appropriate please provide supporting documentation as an 
+attachment, such as company travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+• Equipment & Supplies - Procurement or Rental of Goods Services, and Real Property must 
+include information on estimated types of equipment, models, supplies and the cost per unit 
+and quantity. The Budget Narrative must include the purpose of the equipment and supplies 
+and the basis for the estimates. The Budget Narrative must support the necessity of any 
+rental costs and reasonableness in light of such factors as: rental costs of comparable 
+property, if any; market conditions in the area; alternatives available; and the type, life 
+expectancy, condition, and value of the property leased. 
+
+
+ 
+
+• Subawards: Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200.330 for assistance in determining whether the sub-tier entity is 
+a subrecipient or contractor. The subrecipient budgets must align with the same requirements 
+as the Applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+• Contracts - refers to contract agreements the applicant anticipates having with other 
+organizations to contract out portions of the activity (this does not apply to the acquisition of 
+supplies, material, equipment, or general support services). 
+
+
+ 
+
+• Cost Sharing – The applicant should estimate the amount of cost-sharing resources to be 
+provided over the life of the agreement and specify the sources of such resources, and the basis 
+of calculation in the budget narrative. Applicants should also provide a breakdown of the cost 
+share (financial and in-kind contributions) of all organizations involved in implementing the 
+resulting award. 
+
+
+ 
+
+• Other Direct Costs: This includes communications, report preparation costs, passports and 
+visas fees, medical exams and inoculations, insurance (other than insurance included in the 
+Applicant's fringe benefits), office rent abroad, etc. The Applicant should indicate the 
+subject, venue and duration of any proposed conferences and seminars, and their relationship 
+to the objectives of the program, along with estimates of costs. The narrative should provide 
+a breakdown and support for all and each other direct costs. 
+
+
+ 
+
+Note: Foreign Government Delegations to International Conferences: Funds in this 
+agreement may not be used to finance the travel, per diem, hotel expenses, meals, conference 
+
+
+fees or other conference costs for any member of a foreign government’s delegation to an 
+international conference sponsored by a public international organization. 
+
+ 
+
+• Indirect Costs: Indirect costs are costs which cannot be directly identified with a single 
+contract or grant. The indirect costs are applied equitably across all of the business activities 
+of the organization, according to the benefits each gains from them. Some examples of 
+indirect costs are office space rental, utilities, and clerical and managerial staff salaries. To 
+the extent that indirect costs are reasonable, allowable and allocable they are a legitimate cost 
+of doing business payable under a U.S. Government contract or grant. In order to better 
+understand indirect costs, please see Subpart E of 2 CFR 200.414. 
+
+
+ 
+
+Applicants must indicate whether they are proposing indirect costs or will charge all costs 
+directly. In order to better understand indirect costs please see Subpart E of 2 CFR 200. The 
+application must identify which approach they are requesting and provide the applicable 
+supporting information. Below are the most commonly used Indirect Cost Rate methods: 
+
+ 
+
+ 
+
+Method 
+
+Eligibility 
+
+Initial application requirements 
+
+Direct Charge 
+Only 
+
+Any applicant 
+
+See above on direct costs 
+
+Existing 
+Negotiated 
+Indirect Cost 
+Rate 
+Agreement 
+(NICRA) 
+
+Any applicant 
+with an 
+approved 
+NICRA 
+
+Submit your approved NICRA and the associated disclosed 
+practices. 
+
+De minimis 
+rate of 10% of 
+modified total 
+direct costs 
+(MTDC) 
+
+Any applicant 
+that has never 
+received a 
+NICRA 
+
+Costs must be consistently charged as either indirect or direct 
+costs, but may not be double charged or inconsistently 
+charged as both. If chosen, this methodology once elected 
+must be used consistently for all Federal awards until such 
+time as a non-Federal entity chooses to negotiate for a rate, 
+which the non-Federal entity may apply to do at any time. 
+The applicant must describe which cost elements it charges 
+indirectly vs. directly. 
+
+Indirect Costs 
+Charged As A 
+Fixed Amount 
+
+Certain U.S. 
+educational 
+institutions & 
+non U.S. non-
+profit 
+organizations 
+may request, 
+but approval is 
+at the 
+discretion of 
+the AO 
+
+Provide the proposed fixed amount and a worksheet that 
+includes the following (For Education institutions, see 2 CFR 
+200 App III): 
+
+● Total costs incurred by the organization for previous fiscal 
+year and estimates for the current year 
+● Indirect costs (common costs that benefit the day-to-day 
+operations of the organization, including categories such 
+as salaries and expenses of executive officers, personnel 
+administration, and accounting, or that benefit and are 
+identifiable to more than one program or activity(ies), 
+such as depreciation, rental costs, operations and 
+
+
+
+
+
+NOFO No.72044022RFA00003Young Southeast Asian Leaders Initiative-Mekong Leadership Program
+
+maintenance of facilities, and telephone expenses) for the 
+previousfiscal year and estimates for the current year
+●Proposed method forprorating the indirect costs equitablyand consistently across all programs and activities of usinga base that measures the benefits of that particular cost toeach program or activity(ies) to which the cost applies.
+No currentNICRA, butapplicant hasan indirect 
+rate other thanthe de 
+minimisAny applicantmay requestbut approval isat thediscretion ofthe AgencyANICRA may be negotiated after award at the discretion ofthe Agency.Provisional rates may be set forth in the contractsubject to audit and finalization. The applicant must identifythe indirect cost rate and base it is proposing.SeeUSAID’s 
+Indirect Cost Rate Guide forNon Profit Organizationsforfurther guidance.
+
+4.Approvalof Subawards
+Theapplicant must submit information for all subawards that it wishesto have approved at the time 
+of award.For each proposed subaward the applicant must provide the following:
+
+•Nameof organization
+•Unique Entity ID (SAM)
+•Confirmation that the subrecipient does not appear on the Treasury Department’s Office ofForeign Assets Control (OFAC)list 
+•Confirmation that the subrecipient does not have active exclusions in the System for AwardManagement (SAM)
+•Confirmation that the subrecipient is not listed in the United Nations Security designationlist 
+•Confirmation that thesubrecipient is not suspended or debarred
+•Confirmationthat theapplicant has completed a risk assessmentof the subrecipient, in 
+accordance with 2 CFR 200.332(b)
+•Any negative findings as a result of the risk assessment and the applicant’s plan formitigation.
+5.Prior Approvals inaccordance with 2 CFR 200.407
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements forprior approval by the Agency.If the Applicant would like the award to reflect approval of any cost 
+elements for which prior written approval is specifically required for allowability, the Applicant 
+must specify and justify that cost. See 2 CFR 200.407 for information regarding which costelements require prior written approval.
+
+6.FundingRestrictions
+Profit isnot allowable for recipients or subrecipients under this award. See 2 CFR 200.330 forassistance in determining whether a sub-tier entity is a subrecipient or contractor.
+
+
+Construction will not be authorized under this award. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+7. Certifications, Assurances and Other Statements of the Recipient 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Applicant must complete the following documents and submit a signed copy with their 
+application. 
+
+ 
+
+a. The Applicant shall complete the required certifications and sign and date in the signature space 
+provided. http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+b. Assurances for Non-Construction Programs (SF-424B) 
+c. Certificate of Compliance: Please submit a copy of your Certificate of Compliance if your 
+organization's systems have been certified by USAID/Washington's Office of Acquisition and 
+Assistance (M/OAA). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+8. History of Performance 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Applicant must provide information regarding its recent history of performance for all its cost-
+reimbursement contracts, grants, or cooperative agreements involving similar or related programs, 
+not to exceed three years as follows: 
+
+ 
+
+● Name of the Awarding Organization; 
+● Award Number; 
+● Activity Title; 
+● A brief description of the activity; 
+● Period of Performance; 
+● Award Amount; 
+● Reports and findings from any audits performed in the last three years; and 
+● Name of at least two (2) updated professional contacts who most directly observed the work 
+at the organization for which the service was performed with complete current contact 
+information including telephone number, and e-mail address for each proposed individual. 
+
+
+ 
+
+If the Applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general information 
+on its performance. USAID reserves the right to obtain from any sources relevant information 
+concerning an Applicant’s history of performance and may consider such information in its review 
+of the Applicant’s risk. The Agency may request additional information and conduct a pre-award 
+survey if it determines that it is necessary to inform the risk assessment. 
+
+ 
+
+D.8. SYSTEM FOR AWARD MANAGEMENT 
+
+ 
+
+
+Given the recent transition from the data universal numbering system, or DUNS, to the new unique 
+entity identifier, or unique entity ID/ UEI (SAM), DUNS number is no longer required going 
+forward after April 04, 2022. USAID may not award to an applicant unless the applicant has 
+complied with all applicable unique entity identifier and System for Award Management (SAM) 
+requirements. Each applicant (unless the applicant is an individual or Federal awarding agency that 
+is exempted from requirements under 2 CFR 25.110(b) or (c), or has an exception approved by the 
+Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+i. Be registered in the System for Award Management (SAM) before submitting its 
+application. SAM is streamlining processes, eliminating the need to enter the same data 
+multiple times, and consolidating hosting to make the process of doing business with the 
+government more efficient (www.sam.gov); 
+ii. Provide a valid UEI (SAM) in its application for the applicant and all proposed sub-
+recipients and subcontractors. For sub-recipients and/ or subcontractors, they are only 
+required to present a valid UEI; 
+iii. Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under consideration 
+by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, Applicants are encouraged 
+to register early to be eligible to apply for this NOFO. If an Applicant has not fully complied with 
+the requirements by the time USAID is ready to make an award, USAID may determine that the 
+applicant is not qualified to receive an award and use that determination as a basis for making an 
+award to another applicant. 
+
+ 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick Start 
+Guide and a video on how to obtain an NCAGE code, on www.sam.gov, navigate to Help, then to 
+International Registrants. 
+
+ 
+
+Applicants must set forth full, accurate, and complete information as required by this NOFO. The 
+penalty for making false statements to the U.S. Government is prescribed in 18 U.S.C. 1001. 
+
+ 
+
+D.9. PRE-AWARD COSTS 
+
+ 
+
+In accordance with 2 CFR 200.458 - Pre-award costs, Pre-award costs are those incurred prior to 
+the effective date of the Federal award directly pursuant to the negotiation and in anticipation of the 
+Federal award where such costs are necessary for efficient and timely performance of the scope of 
+work. Such costs are allowable only to the extent that they would have been allowable if incurred 
+after the date of the Federal award and only with the written approval of the Federal awarding 
+agency. Pre-Award costs may be authorized at the discretion of the Agreement Officer. 
+
+ 
+
+D.10. BRANDING STRATEGY AND MARKING PLAN (BS/MP) 
+
+ 
+
+
+The Applicant is required to comply (and ensure compliance by partners) with USAID’s branding 
+and marking requirements set forth in 2 CFR 700.16. These regulations and provisions include the 
+requirement for the apparently successful Applicant to submit a BS/MP for pre-award review, 
+negotiation, and approval by the Agreement Officer. Under these regulations and provisions, the 
+BS/MP does not need to be submitted until the Applicant is notified by the Agreement Officer that 
+it is the apparently successful Applicant, and is requested to submit the BS/MP by a time specified 
+by the Agreement Officer. Thus, the initial cost/business application is not required to include a 
+BS/MP. Nevertheless, Applicants are encouraged, but are not required, to submit their BS/MP with 
+their initial cost/business applications. Applicants who choose not to include their BS/MP with their 
+initial cost/business application will not be penalized during the evaluation process, but should be 
+aware that, if the Applicant is the apparently successful Applicant, the Applicant will be required to 
+submit an acceptable BS/MP as a prerequisite for any resulting award. This would delay any such 
+award, pending receipt, review, and, if necessary, negotiation of the Applicant’s BS/MP. Moreover, 
+because USAID’s branding and marking requirements have cost implications, such costs must be 
+included in the detailed budget even if the Applicant does not submit its BS/MP with the initial 
+cost/business application. 
+
+ 
+
+Failure to submit or negotiate a Branding Strategy within the time specified by the Agreement 
+Officer may make the Apparently Successful Applicant ineligible for award. The proposed 
+Branding Strategy and Marking Plan (BS/MP) will not be evaluated competitively. The Agreement 
+Officer shall review for adequacy the proposed BS/MP, and will negotiate, approve, and include the 
+BS/MP in the award. 
+
+ 
+
+Branding Strategy – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, project, or activity is named and positioned, and how it 
+is promoted and communicated to beneficiaries and host country citizens. 
+
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget 
+portion of the application. These costs are subject to the revision and negotiation with the 
+Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+cooperative agreement or other assistance instrument. 
+
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+
+ 
+
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+plaques, stickers, banners, press events, materials, and so forth. 
+
+
+
+
+ 
+
+
+(2) The intended name of the program, project, or activity. 
+
+
+
+
+ 
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the 
+USAID logo and brandmark, with the tagline “from the American people” as found 
+on the USAID Web site at http://www.usaid.gov/branding, unless Section VI of 
+the RFA or APS states that the USAID Administrator has approved the use of an 
+additional or substitute logo, seal, or tagline. 
+(ii) USAID prefers local language translations of the phrase “made possible by (or 
+with) the generous support of the American People” next to the USAID Identity 
+when acknowledging contributions. 
+(iii) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+(iv) If branding in the above manner is inappropriate or not possible, the applicant must 
+explain how USAID's involvement will be showcased during publicity for the 
+program or project. 
+(v) USAID prefers to fund projects that do not have a separate logo or identity that 
+competes with the USAID Identity. If there is a plan to develop a separate logo to 
+consistently identify this program, the applicant must attach a copy of the proposed 
+logos. Section VI of the RFA or APS will state if an Administrator approved the use 
+of an additional or substitute logo, seal, or tagline. 
+
+
+
+
+
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+
+
+
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program to 
+beneficiaries. 
+
+
+
+
+ 
+
+(i) Describe the main program message. 
+(ii) Provide plans for training materials, posters, pamphlets, public service 
+announcement, billboards, Web sites, and so forth, as appropriate. 
+(iii) Provide any plans to announce and promote publicly this program or project to host 
+country citizens, such as media releases, press conferences, public events, and so 
+forth. Applicant must incorporate the USAID Identity and the message, “USAID is 
+from the American People.” 
+(iv) Provide any additional ideas to increase awareness that the American people 
+support this project or program. 
+
+
+
+
+
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+
+
+
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials and 
+related materials. Indicate if they are a donor or why they will be visibly acknowledged, 
+and if they will receive the same prominence as USAID. 
+
+
+
+
+ 
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above information is 
+adequately included and consistent with the stated objectives of the award, the applicant's cost 
+
+
+
+data submissions, and the performance plan. 
+
+
+ 
+
+g. If the applicant receives an assistance award, the Branding Strategy will be included in and 
+made part of the resulting grant or cooperative agreement. 
+
+
+ 
+
+Marking Plan – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking Plan,” 
+detailing the public communications, commodities, and program materials, and other items that 
+will visibly bear the “USAID Identity,” which comprises of the USAID logo and brandmark, 
+with the tagline “from the American people.” The USAID Identity is the official marking for the 
+Agency, and is found on the USAID Web site at http://www.usaid.gov/branding. Section VI of 
+the RFA or APS will state if an Administrator approved the use of an additional or substitute 
+logo, seal, or tagline. 
+
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no rights 
+to the applicant and constitutes no USAID commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget 
+portion of the application. These costs are subject to the revision and negotiation with the 
+Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+cooperative agreement or other assistance instrument. 
+
+
+ 
+
+e. The Marking Plan must include all of the following: 
+
+
+ 
+
+(1) A description of the public communications, commodities, and program materials that 
+the applicant plans to produce and which will bear the USAID Identity as part of the 
+award, including: 
+
+
+
+
+ 
+
+(i) Program, project, or activity sites funded by USAID, including visible infrastructure 
+projects or other sites physical in nature; 
+(ii) Technical assistance, studies, reports, papers, publications, audio- visual 
+productions, public service announcements, Web sites/Internet activities, 
+promotional, informational, media, or communications products funded by USAID; 
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, 
+including commodities or equipment provided under humanitarian assistance or 
+disaster relief programs; and 
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+(v) Events financed by USAID, such as training courses, conferences, seminars, 
+exhibitions, fairs, workshops, press conferences and other public activities. If the 
+USAID Identity cannot be displayed, the recipient is encouraged to otherwise 
+
+
+
+
+
+
+
+acknowledge USAID and the support of the American people. 
+
+
+
+
+
+
+ 
+
+(2) A table on the program deliverables with the following details: 
+
+
+
+
+ 
+
+(i) The program deliverables that the applicant plans to mark with the USAID Identity; 
+(ii) The type of marking and what materials the applicant will use to mark the program 
+deliverables; 
+(iii) When in the performance period the applicant will mark the program deliverables, 
+and where the applicant will place the marking; 
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+Identity, and 
+(v) The rationale for not marking program deliverables. 
+
+
+
+
+
+
+ 
+
+(3) Any requests for an exemption from USAID marking requirements, and an explanation 
+of why the exemption would apply. The applicant may request an exemption if USAID 
+marking requirements would: 
+
+
+
+
+ 
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials 
+where independence or neutrality is an inherent aspect of the program and 
+materials. The applicant must identify the USAID Development Objective, Interim 
+Result, or program goal furthered by an appearance of neutrality, or state why an 
+aspect of the award is presumptively neutral. Identify by category or deliverable 
+item, examples of material for which an exemption is sought. 
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. The 
+applicant must explain why each particular deliverable must be seen as credible. 
+(iii) Undercut host-country government “ownership” of constitutions, laws, regulations, 
+policies, studies, assessments, reports, publications, surveys or audits, public service 
+announcements, or other communications. The applicant must explain why each 
+particular item or product is better positioned as host-country government item or 
+product. 
+(iv) Impair the functionality of an item. The applicant must explain how marking the 
+item or commodity would impair its functionality. 
+(v) Incur substantial costs or be impractical. The applicant must explain why marking 
+would not be cost beneficial or practical. 
+(vi) Offend local cultural or social norms, or be considered inappropriate. The applicant 
+must identify the relevant norm, and explain why marking would violate that norm 
+or otherwise be inappropriate. 
+(vii) Conflict with international law. The applicant must identify the applicable 
+international law violated by the marking. 
+
+
+
+
+
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and will 
+approve or disapprove any exemption requests. The Marking Plan will be reviewed to ensure 
+the above information is adequately included and consistent with the stated objectives of the 
+award, the applicant's cost data submissions, and the performance plan. 
+
+
+ 
+
+
+If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions, will be included in and made part of the resulting grant or cooperative agreement, and 
+will apply for the term of the award unless provided otherwise. 
+
+ 
+
+D.11. CONFLICT OF INTEREST PRE-AWARD TERM (AUGUST 2018) 
+
+ 
+
+a. Personal Conflict of Interest 
+
+ 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization or an 
+employee of the organization has a relationship with an Agency official involved in the 
+competitive award decision-making process that could affect that Agency official’s 
+impartiality. The term “conflict of interest” includes situations in which financial or other 
+personal considerations may compromise, or have the appearance of compromising, the 
+obligations and duties of a USAID employee or recipient employee. 
+2. The applicant must provide conflict of interest disclosures when it submits the applications. 
+Should the applicant discover a previously undisclosed conflict of interest after submitting 
+the application, the applicant must disclose the conflict of interest to the AO no later than 
+ten (10) calendar days following discovery. 
+
+
+ 
+
+b. Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are 
+aware of that may provide the applicant with an unfair competitive advantage in competing for 
+this financial assistance award. Examples of an unfair competitive advantage include but are not 
+limited to situations in which an applicant or the applicant’s employee gained access to non-
+public information regarding a federal assistance funding opportunity, or an applicant or 
+applicant’s employee was substantially involved in the preparation of a federal assistance 
+funding opportunity. USAID will promptly take appropriate action upon receiving any such 
+notification from the applicant. 
+
+ 
+
+D.12. PRE-AWARD RESPONSIBILITY DETERMINATION AND RISK ASSESSMENT 
+
+ 
+
+Upon consideration of award or during the discussions leading to an award, the selected Applicant 
+may be required to submit additional documentation deemed necessary for the Agreement Officer 
+to make an affirmative determination of responsibility. 
+
+ 
+
+IMPORTANT NOTE 
+
+ 
+
+Applicants should not submit the information below with their Applications. The information in this 
+section is provided so that Applicants may become familiar with additional documentation that may 
+be requested by the AO before award in order to make the responsibility determination: 
+
+ 
+
+These documents may include, but are not limited to: 
+
+ 
+
+1. Audited financial statements for the past three (3) years that have been audited by a certified 
+public accountant or other auditor satisfactory to USAID; 
+
+
+ 
+
+2. Bylaws, constitution, and articles of incorporation, if applicable; 
+
+ 
+
+3. Copies of organizational travel, procurement, financial management, accounting manual and 
+personnel policies and procedures, especially regarding salary, promotion, leave, differentials, 
+etc., and indicate whether such policies and procedures have been reviewed and approved by 
+any agency of the Federal Government. If so, provide the name, address, and phone number of 
+the cognizant reviewing official; 
+
+ 
+
+4. Other documentation, as required by the Agreement Officer, to substantiate that the Applicant: 
+
+ 
+
+● Has adequate financial resources or the ability to obtain such resources as required during 
+the performance of the Cooperative Agreement; 
+● Has the ability to comply with the award’s terms and conditions, taking into account all 
+existing and currently prospective commitments of the Applicant, non-governmental and 
+governmental; 
+● Has a satisfactory record of performance. Past relevant unsatisfactory performance is 
+ordinarily sufficient to justify a finding of non-responsibility, unless there is clear evidence 
+of subsequent satisfactory performance; 
+● Has a satisfactory record of integrity and business ethics; 
+● Is otherwise qualified and eligible to receive a Cooperative Agreement/Grant under 
+applicable laws and regulations (e.g., Equal Employment Opportunity Laws). 
+
+
+ 
+
+An award may be made only by the Agreement Officer after making a positive responsibility 
+determination that the Applicant possesses, or has the ability to obtain, the necessary management 
+competence in planning and carrying out assistance programs, specifically the proposed Activity; 
+and that it will practice mutually agreed upon methods of accountability for funds and other assets 
+provided by USAID. 
+
+ 
+
+For organizations that are new to working with USAID or for organizations with outstanding audit 
+findings, or otherwise at USAID’s discretion, USAID may perform a pre-award survey to assess the 
+Applicant’s management and financial capabilities. If notified by USAID that a pre-award survey is 
+necessary, Applicants must prepare, in advance, the required information and documents. See ADS 
+303.3.9.1 at https://www.usaid.gov/ads/policy/300/303 for more information on pre-award surveys. 
+Please note that a pre-award survey does not commit USAID to make any award. 
+
+ 
+
+ 
+
+[END OF SECTION D] 
+
+ 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+E.1 CRITERIA 
+
+ 
+
+The merit review criteria prescribed herein are tailored to the requirements of this NOFO. 
+Applicants should note that these criteria serve to: (a) identify the significant matters which the 
+Applicants should address in their applications, and (b) set the standard against which all 
+applications will be evaluated. 
+
+ 
+
+As outlined in Section C.2, there is a minimum required cost share for this activity. Applications 
+that do not meet the minimum cost share requirement may not be eligible for award consideration. 
+While it is a minimum requirement for eligibility, cost share will not be considered in the merit 
+review criteria. 
+
+ 
+
+E.2 TECHNICAL EVALUATION FACTORS 
+
+ 
+
+Technical applications will be evaluated by a technical evaluation committee using the criteria 
+shown in this Section. The criteria below are presented by major categories and in descending 
+order of importance so that the Applicants know which areas require emphasis in the preparation 
+of the applications. 
+
+ 
+
+E.2.1 Technical Solution (See Section D.6) 
+
+
+
+
+
+
+
+
+
+
+ 
+
+The extent to which the proposed technical solution demonstrates a clear understanding of the 
+activity objectives and expected outcomes, a convincing approach to achieve them, and a sound 
+plan for the lasting sustainability of activity outcomes. 
+
+ 
+
+E.2.2 Institutional Experience (See Section D.6) 
+
+
+
+
+
+
+
+
+
+
+ 
+
+The extent to which the Prime Applicant and subawardee(s) convincingly demonstrates relevant 
+experience enhancing the likelihood of successful activity implementation. 
+
+E.2.3 Staffing Plan & Key Personnel (See Section D.6) 
+
+
+
+
+
+
+
+
+
+
+ 
+
+The extent to which the proposed staffing plan and proposed Chief of Party convincingly 
+demonstrate the ability to effectively manage and implement the proposed activity adaptively 
+and successfully. 
+
+ 
+
+E.3 COST/BUSINESS APPLICATION EVALUATION 
+
+ 
+
+This review will determine whether the costs are allowable in accordance with the cost principles 
+found in 2 CFR 200 Subpart E. USAID will also consider (1) the extent of the Applicant’s 
+understanding of the financial aspects of the program and the Applicant’s ability to perform the 
+activities within the amount requested; (2) whether the Applicant’s plans will achieve the program 
+objectives with reasonable economy and efficiency; and (3) whether any special conditions relating 
+to costs should be included in the award. 
+
+
+ 
+
+Proposed cost share will be reviewed for compliance with the standards set forth in 2 CFR 200.306, 
+2 CFR 700.10, and the Standard Provision “Cost Sharing (Matching)” for U.S. entities, or the 
+Standard Provision “Cost Share” for non-U.S. entities. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.205). The AO may determine that a pre-award 
+survey is required to inform the risk assessment in determining whether the prospective recipient 
+has the necessary organizational, experience, accounting and operational controls, financial 
+resources, and technical skills – or ability to obtain them – in order to achieve the objectives of the 
+program and comply with the terms and conditions of the award. Depending on the result of the risk 
+assessment, the AO will decide to execute the award, not execute the award, or award with “specific 
+conditions” (2 CFR 200.207). 
+
+ 
+
+E.4 DETERMINATION OF AWARD 
+
+ 
+
+The submitted technical information will be evaluated by a technical evaluation committee using 
+the criteria shown above. The cost/business application will be reviewed by the Agreement 
+Officer/Agreement Specialist. As a result of this process, USAID intends to select the apparently 
+successful recipient based upon the initial application submission. Once the selection is made, the 
+Government may address any concerns to the selected recipient for resolution. However, the 
+Government reserves the right to negotiate with all applicants prior to selection of the successful 
+recipient if in the best interest of the Government. 
+
+ 
+
+If USAID and the apparently successful Applicant cannot come to a mutual understanding during 
+the course of discussions, or if the apparently successful Applicant is unable to provide satisfactory 
+Technical and Cost Applications, or does not meet deadlines for submissions, or presents an 
+unacceptable risk as a result of the risk assessment, then the Agreement Officer may designate the 
+next highest-evaluated Applicant as the apparently successful Applicant. This decision is at the sole 
+discretion of the Agreement Officer. The Agreement Officer’s decision regarding funding of an 
+award is final and not subject to review. 
+
+ 
+
+[END OF SECTION E] 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1 FEDERAL AWARD NOTICES 
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential Applicant is hereby 
+notified of these requirements and conditions for the award. The Agreement Officer is the only 
+individual who may legally commit the Government to the expenditure of public funds. No costs 
+chargeable to the proposed Agreement may be incurred before receipt of either a fully executed 
+Agreement or a specific, written authorization from the Agreement Officer. 
+
+ 
+
+F.2 ADMINISTRATION 
+
+ 
+
+Awards will be made under relevant federal regulations and agency policy. For U.S non-
+governmental organizations, awards must be administered according to 2 CFR 200 and 2 CFR 700, 
+and USAID Standard Provisions will apply (https://www.usaid.gov/ads/policy/300/303maa). For 
+non U.S. non- governmental organizations, USAID provisions for non U.S. non-government 
+organizations will apply (https://www.usaid.gov/ads/policy/300/303mab). 
+
+ 
+
+F.3 PAYMENT AND FINANCIAL REPORTING 
+
+ 
+
+Financial reporting requirements will depend on the method of payment. Recipients will comply 
+with the financial reporting requirements set forth in the USAID standard provisions. If advance 
+payments are provided, reporting periods are calendar quarters or parts thereof. Quarterly financial 
+reports are due not later than 30 days after the end of each calendar quarter. If payment is on a 
+reimbursement basis, financial reports may be submitted monthly, but not less frequently than 30 
+days after the end of each calendar quarter. Regardless of whether payments are on an advance or 
+reimbursement basis, the final financial report is due not later than 90 days after the estimated 
+completion date of the award. The Recipient shall also comply with the USAID standard provision 
+entitled “Reporting Host Government Taxes.” 
+
+ 
+
+F.4 REPORTING REQUIREMENTS 
+
+ 
+
+Program Reports shall be in accordance with applicable USAID Standard Provisions. 
+
+ 
+
+All written documentation must be submitted in professional-level English. The reports listed below 
+are the initial reports required by the recipient. Based on the evolving nature of the agreement, 
+USAID may provide modified reporting requirements. 
+
+ 
+
+Note: USAID’s fiscal year starts on October 1 and ends on September 30. Four fiscal quarterly 
+
+periods begin on October 1, January 1, April 1, and July 1. 
+
+
+Reports and Deliverables 
+
+Due Dates 
+
+Delivery 
+
+1. Project Approval 
+
+
+Immediately following the award, 
+the Recipient shall initiate the 
+process to obtain the project 
+approval from GVN. 
+
+Project Approval 
+
+2. Activity Start-up Plan 
+
+
+Within 60 calendar days after award. 
+The plan should outline the 
+Recipients plan for project approval, 
+staffing, additional gender and social 
+inclusion and other analyses, start-up 
+workshop and work plan and CLA 
+approach preparation, as well as for 
+establishing an MOU with the host 
+Vietnam HEI. 
+
+Electronically 
+
+AOR 
+
+3. Start-up workshop 
+
+
+Within 120 calendar days after award 
+to inform activity theory of change, 
+work plan, and CLA approach. 
+
+Workshop with USAID 
+and relevant partners 
+
+4. Annual Work Plan 
+
+
+First work plan – 120 calendar day 
+after the award 
+
+ 
+
+Subsequent annual work plans due 
+September 1 of each subsequent 
+Agreement year 
+
+Electronically 
+
+AOR 
+
+5. Activity Monitoring, 
+Evaluation and Learning 
+(MEL) Plan 
+
+
+120 calendar day after the award. 
+
+Electronically 
+
+AOR 
+
+6. Quarterly Progress 
+Reports 
+
+
+By March 31st, June 30th, September 
+15th and December 31st of each year. 
+
+Electronically 
+
+AOR 
+
+Financial Analyst Team 
+
+7. Annual Pause and Reflect 
+Sessions 
+
+
+Planned and facilitated as a key input 
+to the annual work plan and annual 
+performance report. 
+
+Workshop with USAID 
+and relevant partners 
+
+8. Annual Performance 
+Report 
+
+
+October 30th of each year 
+
+Electronically 
+
+AOR 
+
+9. Final Report 
+
+
+30 calendar days prior to the end of 
+the Agreement 
+
+Electronically 
+
+AOR 
+
+
+
+
+10. Financial reports 
+
+
+Quarterly financial report: 30 
+calendar days after the end of each 
+USG fiscal quarter 
+
+Final financial report: 90 days 
+following the expiration of the award 
+
+Electronically 
+
+AOR 
+
+Financial Analyst Team 
+
+
+
+ 
+
+1. Project approval - - In order to fully implement the activity, the Recipient is required to 
+comply with Vietnamese requirements for project approval to fully implement this Activity in 
+Vietnam. Project approval is expected to take approximately six (06) months, as such the 
+Recipient is requested to initiate the process immediately following award. While seeking 
+project approval, in close consultation with the AOR, the Recipient shall consider staffing and 
+related consequence impacting implementation to ensure an efficient use of resources. 
+
+
+ 
+
+2. Activity Start-up Plan - The Recipient will submit an activity start-up plan to identify plans 
+for the project approval, start-up workshop, the work plan and the CLA approach. The activity 
+start-up plan should also identify any initial assessments planned by the Recipient, as well as 
+the plan for establishing an MOU with the host Vietnam HEI. More details on the format of the 
+start-up plan will be provided after award. 
+
+
+ 
+
+3. Start-up Workshop - The Recipient will hold a workshop that includes USAID staff and 
+relevant partners to guide development of the first year work plan, activity theory of change 
+and CLA approach. The workshop will also serve to define format and requirements for 
+deliverables and reporting. The objective of the workshop is to provide a dedicated forum for 
+the activity consortium, USAID staff and other relevant partners to collaborate to refine the 
+submitted technical approach, theory of change, and CLA approach. Note, at the discretion of 
+the AOR, this workshop may include or be done collectively with other mission implementing 
+partners working on environmental pollution challenges. 
+
+
+ 
+
+4. Annual Work Plan - The annual work plan details how the Recipient will use the work plan 
+year effectively to achieve the activity objectives and strategic approaches. The work plan 
+serves as a guide to program implementation and, once approved, represents an agreement as 
+to the objectives and timing of specific tasks and interventions. The work plan is intended to be 
+an annual roadmap for USAID and the Recipient. It should be closely aligned to the theory of 
+change agreed upon during the start-up workshop, and clearly explain how the actions and 
+outputs will lead to the expected outcomes identified in the theory of change. A Collaborating, 
+Learning & Adapting (CLA) approach should form the basis of the work plan; CLA is required 
+at each stage of implementation of the activity. This CLA approach will be expected to ensure 
+that the activity is strategically coordinated with relevant actors, grounded in a strong evidence 
+base, and iteratively adapted to remain relevant throughout implementation. The CLA 
+approach should identify the Recipient’s plans for identifying the most appropriate local actors 
+to collaborate with, facilitating multi-stakeholder collaboration, assessing implementation 
+progress and challenges, using evidence and data in programming, identifying and prioritizing 
+emerging opportunities for USAID and other leaders on environmental pollution issues in 
+Vietnam, and how it will adjust programming based on new learning or changes in context. 
+The Recipient will consult with USAID to finalize their CLA approach. More details on the 
+format of the work plan will be provided after award. 
+
+
+
+ 
+
+To provide flexibility to the Recipient, significant deviations from the work plan can be 
+documented in a semi-annual addendum to enable adjustments to implementation based on 
+learning. 
+
+ 
+
+5. Activity Monitoring and Evaluation Plan (MEL) - In accordance with USAID policy, the 
+Recipient will submit an Activity MEL Plan demonstrating the activity’s monitoring approach 
+and relevant performance indicators of activity outputs; plans for collaborating on external 
+evaluations; proposed internal evaluations and learning activities; and the Recipient’s proposed 
+roles for MEL actions. The MEL plan should flow logically from the CLA approaches 
+identified in the work plan and should be framed by, and closely aligned with, the agreed-upon 
+activity theory of change. The MEL plan reflects the award progress over the life of the 
+Activity and is a critical tool for planning, managing, evaluating performance, and learning. 
+Findings from the MEL should be reviewed and validated in annual pause-and reflect-sessions 
+with USAID staff, and revised when appropriate in consultation with the AOR. More details on 
+the format of the MEL plan will be provided after award. 
+
+
+ 
+
+6. Quarterly Performance Reports - The Recipient will submit quarterly performance reports to 
+reflect progress, the activities of the preceding three months and lessons learned. The report 
+must describe the tasks completed in the last three months relative to what was anticipated in 
+the approved work plan, and will assess the overall activity impact to date relative to the 
+performance indicator targets and results defined in the activity theory of change. More details 
+on the format of the quarterly performance reports will be provided after award. 
+
+
+ 
+
+7. Annual Pause-and-Reflect Sessions (APR) - Annual pause and reflect (APR) sessions should 
+precede and inform the development of the annual work plan and annual performance report. 
+These will form the basis for a management review conducted by USAID and program staff to 
+assess: program directions, priorities, achievements, and prior year implementation results; 
+management and implementation impediments; and recommendations for adaptive 
+management actions. The format, participation and final output of the APR will be defined 
+through consultation with the AOR and can entail a series of internal meetings, a multi-day 
+workshop, or a brief report to summarize learning and major conclusions about the 
+effectiveness of the actions and strategic approaches to achieve the activity objectives. The 
+APR may be used to suggest refinements or updates to the activity theory of change, CLA 
+approach, and subsequent annual work plans. Note, at the discretion of the AOR, APRs may 
+include or be done collectively with other mission implementing partners working on 
+environmental pollution challenges. Note that the APR replaces one of the quarterly pause and 
+reflect sessions. 
+
+
+ 
+
+8. Annual Performance Report – Annual Performance Report will negate the need for a fourth 
+Quarterly Performance Report. Annual performance reports will summarize actions, progress 
+and results during the year in relation to the approved work plan and the activity theory of 
+change it supports. The report should include lessons learned, proposed adaptive management 
+shifts, and proposed updates to the theory of change. The annual performance report will be 
+used by USAID to assess the status of activity implementation. Each annual performance 
+report will include an assessment as to whether the activity strategic approaches and actions are 
+
+
+
+leading to the activity objectives. The annual performance report will cover all of the items 
+included in the quarterly performance report, with a focus on the Activity results over the 
+entire year. More details on the format of the annual performance report will be provided after 
+award. 
+
+
+ 
+
+9. Final Report - The Final Report must discuss all strategic approaches and results from the 
+start of the award through its completion. More details on the format of the final report will be 
+provided after award. 
+
+
+ 
+
+10. Financial Reports: Financial Reports shall be in accordance with applicable USAID Standard 
+Provisions. 
+
+
+ 
+
+Quarterly Financial Report: Quarterly Financial Reports shall be due within 30 days 
+following the end of each quarter corresponding to USAID’s fiscal year from October 1 
+through September 30. 
+
+ 
+
+Final Financial Report 
+
+ 
+
+The Final Financial Report shall be due within 90 days following the expiration of the award. 
+Financial Reports shall be in accordance with 2 CFR 700. USAID requires recipients to use 
+the Standard Form 425 or Standard Form 425a, Federal Financial Report, or such other forms 
+authorized for obtaining financial information as may be approved by OMB. 
+
+ 
+
+Financial reports shall be submitted as follows: Financial Analyst, Office of Financial 
+Management (email: hanoiusaidfa@usaid.gov) and the AOR. 
+
+ 
+
+F.5 SUBMISSION OF DEVELOPMENTAL EXPERIENCE DOCUMENTATION 
+
+ 
+
+USAID recipients must submit one electronic copy of development experience documentation to 
+the Development Experience Clearinghouse. Development experience documentation may be 
+submitted online: http://dec.usaid.gov. Or by mail (for pouch delivery): 
+
+ 
+
+USAID Development Experience Clearinghouse 
+
+M/CIO/ITSD/KM/DEC 
+
+RRB M.01-010 
+
+Washington, DC 20523-6100 
+
+Phone: (202) 712-0579 
+
+Email: docsubmit@usaid.gov 
+
+ 
+
+In addition, the recipient must submit one electronic copy of development experience 
+documentation to the AOR for the award. 
+
+ 
+
+F.6 PROGRAM INCOME 
+
+ 
+
+Program Income earned under the resultant award will be added to the Total Estimated 
+
+Amount (exclusive of cost share) in accordance with 2 CFR 200.307(e)(2). 
+
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+ 
+
+ 
+
+
+ATTACHMENT A: REFERENCES 
+
+ 
+
+1. About Young Southeast Asian Leaders Initiative 
+2. About Young African Leaders Initiative 
+3. USAID Private Sector Engagement Policy 
+4. Vietnam National University- Ho Chi Minh City 
+5. VNU-HCM One-pager 
+6. Request for Information No.720440-YSEALI-RFI 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF ATTACHMENT A] 
+
+ 
+
+
+ATTACHMENT B: BUDGET TEMPLATE 
+
+ 
+
+The budget is the financial expression of the Activity. The following template represents an 
+example of what USAID anticipates receiving in an Activity budget with Application submission. 
+
+ 
+
+NOFO No. 72044022RFA00003 
+
+Young Southeast Asian Leaders Initiative - Mekong Leadership Program 
+
+ 
+
+ 
+
+Year 1 
+
+Year 2 
+
+Year … 
+
+Total 5 years 
+
+Cost Element 
+
+Unit 
+
+Amt 
+(US$) 
+
+USAID 
+
+Cost 
+Share 
+
+Unit 
+
+Amt 
+US$ 
+
+USAID 
+
+Cost 
+Share 
+
+… 
+
+… 
+
+… 
+
+… 
+
+USAID 
+
+Cost 
+Share 
+
+Total Direct Labor 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Headquarter 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Salary/Wages 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Fringe Benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Country Office(s) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Salary/Wages 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Fringe Benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Consultants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travel, Transportation 
+and Per Diem 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equipment and Supplies 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contractual (Subawards 
+and Contracts) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subawardee A 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subawardee B 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+…. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Other Direct Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indirect Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Estimated Costs 
+Plus Cost Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+[END OF ATTACHMENT B] 
+
+ 
+
+ 
+
+
+ATTACHMENT C: STANDARD PROVISIONS 
+
+ 
+
+(Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and https://www.usaid.gov/ads/policy/300/303mab). 
+The actual Standard Provisions included in the award will be dependent on the organization that is 
+selected. The award will include the latest Mandatory Provisions for either U.S. or non-U.S. 
+Nongovernmental organizations. The award will also contain the following “required as 
+applicable” Standard Provisions: 
+
+ 
+
+Please note that the resulting award will include all standard provisions (both mandatory and 
+required as applicable) in full text. 
+
+ 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+Required 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. NEGOTIATED INDIRECT COST RATES - PREDETERMINED 
+(NOVEMBER 2020) 
+
+RAA2. NEGOTIATED INDIRECT COST RATES - PROVISIONAL 
+(Nonprofit) (NOVEMBER 2020) 
+
+RAA3. NEGOTIATED INDIRECT COST RATE - PROVISIONAL (Profit) 
+(DECEMBER 2014) 
+
+RAA4. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA5. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 
+2012) 
+
+ 
+
+x 
+
+RAA6. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+x 
+
+RAA7. PROTECTION OF THE INDIVIDUAL AS A RESEARCH SUBJECT 
+(APRIL 1998) 
+
+ 
+
+x 
+
+RAA8. CARE OF LABORATORY ANIMALS (MARCH 2004) 
+
+ 
+
+x 
+
+RAA9. TITLE TO AND CARE OF PROPERTY (COOPERATING COUNTRY 
+TITLE) (NOVEMBER 1985) 
+
+x 
+
+ 
+
+RAA10. COST SHARING (MATCHING) (FEBRUARY 2012) 
+
+x 
+
+ 
+
+RAA11. PROHIBITION OF ASSISTANCE TO DRUG TRAFFICKERS (JUNE 
+1999) 
+
+ 
+
+x 
+
+RAA12. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+x 
+
+ 
+
+RAA13. REPORTING HOST GOVERNMENT TAXES (DECEMBER 2014) 
+
+x 
+
+ 
+
+RAA14. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+x 
+
+RAA15. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) 
+(FEBRUARY 2012) 
+
+ 
+
+x 
+
+RAA16. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+x 
+
+RAA17. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING (ASSISTANCE) (SEPTEMBER 2014) 
+
+x 
+
+ 
+
+RAA18. USAID DISABILITY POLICY - ASSISTANCE (DECEMBER 2004) 
+
+
+
+
+ 
+
+x 
+
+RAA19. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN 
+USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+ 
+
+x 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+x 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING 
+FUNDS (JUNE 2012) 
+
+ 
+
+x 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO 
+PROMOTE, SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR 
+PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+x 
+
+ 
+
+RAA23. UNIVERSAL IDENTIFIER AND SYSTEM FOR AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA24. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION 
+(NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA25. PATENT REPORTING PROCEDURES (NOVEMBER 2020) 
+
+ 
+
+x 
+
+RAA26. ACCESS TO USAID FACILITIES AND USAID’S INFORMATION 
+SYSTEMS (AUGUST 2013) 
+
+x 
+
+ 
+
+RAA27. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+x 
+
+ 
+
+RAA28. AWARD TERM AND CONDITION FOR RECIPIENT INTEGRITY 
+AND PERFORMANCE MATTERS (April 2016) 
+
+ 
+
+x 
+
+RAA29. RESERVED 
+
+x 
+
+ 
+
+RAA30. PROGRAM INCOME (AUGUST 2020) 
+
+ 
+
+x 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+ 
+
+Required 
+
+ 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (NOVEMBER 2020) 
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS (DECEMBER 2014) 
+
+TBD 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST RATE 
+AGREEMENT (NICRA) (NOVEMBER 2020) 
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED AMOUNT 
+(NONPROFIT) (JUNE 2012) 
+
+RAA5. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA6. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA7. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION 
+(NOVEMBER 2020) 
+
+x 
+
+ 
+
+RAA8. SUBAWARDS (DECEMBER 2014) 
+
+x 
+
+ 
+
+RAA9. TRAVEL AND INTERNATIONAL AIR TRANSPORTATION 
+(DECEMBER 2014) 
+
+x 
+
+ 
+
+RAA10. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+x 
+
+ 
+
+RAA11. REPORTING HOST GOVERNMENT TAXES (JUNE 2012) 
+
+x 
+
+ 
+
+RAA12. PATENT RIGHTS (JUNE 2012) 
+
+x 
+
+ 
+
+RAA13. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 
+2012) 
+
+ 
+
+x 
+
+RAA14. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+
+
+
+x 
+
+ 
+
+RAA 15. COST SHARE (JUNE 2012) 
+
+x 
+
+ 
+
+RAA16. PROGRAM INCOME (AUGUST 2020) 
+
+x 
+
+ 
+
+RAA17. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+x 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN 
+USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+ 
+
+x 
+
+RAA19. PROTECTION OF HUMAN RESEARCH SUBJECTS (JUNE 2012) 
+
+ 
+
+x 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+x 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING 
+FUNDS (JUNE 2012) 
+
+ 
+
+x 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO 
+PROMOTE, SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR 
+PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+ 
+
+x 
+
+RAA23. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+x 
+
+RAA24. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) 
+(FEBRUARY 2012) 
+
+ 
+
+x 
+
+RAA25. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+x 
+
+RAA26. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING(ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+x 
+
+RAA27. LIMITATION ON SUBAWARDS TO NON-LOCAL ENTITIES 
+(JULY 2014) 
+
+x 
+
+ 
+
+RAA28. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+x 
+
+ 
+
+RAA29. CONTRACT AWARD TERM AND CONDITION FOR RECIPIENT 
+INTEGRITY AND PERFORMANCE MATTERS (April 2016) 
+
+ 
+
+x 
+
+RAA30. RESERVED 
+
+ 
+
+x 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+[END OF ATTACHMENT C] 
+
+ 
+
+ 
+
+
+ATTACHMENT D: PLANNED PRE-AWARD SCHEDULE 
+
+ 
+
+ 
+
+Pre-Award Milestone 
+
+Anticipated Date 
+
+RFA posted on grants.gov 
+
+May 10, 2022 
+
+Due date for Receipt of Q&A 
+
+May 17, 2022 
+
+Due date for Initial Applications 
+
+June 20, 2022 
+
+Due date for USAID Review of Applications 
+
+July 15, 2022 
+
+Completion of SAVE with Apparently Successful 
+Applicant 
+
+July 29, 2022 
+
+USAID requests Final Application 
+
+August 5, 2022 
+
+Due date for receipt of Final Application 
+
+August 19, 2022 
+
+Discussions with Finalist completed 
+
+September 2, 2022 
+
+Anticipated Award Date 
+
+September 9, 2022 
+
+
+
+ 
+
+[END OF ATTACHMENT D] 
+
+ 
+
+

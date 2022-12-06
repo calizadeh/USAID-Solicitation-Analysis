@@ -1,0 +1,5533 @@
+Table of Contents 
+
+ 
+SECTION A: PROGRAM DESCRIPTION ............................................................................... 4 
+SECTION B: FEDERAL AWARD INFORMATION ............................................................ 18 
+SECTION C: ELIGIBILITY INFORMATION ........................................................................ 21 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION ................................ 22 
+SECTION E: APPLICATION REVIEW INFORMATION .................................................... 40 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION ....................... 44 
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) ....................................... 59 
+SECTION H: OTHER INFORMATION .................................................................................. 60 
+ANNEX LIST .............................................................................................................................. 61 
+
+
+ 
+
+ 
+
+ 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+A.1. PURPOSE PROGRAM PURPOSE AND SUMMARY 
+
+ 
+
+The United States Agency for International Development (USAID)’s ultimate goal is “to achieve 
+greater development outcomes and work toward a time when foreign assistance is no longer 
+necessary”1. Local development actors play a fundamental role in determining a country’s journey 
+to self-reliance. Self-reliance happens with “host country governments and partners to achieve 
+locally-sustained results, helping countries mobilize public and private revenues, strengthening 
+local capacities, and accelerating enterprise-driven development”. To reach this ultimate goal, the 
+Agency is reorienting its strategies, partnership models, and program practices to achieve greater 
+development outcomes. 
+
+1 The Journey to Self-reliance, USAID, 2020. 
+
+2 The World Economic Forum defines sustainable development impact as integrating and leveraging the best 
+examples of public-private cooperation, systems thinking to progress the Sustainable Development Agenda led by the 
+United Nations Sustainable Development Goals (SDGs). 
+
+ 
+
+Lessons learned from implementing activities have resulted in a different model for development 
+promoting local leadership, seeking creative approaches to foster self-reliance, and identifying new 
+sources of funding to sustain partnerships and scale impact. USAID/Colombia has long partnered 
+with local partners to advance the Mission’s development objectives. In recent years, 
+USAID/Colombia has signed a significant number of direct awards with local partners. These 
+local partners represent a wide range of entities which include cooperatives, businesses, family 
+foundations, corporate foundations, civil society organizations, Universities, and ethnic 
+organizations. 
+
+ 
+
+Through the “Strengthening Together Activity” (this Activity), USAID/Colombia seeks to 
+enhance USAID/Colombia local partner’s development impact by improving their operational 
+functions. Examples of operational functions include supporting local partners prioritizing 
+activities, demonstrating measurable impact, fostering strategic planning, and mobilizing 
+Colombia’s domestic resources. The Activity will benefit USAID/Colombia’s current and 
+upcoming planned mechanisms awarded to local partners (see Annex 1 for an updated list). Based 
+on past experience and consultations, a local partner would benefit from one-on-one guidance on 
+implementing recommended actions from their Pre-Award Survey, creating a coherent 
+Institutional Strengthening Plan and/or strengthening their communication strategic plan and all 
+other capacity building interests the local organization would like to improve upon. 
+
+ 
+
+In doing so, through this Activity, USAID/Colombia will be supporting its current local partners 
+by improving their performance, organizational growth and sustainability. It could also provide 
+partners with tools and resources on monitoring, learning and adapting and improving their 
+communications and outreach. Finally, this Activity will strengthen the marketplace for 
+organizational capacity building services, so future local partners can access these tools and 
+resources. 
+
+ 
+
+A.2. BACKGROUND 
+
+ 
+
+Colombia has a wide and diverse set of organizations seeking sustainable development impact2. 
+Studies have found that Colombia has over 300,000 registered non-profits, corporate foundations, 
+
+
+community-based organizations, and ethnic organizations. This gives Colombia the second most 
+civil society and philanthropic organizations per capita in the Western Hemisphere. These 
+organizations have developed through years of conflict and adversity, demonstrating their 
+resilience and dedication. 
+
+ 
+
+USAID/Colombia has been investing in local capacity building for many years through its various 
+development activities. More than 250 civil society and grassroots organizations have been 
+strengthened. Some have become sub-grantees in these activities, and others have even gone on 
+to become direct awardees of USAID, demonstrating a progressive path towards greater selfreliance, 
+sustainability, and a new way of doing business with local organizations. 
+
+ 
+
+A.2.1. USAID’s approach to Local Partners: 
+
+ 
+
+USAID/Colombia has long recognized the opportunities to build the capacity of local partners. 
+Over the past five years, USAID/Colombia has increasingly expanded its partnerships with various 
+types of local organizations, such as local civil society organizations, family foundations, corporate 
+foundations, and private companies, mainly through sub-grants and sub-contracts under 
+experienced implementing partners. However, with all this work on local strengthening and 
+capacity building, challenges still exist. In 2015, USAID/Colombia mapped and surveyed its local 
+partners, demonstrating that local organizations have the potential to improve their capacity. 
+Moreover, during the last year, consultations led by the USAID/Colombia team demonstrated a 
+clear need to strengthen local partners’ administrative/organizational capacity, networks, 
+messaging, program cycles, partnership building, and knowledge management structures3. 
+Indeed, in early 2020, USAID/Colombia designed an internal survey for its local partners, the 
+majority of whom voiced their desire to strengthen their alliance building and fundraising skills, 
+gender approach, knowledge management, monitoring and evaluation capacity, and strategic 
+communications. 
+
+3 CDCS consultation with civil society and philanthropic organizations in Bogotá, U.S. Embassy, April 9, 2019; One 
+on one interviews and focus group consultations with associations, corporate foundations, civil society organizations, 
+grant awarding organizations, and grassroutes in Colombia were held during 2019. In addition, research was 
+complemented with findings from pre-award surveys prepared by USAID/Colombia. 
+
+4 Revista Dinero, Editorial “La Brecha Social” Septiembre 18, 2020. 
+
+5 Survey by DANE “El Pulso Social” 
+
+ 
+
+A.2.2. Lessons Learned from COVID-19: 
+
+ 
+
+Preliminary data in Colombia is demonstrating the challenges resulting from the COVID-19 virus. 
+Colombia’s National Center for Statistics (DANE) estimates that between 2020-2021 the economy 
+will contract between seven and nine percent4, which will result in more than four million people, 
+particularly women and youth, losing their jobs. Poverty, exclusion, and gender-based violence 
+are only a few of the critical challenges that local organizations are tackling on the ground. 
+COVID-19 has underlined the crucial importance of local organizational capacity, risk mitigation, 
+adaptation, sustainability, and resilience. Economic recovery will likely be the most challenging 
+for vulnerable populations such as conflict survivors, women, LGTBI, Afro-Colombians, 
+indigenous, and Venezuelan migrants5. However, it has also shown that local organizations may 
+face challenges finding the time and resources to directly invest in their own capacity-building in 
+the current context of economic uncertainty. 
+
+ 
+
+
+In addition, COVID-19 has amplified the technology and connectivity gaps in Colombia’s public, 
+private, and social sector. The United Nations e-Government Development survey scores all 
+countries where Colombia ranked at 61 and the Global Competitiveness Report ranked Colombia 
+at 57, suggesting that the country’s digital divide poses a significant challenge to overall 
+development. Both of these rankings demonstrate the economic challenges raised by the country's 
+lag in adopting technology and innovation. 
+
+ 
+
+Recently, USAID published a Digital Strategy which states, digital technology has the power to 
+spur economic growth, improve development outcomes, and lift millions out of poverty. At the 
+organization level, digital connectivity and technology have the power to transform and increase 
+access to data and networks, provide e-learning, improve organizational effectiveness, and 
+accelerate evidenced-based decision making. 
+
+ 
+
+A.3. USAID/COLOMBIA STRATEGY 
+
+ 
+
+Sustainable and inclusive development in Colombia requires a strong state presence, an informed 
+and participatory citizenry, and support for licit economic opportunities. Recently, 
+USAID/Colombia published its 2020-2025 Country Development Cooperation Strategy (CDCS)6 
+with the overarching goal of a more stable, peaceful, and prosperous Colombia through inclusive 
+governance and equitable growth. Local partners have been prioritized as a key stakeholder in 
+achieving this goal. The Activity will contribute to the overarching goal and support the large 
+local development portfolio responding to the Mission’s three Development Objectives (DOs) and 
+one Special Objective (SO). It is built upon lessons learned from previous and ongoing activities 
+and their implementation. 
+
+6 USAID/Colombia CDCS: 
+https://www.usaid.gov/sites/default/files/documents/Colombia_CDCS_Narrative_Public-Oc7-2020.pdf 
+
+ 
+
+ 
+
+ 
+
+
+Graphic 1 - Source: USAID/Colombia Country Development Cooperation Strategy 2020-2025 
+
+ 
+
+A.4. THEORY OF CHANGE 
+
+ 
+
+IF USAID/Colombia builds its local partners’ organizational capacity, THEN they (local partners) 
+will be more self-reliant, improve performance, and more effective at achieving their development 
+objectives. 
+
+ 
+
+This theory of change is built upon the assumptions that: 
+
+ 
+
+
+• The security, social, and political situation in Colombia is dynamic, but allows for activity 
+implementation. 
+• Target organizations remain open to receiving USAID assistance and building their 
+capacity. 
+• Target organizations who operate in the Colombian social sector are willing to engage in 
+relevant actions with other actors and improve the social ecosystem; and 
+• USAID and GOC funding levels remain stable. 
+
+
+ 
+
+Given the complexity of the current development landscape in Colombia, the theory of change will 
+need to be as this will be essential for monitoring, evaluation, and learning actions. 
+
+ 
+
+Beneficiary: The Activity will support USAID/Colombia’s current and planned mechanisms that 
+are awarded to local organizations therefore, the Mission’s direct local partners (see Annex 1 for 
+an updated list). In addition, there will be some actions and grants opportunities to other local 
+organizations not directly supported by the Mission. 
+
+ 
+
+A.5. OBJECTIVE AND RESULTS 
+
+ 
+
+The Activity is composed of the following objectives: 
+
+ 
+
+• Objective 1: Increased organizational capacity7 of USAID local partners for improved 
+performance8. 
+• Objective 2: USAID local partners adopt a Collaboration, Learning, and Adapting (CLA) 
+approach9. 
+• Objective 3: USAID local partners improve outreach; and 
+• Objective 4: Colombian organizations effectively provide valued capacity building 
+services. 
+
+
+7 The National Council of Nonprofits defines organizational capacity as “capacity building enables nonprofit 
+organizations and their leaders to develop competencies and skills that can make them more effective and 
+sustainable, thus increasing the potential...to enrich lives and solve society’s most intractable problems”. 
+
+8 The Organizational Performance Index (OPI) identifies the four key domains of organizational performance as 
+effectiveness, efficiency, relevance, and sustainability. 
+
+9 CLA Facht Sheet https://usaidlearninglab.org/qrg/understanding-cla-0 
+
+ 
+
+The Activity should consider how the four Objectives can be provided and strengthened through 
+a diverse set of digital connectivity and technology constraints and opportunities. 
+USAID/Colombia’s local partners have diverse digital strategies thus, the NOFO Awardee should 
+consider recommendations and solutions to increase access to data, networks, and e-learning, via 
+digital platforms, tools and applications and integrate this through all of the objectives. 
+
+ 
+
+A.5.1 OBJECTIVE 1: Increased organizational capacity for improved performance 
+
+ 
+
+The first objective of the Activity looks to increase organizational capacity for improved 
+performance. Intermediate results under this objective include enhancing internal systems and 
+increasing financial stability of local partner organizations, where local partners will be better 
+equipped to reduce future risks and instead demonstrate greater influence and impact. For 
+instance, the Awardee to this NOFO is expected to be familiarized with Pre-Award Surveys 
+
+
+NOFO 72051421RFA00002 STRENTENING TOGETHER ACTIVITY 
+
+(NUPAS)10 written to each of USAID/Colombia’s local partners. Pre-Award Surveys are 
+performed to all non-U.S. organizations and have three objectives11. These reports normally 
+include assessing the adequacy of the local partner’s accounting system and their financial 
+capability to perform under a prospective award, organizational structure, organizational legal 
+framework, procurement procedures, HR policies, etc. Pre-Award Surveys will be a useful 
+tool for the NOFO Awardee. 
+
+Depending on the results of the Pre-Award Surveys, the Activity will address organizational 
+capacity building issues and facilitate good governance. This may include, (1) development of 
+policies and procedures manuals, (2) reforming the organization structure to improve 
+segregation of duties, (3) development of internal control procedures, (4) improving human 
+resource processes and capacity, (5) strengthening financial and accounting systems, (6) 
+improving procurement systems, etc. Thus, from the start of the Activity, it is recommended 
+that the Awardee(s) create a strong and trustworthy rapport with the local partners and explain 
+their role and plan forward. Establishing strong relationships based on trust are key for the 
+entire activity so the Activity will require partners to incorporate site visits and maintain robust 
+and ongoing engagement with partners. Promoting opportunities to accompany as well as build 
+connections between organizations as appropriate in ways where they can help one another. 
+Lastly, USAID prefers that the Awardee consider hiring experts familiar with the U.S. 
+Government and USAID regulations to respond to such recommendations. 
+
+As mentioned earlier in the document, COVID has demonstrated the importance of adaptation, 
+flexibility, and digital connectivity. The Activity will work on providing one-on-one tailored 
+organizational plans for each local partner and adapt to the digital environment to build skills, 
+knowledge and tools fostering organizational improvement. Thus, local partners will be 
+equipped with the necessary organizational, strategic, and sustainable knowledge to influence 
+and improve their organizational capacity. Local partners will be able to access and apply to 
+Growth Incentive Grants by identifying specific areas for improvement of performance in a 
+way that strengthens their organizational goals and strategies. Moreover, the Activity will 
+provide expertise, know-how, and practical tools to respond to their organizational plans and 
+will also provide opportunities to learn from international and U.S. best practices. At the end, 
+local partners will be better equipped to reduce future risks and instead demonstrate greater 
+influence and impact. 
+
+Proposed Performance Monitoring and Review Measures for the Objective: 
+The following are proposed performance measures for the life of the five-year Activity: 
+
+• 
+At a minimum, fifteen (15) Local Partners demonstrate improved performance. 
+• 
+At a minimum, fifteen (15) Growth Incentive Grants are awarded to local partners. 
+• 
+At a minimum, ten (10) Challenge Grants awarded to local organizations. 
+10 Pre-Award Survey (NUPAS) is a thorough evaluation of a prospective US government funding recipient in order 
+to assess the capacity to manage USAID funds and the likelihood for compliance with U.S. federal government 
+regulations.
+11 Pre-Award Survey (NUPAS) main objectives: 1) to determine whether the non-U.S. organization has sufficient 
+financial and managerial capacity to manage USAID funds in accordance with the U.S. Government and USAID 
+requirements; 2) to determine the most appropriate method of financing to use under the potential USAID award; 
+and 3) to determine the degree of support and oversight necessary to ensure proper accountability of funds provided 
+to the non-U.S. organization. 
+
+
+A.5.2. OBJECTIVE 2: Internalize a Collaboration, Learning, and Adapting (CLA) 
+approach 
+
+ 
+
+The second objective of the Activity looks to internalize and strengthen the collaborating, 
+learning and adapting (CLA) approach. Experience has shown that USAID/Colombia’s 
+local partner organizations need to strengthen their monitoring, evaluation, and learning 
+processes to effectively improve development impact and outcomes. The Activity is 
+expected to incorporate Objective 2 in each local partner capacity and performance 
+building work plan. As not all local partners are homogeneous, tailored approaches will 
+be recommended based on the complexity of the needs. Intermediate results under this 
+objective include improving monitoring, evaluation, and learning processes and using 
+innovative analytical approaches in their day-to-day operations. In addition, under this 
+Activity it is expected to support and create learning opportunities such as participating in 
+in-country and international conferences, peer-to-peer training, and short-term training that 
+create further CLA knowledge. 
+
+ 
+
+A strong emphasis should be placed in improving a tailored CLA approach for local 
+partners. Here the Awardee should consider promoting a learning and collaboration 
+agenda, virtual and one-on-one meetings to identify CLA organizational needs. 
+Importantly, the learning to be done under this Activity will require the buy-in of diverse 
+local stakeholders and experts, if it is to be influential for how the program partners 
+collectively adapt their behaviors and approaches. 
+
+ 
+
+Proposed Performance Monitoring and Review Measures for the Objective: 
+
+The following are proposed performance measures for the life of the five-year Activity: 
+
+ 
+
+• At a minimum, ten (10) local partners improve their monitoring, evaluation, and 
+learning processes. 
+
+
+ 
+
+A.5.3. OBJECTIVE 3: Improved communications, messaging and outreach. 
+
+ 
+
+The third objective of the Activity looks to improve communications, messaging and 
+outreach. Like Objective 2, this objective is an identified need from all of 
+USAID/Colombia’s local partners. Improving communications and outreach for increased 
+engagement is key for organizations working on issues of critical importance and where the 
+audience is sometimes apathetic and cynical. To succeed, local partners face the challenge 
+of educating, motivating and mobilizing strategic audiences to their cause, work, and calls 
+to action. Good communication often involves sending the right message, selecting the 
+most appropriate medium, identifying one's audience in order to build trust and spur action. 
+Here the Awardee is expected to work with the local partners to improve their individual 
+Communications and Outreach Plans, among other sub-activities mentioned above. 
+Intermediate results under this objective include more effective outreach to relevant 
+audiences and connecting with national and international organizations to expand their 
+advocacy, influence and impact. 
+
+ 
+
+With the Activity’s support, local partners will improve their strategic communications, 
+increase advocacy, and engagement to specific stakeholders. Strengthening their ability to 
+tell stories about their achieved impact and advocacy in country and internationally. In 
+addition, under this Activity it is expected to support and create learning opportunities such 
+
+
+as participating in in-country and international conferences, peer-to-peer opportunities, and 
+short-term training that create further improved messaging and outreach knowledge. 
+
+ 
+
+Proposed Performance Monitoring and Review Measures for the Objective: 
+
+The following are proposed performance measures for the life of the five-year Activity: 
+
+ 
+
+● At a minimum, two study tours (site-visits) per year to foster networks and/or 
+connections between local partners. 
+
+
+ 
+
+A.5.4. OBJECTIVE 4: Colombian organizations effectively provide valued capacity 
+building services. 
+
+ 
+
+To effectively respond to the social market demands, as well as the needs of local partners, 
+the Activity will strengthen two to three Colombian organizations to effectively provide 
+capacity building goods and services, during and after the Activity’s period of 
+performance. Thus, the fourth objective of the Activity looks to effectively provide 
+capacity building services by Colombian organizations. In addition to supporting 
+Colombian organizations in developing and improving their organizational capacity 
+services, the Activity will incorporate a long-term sustainability strategy from its first year 
+of implementation. As stated in ADS 201.3.1.2C, long-term sustainability and local 
+ownership strengthen the capacity of local systems to produce development outcomes at 
+the regional, national, sub-national, or community levels. To support Colombia’s journey 
+to self-reliance, the Activity will identify, strengthen, and position two to three Colombian 
+organizations to lead capacity-building efforts and offer goods and services, by the end of 
+the activity. The Colombian organizations will be selected by the Awardee from the current 
+Colombian marketplace and Objective 4 should build upon achievements to date in this 
+sector. Intermediate results under this objective include building on successes and lessons 
+learned from the current marketplace led by Colombian organizations and Colombian 
+organizations (including both nonprofits and for-profit organizations) positioned to and 
+providing capacity-building services to a wider community by the end of the Activity. 
+
+ 
+
+The Activity will work hand-in-hand with organizations that have already built a series of 
+tools, methodologies, publications, materials produced, and digital/cyber security services 
+over the past years. As mentioned in the previous background section, Colombia has a 
+series of local organizations that have been providing capacity building services. However, 
+there is an identified need to accelerate, scale and adapt the marketplace to expand their 
+goods and services reach and profitability. This Activity will recognize that potential 
+buyers of such goods and services do not have the same funding levels, especially 
+grassroots organizations thus, goods and services will be provided to different tier 
+organizations with different budgets. 
+
+ 
+
+Lastly, the awardee will share lessons, methodologies, and tools via an online platform 
+identified. The Awardee should explore with the selected Colombian organizations and 
+USAID/Colombia, the possibility of using an existing public online knowledge sharing 
+platform that will include existing studies, tools, and training materials, and even encourage 
+submissions via the website. It will also link YouTube and newspaper interviews and 
+success stories that highlight local partners stories. 
+
+ 
+
+ 
+
+
+Proposed Performance Monitoring and Review Measures for the Objective: 
+
+The following are proposed performance measures for the life of the five-year Activity: 
+
+ 
+
+● One market assessment regarding perception of and rates of payment for Colombia 
+capacity building services show improved valuation by Colombian organizations. It is 
+recommended the market assessment be done by an external organization. 
+● A long-term sustainability strategy developed in the first Annual Implementation Plan 
+(AIP). 
+● A capacity building online platform with tailored services for Colombian organizations. 
+● An annual outreach strategy to promote the available capacity building services of 
+Colombian social sector organizations to target local partners. 
+
+
+ 
+
+A.6. GEOGRAPHIC FOCUS: 
+
+
+ 
+
+The Activity should benefit USAID/Colombia’s local partners; the largest majority have their 
+organization headquarters in Bogota and Medellin (see map below). Therefore, the Activity should 
+contemplate organizing its implementation in response to the local partners headquarters and 
+operations in the two prioritized cities: Bogota and Medellin. In addition, the Awardee should 
+consider travel to other regions - including rural, remote, and conflict affected regions - where the 
+local partners implement their activities to further develop its relationships and understand the 
+local partners organizational capacity challenges. 
+
+ 
+
+Map: Local Partners headquarters (updated January 13, 2021) 
+
+
+
+Graphic 2 - Source: USAID/Colombia’s Local Partner Headquarters updated Jan 13, 2021. 
+
+
+A.7. ILLUSTRATIVE INDICATORS 
+
+
+ 
+
+Below illustrative indicators for each of the Activity’s objectives that will guide all programming 
+under this Activity. 
+
+ 
+
+A.7.1. Objective 1: Increased organizational capacity for improved performance. 
+
+
+
+
+Illustrative Indicators: 
+
+ 
+
+● Improved performance of supported organizations in both immediate delivery 
+and longer-term sustainability. 
+● Local partners demonstrate greater influence on selected outcomes related to 
+their mission and organizational goals. 
+● Local partners have skills to reduce future risks and demonstrate greater 
+development impact. 
+
+
+ 
+
+A.7.2. Objective 2: Internalize a Collaboration, Learning, and Adapting (CLA) 
+approach. 
+
+
+
+
+Illustrative Indicators: 
+
+ 
+
+● Establishment of CLA-related structures (e.g., advisory board and/or learning 
+circles). 
+● Pivot logs reveal effective use of learning to adjust programming. 
+● Strengthened partners demonstrate improved performance in networking, 
+constituent engagement, learning and adapting. 
+
+
+ 
+
+A.7.3. Objective 3: Improved communications, messaging and outreach. 
+
+
+
+
+Illustrative Indicators: 
+
+ 
+
+● Improved outreach of partners (network map) 
+● Peer organizations’ survey responses regarding value of target partners 
+
+
+ 
+
+A.7.4. Objective 4: Colombian organizations effectively provide valued capacity 
+building services. 
+
+
+
+
+Illustrative Indicators: 
+
+ 
+
+● A stronger and more comprehensive Colombian capacity services market where 
+goods and services are provided to the larger social sector. 
+● Self-reporting from Colombian providers regarding integration into 
+international networks 
+
+
+ 
+
+A.8. GUIDING PRINCIPLES 
+
+
+ 
+
+The guiding principles below reflect important tenets of USAID’s commitment to assisting partner 
+countries on their journey to self-reliance and will guide all programming under this Activity. 
+
+ 
+
+1. Adaptability: This Activity will be adaptively managed by tailoring approaches to each of 
+USAID’s local partners. This is necessary given the partners’ diverse sizes, capacities, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOFO 72051421RFA00002 STRENTENING TOGETHER ACTIVITY 
+
+locations, and specialties. Moreover, the Activity will include double-loop learning12 to 
+continuously apply lessons-learned and adjust to changing circumstances. The Activity 
+will last three years with an option to extend it an additional two years, depending on the 
+Activity’s success. 
+
+2. Local partners approach: The focus on a local systems approach is rooted in the reality that 
+achieving and sustaining any development outcome depends on the contributions of 
+multiple and interconnected actors. Building the capacity of a single actor or strengthening 
+a single relationship is insufficient. Rather, the focus should be on the system as a whole: 
+the actors, their interrelationships and the incentives that guide them. Since Colombia is a 
+complex, multi-dimensional, and fluid operating environment, it will be critical to analyze 
+and plan all interventions based on a deep understanding of the various components of the 
+systems in which they will work, as well as how they interact, impact each other, and 
+produce effects. 
+3. Foster a culture of knowledge sharing, performance monitoring, and adaptation: A key 
+feature of Activity is a learning-by-doing approach. The Awardee should introduce and 
+utilize harmonized procedures and tools to regularly review and adapt to project progress 
+and challenges. 
+4. Sustainability: The Awardee should present a clear sustainability strategy during the entire 
+implementation. Sustainability will be viewed as the likelihood of long-term success of 
+the alliance, which ultimately requires advancing private sector business growth and 
+economic opportunities and/or corporate social responsibility; having local ownership; 
+leveraging local resources and expertise; and increasing the ongoing achievement of 
+significant and enduring development results over time. 
+5. Facilitation: This approach aims to stimulate systemic change without taking a direct role 
+in the system and reinforces the sustainability of these outcomes. It involves working 
+through sets of local actors and participants to ensure that they are drivers of organizational 
+change, and foster joint leadership in how activities are planned, conducted, and adapted. 
+6. Digital Transformation: The Awardee should consider how technology can be leveraged 
+safely and securely to deepen the Activity’s impact, sustainability, and scalability. The 
+Awardee should prioritize sub-activities that use new or existing technologies, train local 
+partners in digital technology, and/or develop new opportunities through technology. 
+A.9. OTHER CONSIDERATIONS 
+A.9.1. Inception Phase: 
+A critical initial phase (first six months) of the Activity will be the inception phase to first 
+analyze and understand the nature of the problem to be addressed, identify existing initiatives 
+
+12 Double-loop learning is a continuous learning while implementing the strategy of the Activity is implemented, by 
+analyzing closely the results and assumptions, and feeding those back to adapt its implementation. 
+Double-loop learning is an educational concept and process that involves teaching people to think more deeply 
+about their own assumptions and beliefs. It was created by Chris Argyris, a leading organizational trainer, in the 
+mid-1980's, and developed over the next decade into an effective tool. 
+
+
+and organizations providing capacity building services, and where the Activity might best 
+intervene to achieve the purpose. Further interventions will be informed by the findings of the 
+inception phase, including any studies, and pilots carried out. The Awardee is expected to plan 
+with USAID and key stakeholders in order to engage appropriate resources in the design, scale 
+and sequence of this Activity. This will allow the Activity to create maximum impact, while 
+employing an iterative and adaptive approach. In this sense, the illustrative actions listed 
+below are only to be regarded as tentative illustrations as opposed to guidance from USAID 
+for required elements of a proposal. 
+
+ 
+
+1. Identify and propose a Spanish Activity Name. Although the Activity has been given the 
+English name of “Strengthening Together Activity” by USAID/Colombia, the Activity’s 
+official name in Spanish will be proposed by the Awardee. 
+
+
+ 
+
+2. Identify and analyze existing initiatives and institutions (public, private, informal, ongoing 
+USG and non-USG projects, beneficiary groups of other interventions) that could be 
+utilized or supported to successfully achieve the Activity’s goals and objectives. 
+
+
+ 
+
+3. Identify potential Colombian organizations to lead capacity-building efforts during and 
+once the Activity ends (Objective 4). 
+
+
+ 
+
+4. Gather baseline information, including reviewing individuals Pre-Award Surveys from all 
+USAID/Colombia’s local partners. 
+
+
+ 
+
+5. Establish information systems and adaptive management mechanisms. 
+
+
+ 
+
+Achieving the Activity’s outcomes will be a process of problem-driven, iterative adaptation. 
+Based on the inception phase, the Awardee should identify strategic entry points for 
+engagement and begin testing its initial approaches in an agile manner that builds in explicit 
+processes of iterative design and adaptation. Findings from the inception period will be shared 
+with USAID. The recipient and the AOR will jointly define the format and timing of this 
+presentation. 
+
+ 
+
+After the Inception Period, the Awardee will draft a second six-month work plan with 
+programmatic targets, results metrics, and key assumptions. Programmatic priorities will be 
+jointly agreed in consultation with the USAID AOR. Within the bounds of this agreed-upon 
+framework, the Awardee will be expected to identify unanticipated targets of opportunity, as 
+well as defining their plans for risk management and for learning and adapting throughout 
+implementation. 
+
+ 
+
+A.9.2. Collaborating, Learning, and Adapting (CLA): 
+
+
+
+
+ 
+
+The Awardee is expected to contribute to USAID/Colombia’s commitment to a multifaceted 
+CLA approach to development. The CLA approach is based on the understanding that 
+development efforts yield more effective results if they are coordinated and collaborative; test 
+promising, new approaches in a continuous yet also rapid, targeted search for generating 
+improvements and efficiencies; and build on what works and eliminate what does not. It is 
+also understood that CLA takes into account programmatic learning and shifts generated by 
+the Activity (outward generating) as well as those adopted from external learning sources. 
+
+ 
+
+
+USAID also anticipates that a strong focus on adaptive management techniques as expressed 
+through staffing skills, structure, culture, business processes, and stakeholder engagement will 
+be particularly important in the implementation of this activity. Adaptive management will 
+allow partners to track and adjust to the opportunities to operationally integrate with other 
+activities working in related efforts. Thus, USAID anticipates a CLA approach that tailors 
+CLA to the needs and opportunities of this activity, while leaving open options for future 
+evolution in its interpretation and application. 
+
+ 
+
+● Collaborating: Engage in active collaboration with other key in-country partners to 
+share knowledge around assessments, emerging research, lessons learned, and 
+evaluations, and jointly develop action plans for integrating learning resulting from 
+these activities into improved program implementation. 
+● Learning: Hold annual learning summits to identify promising practices, work 
+collaboratively to overcome implementation obstacles, and address changing 
+conditions. Results should be used to inform upcoming year work plans and activity 
+design across multiple stakeholders and captured and shared broadly. Specifically 
+define how innovative and dynamic learning agendas will be developed and 
+implemented with the teams and the Mission as a whole. Identify learning questions 
+to guide the gathering of information to better understand or challenge key 
+programmatic assumptions. 
+● Adapting: Engage in periodic reflection activities using approaches such as afteraction 
+reviews to identify, capture, and act upon lessons learned in technical, crosscutting, 
+and management activities. The awardee/offeror will demonstrate adaptability 
+that is informed by knowledge gained through learning and recognize behaviors and 
+incentives necessary to create change. Knowledge gained through learning will 
+influence decision making, resource allocation, and adaptation to contextual shifts. 
+
+
+ 
+
+Application of new knowledge to implementation decisions will be reflected in the semiannual 
+work plan, and the Activity Monitoring, Evaluation, and Learning Plan (Activity MEL 
+Plan). 
+
+ 
+
+A.9.3. Monitoring, Evaluation, and Learning (MEL): 
+
+
+
+
+ 
+
+The successful Awardee should have an approved Activity Monitoring, Evaluation, and 
+Learning Plan (AMELP). Key components of an Activity MEL Plan include: 
+
+ 
+
+● The Activity’s monitoring approach, including relevant performance indicators of 
+Activity with outputs and outcomes. 
+● Proposed results based and/or impact evaluations, including any relevant preliminary 
+evaluation questions. 
+● The Activity’s learning approach that will include processes and actions designed to: 
+(1) identify and fill knowledge gaps through research, knowledge sharing, and outside 
+technical assistance and training; (2) facilitate learning from assessments, evaluations 
+and periodic monitoring and reflection processes; and (3) build sustained knowledge 
+sharing, across activities, partners, and sectors, and with key stakeholders from the 
+USAID Mission, partner country government, and other donor funded activities 
+through networking and collaboration; 
+● Learning actions, including pause-and-reflect exercises, exchanges with other project 
+activities, field visits, and knowledge capture at activity closeout and life-of-activity 
+
+
+
+summary report. Learning actions are expected to engage and be useful not only to 
+USAID, but to involve and inform activity beneficiaries. 
+● Estimated resources for these monitoring, evaluation, and learning actions that are a 
+part of the implementing partner’s budget; and Roles and responsibilities for all 
+proposed monitoring, evaluation, and learning actions. The MEL Plan should be 
+revised as needed over the life of the five-year Activity in response to changes in 
+context, learning, updates to the theory of change, and so forth. 
+
+
+ 
+
+A.9.4. Learning, Knowledge Management, and Communications 
+
+
+
+
+ 
+
+USAID is a knowledge-driven organization that works on complex issues in ever-changing 
+environments. Having access to the right information at the right time is critical for USAID’s 
+success. Knowledge Management (KM) throughout the Activity will ensure that lessons 
+learned are generated, captured, shared, and applied systematically and strategically so there 
+is continuous learning, effective engagement, and organizational improvement. Effective KM 
+in this Activity will also help to stimulate innovative ideas, capitalize on effective practices, 
+foster better decision-making, and build a more informed workforce. Moreover, the Activity 
+will champion experimentation, innovation, and research. 
+
+ 
+
+All of the above will be key if USAID/Colombia decides to scale-up this intervention. For 
+this Activity, KM will require effective coordination and complementarity between the 
+AMELP and the Communications and Outreach Plan. 
+
+ 
+
+A.10. SUB-GRANTS: 
+
+
+ 
+
+This Activity is expected to provide technical assistance, in-kind and cash grants that support the 
+four Objectives detailed above. There will be two types of modalities for sub-grants: (1) Growth 
+Incentive Grants and (2) Challenge Grants. Grants can be awarded both in-kind and cash. The 
+Activity expects a total of USD $3,000,000 million for both Growth Incentive and Challenge 
+Grants mechanisms to motivate active participation, engagement, strengthening, adaptation and 
+learning. 
+
+ 
+
+A.10.1. Growth Incentive Grants: 
+
+
+
+
+ 
+
+As mentioned earlier in the Theory of Change section, the Activity assumes targeted 
+organizations are open to receiving USAID assistance and local capacity building resources 
+to improve their own organizational performance. However, USAID experience shows that 
+capacity building can require cultural, behavioral, and organizational changes and that not all 
+organizations are interested in participating from the start. Therefore, the Activity includes a 
+total of USD $1,500,000 Growth Incentive Grants mechanism to motivate active participation 
+among local partners. The Activity should include support to local partners through the 
+elaboration of their work plans and incentive grants proposals, including the possibility of 
+matching funds toward accomplishment of work plans, if that is appropriate. The Activity will 
+include innovative ways to use this mechanism to incentivize desired behaviors in ways that 
+are sustainable and foster meaningful local ownership. 
+
+ 
+
+Growth Incentive Grants can provide a necessary nudge for local partners to seize 
+opportunities that further Objectives 1-3 of the Activity, but the main pull should come from 
+the organization themselves. The Awardee will set aside the majority of incentive grants for 
+
+
+local partners specifically identified for Objective 1. In addition, the Awardee will work with 
+local partners to identify incentives needed to pilot sub-activities applicable to specific 
+partners’ priorities identified on Objectives 1 - 3. Evidence has shown that local partners are 
+sometimes reluctant to carry out large scale and cultural changes in their organizations due to 
+bandwidth and required time commitments however, to incentivize positive behavior change, 
+strategic exposure to peer success and peer-to-peer learning is key. Local partners identified 
+from Objective 1 will apply to the Growth Incentive Grants. The Awardee must propose 
+selection criteria to support the Objectives 1-3. 
+
+ 
+
+A.10.2. Challenge Grants: 
+
+
+
+
+ 
+
+In addition to the Growth Incentive Grants, the Activity will include Challenge Grants. 
+Challenge grants are designed to test, improve, and scale innovations in services, 
+methodologies, and technologies with the potential to further Objectives 1-4. While this 
+activity is primarily intended to benefit USAID’s current local partners, this type of grant is 
+open to all local organizations in Colombia (e.g., grassroots, civil society, think tanks, and 
+community organizations, among others). The Awardee is encouraged to seek out and propose 
+new and other local organizations as well in coordination with the USAID/Colombia’s AOR. 
+It is encouraged that the Awardee consider issuing an Annual Program Statement (APS) to 
+encourage innovative ideas that strengthen organizational performance. Challenge grants are 
+expected to be launched and used in Years 1, 2, and 3. The Activity includes a total of USD 
+$1,500,000 Challenge Grants mechanism to motivate active participation among partners. In 
+addition, successful challenge grants will be used as peer-to-peer learnings. Challenge grants 
+will range from USD $20,000 to $500,000 during the period of performance of the Activity. 
+
+ 
+
+[END OF SECTION A] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+B.1. ESTIMATE OF FUNDS AVAILABLE AND NUMBER OF AWARDS 
+CONTEMPLATED 
+
+
+ 
+
+USAID intends to award one (1) Cooperative Agreement renewal award pursuant to this NOFO 
+for a base period of performance of three (3) years with two (2) possible renewal award periods of 
+one (1) year each. Subject to funding availability and at the discretion of the Agency, USAID 
+intends to provide up to $15,00,000.000 million in total USAID funding over the initial three-year 
+period. Not later than ninety (90) days from the end of this initial period of performance of the 
+award, the recipient must submit their application, which must include a new SF-124 and 
+certifications, assurances, representations, and other statements per ADS 303.3.8, with the request 
+for a one-year renewal period for an additional $4,000,000. This same is required for the possible 
+fifth year of performance. USAID reserves the right to fund any one or none of the applications 
+submitted. 
+
+ 
+
+B.2. START DATE AND PERIOD OF PERFORMANCE FOR FEDERAL AWARDS 
+
+
+ 
+
+The initial period of performance is three (3) years, with an additional two, one-year renewal 
+periods possible for a possible total period of performance of five (5) years, subject to availability 
+of funds, satisfactory progress towards meeting the award’s objectives as described in the program 
+description in Section A, submission of required reports, and compliance with the terms and 
+conditions of the award, including the conditions for renewal. 
+
+ 
+
+B.3. SUBSTANTIAL INVOLVEMENT 
+
+
+ 
+
+USAID/Colombia anticipates having substantial involvement throughout the implementation of 
+this cooperative agreement in accordance with ADS 303.3.11. The specific areas of USAID 
+involvement includes: 
+
+ 
+
+B.3.1 Approval of the Recipient’s Implementation Plans: The Agreement Officer 
+Representative (AOR) will approve the Recipient's annual implementation plans 
+(AIP) and any subsequent changes to the plans due to shifting context, new 
+information, security conditions, etc. The AOR will participate in strategic 
+planning sessions for the development of AIPs. The AOR must review the 
+agreement’s terms and conditions to ensure inadvertent changes to them are not 
+approved through the AIP. 
+
+ 
+
+B.3.2 Approval of Key Personnel and Any Changes in Key Personnel: Key personnel 
+are those individuals considered to be essential to the successful implementation 
+of the award. USAID will be consulted early in the process of any proposed 
+changes in key personnel following award, and the AO will approve the selection 
+with the AOR’s technical concurrence. Key personnel identified for this award are 
+the Chief of Party (COP), Deputy Chief of Party (DCOP), Technical Senior 
+Specialist for Component 4, and Grants Manager. 
+
+ 
+
+B.3.3 Agency and Recipient Collaboration and Joint Participation: The Agency and 
+Recipient engagement in collaboration and joint participation may occur when the 
+Recipient’s successful accomplishment of program objectives would benefit from 
+
+
+USAID’s technical knowledge. USAID anticipates collaboration and joint 
+participation during the inception phase and co-creation throughout award 
+implementation. Additional areas and spaces for joint participation and 
+collaboration may be identified throughout the life of the five-year Activity. 
+Additionally, if the Activity establishes an advisory committee that provides 
+advice to the Recipient, USAID may participate as a member of this committee as 
+well. Advisory committees will only deal with programmatic or technical issues, 
+and not routine administrative matters. 
+
+ 
+
+B.3.4 Approval of all sub-awards and sub-award manual: 2 CFR 200.308 requires 
+the Recipient to obtain the AO’s prior approval for the subaward, transfer or 
+contracting out of any work under the agreement. USAID will also approve the 
+sub-award manual. Subawards included in the final revised application and budget 
+are considered approved unless otherwise noted. 
+
+ 
+
+B.3.5 Ability to immediately halt an activity if the recipient does not meet detailed 
+performance specifications (for example, construction specifications): These 
+would-be provisions that go beyond the suspension remedies of the Federal 
+Government for noncompliance as stated in 2 CFR 200, including nonperformance. 
+The award must state that the AO may immediately halt an activity 
+when identified specifications are not met. The award must include the identified 
+specifications when executed. The AO and Recipient must sign a bilateral 
+amendment for any material changes to the specifications in the award. 
+
+ 
+
+B.3.6 Approval of one stage of work: The Agency’s review and approval of one stage 
+of work, before work can begin on a subsequent stage during the period covered 
+by the cooperative agreement. This includes the Inception Phase detailed in 
+Section A. Additional stages may be identified depending on the technical 
+approach of the apparently successful Applicant and included in this section prior 
+to award. 
+
+ 
+
+B.3.7 Approval of print or electronic publications: The AOR will review with the 
+Development Outreach & Communications (DOC) Specialist and approve final 
+versions of all printed and/or electronic publications before these are released to 
+ensure compliance with approved Activity specifications. 
+
+ 
+
+B.3.8 Approval for direction or redirection: The AOR will authorize specific kinds of 
+direction or redirection because of interrelationships with other Activities 
+sponsored by the U.S. Government or other donors and to ensure coordination and 
+complementarity, avoid duplication of efforts, and/or support U.S. foreign policy 
+considerations. All such direction or redirection must be within the program 
+description, budget, and other terms and conditions of the award. 
+
+ 
+
+B.4. AUTHORIZED GEOGRAPHIC CODE 
+
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 937. 
+Code 937 is defined as the United States, Colombia (Recipient country), and developing countries 
+other than advanced developing countries, but excluding any country that is a prohibited source. 
+
+ 
+
+
+B.5. NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient under the subject program is to transfer 
+funds to accomplish a public purpose of support or stimulation of the Strengthening Together 
+Activity which is authorized by Federal statute. The Recipient will be responsible for ensuring the 
+achievement of the program objectives and the efficient and effective administration of the award 
+through the application of sound management practices. The Recipient will assume responsibility 
+for administering Federal funds in a manner consistent with underlying agreements, program 
+objectives, and the terms and conditions of the Federal award. 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+C.1. ELIGIBLE APPLICANTS 
+
+
+ 
+
+Eligibility for this NOFO is not restricted. U.S. and non-US organizations may participate. USAID 
+welcomes applications from organizations that have not previously received financial assistance 
+from USAID. Public International Organizations are ineligible for this NOFO unless they consent 
+to receiving a cooperative agreement governed by 2 CFR and applicable ADS 303 policies. 
+
+ 
+
+Applicants must have established financial management, monitoring and evaluation processes, 
+internal control systems, and policies and procedures that comply with established U.S. 
+Government standards, laws, and regulations. The successful Applicant will be subject to a 
+responsibility determination assessment by the Agreement Officer (AO). 
+
+ 
+
+The Recipient must be a responsible entity. The AO may determine a pre-award survey is required 
+to conduct an examination that will determine whether the prospective Recipient has the necessary 
+organization, experience, accounting and operational controls, and technical skills – or ability to 
+obtain them – in order to achieve the objectives of the Activity and comply with the terms and 
+conditions of the award. 
+
+ 
+
+For-profit Applicants must note that USAID policy prohibits the payment of fee/profit for 
+Recipients under assistance instruments. Forgone profit does not qualify as cost-share or leverage. 
+Extensive sub-grants or consortia with local organizations are encouraged in the Applicant’s 
+program. 
+
+ 
+
+USAID welcomes applications from organizations that have not previously received financial 
+assistance from USAID. 
+
+ 
+
+C.2. COST SHARING OR MATCHING 
+
+
+ 
+
+Cost sharing is required for the Applicant to be eligible. Applicants must propose a cost share of 
+minimum 10%. Applicants that do not meet the minimum cost share requirement are not eligible 
+for award consideration. 
+
+ 
+
+Cost share refers to the resources a Recipient contributes to the total cost of an agreement. Cost 
+share will become a condition of the resulting award and will be included in the approved award 
+budget. Cost share may be audited and must be verifiable from the Recipient’s records. U.S. 
+organizations are subject to the requirements of 2 CFR 200.306, and non-U.S. organizations are 
+subject to the Standard Provision, “Cost Share.” Such funds may be provided directly by the 
+recipient; other multilateral, bilateral, and foundation donors; host governments; and local 
+organizations, communities and private businesses that contribute financially and in-kind to 
+implementation of activities at the country level. This may include contribution of staff level of 
+effort, office space or other facilities or equipment which may be used for the program, provided 
+by the recipient. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+D.1. AGENCY POINTS OF CONTACT 
+
+
+ 
+
+Name: Heather Wirick 
+
+Title: Agreement Officer 
+
+Email: hwirick@usaid.gov 
+
+ 
+
+Name: German Camilo Gutierrez 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: ggutierrez@usaid.gov 
+
+ 
+
+D.2. QUESTIONS AND ANSWERS 
+
+
+ 
+
+Questions regarding this NOFO must be submitted via email to the points of contact listed above 
+no later than the date and time indicated on the cover letter. Any information given to a prospective 
+Applicant concerning this NOFO will be furnished promptly to all other prospective Applicants as 
+an amendment to this NOFO, if that information is necessary in submitting applications or if the 
+lack of it would be prejudicial to any other prospective Applicant. 
+
+ 
+
+D.3. GENERAL CONTENT AND FORM OF THE CONCEPT PAPER, FULL 
+APPLICATIONS AND ORAL PRESENTATIONS 
+
+
+ 
+
+The Government intends to award one (1) Cooperative Agreement renewal award. The 
+Strengthening Together Activity (STA) assistance selection is being conducted in accordance with 
+2 CFR 200, 2 CFR 700 and ADS Chapter 303 through the use of a multi-tiered review process 
+consisting of the following phases: 
+
+ 
+
+D.3.1 Phase 1 - Concept Paper: Applicants will submit concept papers that respond to 
+the objectives outlined in this NOFO. USAID will then conduct a merit review of the 
+concept papers in accordance with Section E below. The organizations submitting the most 
+highly rated concept papers will be invited for the oral presentation phase. Applicants not 
+advancing to the oral presentation phase will be notified accordingly. No budget or cost 
+application will be accepted at this stage. Any questions/clarifications/foci-of-interest 
+found in the concept papers of the highest-rated applicants will be included in the invitation 
+letters and the invitees will be expected to address these during oral presentations. 
+
+ 
+
+Costs associated with preparation of the concept paper are the sole responsibility of the 
+applicant. 
+
+ 
+
+D.3.2 Phase 2 - Oral Presentation: Applicants that successfully pass Phase 1 of the 
+Merit Review will be invited to participate in the oral presentation phase, which will be 
+done via Video Teleconferencing (VTC) through Google Meets and will be recorded. The 
+proposed Chief of Party must lead the presentation and the proposed Key Personnel are 
+encouraged to be present and to participate. The maximum number of participants from 
+each organization that can attend is five (5). Applicants that are invited to Phase 2 must 
+submit at most three (3) history of performance forms filled out by COB local time seven 
+(7) calendar days after receipt of the invitation. See attachment #5. History of performance 
+information must be within the last five (5) years. Invitees to Phase 2 must also submit Key 
+
+
+Personnel information no later than two (2) days prior to their oral presentation date. See 
+below for more information. Oral Presentations will be held not less than three (3) weeks 
+from the receipt of the invitation and the specific date and time will be noted on the 
+invitation. 
+
+ 
+
+USAID will review each oral presentation against the merit criteria as defined in the 
+NOFO. There will be only one presentation per applicant/per day followed by a questionsand-
+answers session. The oral presentation must not exceed two (2) hours with no more 
+than one (1) hour for questions and answers, including addressing any questions or 
+weaknesses as specified in the invitation letter. 
+
+ 
+
+Applicants not selected from the oral presentation phase will be notified. Costs associated 
+with participation in the oral presentation phase are the sole responsibility of the applicant. 
+
+ 
+
+D.3.3 Phase 3 - Final Application Development: Following the oral presentation phase, 
+the apparently successful Applicant will draft an Activity Monitoring, Evaluation and 
+Learning Plan (AMELP), Branding and Marking Plan, and a Cost Application with a 
+detailed budget and budget narrative. Costs associated with the Final Application 
+Development are the sole responsibility of the applicant. Final application materials will 
+be due not less than two (2) weeks from successful applicant notification. 
+
+ 
+
+The application must be prepared according to the structural format set forth below. 
+
+ 
+
+D.4. APPLICATION SUBMISSION PROCEDURES 
+
+
+ 
+
+Each applicant must furnish the information required by this NOFO. All application files submitted 
+must be compatible with Microsoft (MS) Office in a MS Windows environment and/or Adobe 
+Acrobat (.pdf). The subject of each e-mail must read as follows: (a) 72051421RFA00002 - 
+“Strengthening Together Activity” submitted by: (organization name). The same email “Subject” 
+formatting must be used for any subsequent submissions of information as an Applicant advances 
+through the phased competitive process. Applicants must sign the application and print or type 
+their name on the Cover Page of the concept paper and subsequent cost application, as applicable. 
+Any erasures or other changes to the application must be initiated by the person signing the 
+application. Applications shall be submitted via email of a single concept paper as described 
+below. All concept papers received by the deadline stated in the NOFO will be reviewed for 
+responsiveness to the specifications outlined in these guidelines and the application format. Late 
+or incomplete applications will not be considered. It is the Applicant’s responsibility to ensure that 
+all necessary documentation is complete and received on time. Applications must be sent to 
+German Gutierrez at ggutierrez@usaid.gov with a copy to Heather Wirick at hwirick@usaid.gov. 
+
+ 
+
+Applicants must compile and submit the concept note, and all supporting documents as a single 
+email attachment, e.g., that you consolidate the various parts of an application into a single 
+document before sending them. No addition or modifications will be accepted after the submission 
+date. 
+
+ 
+
+After you have sent your applications electronically, immediately check your own email to confirm 
+that the attachments you intended to send were indeed sent. If you discover an error in your 
+transmission, please send the material again and note in the subject line of the email or indicate in 
+the file name if submitted via grants.gov that it is a "corrected" submission. Do not send the same 
+
+
+email more than once unless there has been a change, and if so, please note that it is a "corrected" 
+email. 
+
+ 
+
+a) All documents including the Concept Paper should be in English, with one-inch (2.54 cm) 
+margins on all sides, in a single column. 
+b) Use Times New Roman font (12-point font or larger); figures and tables may feature 
+different fonts in smaller font sizes (e.g., Arial, 10 points) but must be easily readable. 
+c) The line spacing on the concept paper should be “single.” 
+d) The concept paper is limited to six (6) pages including graphics and charts, but excluding 
+the cover page, table of contents, and list of acronyms. USAID/Colombia will not review 
+the portion of the concept paper application that is over 6 pages and will not review 
+unauthorized attachments. 
+e) Insert page numbers on all pages. Avoid any excessively elaborate formatting/presentation 
+to facilitate duplication and readability. 
+
+
+ 
+
+The Concept Paper shall include the following sections in addition to the main documentation. 
+
+These sections will not be included in the page count. 
+
+ 
+
+D.4.1 Cover Page: The cover page is limited to one (1) page and must include the 
+following: 
+
+ 
+
+i. Concise title of activity; 
+ii. NOFO Number; 
+iii. Name and address of the Applicant organization; 
+iv. Type of organization (e.g., for-profit, non-profit, university, network, 
+etc.); 
+v. DUNS Number; 
+vi. Contact point (name, telephone, and e-mail); and 
+vii. Names of proposed sub-recipients or partnerships. 
+
+
+ 
+
+D.4.2 Table of contents: This should follow the concept paper format outlined 
+herein. This will not be part of the evaluation. 
+
+ 
+
+D.4.3 List of acronyms: Any acronym used in the concept paper should be included 
+in this list. 
+
+ 
+
+Note: Although no cost or budget related documentation is required of any applicant 
+in the concept paper, any proposed concept should be mindful of budgetary 
+limitations. 
+
+ 
+
+D.5. PHASE 1 - CONTENT OF INITIAL APPLICATION REQUIREMENTS 
+
+
+ 
+
+Concept Paper: Applicants will submit concept papers that respond to the objectives outlined in 
+this NOFO. It should demonstrate the Applicant's capabilities and expertise with respect to 
+achieving the goals of this program. Concept papers must be specific, complete and concise. The 
+Applicant must articulate a technical approach to achieving the results that not only reflects 
+technical knowledge and innovation but is also responsive to all of the Activity’s technical 
+objectives and requirements. The Concept Paper must reflect a thorough understanding of the 
+current context of capacity building and in Colombia. The feasibility of the technical approach and 
+
+
+strategies proposed to achieve the Activity’s results over the life of the five-year activity must be 
+justified. 
+
+ 
+
+Concept papers must outline how the Applicant will achieve the following: 
+
+ 
+
+a) A realistic description of how the vision, objectives, and results as stated in Section A will 
+be achieved. The approach must be feasible within the situational and temporal context and 
+proposes a long-term sustainability approach to the Activity. 
+b) Proposal of specific activity objectives and sub-activities to achieve the expected results. 
+The concept should reflect technical knowledge, innovation, and demonstrates an efficient 
+timeline to boost local organizational capacity. 
+c) A well-thought-out description of use of any partner organizations and/or partnerships to 
+achieve the Activity’s expected results. 
+
+
+ 
+
+D.6. PHASE 2 - ORAL PRESENTATION FORMAT 
+
+
+ 
+
+Based on USAID’s evaluation of the Concept Papers, the Applicants with the Concept Paper 
+submissions most likely to achieve the objectives, as described in Section A, will be invited to 
+participate in oral presentations. 
+
+ 
+
+A PowerPoint slide-deck used during the oral presentations and all materials submitted prior to the 
+oral presentation will become an official part of the source selection file and may be used for 
+references purposes during evaluation. The History of Performance information must be submitted 
+within seven (7) calendar days of receipt of the invitation to participate in Phase 2. The initial 
+slide-deck and Key Personnel information (see below for more information) must be provided to 
+the Agreement Officer two (2) days prior to the oral presentation as stated on the invitation 
+letter. Please see instructions above for email format. 
+
+ 
+
+In addition to responding to the key issues, the presentation must address the following critical 
+areas: 
+
+D.6.1 Technical Approach 
+
+ 
+
+In addition to addressing any questions/weaknesses clarifications/foci-of-interest 
+communicated in the invitation letter, the presentation should expand upon the concept 
+paper in terms of addressing the following outcomes: 
+
+ 
+
+i. Outcome 1: Provide a clear and succinct overview of the Applicant’s proposed 
+plan for achieving the outlined objectives and results; and propose a sustainability 
+approach to the Activity. 
+ii. Outcome 2: Display coordination, integration, and complementarity among all its 
+components. Including demonstrating a strong understanding of the Sub-Grants 
+component of the Activity and demonstrating a clear methodology that 
+incorporates the Activity’s guiding principles and Collaborate, Learning, and 
+Adapting (CLA) methodology. 
+iii. Outcome 3: Include a discussion of the rationale for proposing partnerships and 
+sub-recipients, the potential for facilitating funds from government, nongovernmental 
+entities and the private sector. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+D.6.2 Management Approach/Staffing Plan 
+
+ 
+
+The Management Approach portion of the oral presentation must follow the following 
+guidelines and requirements: 
+
+ 
+
+a) Management Approach and Staffing Plan Overview 
+
+
+ 
+
+The final management approach and staffing plan overview must briefly 
+include/explain the following points: 
+
+ 
+
+1. Management Implementation: The Applicant must present an overall plan for 
+the management and implementation of the Activity and must describe a 
+sound organizational structure and provide for rapid startup responding to the 
+Inception Phase (Section A). 
+2. Key Personnel: The Applicant must propose individuals as key personnel who 
+have qualifications that align with the described roles and responsibilities of 
+the position and must say whether these positions will be filled by local staff. 
+3. Sub-Grant Management: If partners and/or sub-recipients will be proposed, 
+this section must also briefly address uses of the sub-partners, including their 
+contributions to the Activity’s objectives. The Applicant must describe its 
+management approach for building capacity of multiple local organizations 
+while managing the grants component of the Activity. 
+4. Local staffing: The Applicant should make use of local specialists to the 
+greatest extent possible. The Applicant must demonstrate how building local 
+capacity are essential elements of this Activity and in the broad objectives of 
+human and institutional capacity development must be integrated into all 
+program areas. Any staffing plan must include base elements to address these 
+concerns. 
+
+
+ 
+
+b) Key Personnel 
+
+ 
+
+The Key positions are critical for a successful implementation of this activity. 
+They are subject to approval by the USAID Agreement Officer. Key Personnel 
+positions include: 
+
+ 
+
+1. Chief of Party (COP) will provide high quality technical and strategic 
+leadership, managerial oversight, and administration of the project. S/he 
+description will be the primary point of contact with USAID/Colombia. 
+Provides overall guidance and supervision of the day-to-day implementation of 
+the Activity and agreement. At least 10 years of international or Colombia 
+experience in working on organizational capacity issues. Experience working 
+in a post-conflict area would be an advantage. Minimum bachelor’s degree in 
+social science or related field. Fluent in Spanish and English is required. 
+
+
+ 
+
+2. Deputy Chief of Party will be the Primary point of contact with 
+USAID/Colombia in absence of the Chief of Party with regard to day-to-day 
+implementation and management matters related to the agreement. S/he will 
+have at least seven (7) years of experience in working on development in 
+Colombia, as well as relevant technical experience in alliance building and 
+
+
+
+donor-funded or private sector development projects. Previous experience 
+implementing international cooperation activities, management staff, and 
+working with local partners. Minimum bachelor’s degree in social science or 
+related field. Fluency in English is preferred. 
+
+
+ 
+
+3. Technical Senior Specialist for Component 4 will provide intellectual and 
+operational leadership over Component 4, support the teams and selected 
+partners to ensure that all Activity deliverables are on time, within budget, and 
+meet or exceed program targets. S/he will have a minimum of seven (7) years 
+of work experience in the organizational, strategic, administrative/financial 
+capacity building context, including experience working with local partner 
+issues. Minimum bachelor’s degree in social science or related field. Fluency 
+in English is preferred. 
+
+
+ 
+
+4. Grants Manager will be responsible for all sub-awards under the project. 
+Maintain communication with all sub-awardees to ensure timely receipt of 
+federally required reports and documentation in accordance with federal 
+regulations and the terms and conditions of multiple grant awards. S/he 
+facilitates, submits, negotiates, and manages grant agreements; develops and 
+implements compliance measures; and drafts and manages sub-recipient 
+awards. S/he will have a minimum of seven (7) years of experience in federal 
+grant management and at least four (4) of which these years include knowledge 
+of USG grant regulations. Specific knowledge of USAID Rules and 
+Regulations over Grants and Cooperative Agreements is highly desirable. 
+Minimum of a bachelor’s degree in Accounting or related field. Fluency in 
+English is preferred. 
+
+
+ 
+
+The Applicant must provide resumes of Key Personnel (no longer than three [3] pages each) and 
+Letters of Commitment for Key Personnel two (2) days prior to the oral presentation date as 
+specified in the invitation letter. 
+
+ 
+
+D.6.3 Activity Monitoring, Evaluation, and Learning Plan (AMELP) 
+
+ 
+
+The PowerPoint presentation must include a brief Activity Monitoring, Evaluation, and 
+Learning Plan (AMELP). The AMELP should include an explanation of the development 
+hypothesis, a results framework that builds on the one contained in this NOFO, and a listing 
+of key proposed indicators. It should also include information on baseline data collection, 
+illustrative targets for each major indicator, concise performance indicator reference sheets, 
+and sustainability. 
+
+ 
+
+D.6.4 History of Performance Review (if applicable) 
+
+ 
+
+The Applicant must also identify the three (3) most similar or related activities completed 
+during the past five (5) years for themselves as well as the significant proposed 
+implementing sub-partners (if any) as well. “Significant” is defined as a sub-partner whose 
+total estimated budget equals 10 percent or more of the Applicant’s total estimated amount. 
+The Applicant must provide this information by completing Part I of the Applicant 
+Performance Reports (provided in Section IX, Attachment 5) by the date as specified in 
+the Oral Presentation Invitation Letter. 
+
+
+USAID reserves the right to obtain performance information from other sources including 
+those not named in the applications. 
+
+ 
+
+D.6.5 Oral Presentation Schedule 
+
+ 
+
+One Applicant will be evaluated per day in the morning (exact time to be determined). The 
+Oral Presentation will be conducted via Google Meet and is expected to take up to two (2) 
+hours for each Applicant with one (1) additional hour of questions and answers afterwards, 
+including addressing any questions or weaknesses as identified in the invitation letter. The 
+anticipated presentation agenda will be as follows: 
+
+ 
+
+• Introductions – 10 minutes 
+• PowerPoint Presentation – 110 minutes 
+• Questions and Answers – 60 minutes 
+
+
+ 
+
+Within the days following oral presentation the Agreement Officer will select the apparently 
+successful Applicant and inform all Oral Presentation participants of the decision. 
+
+ 
+
+D.7 PHASE 3 - FINAL TECHNICAL APPLICATION 
+
+ 
+
+USAID will select one apparently successful applicant from the oral presentation. The apparently 
+successful Applicant will be requested to submit a Cost Application with a detailed budget and 
+budget narrative, as well as a draft Branding and Marking (B&M) Plan and draft Activity 
+Monitoring, Evaluation, and Learning Plan (AMELP). 
+
+ 
+
+D.7.1 Business (Cost) Application Format 
+
+ 
+
+While no page limit exists for the full cost application, applicants are encouraged to be as 
+concise as possible while still providing the necessary details. The business (cost) 
+application must illustrate the entire period of performance, using the budget format shown 
+in the SF-424A. 
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed 
+necessary for the Agreement Officer to assess the applicant’s risk in accordance with 2 
+CFR 200.206. Applicants should not submit any additional information with their initial 
+application. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated 
+below this listing with the letters for each requirement): 
+
+ 
+
+a) Cover Page 
+b) SF 424 Form(s) 
+
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard 
+Forms can be accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+
+
+
+
+
+Instructions for SF- 
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424- 
+instructions.html 
+
+
+
+
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+
+
+Instructions for SF- 
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424ainstructions.
+html 
+
+
+
+
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+
+
+Instructions for SF- 
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424binstructions.
+html 
+
+
+
+
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+D.7.2 Required Certifications and Assurances 
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+cost application: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+
+(2) Assurances for Non-Construction Programs (SF-424B) 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance 
+if your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+ 
+
+D.7.3 Budget and Budget Narrative 
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later 
+versions) with visible formulas and references and must be broken out by project year, 
+including itemization of the federal and non-federal (cost share) amount. Files must not 
+contain any hidden or otherwise inaccessible cells. Budgets with hidden cells lengthen the 
+cost analysis time required to make award and may result in a rejection of the cost 
+application. The Budget Narrative must contain sufficient detail to allow USAID to 
+understand the proposed costs. The applicant must ensure the budgeted costs address any 
+additional requirements identified in Section F, such as Branding and Marking. The 
+
+
+Budget Narrative must be thorough, including sources for costs to support USAID’s 
+determination that the proposed costs are fair and reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+• Summary Budget, inclusive of all program costs (federal and non-federal), broken out 
+by major budget category and by year for activities implemented by the applicant and 
+any potential sub-applicants for the entire period of the program. See Section H, 
+Annex 1 for Summary Budget Template 
+• Detailed Budget, including a breakdown by year, sufficient to allow the Agency to 
+determine that the costs represent a realistic and efficient use of funding to implement 
+the applicant’s program and are allowable in accordance with the cost principles found 
+in 2 CFR 200 Subpart E. 
+• Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken 
+out by budget category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a 
+minimum: 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 
+Compensation - Personal Services. The applicant’s budget must include position title, 
+salary rate, level of effort, and salary escalation factors for each position. Allowances, 
+when proposed, must be broken down by specific type and by position. Applicants must 
+explain all assumptions in the Budget Narrative. The Budget Narrative must demonstrate 
+that the proposed compensation is reasonable for the services rendered and consistent 
+with what is paid for similar work in other activities of the applicant. Applicants must 
+provide their established written policies on personnel compensation. If the applicant’s 
+written policies do not address a specific element of compensation that is being proposed, 
+the Budget Narrative must describe the rationale used and supporting market research. 
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by 
+an agency of the U.S. Government, the applicant must use such rate and provide evidence 
+of its approval. If an applicant does not have a fringe benefit rate approved, the applicant 
+must propose a rate and explain how the applicant determined the rate. In this case, the 
+Budget Narrative must include a detailed breakdown comprised of all items of fringe 
+benefits (e.g., superannuation, gratuity, etc.) and the costs of each, expressed in U.S. 
+dollars and as a percentage of salaries. 
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the 
+number of trips, the origin and destination, the number of individuals traveling, and the 
+duration of the trips. Per Diem and associated travel costs must be based on the 
+applicant’s normal travel policies. When appropriate please provide supporting 
+documentation as an attachment, such as company travel policy, and explain assumptions 
+in the Budget Narrative. 
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property 
+– Must include information on estimated types of equipment, models, supplies and the 
+cost per unit and quantity. The Budget Narrative must include the purpose of the 
+equipment and supplies and the basis for the estimates. The Budget Narrative must 
+
+
+support the necessity of any rental costs and reasonableness in light of such factors as: 
+rental costs of comparable property, if any; market conditions in the area; alternatives 
+available; and the type, life expectancy, condition, and value of the property leased. 
+
+ 
+
+5) Subawards – Specify the budget for the portion of the program to be passed through 
+to any subrecipients. See 2 CFR 200 for assistance in determining whether the sub-tier 
+entity is a subrecipient or contractor. The subrecipient budgets must align with the same 
+requirements as the applicant’s budget, including those related to fringe and indirect 
+costs. 
+
+ 
+
+8) Other Direct Costs – This may include other costs not elsewhere specified, such as 
+report preparation costs, passports and visas fees, medical exams and inoculations, as 
+well as any other miscellaneous costs which directly benefit the program proposed by the 
+applicant. The applicant should indicate the subject, venue and duration of any proposed 
+conferences and seminars, and their relationship to the objectives of the program, along 
+with estimates of costs. Otherwise, the narrative should be minimal. 
+
+ 
+
+9) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or 
+will charge all costs directly. In order to better understand indirect costs please see 
+Subpart E of 2 CFR 200. The application must identify which approach they are 
+requesting and provide the applicable supporting information. Below are the most 
+commonly used Indirect Cost Rate methods: 
+
+ 
+
+Method 1 - Direct Charge Only 
+
+Eligibility: Any applicant 
+
+Initial Application Requirements: See above on direct costs. 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+Eligibility: Any applicant with a NICRA issued by a USG Agency must use that NICRA 
+Initial Application Requirements: If the applicant has a current NICRA, submit your 
+approved NICRA and the associated disclosed practices. If your NICRA was issued by 
+an Agency other than USAID, provide the contact information for the approving Agency. 
+Additionally, at the Agency’s discretion, a provisional rate may be set forth in the award 
+subject to audit and finalization. See USAID’s Indirect Cost Rate Guide for Non Profit 
+Organizations for further guidance. 
+
+ 
+
+Method 3 - De minimis rate of 10% of modified total direct costs (MTDC) 
+
+Eligibility: Any applicant that does not have a current NICRA Initial Application 
+Requirements: Costs must be consistently charged as either indirect or direct costs but 
+may not be double charged or inconsistently charged as both. If chosen, this methodology 
+once elected must be used consistently for all Federal awards until such time as a non- 
+Federal entity chooses to negotiate an indirect rate, which the non-Federal entity may 
+apply to do at any time. The applicant must describe which cost elements it charges 
+indirectly vs. directly. See 2 CFR 200 for further information. 
+
+ 
+
+ 
+
+
+Method 4 - Indirect Costs Charged As A Fixed Amount 
+
+Eligibility: Non-U.S. non-profit organizations without a NICRA may request, but 
+approval is at the discretion of the AO. Initial Application Requirements: Provide the 
+proposed fixed amount and a worksheet that includes the following: 
+
+ 
+
+• Total costs incurred by the organization for the previous fiscal year and estimates for 
+the current year. Guidance to AO: If the indirect costs are expected to be minimal or 
+easily attributed to performance of a USAID agreement, the AO should delete this 
+first bullet. 
+• Indirect costs (common costs that benefit the day-to-day operations of the 
+organization, including categories such as salaries and expenses of executive officers, 
+personnel administration, and accounting, or that benefit and are identifiable to more 
+than one program or activity, such as depreciation, rental costs, operations and 
+maintenance of facilities, and telephone expenses) for the previous fiscal year and 
+estimates for the current year. 
+• Proposed method for prorating the indirect costs equitably and consistently across all 
+programs and activities of using a base that measures the benefits of that particular 
+cost to each program or activity to which the cost applies. 
+
+
+ 
+
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% 
+de minimis rate, the Agreement Officer will provide further instructions and may request 
+additional supporting information, including financial statements and audits, should the 
+application still be under consideration after the merit review. USAID is under no 
+obligation to approve the applicant’s requested method. 
+
+ 
+
+10) Cost Sharing – The applicant must provide the required 10% in cost share. 
+Applicants should estimate the amount of cost-sharing resources to be provided over the 
+life of the five-year agreement and specify the sources of such resources, and the basis 
+of calculation in the budget narrative. Applicants must also provide a breakdown of the 
+cost share (financial and in-kind contributions) of all organizations involved in 
+implementing the resulting award. 
+
+ 
+
+D.7.4 Prior Approvals in accordance with 2 CFR 200.407 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any 
+requirements for prior approval by the Agency. If the applicant would like the award to 
+reflect approval of any cost elements for which prior written approval is specifically 
+required for allowability, the applicant must specify and justify that cost. See 2 CFR 
+200.407 for information regarding which cost elements require prior written approval. 
+
+ 
+
+D.7.5 Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved 
+at the time of award. For each proposed subaward the applicant must provide the 
+following: 
+
+ 
+
+• Name of organization 
+
+
+
+• DUNS Number 
+• Confirmation that the subrecipient does not appear on the Treasury Department’s 
+Office of Foreign Assets Control (OFAC) list 
+• Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+• Confirmation that the subrecipient is not listed in the United Nations Security 
+designation list 
+• Confirmation that the subrecipient is not suspended or debarred 
+• Confirmation that the applicant has completed a risk assessment of the subrecipient, 
+in accordance with 2 CFR 200.332(b) 
+• Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+D.7.6 Dun and Bradstreet and SAM Requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all 
+applicable unique entity identifier (DUNS number) and System for Award Management 
+(SAM) requirements. Each applicant (unless the applicant is an individual or Federal 
+awarding agency that is exempted from requirements under 2 CFR 25.110(b) or (c), or 
+has an exception approved by the Federal awarding agency under 2 CFR 25.110(d)) is 
+required to: 
+
+ 
+
+1. Provide a valid DUNS number for the applicant and all proposed sub-recipients; 
+2. Be registered in SAM before submitting its application. SAM is streamlining 
+processes, eliminating the need to enter the same data multiple times, and 
+consolidating hosting to make the process of doing business with the government 
+more efficient (www.beta.sam.gov). 
+3. Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under 
+consideration by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are 
+encouraged to begin the process early. If an applicant has not fully complied with the 
+requirements above by the time USAID is ready to make an award, USAID may 
+determine that the applicant is not qualified to receive an award and use that 
+determination as a basis for making an award to another applicant. 
+
+ 
+
+DUNS number: http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.beta.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a 
+Quick Start Guide and a video on how to obtain an NCAGE code, on www.beta.sam.gov, 
+navigate to Help, then to International Registrants. 
+
+ 
+
+
+D.7.7 Funding Restrictions 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 
+for assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the 
+explicit written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and 
+services that will be reimbursed by USAID under this award must be from the authorized 
+geographic code specified in Section B.4 of this NOFO and must meet the source and 
+nationality requirements set forth in 22 CFR 228. 
+
+ 
+
+D.7.8 Draft of the Activity Monitoring, Evaluation and Learning Plan 
+
+ 
+
+Prior to a final Activity Monitoring, Evaluation and Learning (MEL) Plan that must be 
+completed within 60 days of the Award (with the submission of the first work plan) 
+USAID requires a draft AMEL Plan. This draft should expand upon the simple 
+Monitoring, Evaluation and Learning and Collaborate, Learning, and Adapting (CLA) 
+approach given in the Oral Presentation. This document should include Performance 
+Indicators for the first year. 
+
+ 
+
+D.7.9 Branding Strategy and Marking Plan 
+
+ 
+
+The apparently successful applicant will be required to submit a Branding Strategy and 
+Marking (B&M) Plan to be reviewed and approved by the Agreement Officer prior to the 
+award. 
+
+All USAID-funded foreign assistance (including programs, projects, activities, public 
+communications, or commodities) must be communicated, promoted, and marked as 
+coming from the American people through USAID. Specific communications and 
+promotion measures must be described in the “Branding Strategy” and “Branding 
+Implementation Plan,” and specific marking will be described in the “Marking Plan” for 
+this award. Branding and marking under this award must comply with the USAID 
+Automated Directive System Chapter 320 Branding and Marking (ADS 320). 
+
+ 
+
+ADS320 requires that, after the evaluation of the applications, the USAID Agreement 
+Officer requests the Apparently Successful Applicant to submit a branding strategy and 
+marking plan that describes how the activity is named and positioned, how it is promoted 
+and communicated to beneficiaries and cooperating country citizens and identifies the 
+donor and explains how they will be acknowledged. USAID will not competitively 
+evaluate the proposed Branding Strategy. ADS 320 may be found at the following website: 
+http://www.usaid.gov/sites/default/files/documents/1868/320.pdf. 
+
+ 
+
+In preparation of the branding strategy and the marking plan, the apparently successful 
+Applicant will follow the guidance provided in this NFO. Additional guidance is available 
+at http://www.usaid.gov/branding. The cost application must incorporate the estimated 
+cost of the proposed branding strategy and marking plans implementation. 
+
+ 
+
+
+The general format of the documents associated with this Final Application must follow 
+the previously stated format above in Section D.5 with the exception of the page number 
+limitation. 
+
+ 
+
+D.8 PRE-AWARD PROVISIONS 
+
+ 
+
+D.8.1 CONFLICT OF INTEREST PRE-AWARD TERM (August 2018) 
+
+ 
+
+a. Personal Conflict of Interest 
+
+
+ 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization 
+or an employee of the organization has a relationship with an Agency official involved 
+in the competitive award decision-making process that could affect that Agency 
+official’s impartiality. The term “conflict of interest” includes situations in which 
+financial or other personal considerations may compromise, or have the appearance of 
+compromising, the obligations and duties of a USAID employee or recipient employee. 
+
+
+
+
+
+
+
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits an SF-424. 
+Should the applicant discover a previously undisclosed conflict of interest after 
+submitting the application, the applicant must disclose the conflict of interest to the AO 
+no later than ten (10) calendar days following discovery. 
+
+
+
+
+
+
+
+
+ 
+
+b. Organizational Conflict of Interest 
+
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they 
+are aware of that may provide the applicant with an unfair competitive advantage in 
+competing for this financial assistance award. Examples of an unfair competitive advantage 
+include but are not limited to situations in which an applicant or the applicant’s employee 
+gained access to non-public information regarding a federal assistance funding 
+opportunity, or an applicant or applicant’s employee was substantially involved in the 
+preparation of a federal assistance funding opportunity. USAID will promptly take 
+appropriate action upon receiving any such notification from the applicant. 
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+D.8.2 BRANDING STRATEGY – ASSISTANCE (JUNE 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, project, or activity is named and positioned, and 
+how it is promoted and communicated to beneficiaries and host country citizens. 
+
+
+
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers 
+no rights to the applicant and constitutes no USAID commitment to an award. 
+
+
+
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, 
+
+
+
+
+
+in the budget portion of the application. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement or other assistance instrument. 
+
+
+
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+
+
+
+ 
+
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+plaques, stickers, banners, press events, materials, and so forth. 
+
+ 
+
+(2) The intended name of the program, project, or activity. 
+
+ 
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the 
+USAID logo and brandmark, with the tagline “from the American people” as found on 
+the USAID Web site at http://www.usaid.gov/branding, unless Section VI of the NOFO 
+or APS states that the USAID Administrator has approved the use of an additional or 
+substitute logo, seal, or tagline. 
+
+ 
+
+(ii) USAID prefers local language translations of the phrase “made possible by (or 
+with) the generous support of the American People” next to the USAID Identity when 
+acknowledging contributions. 
+
+ 
+
+(iii) It is acceptable to cobrand the title with the USAID Identity and the 
+applicant's identity. 
+
+ 
+
+(iv) If branding in the above manner is inappropriate or not possible, the applicant 
+must explain how USAID's involvement will be showcased during publicity for the 
+program or project. 
+
+(v) USAID prefers to fund projects that do not have a separate logo or identity 
+that competes with the USAID Identity. If there is a plan to develop a separate logo to 
+consistently identify this program, the applicant must attach a copy of the proposed logos. 
+Section VI of the RFA or APS will state if an Administrator approved the use of an 
+additional or substitute logo, seal, or tagline. 
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program 
+to beneficiaries. 
+
+ 
+
+(i) Describe the main program message. 
+
+ 
+
+(ii) Provide plans for training materials, posters, pamphlets, public service 
+announcement, billboards, Web sites, and so forth, as appropriate. 
+
+ 
+
+(iii) Provide any plans to announce and promote publicly this program or project to 
+host country citizens, such as media releases, press conferences, public events, and 
+so forth. Applicant must incorporate the USAID Identity and the message, “USAID 
+is from the American People.” 
+
+ 
+
+
+(iv) Provide any additional ideas to increase awareness that the American people 
+support this project or program. 
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials 
+and related materials. Indicate if they are a donor or why they will be visibly 
+acknowledged, and if they will receive the same prominence as USAID. 
+
+ 
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above information 
+is adequately included and consistent with the stated objectives of the award, the applicant's 
+cost data submissions, and the performance plan. 
+
+
+
+
+ 
+
+g. If the applicant receives an assistance award, the Branding Strategy will be 4 included in 
+and made part of the resulting grant or cooperative agreement. 
+
+
+
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+D.8.3 MARKING PLAN – ASSISTANCE (JUNE 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and 
+other items that will visibly bear the “USAID Identity,” which comprises of the USAID 
+logo and brandmark, with the tagline “from the American people.” The USAID Identity is 
+the official marking for the Agency and is found on the USAID Web site at 
+http://www.usaid.gov/branding. Section VI of the NOFO or APS will state if an 
+Administrator approved the use of an additional or substitute logo, seal, or tagline. 
+
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, 
+in the budget portion of the application. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement or other assistance instrument. 
+
+
+ 
+
+e. The Marking Plan must include all of the following: 
+
+
+ 
+
+(1) A description of the public communications, commodities, and program materials that 
+the applicant plans to produce and which will bear the USAID Identity as part of the award, 
+including: 
+
+ 
+
+(i) Program, project, or activity sites funded by USAID, including visible 
+infrastructure projects or other sites physical in nature; 
+
+
+ 
+
+(ii) Technical assistance, studies, reports, papers, publications, audiovisual 
+productions, public service announcements, Web sites/Internet activities, promotional, 
+informational, media, or communications products funded by USAID; 
+
+ 
+
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, 
+including commodities or equipment provided under humanitarian assistance or disaster 
+relief programs; and 
+
+ 
+
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+
+ 
+
+(v) Events financed by USAID, such as training courses, conferences, seminars, 
+exhibitions, fairs, workshops, press conferences and other public activities. If the USAID 
+Identity cannot be displayed, the recipient is encouraged to otherwise acknowledge USAID 
+and the support of the American people. 
+
+ 
+(2) A table on the program deliverables with the following details: 
+
+ 
+
+(i) The program deliverables that the applicant plans to mark with the USAID 
+Identity; 
+
+ 
+
+(ii) The type of marking and what materials the applicant will use to mark the 
+program deliverables; 
+
+ 
+
+(iii) When in the performance period the applicant will mark the program 
+deliverables, and where the applicant will place the marking; 
+
+ 
+
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+Identity , and 
+
+ 
+
+(v) The rationale for not marking program deliverables. 
+
+ 
+
+(3) Any requests for an exemption from USAID marking requirements, and an explanation 
+of why the exemption would apply. The applicant may request an exemption if USAID 
+marking requirements would: 
+
+ 
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials 
+where independence or neutrality is an inherent aspect of the program and 
+materials. The applicant must identify the USAID Development Objective, Interim 
+Result, or program goal furthered by an appearance of neutrality, or state why an 
+aspect of the award is presumptively neutral. Identify by category or deliverable 
+item, examples of material for which an exemption is sought. 
+
+ 
+
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. The 
+applicant must explain why each particular deliverable must be seen as credible. 
+
+ 
+
+
+(iii) Undercut host-country government “ownership” of constitutions, laws, 
+regulations, policies, studies, assessments, reports, publications, surveys or audits, 
+public service announcements, or other communications. The applicant must 
+explain why each particular item or product is better positioned as host-country 
+government item or product. 
+
+ 
+
+(iv) Impair the functionality of an item. The applicant must explain how marking 
+the item or commodity would impair its functionality. 
+
+ 
+
+(v) Incur substantial costs or be impractical. The applicant must explain why 
+marking would not be cost beneficial or practical. 
+
+ 
+
+(vi) Offend local cultural or social norms or be considered inappropriate. The 
+applicant must identify the relevant norm and explain why marking would violate 
+that norm or otherwise be inappropriate. 
+
+ 
+
+(vii) Conflict with international law. The applicant must identify the applicable 
+international law violated by the marking. 
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and 
+will approve or disapprove any exemption requests. The Marking Plan will be reviewed to 
+ensure the above information is adequately included and consistent with the stated 
+objectives of the award, the applicant's cost data submissions, and the performance plan. 
+
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions, will be included in and made part of the resulting grant or cooperative 
+agreement, and will apply for the term of the award unless provided otherwise. 
+
+
+ 
+
+(END OF PRE-AWARD TERM) 
+
+ 
+
+[END OF SECTION D] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+E.1. CRITERIA 
+
+
+ 
+
+The merit review criteria prescribed here are tailored to the requirements of this particular NOFO. 
+Applicants will note that these criteria serve to: (a) identify the significant matters which the 
+Applicants will address in their concept papers/applications/oral presentations, and (b) set the 
+standard against which all concept paper/applications/oral presentations will be evaluated. 
+
+ 
+
+E.2. REVIEW AND SELECTION PROCESS 
+
+
+ 
+
+This is a multi-tiered NOFO in accordance with Automated Directives System (ADS) 303.3.6.1(c). 
+Review and selection under this NOFO will be based on a multi-step process: 
+
+ 
+
+Phase 1 - Concept Paper submissions: open to all eligible organizations as described in 
+this NOFO. 
+
+ 
+
+Phase 2 - Oral Presentations: by invitation only to applicants selected under the Phase 1 
+merit review. 
+
+ 
+
+Phase 3 - Apparent Winner will be required to submit a budget and budget narrative, both 
+of which must include cost share, and a draft Branding and Marking Plan and Activity 
+Monitoring, Evaluation, and Learning Plan. Only the budget will be evaluated as part of 
+the application process and the apparent winner may expect to receive feedback on draft 
+plans to incorporate into the final versions that will be due after award. 
+
+ 
+
+All Concept Papers will be evaluated according to the criteria specified in this NOFO. If the 
+concept is determined to warrant further evaluation per the selection criteria established, USAID 
+will request an Oral Presentation. 
+
+ 
+
+In accordance with ADS 303.3.10.2 and 2 CFR 200.306, cost sharing cannot be used as a separate 
+factor during the merit review of applications. However, cost sharing may be considered in the 
+merit review only if the funding announcement specifically addresses how it will be considered. 
+In this NOFO, cost sharing will be used to break ties among applications with equivalent scores 
+after evaluation against all other factors. 
+
+ 
+
+E.3. MERIT REVIEW 
+
+
+ 
+
+The merit review criteria prescribed herein are tailored to the requirements of this particular 
+NOFO. Applicants should note that these criteria serve to: (a) identify significant matters which 
+the Applicants must address in their Concept Papers during Phase 1 and applications during the 
+Oral Presentation Phase 2 stage, and (b) set the standard against which all applications will be 
+evaluated. These criteria are listed in descending importance: 
+
+ 
+
+1. Technical Approach 
+2. Management Approach 
+3. History of Performance 
+
+
+ 
+
+ 
+
+
+E.3.1 Merit Review Criteria for Phase 1 - Concept Paper 
+
+ 
+
+Submissions are open to all eligible organizations as described in this NOFO. 
+
+ 
+
+Concept Papers will be evaluated based on the extent to which the concept paper best 
+addresses the objectives as stated in Section A of this NOFO. 
+
+ 
+
+Once the submitted Concept Papers have been fully reviewed, the selected Applicant(s) 
+will be notified by the Agreement Officer of whether they have been selected to move on 
+to Phase 2 of the Merit Review. 
+
+ 
+
+E.3.2 Merit Review Criteria for Phase 2 - Oral Presentations 
+
+ 
+
+The oral presentation stage will be reviewed based on the following three (3) merit review 
+criteria listed in descending order of importance: 
+
+ 
+
+A. Technical Approach: 
+
+
+ 
+
+1. Overall technical approach: The extent to which the Oral Presentations communicate a 
+comprehensive understanding of the Activity objectives and presents the best approach 
+for achieving all objectives. The extent to which the technical approach responds to 
+local context and incorporates key local organizations for Objective 4, and so, presents 
+a sustainability strategy after the Activity ends. Lastly, the extent to which the proposed 
+approach incorporates the Guiding Principles as outlined in Section A. 
+2. Sub-grants management: The extent to which the oral presentation participants 
+demonstrate a strong understanding of the Sub-Grants component of the Activity. The 
+extent to which the Applicant presents a detailed approach on how to use both grant 
+mechanisms, Growth Incentive and Challenge Grants, during the life of the five-year 
+Activity. 
+3. Monitoring, Evaluation and Learning (MEL) and Collaboration, Learning and 
+Adapting (CLA): The extent to which the oral presentation participants demonstrate a 
+clear methodology that incorporates CLA and a logical approach for utilizing data to 
+adaptively manage interventions. 
+
+
+ 
+
+B. Management Approach: 
+
+
+ 
+
+1. Management Implementation: The feasibility of the overall plan for the management 
+and implementation of the Activity, including a sound organizational structure, and 
+providing for rapid startup. 
+2. Key Personnel: The extent to which the individuals proposed as key personnel have 
+qualifications that meet or exceed the minimum requirements; and the extent to which 
+these positions are filled by local staff. 
+3. Partners and Sub-Recipients: If partners and/or sub-recipients will be proposed, the 
+extent to which the oral presentation participants address uses of the sub-partners, 
+including their contributions to the Activity’s objectives. Oral presentation participants 
+demonstrate a sound management approach for building capacity of multiple local 
+organizations at once while managing the grants component of the Activity. Oral 
+presentation participants demonstrate appropriate organizational structure with clear 
+roles and responsibilities that aligns with the proposed technical approach. 
+
+
+
+C. History of Performance 
+
+ 
+
+History of performance information must be submitted within seven (7) calendar days of 
+receipt of the Phase 2 invitation and will be evaluated prior to the oral presentation and, 
+therefore, will not be part of the oral presentation itself. Accordingly, this will be evaluated 
+based on the extent to which performance reviews display organization history and 
+expertise, the history of performance demonstrates experience in Colombia, and the history 
+of successfully using proposed approaches. Applicants with no prior history of 
+performance history will receive a neutral rating. 
+
+ 
+
+E.3.3 Merit Review Criteria for Phase 3 - Apparent Winner 
+
+ 
+
+The apparent winner from Phase 2, Oral Presentations, will be required to submit a Cost 
+Application, detailed budget narrative, and draft Branding and Marking and AMELP Plans. 
+The apparent winner may expect to receive feedback and requested edits or changes to both 
+draft plans, but these plans are not part of the selection criteria. The Cost Application 
+evaluation is detailed below. 
+
+ 
+
+A. Cost Application (Apparent Winner only) 
+
+
+ 
+
+Cost will not be assigned a score as the technical merit of applications is substantially more 
+important than cost under this NOFO, but the final applicant’s budget will be analyzed for 
+cost reasonableness, allocability, allowability, cost effectiveness and realism, adequacy of 
+budget detail and financial feasibility and cost sharing. The percentage of funds spent on 
+programming versus administrative costs will be taken into consideration, i.e., the cost of 
+staff salaries, equipment, and facilities vs. costs of field activities and interventions that 
+directly impact the target beneficiaries. The Agency will evaluate the cost application of 
+the apparent winner under consideration for an award as a result of the merit criteria review 
+to determine whether the costs are allowable in accordance with the cost principles found 
+in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the 
+financial aspects of the program and the applicant's ability to perform the activities within 
+the amount requested; (2) whether the applicant's plans will achieve the program objectives 
+with reasonable economy and efficiency; and (3) whether any special conditions relating 
+to costs should be included in the award. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a 
+pre-award survey is required to inform the risk assessment in determining whether the 
+prospective recipient has the necessary organizational, experience, accounting and 
+operational controls, financial resources, and technical skills – or ability to obtain them – 
+in order to achieve the objectives of the program and comply with the terms and conditions 
+of the award. Depending on the result of the risk assessment, the AO will decide to execute 
+the award, not execute the award, or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+
+B. Cost Sharing (Apparent Winner only) 
+
+
+ 
+
+USAID has established a required cost share of 10% of the Award’s projected value of $23 
+million for the full period of performance, including renewal awards, for the recipient of 
+the award. Leveraged non-USAID resources from private firms and institutions (such as 
+equipment, training, level of effort and any in-kind contributions) may be considered part 
+of cost share. Cost sharing may be also demonstrated either through direct funding, 
+beneficiary contributions, in-kind assistance, or a combination thereof. USAID shall make 
+the final determination and assess whether or not the Applicants cost share contributions 
+(e.g., categories or items) meet the standards set in 2 CFR 200. 
+
+ 
+
+E.3.4 Branding Strategy and Marking Plan 
+
+ 
+
+The Apparently Successful Applicant is required to submit a Branding Strategy and 
+Marking (B&M) Plan to be reviewed by the Selection Committee and approved by the 
+Agreement Officer prior to the award as part of the Final Application package. 
+
+ 
+
+E.3.5 Activity Monitoring, Evaluation, and Learning Plan (AMELP) 
+
+ 
+
+The Apparently Successful Applicant is required to submit a draft Activity Monitoring, 
+Evaluation, and Learning Plan (AMELP) to be reviewed by the Selection Committee as 
+part of the Final Application package. The final plan will be due 60 days after award, as 
+described in Section F. 
+
+ 
+
+[END OF SECTION E] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1. FEDERAL AWARD NOTICES 
+
+
+ 
+
+A notice of award signed by the AO is the authorizing document. USAID will provide it to the 
+selected Recipient electronically. Unsuccessful Applicants will be notified. Award of the 
+agreement contemplated by this NOFO cannot be made until funds have been appropriated, 
+allocated and committed through internal USAID procedures. While USAID anticipates that these 
+procedures will be successfully completed, potential Applicants are hereby notified of these 
+requirements and conditions for the award. 
+
+ 
+
+F.2. ADMINISTRATIVE & NATIONAL POLICY REQUIREMENTS 
+
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations. 
+
+ 
+
+For US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for U.S. Nongovernmental 
+organizations. 
+
+ 
+
+For Non-US organizations: Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+ 
+
+See Annex #2, for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+ 
+
+F.3. REPORTING REQUIREMENTS 
+
+
+ 
+
+F.3.1 Financial Reports 
+
+ 
+
+F.3.1.1 Quarterly Projected Expenditures: The Recipient must submit a spreadsheet, 
+within 10 days following the end of each USG Federal Fiscal Quarter (e.g., by 
+October 10, January 10, April 10 and July 10), showing quarterly projected 
+expenditures to the AOR in accordance with the schedule specified by 
+USAID/Colombia. 
+
+ 
+
+F.3.1.2 Quarterly Accruals Reports: The Recipient is expected to submit accrual 
+information to the AOR in accordance with the schedule specified by 
+USAID/Colombia. 
+
+ 
+
+F.3.2 Planning, Monitoring and Learning Reports 
+
+ 
+
+All planning, monitoring, and learning reports must be submitted in English. 
+
+ 
+
+F.3.2.1 Inception Period Work Plan: The inception period is a critical initial phase 
+(the first six months of the Activity’s period of performance) to first analyze 
+and understand the nature of the problem to be addressed, identify existing 
+initiatives and organizations providing capacity building services, and where 
+the Activity might best intervene to achieve the purpose. The Recipient must 
+
+
+submit a work plan for the inception period that includes the proposed approach, 
+sub-activities, expected results, work plan, management and staffing structure, 
+budget, and timeline. This work plan must include a plan to ensure engagement 
+of USAID, relevant local partners, and other USAID activities as well as 
+engagement of other key stakeholders (GOC, private sector, civil society, etc.). 
+
+ 
+
+In this inception phase, the Recipient will further test the geographic focus and 
+may propose changes for USAID’s approval. 
+
+ 
+
+Due Date: Thirty (30) calendar days from the start date of the award. 
+
+ 
+
+F.3.3.2 Updated Activity Description: Based on inception period findings, the 
+Recipient must submit an updated Activity Description for AO and AOR 
+approval that reflects a more tailored and realistic strategy and effectively 
+responds to the programmatic contexts. 
+
+ 
+
+Due Date: Twenty (20) calendar days after the end of the six (6) month 
+inception phase. 
+
+ 
+
+F.3.2.3 Annual Implementation Plan (AIP): The AIP must include, at a minimum: 
+
+• A strategic statement, articulating major Activity impacts over the life of 
+the five-year award; 
+• All proposed sub-activities, including expected accomplishments and 
+progress towards achieving results and performance measures tied to the 
+indicators agreed upon within the AMELP and to projected expenditures by 
+quarter. 
+• A timeline with relevant milestones indicated for implementation of the 
+upcoming year’s proposed activities, including target completion dates. 
+• Information on how sub-activities will be implemented. 
+• Personnel requirements and consultancy needs during Activity 
+implementation, including draft position descriptions and budget to achieve 
+expected outcomes. 
+• Details of collaboration with other major partners, other USAID/Colombia 
+Activities, alliances, etc. 
+• A Gender and Inclusion Strategy for the life of the five-year Activity, that 
+will be updated with each AIP, as needed. The strategy must concretely 
+describe and provide a basis for monitoring how the Activity will address 
+issues related to gender and inclusion through the design and its 
+implementation. The activities directly related to the implementation of the 
+Gender and Inclusion Strategy must be included in each AIP. 
+• A Sustainability Strategy that includes a plan of engagement with possible 
+public and private sector entities, at the national and local level. This 
+Strategy will be reviewed by AOR and USAID/Colombia Private Sector 
+Engagement (PSE) specialists. Once the Sustainability Strategy is approved 
+on year one, progress of its implementation must be reported in the 
+Quarterly and Annual Performance Progress Reports. 
+• A Communication plan and calendar itemizing milestones and identifying 
+
+
+
+possible stories; and 
+• Anticipated international travel if any. 
+
+
+ 
+
+The AIPs must be organized in a manner that describes overarching (performance managementbased) 
+intermediate results in connection with programmatic inputs (sub activities), outputs 
+(process-based results such as model iterations developed), and outcomes (transformative results 
+reflecting changed behavior, policies and strategies informed). The AIPs will also describe how 
+sub-activities in a given year will lead to further activities and outcomes in subsequent/remaining 
+years/period of performance, as well as how activities are leading towards long-term sustainability 
+of Activity impacts. To finalize each AIP, the Recipient will engage in co-creation with the AOR 
+and other relevant stakeholders. The AOR must approve all AIPs, including any significant 
+changes or revisions thereto. 
+
+ 
+
+Due Date: AIP year one: within forty (40) calendar days of the finalization of the six (6) month 
+inception phase. Subsequent AIPs will cover activities through the end of the current USG Federal 
+Fiscal Year (October 1 – September 30). 
+
+ 
+
+Due Date Subsequent AIPs: August 31 of every year. It will cover the Activity from October 1 
+through September 30. 
+
+ 
+
+F.3.2.4 Activity Monitoring, Evaluation and Learning Plan (AMELP): The 
+Recipient will be responsible for developing and implementing an AMELP. 
+This plan will describe the process for tracking and documenting progress 
+against the Activity objectives and expected results, over the life of the fiveyear 
+Activity. Its implementation will be used to identify challenges and lessons 
+learned; influence decision-making for ongoing improvement and resource 
+allocation; and serve for adaptive management. The AMELP must reflect the 
+approach described in Section A. 
+
+ 
+
+The AMELP must describe the MEL strategies, approaches and tasks as stated 
+in USAID Automated Directives System (ADS) 201. It will contain at least the 
+following sections: 
+
+ 
+
+a. Introduction and/or Overview 
+
+
+ 
+
+This section will include a brief description of the Activity, its results 
+framework, the theory of change and its alignment with the Colombia Country 
+Development Cooperation Strategy (CDCS). 
+
+ 
+
+b. Monitoring Plan 
+
+
+ 
+
+This section will incorporate the monitoring approach including performance 
+indicators of outputs and outcomes that must be clearly articulated to the results 
+framework (or logic model) of the Activity. The main objective (or goal) and 
+the higher-level objectives (or components) of the results framework must be 
+aligned with at least one outcome indicator directly attributable to or affected 
+by the Activity. All the objectives at the different levels of the results 
+
+
+framework will include the necessary output indicators to track progress of the 
+Activity. Baselines and targets for all performance indicators included must be 
+settled and included in a summary table. 
+
+ 
+
+This plan will also include context indicators to track conditions and external 
+factors out of the direct control of the Activity, that are relevant to its 
+implementation and that will be used to monitor assumptions and risks 
+identified in the results framework. No targets are required for context 
+indicators. With the context indicators, the Recipient must consider including 
+at least one indicator to track and to comply with climate risk mitigation. When 
+selecting performance and context indicators, the Recipient must consider their 
+relevance and accuracy according to the intended results of the Activity, as well 
+as the time and resources required to collect and report each indicator data. 
+
+ 
+
+The AMELP may include strategic indicators from the Mission’s Performance. 
+
+Management Plan and the Project MEL Plan linked to the Activity. This 
+alignment will be done jointly with MEL USAID Staff. 
+
+ 
+
+Some of the indicators proposed may include Foreign Assistance (F) Standard 
+
+Indicators and USAID/Colombia Mission Indicators relevant for tracking 
+progress of the expected results of the Activity. The Recipient will include this 
+type of indicators in collaboration with the AOR and the MEL Specialists of 
+USAID/Colombia. USAID/Colombia will provide guidance and the list: 
+Performance Indicator Reference Sheet (PIRS) of all active “F” and Mission 
+indicators as soon as the Activity starts. As part of the AMELP, per ADS 
+205.3.6, “Integrating Gender Equality and Female Empowerment in USAID’s 
+Program Cycle, Monitoring, Evaluation, and Learning”, the Recipient must 
+include gender sensitive indicators that focus on gender equality and female 
+empowerment. Specifically, the indicators are to be designed to track changes 
+in key gender gaps and male and female roles. The Recipient must also 
+disaggregate information by gender and age and provide an analysis of the 
+differing impacts on women, children and vulnerable groups, which may be 
+ethnic communities, persons with disabilities, or the LGBTI community. The 
+Recipient is encouraged to use USAID’s Standard “F” indicators related to 
+gender where appropriate, and to develop outcome indicators that quantitatively 
+show the Activity’s impact on inequalities that exist in terms of gender and 
+vulnerable populations. 
+
+ 
+
+Data for beneficiary population indicators proposed must be disaggregated by 
+geography (department, municipality), sex, and where possible, by age, by 
+vulnerable and minority groups including ethnic groups. The Recipient must 
+include gender sensitive indicators that focus on gender equality and female 
+empowerment. Specifically, the indicators will be designed to track changes in 
+key gender gaps and male and female roles. 
+
+ 
+
+Beyond indicators, the Recipient will also incorporate as applicable other 
+monitoring approaches that can provide qualitative insights, data collection on 
+
+
+a more ad hoc basis, or more in-depth exploration into the achievement of 
+results. 
+
+ 
+
+c. Evaluation Plan 
+
+
+The section will include any plan for internal evaluations to be developed by 
+the Recipient over the life of the five-year Activity, the type of evaluation 
+(performance or impact), purpose and expected use, and an initial approach to 
+possible evaluation questions, estimated budget, planned start date, and 
+estimated completion date. The evaluation plan will also include a plan for 
+collaborating with the external evaluation planned by USAID for the Activity. 
+This will entail ensuring that an external USAID-led evaluation team will have 
+access to Activity information and to appropriate data collected by the 
+Recipient, such as performance monitoring data. 
+
+ 
+
+d. Collaborating, Learning and Adapting (CLA) Plan 
+
+
+ 
+
+This section of the AMEL Plan will explain the Activity’s approach to learning 
+from monitoring data, evaluation findings (if applicable) and other learning 
+efforts, and how the Activity’s implementing partner – in collaboration with 
+USAID Activities and other key stakeholders – will seek to pause, reflect, learn, 
+and adapt throughout implementation. This section may broaden the scope of 
+this section to function as a Collaborating, Learning, and Adapting (CLA) plan 
+for the Activity. This section will also be linked with the Communication and 
+Outreach Plan. The plan may include: 
+
+ 
+
+• Learning questions based on the activity or project’s logic model or 
+potential gaps in the technical knowledge base, and efforts to explore those 
+questions. 
+• Knowledge generation, capture, lessons learned, success stories, and 
+sharing efforts, including at the Activity’s implementation years and closeout. 
+• Reflection opportunities (e.g., during work planning or quarterly reporting, 
+after-action reviews, or other learning events). Information on potential 
+participants, frequency, and utilization should be included. 
+• Plans for adaptive management, based on learning and knowledge gained 
+during implementation, including from identified learning questions that 
+will enable the implementing partner and its key stakeholders to prompt 
+course corrections as needed. 
+• Strategic collaboration activities designed to support learning and adapting 
+with and for key stakeholders (including USAID) relating to specific 
+questions identified in the learning plan. 
+
+
+ 
+
+e. Plan for Managing Data 
+
+
+ 
+
+This section will have a full description of how the data and information will 
+be collected, analyzed, and used, based on data quality standards referenced in 
+ADS 201. This section will include the data collection methods, the data storage 
+
+
+mechanisms, the formats in which data will be held and shared within the 
+Recipient facilities, data security protocols and data analysis and use, bearing 
+into consideration USAID’s data quality standards. 
+
+ 
+
+This section must also include a preliminary identification of the Open Datasets 
+to be collected and submitted in USAID’s open data portal 
+(www.usaid.gov/data) according to ADS 579. If all the datasets cannot be 
+identified to the moment of the AMELP approval, it must include provisions on 
+future collection and submission in compliance with references of the ADS 579, 
+such as incorporation of metadata and standards for geographic data. 
+
+ 
+
+f. Roles and Responsibilities 
+
+
+ 
+
+This section will describe the composition of the staff/personnel needed to carry 
+out the monitoring, evaluation and learning activities for the implementation of 
+the AMELP, including roles, responsibilities, and level of effort. 
+
+ 
+
+g. PIRS (Performance Indicator Reference Sheets) and CIRS (Context 
+Indicator Reference Sheets) 
+
+
+A PIRS and CIRS must be completed for all performance and context indicators 
+included in the Monitor Plan. Each one describes all the relevant information 
+necessary for those who collect or ultimately use the indicator data. The chosen 
+“F” Standard and USAID/Colombia Mission indicators must comply with the 
+existing Standard PIRS so that the results can be aggregated at Colombia 
+Mission and other USAID level. The Recipient may further define a “precise 
+definition” according to the Activity’s context in the standard PIRS as 
+appropriate. However, the precise definition must be within the scope of the 
+indicator’s standard definition. 
+
+ 
+
+h. Annexes: 
+
+
+ 
+
+As per ADS 201, every instrument or method used to collect or analyze 
+information will be referenced and annexed to the AMELP. Annexes may 
+include also other narratives and tables that the Recipient consider relevant for 
+complementing the previous sections. 
+
+ 
+
+Resources for AMELP construction: 
+
+ 
+
+For guidance on the AMELP construction please refer to ADS 201, How-to Note: Activity Monitoring, 
+Evaluation, and Learning Plan and ADS Reference 201maf Performance Indicator Reference Sheet (PIRS) 
+
+ 
+
+Guidance & Template: USAID/Colombia will also provide the Recipient with additional templates 
+and guidance. 
+
+ 
+
+
+Elaboration and approval of the AMELP: 
+
+ 
+
+The AOR in collaboration with the USAID/Colombia MEL Specialists, and other relevant 
+stakeholders as appropriate, will engage in co-creation with the Recipient to review and finalize 
+the AMELP, will verify that the proposed indicators are consistent with and meet the data 
+collection needs of the Mission, and approve the plan. The AMELP is a critical mandatory tool for 
+planning, managing, documenting, and evaluating performance over the life of the five-year 
+Activity. If over the course of implementation, modifications to the AMELP become necessary, 
+the changes to the Plan must be approved by the AOR. 
+
+ 
+
+Due Date: Final AMEL Plan - 60 calendar days after award period of performance start date. 
+
+ 
+
+F.3.2.5 Communications and Outreach Plan: USAID/Colombia conducts 
+communications activities to raise public awareness, understanding, and 
+support for the role and contribution of U.S. assistance programs in Colombia. 
+The Recipient must support USAID’s outreach to Colombian and U.S. 
+audiences by producing informative materials explaining USAID’s efforts to 
+assist the people and government of Colombia to achieve the objectives outlined 
+in Section A. 
+
+ 
+
+The Communications and Outreach Plan must explain how the Recipient will 
+create and implement a variety of appropriate outreach and communications 
+tools and platforms to i) raise public awareness, understanding, and support for 
+the Activity; ii) help advance the Activity’s programmatic objectives in 
+accordance with the requirements of Section A and C; and iii) contribute to 
+knowledge management, including through close coordination with the 
+AMELP. 
+
+ 
+
+The Communications and Outreach Plan must identify the audience (primary 
+and secondary), format, schedule, and purpose of all internal and external 
+communications products, including the required reports listed below. The 
+Communications and Outreach Plan must provide an analysis of the internal 
+and/or external environment and identify a set of project and communication 
+objectives, key audiences - primary and secondary -, messages, appropriate 
+communication products, implementation plan, budget, and evaluation 
+framework. Illustrative examples of other products that might be included are 
+electronic bulletins, infographics and/or newsletters. The Communications and 
+Outreach Plan must include a narrative section describing the strategic purpose 
+for each outreach tool not listed among the required reports. Additionally, the 
+Communications and Outreach Plan must include a section describing the 
+resource needs for each communications product, to ensure adequate planning 
+and execution of the plan to produce high-quality, timely, succinct, and 
+effective communications tools. The Plan must also describe how it articulates 
+and complement the AMELP under the knowledge management umbrella; this 
+must be evident in the communication and outreach activities included in the 
+annual implementation plans. Finally, the plan must be designed for an initial 
+two-year horizon, with a more detailed implementation plan for the first year. 
+
+ 
+
+
+The draft Communications and Outreach Plan will be refined jointly with the 
+AOR and USAID’s Development Outreach and Communications Specialist. 
+
+ 
+
+The Communications and Outreach Plan must align with the Branding Strategy 
+and Marking Plan, which describe how they will communicate to beneficiaries 
+and stakeholder audiences that the work of this award is from the American 
+people per the Branding Strategy and USAID Branding Guidelines (see 
+www.usaid.gov/branding). 
+
+ 
+
+Due Date: Draft Communications and Outreach Plan - Sixty (60) calendar days 
+after Award period of performance start date. 
+
+ 
+
+Final Communications and Outreach Plan - Thirty (30) calendar days after the 
+end of the inception phase. 
+
+ 
+
+F.3.2.6 Safety and Security Plan: One of USAID/Colombia’s primary programming 
+concerns is that its implementing partners take all reasonable precautions to 
+minimize risks to all staff and operations funded by the Agency. While risk can 
+never be fully eliminated, USAID/Colombia expects its partners to be 
+adequately prepared to work in the prioritized territories. The Recipient must 
+submit a location-specific Safety and Security Plan for proposed operational 
+areas, which may be as specific as by region, department, municipality, etc., 
+where activities will occur. The Recipient will use discretion in providing a 
+level of detail appropriate to the operating context and variance in conditions 
+across the targeted areas. Submission of global security handbooks and/or 
+policy documents does not qualify as a Safety and Security Plan. 
+
+ 
+
+The Safety and Security Plan must be demonstrably written for and apply 
+directly to the areas where activities will be implemented. All personnel and 
+operations funded under this award, including sub-awardees or other partners 
+with substantive programmatic contributions, must be covered by a safety and 
+security plan. The Recipient must pay attention to the unique threats and 
+vulnerabilities faced by their staff, beneficiaries, sub awardees, etc., and directly 
+address these threats and vulnerabilities in safety and security plans. 
+
+ 
+
+In terms of protection from sexual exploitation and abuse (PSEA) for activity 
+staff, beneficiaries, sub-awardees, etc., the Recipient must describe how the 
+activity will monitor this, as well as manage potential cases internally and 
+externally according to relevant local laws. 
+
+ 
+
+USAID/Colombia will not approve the safety and security plan. The safety and 
+security plan are meant to demonstrate the Recipient’s due inclusion of a 
+conflict-sensitivity and “Do No Harm” approach to ensure the security and 
+protection of staff, beneficiaries, sub-awardees, etc. 
+
+ 
+
+Due Date: Thirty (30) calendar days after the end of the inception phase. 
+
+ 
+
+
+F.3.2.7 Security Reports: As part of the overall security requirements, the Recipient 
+must report any security threats and/or incidents impacting the implementation 
+of the award, verbally or by telephone, immediately to the AOR or Alternate 
+AOR in the AOR’s absence. Subsequently, a written report must be promptly 
+submitted. All sub-awardees will be required to report any threats/incidents to 
+the prime Recipient, who will immediately after, notify the AOR. 
+
+ 
+
+At the minimum, a security incident report must contain the name of the 
+Organization, name of the individual(s), date, time, a description of what 
+happened, where the incident occurred, and any other relevant details 
+surrounding the incident. 
+
+ 
+
+Due Date: The type and frequency of these reports may vary with the Activity 
+scope and location. If this is an ongoing incident, progress reports must be 
+submitted to keep the AOR apprised of the situation. 
+
+ 
+
+F.3.2.8 Reporting in the Mission-wide Monitoring Management Information 
+System (MONITOR): In compliance with ADS 201 and ADS 579 regarding 
+data reporting, once the AMELP is approved by the AOR, the Recipient must 
+register in USAID/Colombia’s MONITOR System (see Section 6.4 in 
+Attachment A of this Cooperative Agreement) the following: 
+
+ 
+
+a. Activity information (Summary, start/end dates, objective, budget, 
+geographical coverage, target population, etc.). 
+
+
+ 
+
+b. Sub-activity information (Summary, start/end dates, objective, budget, 
+geographical coverage, target population, classification), etc. A sub-activity 
+is understood as an effort within the Activity, carried out either directly by 
+the Recipient or by its sub awardees. The sub-activity must have a clear 
+purpose, USAID resources, indicators and targets linked to the Activity’s 
+AMELP and an environmental determination. Sub-activities will be 
+uploaded in the system on an ongoing basis. 
+
+
+ 
+
+c. Sub-activity environmental compliance information. If the Activity is rated 
+as “negative determination” or “positive determination” in the Initial 
+Environmental Examination (IEE) and/or Environmental Threshold 
+Decision (ETD), the Recipient will need to report on the compliance of 
+applicable Environmental Management Approach (EMA) for each subactivity 
+on a quarterly basis. The EMA must identify mitigation measures 
+and training needs to avoid harming people and ensure the wise use of 
+USAID money through thoughtful, environmentally sound economic 
+development - for activities that are subject to one or more conditions set 
+out in the “Recommended Threshold Decision” section of the IEE. The 
+Recipient must keep in mind that it is its responsibility to: 
+
+
+ 
+
+i. Develop and provide an EMA to the USAID/Colombia Mission 
+Environment Officer (MEO) for review and approval by registering 
+
+
+
+NOFO 72051421RFA00002 STRENTENING TOGETHER ACTIVITY 
+
+each sub-activity in the MONITOR system 
+(http://www.monitor.net.co). 
+
+ii. All sub-activities must be approved by the MEO of 
+USAID/Colombia before starting through the MONITOR system, 
+including Categorical Exclusion. 
+iii. Use the MONITOR system, as instructed by the MEO, to ensure 
+compliance with USAID environmental regulation 22 CFR 216. 
+iv. Ensure that any appropriate environmental guidelines are followed 
+and that mitigation measures described in the pertinent Threshold 
+Decision (IEE) for each of these activities are funded and 
+implemented, including any necessary training or capacity building, 
+and adequate monitoring. 
+v. Ensure that the EMA is implemented, even under subcontracts and 
+sub-grants. 
+d. AMELP indicators (PIRS Information). The indicator results will be 
+uploaded on a quarterly basis. Any modification to an Indicator and its PIRS 
+needs to be validated and approved by USAID. 
+e. The Recipient must report indicator progress into MONITOR, in parallel as 
+the submission of the (Quarterly/Annual) Performance Progress Reports. 
+This will allow aggregation of results at the Activity level and elaboration 
+of progress reports by USAID/Colombia. 
+Due Date: October 31, January 31, April 30, and July 31 
+
+F.3.3 Performance Reports 
+F.3.3.1 Quarterly Performance Progress Reports: The Quarterly Performance 
+Progress Reports will inform on progress and activities of the preceding quarter 
+under the Cooperative Agreement. The report must describe the tasks 
+completed in the last quarter relative to what was anticipated by the approved 
+AIP and will assess overall Activity’s progress to date relative to the 
+performance indicator targets. Each report must include the following: 
+• 
+Name of the Activity and Implementer; award number; and period of 
+performance. 
+• 
+Brief outline of Activity purpose and Activity approach. 
+• 
+Overall status of Activity progress towards programmatic and financial 
+objectives (narrative). 
+• 
+Identify and relate the benchmarks and achievements towards planned 
+targets, as identified in the Recipient’s AMELP of the three-month period 
+of the approved Implementation Plan. 
+• 
+Provide status of overall Activity progress per the approved performance 
+and context. 
+• 
+Update indicators defined in the AMELP, clearly distinguishing between 
+
+relevant components of the results framework. 
+• Succinct success stories and lessons learned for possible public 
+dissemination. 
+• Status of progress in implementation of the Gender & Inclusion Strategy, 
+Sustainability Strategy, and the Communications and Outreach Plan. 
+• Verification of compliance with cost share broken down by financial and/or 
+in-kind contributions. 
+• Programmatic Coordination and collaboration with other USAID 
+Activities, if applicable. 
+• Monitor indicator report and screenshots of documents uploaded to the DEC 
+during the quarter. 
+• If any key problems or issues were encountered, how they were or will be 
+resolved, and, 
+• if there are recommended Mission-level interventions to facilitate their 
+timely resolution. 
+
+
+ 
+
+Due Date: October 31, January 31, April 30, and July 31. The submission of 
+the first report will begin following submission of the first AIP. 
+
+ 
+
+F.3.3.2 Annual Performance Progress Reports: The Annual Performance Progress 
+Report of the fiscal year will serve as the annual status report for the concluding 
+year. The Annual Performance Progress Reports may be submitted in lieu of 
+the fourth quarterly technical report. In addition to meeting the requirements of 
+the Quarterly Performance Progress Reports, the annual report must include: 
+
+ 
+
+• A discussion supported with quantitative and qualitative evidence (which 
+will remain auditable under the terms of the Cooperative Agreement and 
+USAID Activity. 
+• implementation procedures), of impacts achieved to-date, including clear 
+identification of which impacts achieved were within the manageable 
+interests of the Recipient and which were likely catalyzed by Recipientsupported 
+initiatives, 
+• leading to substantial, sustained achievement of results, and, 
+• Brief summary explaining how progress achieved and overall 
+implementation contributed to build local capacity and promote 
+sustainability beyond USG assistance. 
+
+
+ 
+
+Due Date: October 31 of each year. 
+
+ 
+
+F.3.3.3 Final Performance Progress Report: The Activity’s Final Performance 
+Progress Report will include: an executive summary of the Recipient’s 
+accomplishments in achieving results, targets, and impact; important research 
+findings; comments and recommendations to USAID Colombia for future 
+programming; and a fiscal report that describes how the Recipient’s funds were 
+used. 
+
+ 
+
+Due Date: Sixty (60) calendar days prior to the end date of the Award. 
+
+
+F.4. PROGRAM INCOME 
+
+
+ 
+
+If generated during award implementation, the Recipient must account for Program Income in 
+accordance with 2 CFR 200.80. Program income will be used in accordance with 2 CFR 
+200.307(e)(2), added to funds committed by USAID and the Recipient to the Activity, and used 
+for the purposes and under the conditions of the Federal award to further eligible Activity 
+objectives. 
+
+ 
+
+F.5. ENVIRONMENTAL COMPLIANCE 
+
+
+ 
+
+1a) The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered and that USAID include environmental 
+sustainability as a central consideration in designing and carrying out its development programs. 
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ADS/200/), 
+which, in part, require that the potential environmental impacts of USAID-financed activities are 
+
+identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. The Recipient’s environmental compliance obligations under these 
+regulations and procedures are specified in the following paragraphs. 
+
+ 
+
+1b) In addition, the Recipient must comply with host country environmental regulations unless 
+
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+
+regulations, the latter will govern. 
+
+ 
+
+1c) No activity funded under this cooperative agreement will be implemented unless an 
+environmental threshold determination, as defined by 22 CFR 216, has been reached for that 
+activity, as documented in a Request for Categorical Exclusion (RCE), Initial Environmental 
+Examination (IEE), or Environmental Assessment (EA) duly signed by the Bureau Environmental 
+Officer (BEO). (Hereinafter, such documents are described as “approved Regulation 216 
+environmental documentation.”) 
+
+ 
+
+2) Initial Environmental Examinations (IEE) [LAC-IEE-20-94] & [LAC-IEE-19-49] have been 
+approved for the Strengthening Together Activity. The IEEs cover activities expected to be 
+implemented under this award. 
+
+ 
+
+A Categorical Exclusion was issued to the Strengthening Together Activity development activities 
+aiming at building capacity of the GOC to formulate and implement policies, support to policy 
+consultation processes, support to institutional reform, training of staff are actions are not subject 
+to the procedures set forth in 216.3, except to the extent provided herein, in accordance with 22 
+CFR 216.2(c)(2): 
+
+ 
+
+(i) Education, technical assistance, or training programs except to the extent such training 
+programs includes activities directly affecting the environment (such as construction of 
+facilities, etc.). 
+(ii) Analyses, studies, academic or research workshops and meetings. 
+
+
+ 
+
+USAID has determined that a Negative Determination with conditions applies to the activities 
+below. This indicates that if these activities are implemented subject to the specified conditions, 
+
+
+they are expected to have no significant adverse effect on the environment. The Recipient will be 
+responsible for implementing all IEE conditions pertaining to activities to be funded under this 
+award. 
+
+ 
+
+A Negative Determination with Conditions is issued to the Strengthening Together Activity for 
+activities related to technical assistance to producing or processing crops and for small productive 
+infrastructure. The Mission Environmental Officer (MEO) and the Agreement Officer's 
+Representative (AOR) will oversee the implementation of appropriate environmental guidelines. 
+Reports on these matters will be submitted by the Mission to LAC/BEO in Washington 
+periodically. 
+
+ 
+
+A Negative Determination with Conditions is issued to the Strengthening Together Activity for 
+the use of pesticides in the agricultural production, being the condition the full use and application 
+of the approved PERSUAP (LAC-IEE-09-19 or most recent). Any modification of the PERSUAP 
+will have to be approved before the implementation of the program. The MEO and the COR/AOR 
+will oversee the implementation of the PERSUAP. Reports on these matters will be submitted by 
+the Mission to LAC/BEO periodically. 
+
+ 
+
+A Negative Determination with Conditions is issued to the Strengthening Together Activity for 
+activities needing small-scale infrastructure and small-scale construction. The condition is that the 
+relevant USAID Environmental Guidelines for Development Activities in Latin America and 
+Caribbean will be used in the implementation of these activities. The MEO, COR/AOR, and 
+implementing partners will oversee the use of these Guidelines and their implementation. Reports 
+on these matters will be submitted by the Mission to the LAC/BEO on an annual basis. 
+
+ 
+
+The IEE contains a Positive Determination for the activities below. This indicates that these 
+activities have the potential for significant adverse effects on the environment. Accordingly, the 
+Recipient is required to comply with the terms of the Environmental Assessment (EA) addressing 
+the environmental concerns raised by these activities. No activity identified under this Positive 
+Determination can proceed until Scoping as described in §216.3(a)(4) and an EA as described in 
+§216.6 are completed and approved by USAID. 
+
+ 
+
+4a) As part of its initial Implementation Plan, and all Annual Implementation Plans thereafter, the 
+Recipient, in collaboration with the USAID Agreement Officer Representative (AOR) and Mission 
+Environmental Officer or Bureau Environmental Officer, as appropriate, must review all ongoing 
+and planned activities under this cooperative agreement to determine if they are within the scope 
+of the approved Regulation 216 environmental documentation. 
+
+4b) If the Recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it must prepare an amendment to the documentation for USAID 
+review and approval. No such new activities will be undertaken prior to receiving written USAID 
+approval of environmental documentation amendments. 
+
+ 
+
+4c) Any ongoing activities found to be outside the scope of the approved Regulation 216 
+environmental documentation will be halted until an amendment to the documentation is submitted 
+and written approval is received from USAID. 
+
+ 
+
+5. When the approved Regulation 216 documentation is (1) an IEE that contains one or more 
+Negative Determinations with conditions and/or (2) an EA, the Recipient must: 
+
+
+5a) Unless the approved Regulation 216 documentation contains a complete environmental 
+mitigation and monitoring plan (EMMP) the Recipient must prepare an EMMP or an 
+Environmental Review (ER) generated through the Monitor System describing how the Recipient 
+will, in specific terms, implement all IEE and/or EA conditions that apply to proposed project 
+activities within the scope of the award. The EMMP or ER must include monitoring the 
+implementation of the conditions and their effectiveness. 
+
+5b) Integrate a completed EMMP or ER into the initial Implementation plan. 
+
+5c) Integrate an EMMP or ER Plan into subsequent Annual Implementation Plans, making any 
+necessary adjustments to activity implementation in order to minimize adverse impacts to the 
+environment. 
+
+6a) Sub-grants are allowed under this award; therefore, the Recipient will be required to use an 
+Environmental Review Form (ERF) or Environmental Review (ER) checklist using impact 
+assessment tools to screen grant proposals to ensure that these will result in no adverse 
+environmental impact, to develop mitigation measures, as necessary, and to specify monitoring 
+and reporting. Use of the ERF or ER checklist is called for when the nature of the grant proposals 
+to be funded is not well enough known to make an informed decision about their potential 
+environmental impacts, yet due to the type and extent of activities to be funded, any adverse 
+impacts are expected to be easily mitigated. Implementation of sub-grant and investment activities 
+cannot go forward until the ERF or ER checklist is completed and approved by USAID. The 
+Recipient is responsible for ensuring that mitigation measures specified by the ERF or ER checklist 
+process are implemented. In cases where the nature of the investment is not well known enough to 
+make an informed decision about potential environmental impacts, the final impact assessment can 
+be deferred to a later stage in consultation with the AOR. 
+
+7a) The Recipient will be responsible for periodic reporting to the USAID Agreement Officer 
+Representative. 
+
+ 
+
+Climate Risk 
+
+ 
+
+All USAID projects and activities approved after October 1, 2016 are required to be assessed for 
+climate risks. The process of assessing, addressing, and adaptively managing climate risks is 
+known as climate risk management (see Climate Risk Management for USAID Projects and 
+Activities, a Mandatory Reference for ADS Chapter 201 
+https://www.usaid.gov/sites/default/files/documents/1868/201mal_042817.pdf). The goal of 
+climate risk management is to make USAID’s development work more resilient to potential 
+changes in climate or weather conditions -- such as increasing temperatures, more frequent 
+droughts or floods, or large storms. These events can have potential negative consequences on 
+projects or activities, making it more difficult to achieve results. With better analysis and planning, 
+USAID can anticipate, prepare for, and adapt to these changing conditions and avoid inadvertently 
+increasing our exposure to risk. 
+
+Climate risk is the potential for negative consequences due to changing climatic conditions where 
+the outcome is uncertain. The focus of climate risk management at USAID is on the risk to USAID 
+development programs. This risk consists of individual climate risks—potentially severe adverse 
+consequences for development programs resulting from the interaction of climate-related hazards 
+with the vulnerability of societies and systems exposed to climate change. A climate risk may arise 
+when something is exposed to a climate stressor such as higher temperatures, flooding or drought. 
+
+
+The level of risk increases as the magnitude of the negative consequence from the exposure 
+increases and it also increases as the likelihood of the negative consequence increases. 
+
+For STA, USAID/Colombia conducted the climate risk assessment and will present results to the 
+Recipient during the Post Award Orientation Meeting. If the assessment indicates moderate or high 
+climate risks, each risk must be addressed by integrating risk management measures into activity 
+implementation. This will be done through an Environmental Management Approach (EMA) in 
+the Monitor system, where the Recipient will describe specifically how it will implement all Initial 
+Environmental Examination (IEE) conditions and mitigation measures that result from the climate 
+risk screening that apply to proposed activities within the scope of the award, including identified 
+climate risks. 
+
+ 
+
+F.6. OTHER REQUIREMENTS (RESERVED) 
+
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+G.1. NOFO Points of Contact 
+
+ 
+
+The Agreement Officer for this Award is: 
+
+ 
+
+Heather Wirick 
+
+Agreement Officer 
+
+U.S Agency for International Development 
+
+Carrera 45 No. 24B-27 
+
+Bogota, Colombia 
+
+Email: hwirick@usaid.gov 
+
+ 
+
+The Acquisition and Assistance Specialist for this Award is: 
+
+ 
+
+German Camilo Gutierrez 
+
+Senior Acquisition & Assistance Specialist 
+
+U.S Agency for International Development 
+
+Carrera 45 No. 24B-27 
+
+Bogotá, Colombia 
+
+Email: ggutierrez@usaid.gov 
+
+ 
+
+G.2. Acquisition and Assistance Ombudsman 
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all 
+organizations who are doing or wish to do business with USAID. Please visit this page for 
+additional information: https://www.usaid.gov/work-usaid/acquisition-assistance-ombudsman 
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov. 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of public 
+funds. Any award and subsequent incremental funding will be subject to the availability of funds 
+and continued relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. Government except for evaluation purpose, must mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in whole 
+or in part – for any purpose other than to evaluate this application. If, however, an award is made 
+as a result of – or in connection with – the submission of this data, the U.S. Government will have 
+the right to duplicate, use, or disclose the data to the extent provided in the resulting award. This 
+restriction does not limit the U.S. Government’s right to use information contained in this data if 
+it is obtained from another source without restriction. The data subject to this restriction are 
+contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the Applicant must mark each sheet of data it wishes to restrict with the following: 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of 
+this application.” 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX LIST 
+
+ 
+
+Annexes 1-5 are attached with the NOFO package in www.grants.gov 
+
+ 
+
+• ANNEX 1 – BUDGET TEMPLATE 
+
+
+ 
+
+• ANNEX 2 – STANDARD PROVISIONS AND REQUIRED AS APPLICABLE FOR 
+U.S AND NON-U.S ORGANIZATIONS. 
+
+
+ 
+
+• ANNEX 3 – BRANDING AND MARKING GUIDANCE AND TEMPLATE FOR 
+
+
+ASSISTANCE AWARDS 
+
+ 
+
+• ANNEX 4 – NON-US ORGANIZATION PRE-AWARD SURVEY 
+
+
+ 
+
+• ANNEX 5 – HISTORY OF PERFORMANCE FORM 
+
+
+ 
+
+• ANNEX 6 – LIST OF ACRONYMS 
+
+
+ 
+
+[END OF ANNEX LIST] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX 1 - BUDGET TEMPLATE 
+
+ 
+
+An attachment is included in the NOFO in Excel format (.xslx) for the applicant to complete. 
+
+ 
+
+ [END OF ANNEX 1] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). 
+
+ 
+
+The actual Standard Provisions included in the award will be dependent on the organization that 
+is selected. The award will include the latest Mandatory and Required as Applicable Provisions 
+for either U.S. or non-U.S. Non-governmental organizations. The following “required as 
+applicable” Standard Provisions for both types of organizations are listed below: 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR U.S 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+
+
+Required 
+
+Not Required 
+
+Standard Provision 
+
+
+
+ 
+
+ 
+
+TBD 
+
+RAA1. NEGOTIATED INDIRECT COST RATES - 
+PREDETERMINED (NOVEMBER 2020) 
+
+
+
+RAA2. NEGOTIATED INDIRECT COST RATES - PROVISIONAL 
+(Nonprofit) (NOVEMBER 2020) 
+
+
+
+RAA3. NEGOTIATED INDIRECT COST RATE - PROVISIONAL 
+(Profit) (DECEMBER 2014) 
+
+
+
+RAA4. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 
+2020) 
+
+
+
+X 
+
+ 
+
+RAA5. EXCHANGE VISITORS AND PARTICIPANT TRAINING 
+(JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA6. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+
+
+ 
+
+X 
+
+RAA7. PROTECTION OF THE INDIVIDUAL AS A RESEARCH 
+SUBJECT (APRIL 1998) 
+
+
+
+ 
+
+X 
+
+RAA8. CARE OF LABORATORY ANIMALS (MARCH 2004) 
+
+
+
+X 
+
+ 
+
+RAA9. TITLE TO AND CARE OF PROPERTY (COOPERATING 
+COUNTRY TITLE) (NOVEMBER 1985) 
+
+
+
+X 
+
+ 
+
+RAA10. COST SHARING (MATCHING) (FEBRUARY 2012) 
+
+
+
+X 
+
+ 
+
+RAA11. PROHIBITION OF ASSISTANCE TO DRUG 
+TRAFFICKERS (JUNE 1999) 
+
+
+
+ 
+
+X 
+
+RAA12. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+
+
+X 
+
+ 
+
+RAA13. REPORTING HOST GOVERNMENT TAXES 
+(DECEMBER 2014) 
+
+
+
+ 
+
+X 
+
+RAA14. FOREIGN GOVERNMENT DELEGATIONS TO 
+INTERNATIONAL CONFERENCES (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA15. CONSCIENCE CLAUSE IMPLEMENTATION 
+(ASSISTANCE) (FEBRUARY 2012) 
+
+
+
+ 
+
+X 
+
+RAA16. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+ 
+
+X 
+
+RAA17. PROHIBITION ON THE PROMOTION OR ADVOCACY 
+OF THE LEGALIZATION OR PRACTICE OF PROSTITUTION OR 
+SEX TRAFFICKING (ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+
+
+
+X 
+
+ 
+
+RAA18. USAID DISABILITY POLICY - ASSISTANCE 
+(DECEMBER 2004) 
+
+
+
+ 
+
+X 
+
+RAA19. STANDARDS FOR ACCESSIBILITY FOR THE 
+DISABLED IN USAID ASSISTANCE AWARDS INVOLVING 
+CONSTRUCTION (SEPTEMBER 2004) 
+
+
+
+ 
+
+X 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTITRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR 
+PROSTITUTION (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTITRAFFICKING 
+FUNDS (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING 
+FUNDS TO PROMOTE, SUPPORT, OR ADVOCATE FOR THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION (JUNE 
+2012) 
+
+
+
+X 
+
+ 
+
+RAA23. UNIVERSAL IDENTIFIER AND SYSTEM FOR AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+
+
+X 
+
+ 
+
+RAA24. REPORTING SUBAWARDS AND EXECUTIVE 
+COMPENSATION (NOVEMBER 2020) 
+
+
+
+ 
+
+X 
+
+RAA25. PATENT REPORTING PROCEDURES (NOVEMBER 
+2020) 
+
+
+
+ 
+
+X 
+
+RAA26. ACCESS TO USAID FACILITIES AND USAID’S 
+INFORMATION SYSTEMS (AUGUST 2013) 
+
+
+
+X 
+
+ 
+
+RAA27. CONTRACT PROVISION FOR DBA INSURANCE 
+UNDER RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+
+
+X 
+
+ 
+
+RAA28. AWARD TERM AND CONDITION FOR RECIPIENT 
+INTEGRITY AND PERFORMANCE MATTERS (April 2016) 
+
+
+
+X 
+
+ 
+
+RAA29. RESERVED 
+
+
+
+X 
+
+ 
+
+RAA30. PROGRAM INCOME (AUGUST 2020) 
+
+
+
+ 
+
+X 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 
+2020) 
+
+
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+
+
+Required 
+
+Not Required 
+
+Standard Provision 
+
+
+
+TBD 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (NOVEMBER 2020) 
+
+
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS 
+(DECEMBER 2014) 
+
+
+
+ 
+
+ 
+
+TBD 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST RATE 
+AGREEMENT (NICRA) (NOVEMBER 2020) 
+
+
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED AMOUNT 
+(NONPROFIT) (JUNE 2012) 
+
+
+
+RAA5. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 
+2020) 
+
+
+
+X 
+
+ 
+
+RAA6. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+
+
+
+
+
+X 
+
+ 
+
+RAA7. REPORTING SUBAWARDS AND EXECUTIVE 
+COMPENSATION (NOVEMBER 2020) 
+
+
+
+X 
+
+ 
+
+RAA8. SUBAWARDS (DECEMBER 2014) 
+
+
+
+X 
+
+ 
+
+RAA9. TRAVEL AND INTERNATIONAL AIR TRANSPORTATION 
+(DECEMBER 2014) 
+
+
+
+ 
+
+X 
+
+RAA10. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+
+
+X 
+
+ 
+
+RAA11. REPORTING HOST GOVERNMENT TAXES (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA12. PATENT RIGHTS (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA13. EXCHANGE VISITORS AND PARTICIPANT TRAINING 
+(JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA14. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+
+
+X 
+
+ 
+
+RAA 15. COST SHARE (JUNE 2012) 
+
+
+
+X 
+
+ 
+
+RAA16. PROGRAM INCOME (AUGUST 2020) 
+
+
+
+ 
+
+X 
+
+RAA17. FOREIGN GOVERNMENT DELEGATIONS TO 
+INTERNATIONAL CONFERENCES (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED 
+IN USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+
+
+ 
+
+X 
+
+RAA19. PROTECTION OF HUMAN RESEARCH SUBJECTS (JUNE 
+2012) 
+
+
+
+ 
+
+X 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTITRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR 
+PROSTITUTION (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTITRAFFICKING 
+FUNDS (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING 
+FUNDS TO PROMOTE, SUPPORT, OR ADVOCATE FOR THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+
+
+ 
+
+X 
+
+RAA23. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+
+
+ 
+
+X 
+
+RAA24. CONSCIENCE CLAUSE IMPLEMENTATION 
+(ASSISTANCE) (FEBRUARY 2012) 
+
+
+
+ 
+
+X 
+
+RAA25. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+ 
+
+X 
+
+RAA26. PROHIBITION ON THE PROMOTION OR ADVOCACY OF 
+THE LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING(ASSISTANCE) (SEPTEMBER 2014) 
+
+
+
+ 
+
+X 
+
+RAA27. LIMITATION ON SUBAWARDS TO NON-LOCAL 
+ENTITIES (JULY 2014) 
+
+
+
+X 
+
+ 
+
+RAA28. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+
+
+X 
+
+ 
+
+RAA29. CONTRACT AWARD TERM AND CONDITION FOR 
+RECIPIENT INTEGRITY AND PERFORMANCE MATTERS (April 
+2016) 
+
+
+
+X 
+
+ 
+
+RAA30. RESERVED 
+
+
+
+ 
+
+X 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 
+2020) 
+
+
+
+ 
+[END OF ANNEX 2] 
+
+
+ ANNEX 3 – BRANDING AND MARKING GUIDANCE AND TEMPLATE FOR 
+
+ASSISTANCE AWARDS 
+
+ 
+
+1. GUIDANCE 
+
+
+ 
+
+1.1 ADS 320.3.3 Branding and Marking Requirements for Assistance Awards 
+
+
+
+
+ 
+
+USAID’s policy is that programs, projects, activities, public communications, or commodities 
+implemented or delivered under assistance instruments – such as grants, cooperative agreements, 
+or other assistance awards – generally are “co-branded and comarked.” In accordance with Section 
+700.16 of Title 2 of the CFR, this policy applies to assistance awards even when the award does 
+not require any cost sharing (see ADS 303.3.10). 
+
+ 
+
+Please note that while USAID requires exclusive USAID branding and marking for acquisition 
+awards, and co-branding with the assistance Recipient for assistance awards, USAID generally 
+manages branding and marking in a similar manner for all U.S foreign assistance, to promote a 
+consistent approach to branding and marking across all the Agency’s programs and maintain a 
+brand identity that there are “from the American People.” 
+
+ 
+
+1.2 ADS 320.3.3.1 Co-branding and Co-marking for Assistance Awards 
+
+
+
+
+ 
+
+"Co-branding" and “co-marking” mean that the program, project, or activity marking represents 
+both USAID and the implementing partner. The USAID Identity must appear on program materials 
+produced for programmatic purposes with equivalent or greater size and prominence than the 
+identity or logo of the implementing partner, a Recipient, another donor, or any third party. 
+Program materials include the examples set forth in Section 700.16 of Title 2 of the CFR 700. 
+
+ 
+
+The AO, after consulting with the Principal Officer and RO, may determine that a program's goals 
+require that the USAID Identity be larger and more prominent, if USAID is the majority donor and 
+the USAID-funded program, project, or activity is especially important to USAID. 
+
+ 
+
+A host-country symbol or ministry logo or other U.S. Government seal or logo may also be added, 
+if applicable. See Section 320.3.5.1 on the use of an additional or substitute logo or seal and tagline 
+to represent a presidential, or other high-level interagency Federal initiative. 
+
+ 
+
+Please see the USAID Graphic Standards Manual and Partner Co-Branding Guide for further 
+information on co-branding. 
+
+ 
+
+1.3 ADS 320.3.3.2 Branding and Marking Requirements for Specific Grant, Cooperative 
+Agreement, or Other Assistance Awards 
+
+
+
+
+ 
+
+Requirements for marking assistance, including requests for presumptive exceptions and waivers 
+for assistance awards, must comply both with this ADS chapter and Section 700 of Title 2 of the 
+CFR, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards. By policy, USAID requires nonU.S., non-governmental organizations, including nongovernmental 
+organizations in partner countries, to follow marking requirements for assistance 
+awards as set forth in this ADS chapter and Section 700 of Title 2 of the CFR. AOs and the relevant 
+RO(s), with support as needed from DOCs, Bureau/Office Communications Officers, and the 
+
+
+Senior Advisor for Brand-Management in LPA, are responsible for ensuring that Apparently 
+Successful Applicants and Recipients are familiar with the Agency’s requirements for branding 
+and marking. 
+
+ 
+
+Whether in connection with a competitive award, an unsolicited proposal, or other noncompetitive 
+award, every Apparently Successful Applicant must submit a Branding Strategy and Marking Plan 
+(see Section 320.3.1.4 regarding adding incremental funding to existing awards). The Marking 
+Plan may include requests for the AO to approve presumptive exceptions (see Section 700.16 [gh] 
+of Title 2 of the CFR). A determination by an AO before the Agency makes an award that none 
+of the presumptive exceptions applies is not subject to a separate appeal process, but the normal 
+procedures for awarding or administering a grant may address it. A determination by an AO after 
+the Agency makes an award that a presumptive exception does not apply is subject to the appeals 
+process in Section 700 of Title 2 of the CFR. 
+
+ 
+
+The Branding and Marking Monitoring and Verification form serves as a tool to assist AORs. in 
+monitoring implementing partners’ compliance with marking requirements. 
+
+ 
+
+2. TEMPLATES 
+
+
+ 
+
+2.1 BRANDING STRATEGY 
+
+ 
+
+THIS PORTION TO BE COMPLETED BY THE RECIPIENT 
+
+“USAID BRANDING STRATEGY” 
+
+AWARD TITLE 
+
+AWARD NUMBER 
+
+DATE OF PLAN 
+
+ 
+
+1. Positioning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+● What is the intended name of this program, project, or activity? 
+
+
+
+
+ 
+
+● Will this be co-branded with the partner/organization? If yes, how? 
+
+
+
+
+ 
+
+● Will a program logo be developed and used consistently to identify this program? If yes, 
+please attach a copy of the proposed program logo. 
+
+
+
+
+ 
+
+2. Program Communications and Publicity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+● Who are the primary and secondary audiences for this project or program? 
+
+
+
+
+ 
+
+● What communications or program materials will be used to explain or market the program to 
+beneficiaries? 
+
+
+
+
+ 
+
+● What is the main program message? 
+
+
+
+
+ 
+
+● Will the Recipient announce and promote publicly this program or project to host country 
+
+
+
+
+ citizens? If yes, what press, and promotional activities are planned? 
+
+
+● Please provide any additional ideas about how to increase awareness that the American 
+people support this project or program. 
+
+
+
+
+ 
+
+3. Acknowledgements 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+● Will there be any direct involvement from a host country government ministry? If yes, please 
+indicate which one or ones. Will the Recipient acknowledge the ministry as an additional 
+cosponsor? 
+
+
+
+
+ 
+
+Note: it is perfectly acceptable and often encouraged for USAID to "co-brand" programs with 
+government ministries. 
+
+ 
+
+● Indicate if there are any other groups whose logo or identity the partner will use on programs 
+with government ministries. 
+
+
+
+
+ 
+
+4. Budget 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Please include all estimated costs associated with branding and marking USAID programs, such 
+as plaques, stickers, banners, press events and materials. 
+
+ 
+
+2.2 MARKING PLAN 
+
+ 
+
+2.2.1 General Instructions 
+
+ 
+
+USAID’s policy requires non-U.S., non-governmental organizations, including cooperating 
+country non-governmental organizations (and in rare cases, Public International Organizations) to 
+follow marking requirements for assistance awards. Marking requirements, including requests for 
+presumptive exceptions and waivers for assistance awards must be in accordance with 2 CFR 
+700.16(h). 
+
+ 
+
+With reference to ADS Sections 320.3.3.2 and 2 CFR 700.16, the Recipient must prepare a 
+Marking Plan containing information substantially similar to the sample provided below: 
+
+ 
+
+“USAID MARKING PLAN” 
+
+AWARD TITLE 
+
+AWARD NUMBER 
+
+DATE OF PLAN 
+
+ 
+
+(1) Requirement: A description of the public communications, commodities, and program 
+materials that the Recipient will produce as a part of the grant or cooperative agreement and 
+which will visibly bear the USAID identity. These include: (i) program, project, or activity 
+sites funded by USAID, including visible infrastructure projects or other programs, projects, 
+or activities that are physical in nature; (ii) technical assistance, studies, reports, papers, 
+publications, audiovisual productions, public service announcements, websites/Internet 
+activities, and other promotional, informational, media, or communication products funded by 
+
+
+
+
+
+
+
+
+
+USAID; (iii) events financed by USAID, such as training courses, conferences, seminars, 
+exhibitions, fairs, workshops, press conferences, and other public activities; and (iv) all 
+commodities or equipment provided under humanitarian assistance or disaster relief programs, 
+and all other equipment, supplies and other materials funded by USAID, and their export 
+packaging. 
+
+
+
+
+
+
+
+
+ 
+
+(2) Table of Supplies and Equipment to be used in a visible manner in the fulfillment of the goals. 
+
+
+
+
+
+
+
+
+of the ________ project and an indication of how and where they will be tagged with the 
+USAID identity. 
+
+ 
+
+ 
+
+
+(3) Table of Deliverables expected to be produced in the conduct of this program: All deliverables 
+will be marked in a visible manner with the USAID identity; below is an indication of what 
+type of marking will be used and where on the deliverable the USAID identity will be placed. 
+
+
+
+
+
+
+
+
+ 
+
+
+(4) Sub-Recipient: As specified in the standard provisions, the marking requirements will “flow 
+down” to Sub-Recipients or sub-awards and will include the USAID-approved marking 
+provision in all USAID funded sub-awards, as follows: “As a condition of receipt of this 
+subaward, marking with USAID identity of a size and prominence equivalent to or greater that 
+the Recipient’s, Sub-Recipient’s, other donor’s or third party’s is required.” 
+
+
+
+
+
+
+
+
+ 
+
+(5) Any “public communications,” as defined in 2 CFR 700.1 (j), funded by USAID, in which the 
+content has been approved by USAID, will contain the following disclaimer: 
+
+“This study/report/audio-visual/other information/media product (specify) is made possible by the 
+generous support of the American people through the United States Agency for International 
+Development (USAID). The contents are the responsibility of [insert Recipient’s name] and do 
+not necessarily reflect the views of USAID or the United States Government.” 
+
+ 
+
+(6) As specified in the standard provisions, ___________ will provide the Agreement Officer’s 
+Representative (AOR) or other USAID personnel designated in the grant or cooperative agreement 
+with two copies of all program and communications materials produced under the award. In 
+
+
+addition, ____________ will submit one electronic or one hard copy of all final documents to 
+USAID’s Development Experience Clearinghouse. 
+
+ 
+
+[END OF ANNEX 3] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+
+ANNEX 4 – NON-US PREAWARD SURVEY 
+
+ 
+
+NUPAS Report Table 
+
+ 
+
+Name of Organization: ________________________________ 
+
+ 
+
+Proposed Activity/Amount: ________________________________ 
+
+ 
+
+Survey Conducted by: ________________________________ 
+
+ 
+
+
+
+No. 
+
+Criterion 
+
+Average score 
+
+
+
+1 
+
+Legal Structure 
+
+ 
+
+
+
+2 
+
+Financial Management and Internal Control Systems 
+
+ 
+
+
+
+3 
+
+Procurement Systems 
+
+ 
+
+
+
+4 
+
+Human Resources Systems 
+
+ 
+
+
+
+5 
+
+Project Performance Management 
+
+ 
+
+
+
+6 
+
+Organization Sustainability 
+
+ 
+
+
+
+ 
+
+Overall Score 
+
+ 
+
+
+
+ 
+
+1. Legal Structure 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+1.1 Local Organization 
+Definition 
+
+ 
+
+ 
+
+
+
+1.2 Legal 
+Requirements 
+
+ 
+
+ 
+
+
+
+1.3 Organizational 
+Structure 
+
+ 
+
+ 
+
+
+
+1.4 Governance 
+
+ 
+
+ 
+
+
+
+
+
+
+1.5 Control 
+Environment 
+
+ 
+
+ 
+
+
+
+ 
+
+2. Financial Management and Internal Control Systems 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+2.1 Banking Relationship 
+and Accounts 
+
+ 
+
+ 
+
+
+
+2.2 
+Accounting/Bookkeeping 
+system 
+
+ 
+
+ 
+
+
+
+2.3 Chart of Accounts, 
+General Ledger and 
+Financial Statements 
+
+ 
+
+ 
+
+
+
+2.4 Variance Analysis 
+(Budget to Actual Costs) 
+
+ 
+
+ 
+
+
+
+2.5 Allowable and 
+Unallowable Cost 
+
+ 
+
+ 
+
+
+
+2.6 Direct and Indirect 
+Costs 
+
+ 
+
+ 
+
+
+
+2.7 Payments – 
+Segregation of Duties 
+
+ 
+
+ 
+
+
+
+2.8 Accounting Cycle 
+
+ 
+
+ 
+
+
+
+2.9 Financial Records 
+Management 
+
+ 
+
+ 
+
+
+
+2.10 Sources of Funding 
+
+ 
+
+ 
+
+
+
+2.11 Financial Reporting 
+
+ 
+
+ 
+
+
+
+
+
+
+2.12 Audit and Review of 
+Financial Statements 
+
+ 
+
+ 
+
+
+
+2.13 Financial 
+Management Personnel 
+
+ 
+
+ 
+
+
+
+ 
+
+3. Procurement Systems 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+3.1 Procurement 
+Policies, Procedures 
+and Practices 
+
+ 
+
+ 
+
+
+
+3.2 Compliance with 
+Policies and 
+Procedures – 
+Reasonableness of 
+Price 
+
+ 
+
+ 
+
+
+
+3.3 Procurement and 
+Sub-awards 
+
+ 
+
+ 
+
+
+
+ 
+
+4. Human Resources Systems 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+4.1 Overall HR 
+Policies and 
+Procedures 
+
+ 
+
+ 
+
+
+
+4.2 Staff Time 
+Management 
+
+ 
+
+ 
+
+
+
+4.3 Payroll System 
+
+ 
+
+ 
+
+
+
+4.4 Travel Policies and 
+Procedures 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+5. Project Performance Management 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+5.1 Technical 
+Evaluation Criteria 
+
+ 
+
+ 
+
+
+
+5.2 Project 
+Management Capacity 
+
+ 
+
+ 
+
+
+
+ 
+
+6. Organizational Sustainability 
+
+
+
+Risk Areas Reviewed 
+
+Observations and Findings 
+
+Score 
+
+
+
+6.1 Cash Flow 
+Management 
+
+ 
+
+ 
+
+ 
+
+
+
+6.2 Absorptive 
+Capacity 
+
+ 
+
+ 
+
+
+
+ 
+
+[END OF ANNEX 4] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ANNEX 5 - PAST PERFORMANCE REFERENCE CHECKLIST 
+
+ 
+
+Applicant's Name: 
+
+Was the Applicant the Prime or Sub on the project: 
+
+Project Name: 
+
+Project Scope/Description: 
+
+Period of Performance: Dollar Value: 
+
+Name of Person Contacted: Click here to enter text. E-mail.: 
+
+Date Contacted: Employer: 
+
+Contact’s Role or Knowledge of the Project: 
+
+ 
+
+
+
+1. Please comment on your satisfaction with the quality of product or service, including 
+consistency in meeting goals and targets and rating. 
+
+
+ 
+
+ 
+
+ 
+
+
+
+2. Please comment on the timeliness of performance, to include schedule, the timeliness 
+against the completion of the award, task orders, milestones, delivery schedules, and 
+administrative requirements and rating (use table in the appendix for definitions). 
+
+
+ 
+
+ 
+
+ 
+
+
+
+3. Please comment on the quality of business relations, addressing the history of professional 
+behavior and overall business-like concern for the interests of the customer, including the 
+applicant’s history of reasonable and cooperative behavior: and rating: 
+
+
+ 
+
+ 
+
+ 
+
+
+
+4. Please comment on the organization’s ability to control cost, including forecasting costs as 
+well as accuracy in financial reporting and rating: 
+
+
+ 
+
+ 
+
+ 
+
+
+
+5. Please provide comments on organizations key personnel and rating: 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+[END OF ANNEX 5] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+ 
+
+
+ANNEX 6 – ACRONYMS LIST 
+
+ 
+
+ADS Automated Directives System 
+
+AIP Annual Implementation Plan 
+
+AMELP Activity Monitoring, Evaluation, and Learning Plan 
+
+AO Assistance Officer 
+
+AOR Assistance Officer Representative 
+
+BSMP Branding Strategy and Marking Plan 
+
+CDCS Country Development Cooperation Strategy 
+
+CLA Collaboration, learning and adapting. 
+
+COP Chief of Party 
+
+CPA Certified Public Account 
+
+DOC Development Outreach Communication 
+
+EMA Environmental Management Approach 
+
+ETD Environmental Threshold Decision 
+
+GAAS Generally Accepted Auditing Standards 
+
+GOC Government of Colombia 
+
+IEE Initial Environmental Examination 
+
+MEO Mission Environment Officer 
+
+MONITOR Monitoring Management Information System 
+
+NGO Non-governmental Organizations 
+
+NICRA Negotiated Indirect Cost Rate Agreement 
+
+NOFO Notice of Funding Opportunity 
+
+PIO Public-Private Partnerships 
+
+PIRS Performance Indicator Reference Sheet 
+
+TEC Technical Evaluation Committee 
+
+USG U.S. Government 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+[END OF NOFO 72051421RFA00002] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY 
+
+ 
+
+

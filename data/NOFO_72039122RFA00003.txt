@@ -1,0 +1,4915 @@
+TABLE OF CONTENTS 
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION 4 
+SECTION B: FEDERAL AWARD INFORMATION 23 
+SECTION C: ELIGIBILITY INFORMATION 26 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 29 
+D.1 AGENCY POINT OF CONTACT 29 
+D.2 QUESTIONS AND ANSWERS 29 
+D.3 SUBMISSION DATE AND TIME 29 
+D.4 APPLICANTS RESPONSIVENESS 30 
+D.5 APPLICATION SUBMISSION PROCEDURES 30 
+D.6 TECHNICAL APPLICATION 32 
+D.7 BUSINESS (COST) APPLICATION 36 
+SECTION E: APPLICATION REVIEW INFORMATION 47 
+E.1 CRITERIA 47 
+E.2 MERIT REVIEW 47 
+E.3 COST/BUSINESS REVIEW 47 
+E.4 DETERMINATION OF AWARD 48 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 49 
+F.1 FEDERAL AWARD NOTICES 49 
+F.2 ADMINISTRATION 49 
+F.3 PAYMENT AND FINANCIAL REPORTING 49 
+F.4 REPORTING REQUIREMENTS 49 
+ATTACHMENT A: REFERENCES 62 
+ATTACHMENT B: SUMMARY BUDGET TEMPLATE 63 
+ATTACHMENT C: PLANNED PRE-AWARD SCHEDULE 64 
+ATTACHMENT D: STANDARD PROVISIONS 65 
+ATTACHMENT E: INITIAL ENVIRONMENTAL EXAMINATION (IEE) 68 
+ATTACHMENT F: SAMPLE SECURITY PLAN TEMPLATE 69 
+ATTACHMENT G: ABBREVIATIONS AND ACRONYMS 70 
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+1. SUMMARY 
+
+
+ 
+
+The Building Healthy Families Activity aims to expand access to and utilization of essential 
+health care in Pakistan, including quality family planning (FP) and maternal, newborn, and child 
+health (MNCH) services, in order to improve health outcomes for some of its most vulnerable 
+populations. The Activity will utilize a health systems strengthening (HSS) approach to 
+strengthen FP/MNCH services, focusing on supporting interventions such as policy, advocacy, 
+human resources, and leadership and governance. It aims to address Pakistan’s high fertility and 
+low contraceptive prevalence rates (CPR) within the context of a rapidly growing population. 
+New FP and MNCH funding presents opportunities to re-engage with key stakeholders to address 
+persistent gaps in FP/MNCH utilization and service delivery; while ambitious targets recently set 
+by the Government of Pakistan (GoP) have also created a renewed focus for FP programming. 
+This activity will be also critical in addressing new challenges in FP/MNCH brought on by the 
+COVID-19 pandemic, notably disruptions in service provision, the contraceptive supply chain, 
+and staffing, and the urgent need to build resilient health systems able to face new public health 
+threats. Lockdowns have also reduced purchasing power and access to food markets, impacting 
+overall food security and nutrition. This activity will support an integrated approach to health 
+system strengthening that enables the health system to prevent and respond to the on-going 
+COVID-19 pandemic and emerging infectious diseases within the broader health system. 
+
+ 
+
+The Building Healthy Families Activity will provide technical assistance and support to the GoP 
+to accelerate efforts in meeting the country’s 10x10 Reproductive, Maternal, Newborn, Child and 
+Adolescent Health (RMNCAH) Agenda and FP2030 goals as well as help to mitigate the 
+secondary health impacts of COVID-19. Pakistan is committed to working towards achieving 
+universal access to reproductive health and to raising the CPR to 55 percent. The proposed fiveyear 
+Activity intends to build the capacity of public and private sector institutions at both national 
+and provincial levels primarily in Khyber Pakhtunkhwa (KP) and Sindh. Target populations for 
+engagement include youth, newly married couples, and men and women in the reproductive age 
+(WRA) group (15-49). A secondary target group will be government officials and health 
+providers at the national and provincial levels. This Activity will also contribute to the Mission’s 
+Country Development Cooperation Strategy (CDCS) goal by strengthening the ability of 
+Pakistan’s government institutions to provide improved FP and MNCH services, fostering a more 
+prosperous and stable Pakistan. 
+
+ 
+
+2. PROGRAM DESCRIPTION 
+
+
+ 
+
+2.1. Background 
+
+
+
+
+ 
+
+Pakistan has the highest population growth and birth rates in South Asia and is the fifth most 
+populous country in the world. The United Nations Population Division (UNFPA) estimates that 
+Pakistan’s population will reach 263 million by 2030 and 383 million by 2050 -a 75 percent 
+increase over current figures. Pakistan has the lowest overall CPR at 34 percent compared to 
+South Asian countries at 53 percent (World Bank, 2019). Fewer than one-third of Pakistani 
+women are currently using modern contraceptives, despite the desire of 70 percent of married 
+
+
+72039122RFA00003 Building Healthy Families Activity 
+
+women to delay their next pregnancy or not have additional children. One result of nearly 
+universal marriage and low contraceptive prevalence is that Pakistan has one of the highest 
+abortion rates in the world with 48 percent of pregnancies unintended, of which 54 percent are 
+terminated, mostly in an unsafe way. (Pakistan Report 2020). These FP challenges are a major 
+contributor to Pakistan’s devastating maternal, child, and infant mortality rates, which constitute 
+the largest share of preventable deaths. There are an estimated 4.7 million births annually with 
+more than 8,000 maternal deaths, 248,000 newborn deaths, 184,000 stillbirths and 405,000 under-
+five deaths (Pakistan Report 2020). Women of reproductive age (WRA) bear the double burden of 
+malnutrition. One in seven are undernourished, while 38 percent are considered overweight or 
+obese. Pregnant women require a diverse diet rich in vitamins and minerals though this is rarely 
+the case in Pakistan. Forty-two percent of WRA are anemic, while 27 percent and 21 percent are 
+deficient in vitamin A and zinc, respectively. On top of that, over 40 percent of children under 
+five years are stunted and 18 percent are wasted – 2.5 million children are currently estimated to 
+be severely wasted (Pakistan National Nutrition Survey 2018). Child malnutrition is the biggest 
+contributor to under-five mortality due to greater susceptibility to infections and slow recovery 
+from illness. These statistics not only negatively impact the health of Pakistan's population, but 
+also have grave implications for climate change, environmental impact, and social stability. 
+
+Similar health trends can also be observed more starkly at the provincial level. Immunization rates 
+in Sindh have deteriorated, stalling at around 52 percent, and the total fertility rate (TFR) is higher 
+in Sindh (3.6) than in other provinces and for Pakistan overall (3.4). While Sindh ranks second for 
+any (26 percent) and modern (22 percent) contraceptive use by married women aged 15-49, 
+modern CPR is lower than the national average of 25 percent. In KP, two-thirds of women have a 
+skilled health professional present at delivery and the immunization rate is 69 percent. (PSLM 
+District Key Finding Report 2019-20) 
+
+One in six women in Pakistan has an unmet need for contraception [Pakistan Demographic and 
+Health Survey (PDHS) 2017-2018]. COVID-19 has exacerbated the situation by decreasing 
+access to critical health services including FP, MNCH and nutrition as public health 
+infrastructure has shifted to support COVID-19 response efforts. Women have been 
+disproportionately impacted by the pandemic because of state regulations like stay-at-home 
+orders, financial concerns, or a higher perception of COVID-19 related health risks. COVID-19 
+vaccine efforts in Pakistan have been successful, with about 45 percent of the total population 
+fully vaccinated as of February 2022 since the country’s vaccination drive began in February 
+2021. However, vaccine rollout has been slow in hard-to-reach and rural communities with the 
+need to address misinformation and vaccine hesitancy critical to not only increasing vaccine 
+uptake but also resuming demand for essential care. This combination of factors has exacerbated 
+the need to integrate COVID-19 care into routine healthcare delivery in Pakistan. Strong primary 
+and community health care—the frontline of all health systems—is essential. Strengthening this 
+frontline by expanding the role of primary and community health care can reduce the pressure on 
+Pakistan’s health systems, alleviating the burden on higher-level facilities, and protecting people 
+against the indirect threats of pandemics or other public health crises. This priority is tied closely 
+to the Mission’s CDCS Special Objective of “Strengthening Global Health Security Capacities in 
+Pakistan”. 
+
+Government of Pakistan 
+
+
+Pakistan Vision 2025 promotes the importance of health to economic and social development. 
+The GoP has subsequently made a number of health commitments related to reproductive, 
+maternal, newborn, adolescent and child health (RMNACH) including its 10x10 RMNACH 
+Agenda and implementation of a basic package of universal health care. In addition, Sindh and 
+KP also have developed their own Provincial Health Plans. The GoP’s Current Council of 
+Common Interests (CCI) has also committed to achieving ambitious FP goals, including 
+increasing CPR from 30 percent to 46 percent by 2025 and to 56 percent by 2030; and decreasing 
+the TFR from 4.1 to 3.6 by 2025 and to 3.2 by 2030. These measures will contribute to the larger 
+objective of reducing the Population Growth Rate (PGR) from 2.8 to 1.8 percent by 2025 and 
+further to 1.7 percent by 2030. To achieve this, the GoP has established eight priorities for its 
+FP2030 Action Plan: 1) adapt and implement progressive policy reform; 2) improve universal 
+access to services to lower fertility rates; 3) address information and service needs in remote 
+areas; 4) generate momentum for the National Narrative 2020-2021; 5) ensure contraceptive 
+commodity security; 6) utilize legislation mechanisms to protect and steer FP goals; 7) 
+institutionalize human development; and 8) establish and maintain an effective monitoring and 
+evaluation system to serve FP. The Provincial Governments of KP and Sindh have adopted these 
+and additional goals, including the integration of FP/MNCH services, strengthening of 
+FP/MNCH legislation and implementation (notably, the Child Marriage Restraint Act); and 
+improving access to FP services for youth and adolescents. 
+
+ 
+
+FP/MNCH Challenges and Opportunities 
+
+Low utilization of FP/MNCH services can be attributed to socio-cultural barriers, high 
+discontinuation rates for modern contraceptives, poor quality FP counseling, lack of integration of 
+FP services with MCH services, minimal public sector investment in FP/MNCH, and weak health 
+systems. To address this, strategic areas of investment include: 
+
+ 
+
+Universal Health Coverage (UHC) and Governance: Pakistan’s National Health Vision 2016– 
+2025 and National Action Plan for Health (2019- 2023) recognize UHC as critical and the Prime 
+Minister of Pakistan has lauded UHC as an explicit policy objective with the expansion of the 
+Sehat Sahulat Program in KP. The GoP has since developed a national Essential Package of 
+Health Services (EPHS) based on the Disease Control Priorities 3 (DCP-3) framework. 
+Implementation will require greater provincial engagement, district leadership, and inter-sectoral 
+coordination. The latter includes improving coordinated and integrated FP/MNCH service 
+delivery between public health and population departments. A planned $300M World Bank 
+National Health Support program (2022-2027) aimed at strengthening primary health care (PHC) 
+in priority provinces, may provide additional partnership opportunities and support for 
+strengthening governance in FP and MNCH. 
+
+ 
+
+Scale-up of the Female Health Workforce: A significant public health strength for Pakistan’s 
+public health services are the more than 96,000 Lady Health Workers (LHWs) and increasing 
+numbers of Community Midwives (CMWs) (Pakistan Report 2020). In recent years, however, 
+inconsistent oversight and funding compounded by ongoing COVID-19 responsibilities have 
+reduced the quality and consistency of FP counseling and service delivery. There has been a 
+substantial decline in the number of women who were visited by an LHW to discuss FP (29 
+percent to 19 percent) since 2012. Three out of ten contraceptive users discontinue use within 12 
+months, with 19 percent of respondents citing side effects. A key reason for discontinuation is 
+
+
+72039122RFA00003 Building Healthy Families Activity 
+
+often due to inadequate or poor counseling. LHW and CMWs have the potential to play critical 
+roles in both maintaining and expanding consistent use of all methods of contraceptives. The 
+GoP’s commitment to expand the number of LHWs from 96,000 to 160,000 can provide an 
+additional opportunity for strengthening FP and MNCH community outreach (National Action 
+Plan for Health). 
+
+Private Sector Regulation: Non-governmental organizations (NGOs) and the private sector 
+provide approximately 65 percent of FP services, 90 percent of birthing, and 80 percent of 
+medical outpatient services. Nevertheless, the private sector remains heavily unregulated. One 
+way to address this involves a mix of strategies: tax breaks, subsidies, branding, accreditation, 
+consumer awareness, and penalties to bring compliance and encourage private providers to self-
+volunteer for regulation. Another means is strategic purchasing of healthcare by the government 
+from private providers to fill the gaps in health coverage in underserved areas or specialty 
+services where it cannot deliver well. This is being attempted to an extent in Sindh. In order to 
+meet the GoP’s commitment to expand UHC through the EPHS, it will be important to develop 
+streamlined approaches for engaging with, financing and regulating private health sector 
+providers. 
+
+Mitigation and Response to COVID-19 and Emerging Public Health Threats: The ongoing 
+COVID-19 pandemic reinforces the need for an integrated approach to HSS. As Pakistan moves 
+towards UHC, this provides an opportunity to reinforce global health security efforts (e.g. 
+preventing outbreaks through high immunization coverage) to avert health crises that prevent 
+accessing health services (e.g. diversion of health workers from regular health services to focus on 
+crisis response). A resilient health system has the capacity to effectively prevent, prepare, 
+respond, and adapt to public health emergencies while maintaining routine health systems 
+functions. 
+
+2.2. Geographic Focus 
+The geographic focus of the proposed activity will be limited to the federal level and two 
+provinces, KP and Sindh, with the possibility of extending coverage nationwide (see map below). 
+
+Sindh 
+
+Sindh has a population of more than 47 million inhabitants with diverse economic and human 
+development challenges. It is a major center of economic activity and has a highly diversified 
+economy ranging from heavy industrial and financial sectors, based in Karachi, to a substantial 
+agricultural base along the Indus River. However, the incidence of poverty is much higher in rural 
+areas (76 percent) than in urban areas (11 percent). Sindh’s overall human development outcomes 
+are negatively impacted by its severely disadvantaged rural—and often drought-stricken— 
+population. The female literacy rate in rural Sindh is 24 percent, compared to 70 percent in urban 
+Sindh and 38 percent in rural areas nationwide. 
+
+KP 
+KP has a population of 35 million, making it the smallest province in the northwestern region of 
+Pakistan. Over 80 percent of the population resides in rural areas, with a few densely populated 
+urban centers including Peshawar. More than 1.5 million Afghan refugees are estimated to be 
+
+
+residing in the province. KP is the third most literate province of the country, with a literacy rate 
+
+ 
+
+In 2018, the Government of Pakistan decided to merge the Federally Administered Tribal Areas 
+(FATA) with KP and renamed them as the Newly Merged Districts (NMDs). This area along the 
+Pakistan-Afghanistan border has remained in isolation for many decades with limited social 
+development. This region is now moving towards stability, following the peace establishment, 
+rehabilitation, and resettlement of FATA (NMDs). The integration of the NMDs with KP has 
+ushered in a new era of development and growth, including reform of the health and education 
+sectors. 
+
+ 
+
+ 
+
+
+2.3. Summary* of Relevant USG and Donor Activities 
+
+
+
+
+*A more detailed description of USG and donor activities can be found in Attachment A. 
+
+USG Activities 
+
+The Mission’s CDCS Goal is a “More peaceful, prosperous, and stable Pakistan.” A key line of 
+effort includes helping Pakistan to provide equitable basic services. This new activity will 
+contribute to the Mission’s CDCS goal by strengthening Pakistan’s governmental institutions to 
+provide improved family planning and maternal, newborn, and child services. This new activity 
+also aligns with the Pakistan Integrated Country Strategy Mission Objective 3.2 “Pakistani society 
+is better educated, more skilled, inclusive, and healthy.” 
+
+ 
+
+This activity will complement other Mission activities and programs, such as the Integrated 
+Health Systems Strengthening - Service Delivery Activity (IHSS-SD) ($64M; 2017-2023), the 
+Human Development Activity (HDA) ($15M; 2021-2024); and the Global Health Supply Chain – 
+Procurement and Supply Management Activity (GHSC-PSM) ($52.5M; 2016-2023). Together 
+with these USAID health activities, the Building Healthy Families Activity will contribute to 
+improving access, quality, and uptake in health services, with a focus on KP and Sindh provinces 
+and other regions in the country. 
+
+ 
+
+
+Donor Activities 
+
+Key development partners in the FP/MNCH space include the World Bank, Bill and Melinda 
+Gates Foundation (BMGF), United Kingdom Foreign Commonwealth and Development Office 
+(FCDO), Australian AID and UNFPA. The World Bank will soon be the largest development 
+partner in the health sector when it launches its $300M National Health Support Program (2020- 
+2027) aimed at strengthening systems and services supporting equitable provincial delivery of 
+integrated PHC in KP, Sindh, Balochistan, Punjab, and at the Federal level. The Program will 
+focus on: (i) improving PHC service delivery through implementation of EPHS in selected 
+“accelerated” districts at the community levels and union councils (rural health centers and basic 
+health units); and (ii) supporting innovations and policy reforms to improve the financial 
+sustainability, efficiency and effectiveness of the provincial health sectors as a whole (health 
+financing and financial management, management information systems, and functional 
+integration of vertical programs). An important aspect of this project will be building department 
+and district level senior human resources (HR) capacity, continuity and management. 
+
+ 
+
+UNFPA is an influential development partner in Pakistan’s FP space and leads FP coordination in 
+Pakistan, working across multiple areas such as advocacy, policy change, capacity building, and 
+service delivery. BGMF has awarded two FP projects in Pakistan in the last eight years. Most 
+recently, BGMF awarded the $5M Health and Nutrition Development Society (HANDS) project 
+(2017-2021) to improve access to quality FP counseling and services in underserved rural areas in 
+Sindh through the social franchise model of Marvi workers. The FCDO will be launching a new 
+HSS program in 2022 while Australian AID will continue to support activities focused on 
+nutrition outcomes while working in Balochistan to improve maternal newborn and child health. 
+
+ 
+
+2.4. Lessons Learned 
+
+
+
+
+ 
+
+Over the years, USAID has partnered with the GoP to support reproductive, maternal, newborn, 
+and child health as key elements of an overall USG strategy of stabilization, economic 
+strengthening, and development. USAID’s current and past HSS activities have demonstrated that 
+governance, capacity building and other systems approaches can effectively improve Pakistan's 
+public and private healthcare sectors at both the provincial and federal levels. USAID health 
+programs such as the Family Planning and Reproductive Health (FPRH) Project have also shown 
+that community-based interventions working with LHWs to develop private sector approaches 
+such as social franchising, are extremely effective for reaching remote rural populations. Findings 
+from the FPRH and Momentum activities have shown that male engagement continues to be an 
+essential approach for increasing uptake of FP services. (Please see Attachment A) 
+
+ 
+
+More recently, the August 2021 Consultation Workshop with the Government of KP for USAID’s 
+HDA identified areas of need including: enhancing FP/MNCH coverage and access, improving 
+human resource management, governance, regulation and accountability and health financing to 
+support efficient service delivery. A diverse group of government and civil society stakeholders 
+further identified eight measures to address imbalanced and high population growth including: 1) 
+establishment of National and Provincial Task Forces; 2) ensuring universal access to 
+reproductive Healthcare; 3) increased mobilization of financial resources; 4) targeted legislation; 
+5) advocacy and communication; 6) curriculum and training; 7) contraceptive commodity 
+security; and 8) support of ”ulema” (Muslim scholars) to help increase mass awareness on the 
+
+
+importance and benefits of FP. Stakeholders requested further support to expand initiatives such 
+as ulema engagement, building capacity of health care professionals, technology-based 
+FP/MNCH, and development of FP/MNCH Models. Similarly, considerable efforts are needed to 
+adequately address the health needs of Sindh’s growing population—tackling HR shortages and 
+making services more accessible is critical. In Sindh, over half of women face challenges in 
+accessing healthcare. Among women in rural Sindh, distance is a challenge for 68 percent of 
+women and transportation is a challenge for 76 percent of women, highlighting the urgent need to 
+make health services more accessible. Further, despite high regard for the LHW program, which 
+is intended to provide basic health services, including FP, just over half of women are aware of 
+LHWs in their area. 
+
+ 
+
+2.5. Results/Logical Framework and Intended Results 
+
+
+
+
+ 
+
+The purpose of the activity is to improve family health outcomes through increased uptake and 
+continuation of voluntary FP/MNCH services and through mitigating the secondary health 
+impacts of the COVID-19 pandemic and other public health threats. As such, the following 
+Development Hypothesis was developed: 
+
+ 
+
+Development Hypothesis 
+
+IF: 
+
+● National and provincial governments lead resilient health systems that expand access to 
+essential health care (including quality FP/MNCH products and services); and 
+● If public and private organizations deploy evidence-based social and behavior change 
+(SBC) interventions and services that respond to the primary health care needs 
+(including FP/MNCH) of youth, young couples, and men; and 
+● If young people and couples are supported by peers, adults, providers, communities and 
+leaders to communicate effectively around their reproductive intentions and use quality 
+FP/MNCH services 
+
+
+THEN: 
+
+● Pakistan will achieve more inclusive and equitably distributed improvements in 
+FP/MNCH outcomes 
+
+
+
+
+ 
+
+The following framework describes the anticipated direct and indirect results of the proposed 
+activity: 
+
+
+
+
+The Building Healthy Families Activity focuses on building the capacity of public and private 
+sector institutions at the national and provincial levels to strengthen and expand access to and 
+utilization of quality FP/MNCH services across the public and private sectors. The funding may 
+vary from year to year and the implementer will need to design flexible programs that can 
+accommodate different funding streams with the goal of building public and private sector 
+capacity to offer integrated FP/MNCH services. 
+
+ 
+
+Table 1 below shows a general framework (outcomes and indicators) for quantifying measurable 
+progress. Indicators with an asterisk (*) are required by USAID/Washington. At this time, each 
+of the Activity’s expected outcomes will also be linked to quantifiable targets based on the 
+province and existing epidemiological data. The Recipient will need to collect data on the 
+indicators at the frequency and level of disaggregation required by USAID; indicators may 
+increase in number and/or levels of disaggregation over time as the program expands FP/MNCH 
+coverage. Quantitative and qualitative approaches to measure systems change should be used to 
+guide interventions and test results chain hypotheses. 
+
+ 
+
+Table 1- General Framework (Outcomes and Indicators) 
+
+Activity Summary 
+
+Illustrative Indicators 
+
+
+
+
+Goal: 
+
+Population health outcomes 
+improved through stronger 
+primary care systems 
+encouraging uptake and 
+continuation of voluntary 
+FP services 
+
+ 
+
+TFR in USG supported sites 
+
+ 
+
+*Couple Years Protection in USG supported programs (HL.7.1-1) 
+
+*Estimated potential beneficiary population for maternal and child 
+survival program, disaggregated by pregnant women (estimated number 
+of live births) and children under 5 (HL 6.0) 
+
+Results: 
+
+1. Increased capacity of 
+national and (selected) 
+provincial 
+governments to lead 
+resilient, responsive 
+primary health care 
+systems 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Number of legislative and policy frameworks developed to integrate 
+MNCH and FP services in KP and Sindh with USG support 
+
+ 
+
+Number of new government decrees/coordination bodies implementing 
+FP 2030 commitment plans 
+
+ 
+
+*Number of people trained on COVID-19 vaccine-related topics and 
+public health threats with USG support 
+
+ 
+
+* Number of vaccination sites established as a result of USG direct 
+support 
+
+2. Improved utilization of 
+quality FP/MNCH 
+products and services 
+
+
+ 
+
+*Percent of USG supported service delivery sites providing FP 
+counseling and/or services (HL.7.1-2) 
+
+ 
+
+*Number of USG assisted community health workers providing FP 
+referrals, information, or services (HL.7.2-2) 
+
+ 
+
+Number of trained LHWs offering consistent quality FP counseling and 
+services in project sites 
+
+Number of new clients of modern contraceptive methods 
+
+*Overall service utilization rate among USAID-supported facilities 
+implementing quality improvement (QI) (HL.1.13-3) 
+
+Percent of USG-assisted facilities with improved performance 
+
+*Number of women giving birth who received a uterotonic in the third 
+stage of labor (or immediately after birth) through USG-supported 
+programs (HL.6.2-1) 
+
+*Number of newborns not breathing at birth who were resuscitated in 
+USG-supported program (HL.6.3-1) 
+
+*Average service gaps between: a) ANC1 and ANC4; b) DPT1 and 
+
+
+
+
+DPT3*, in USAID-supported sites (HL.1.13-1) 
+
+3. Men and youth 
+empowered to 
+communicate about, 
+demand, and use 
+essential health care 
+products and services, 
+including FP/MNCH. 
+
+
+ 
+
+Number of information, counseling and service delivery models to 
+support youth and young married couples designed, tested and 
+expanded in partnership with public and private organizations 
+
+ 
+
+Percent of men and youth that recalls hearing or seeing a FP message, 
+campaign or communication initiative 
+
+ 
+
+Cost per person reached by FP SBC Activities 
+
+ 
+
+Number of service providers trained in IPC for FP counseling. 
+
+ 
+
+Percentage of men and youth who talked about FP with their 
+spouse/partner 
+
+ 
+
+Percentage of men and youth with favorable attitudes of modern FP 
+methods 
+
+ 
+
+Percentage of men and youth that believes most people in their 
+community approve of people using FP. 
+
+ 
+
+* Number of people reached through USAID-supported mass media and 
+social media with COVID-19 vaccine-related messaging 
+
+ 
+
+* Number of people who received a first dose of an approved COVID- 
+19 vaccine (COV-1) with USAID direct support 
+
+ 
+
+* Number of people who received a last recommended dose of an 
+approved COVID-19 vaccine (COV-c) with USAID direct support 
+
+Cross-cutting*: 
+
+1. Private sector 
+engagement 
+
+2. Gender, social inclusion, 
+and equitable access to 
+services** 
+
+3. Access to gender-based 
+violence services 
+
+4. Climate resilience 
+
+ 
+
+Level and nature of resources mobilized from the private sector 
+
+ 
+
+*Number of training and capacity building activities conducted with 
+USG assistance that are designed to promote the participation of women 
+or the integration of gender perspectives in social sector institutions or 
+activities. (GNDR-9) 
+
+ 
+
+Number of facilities reached by a USG-funded intervention adopting 
+eco-friendly initiatives (including best practices in waste management, 
+water conservation, reduced energy consumption) 
+
+ 
+
+**Most indicators must be disaggregated by age, sex and geography and 
+analyzed to identify inequity in progress towards the Activity’s 
+outcomes; Applicants are encouraged to consider additional indicators 
+
+
+
+
+ 
+
+to ensure progress towards gender equality, discrimination reduction, 
+and equitable access 
+
+
+
+ 
+
+2.6. Activity Results 
+
+
+
+
+ 
+
+The purpose of the Building Healthy Families Activity is to improve family health outcomes 
+through increased uptake and continuation of FP/MNCH services; and mitigate the secondary 
+health impacts of the COVID-19 pandemic and other public health threats by strengthening 
+national and select provincial level health systems. This activity will increase utilization of quality 
+voluntary FP/MNCH services primarily among young and newly married couples in order to 
+improve healthy timing and spacing of pregnancies. This will be accomplished through targeted 
+technical assistance that improves the capacity of public and private sector institutions and legal 
+frameworks to deliver primary health services, including FP/MNCH services; seeks new 
+approaches to expand quality FP/MNCH products and services; and develops evidence-based 
+behavior change interventions focused on youth and men. The new activity will build on 
+evidence and lessons learned from previous USAID/Pakistan health programs to address low 
+utilization of FP services by addressing the key social and behavioral determinants of modern 
+contraceptive use, and improving the quality and resilience of FP/MNCH service delivery for 
+scaling up FP and MNCH interventions. 
+
+ 
+
+Key interventions will consist of: 
+
+ 
+
+Result 1: Increased capacity of the government and private health institutions to lead resilient, 
+responsive FP/MNCH systems. Pakistan’s public and private sector institutions must be 
+mobilized and capacitated as they are responsible for achieving FP/MNCH results. By assisting 
+the national and provincial governments to strengthen coordination between and implementation 
+of population and health programs, Pakistan will improve the performance and resilience of its 
+health system. Resilient health systems combined with commitment to a rights-based FP approach 
+will also help the GoP to meet its goals to combat climate change and pandemics such as COVID- 
+19 and other emerging public health threats. Pakistan’s commitment to FP 2030, which affirms 
+political will and effective ownership of FP, relies on working closely with climate change 
+professionals to remove barriers to FP for both environmental and human health. 
+
+ 
+
+In addition, strengthening the health care system to provide life-saving integrated MNCH care 
+packages along the continuum of care is linked to increased utilization of services for critical 
+MNCH practices. The MNCH continuum offers multiple opportunities to reach women and men 
+with FP information and services, and increase provider interaction with pregnant and postpartum 
+women and their families. The integrated service delivery approach covers the spectrum of health 
+services women and couples seek for themselves (before, during and after pregnancy) and for 
+their children, which is cost-effective, ensures equitable delivery, and can be scaled up through 
+integrated packages at every stage of the continuum of care. 
+
+ 
+
+In order to implement key activities under the National Action Plan and in the FP2030 pledge, the 
+National government may require assistance developing and finalizing policy and legal 
+frameworks, such as scaling up pre-marital counseling. Technical assistance to provincial 
+governments could bolster their capacity to lead regional FP and MNCH bodies such as Regional 
+
+
+Training Institutes, Population Sector and Research Committees, FP2030 forums, Midwifery 
+
+ 
+
+Intermediate Result 1.1: Improved access to, demand for and management of FP/MNCH 
+services 
+
+ 
+
+Intermediate Result 1.2: Improved regulation of and partnerships with private sector health 
+providers for increased quality and coverage of FP/MNCH services 
+
+ 
+
+Intermediate Result 1.3: Capacity of government institutions strengthened to scale up 
+FP/MNCH high impact practices 
+
+ 
+
+Increased integration of high quality FP counseling and services during skilled birth attendance 
+and facility deliveries in Pakistan is a huge opportunity. However, only 11 percent of women 
+were given information regarding contraception during postnatal check-up (PDHS 2017-18). 
+
+ 
+
+Illustrative interventions may include: 
+
+● Building capacity of national and provincial governments to strengthen and scale up FP 
+high impact practices such as postpartum FP, improved FP counseling and outreach, 
+premarital counseling programs to meet the needs of young married couples and men 
+● Bolstering capacity of the Health Care Commission to improve regulation of private sector 
+health providers to increase and expand quality FP service delivery 
+● Exploring opportunities for government’s strategic purchasing of health care services 
+through private sector providers 
+● Strengthening provincial level systems to expand quality FP services through community 
+based providers, i.e. LHW, CMW 
+● Empowering local institutions to advocate for expanded commitment for FP/MNCH as an 
+approach to combat the climate crisis 
+● Promoting strategies to deliver integrated FP/MNCH services, including managing and 
+
+
+delivering services together, to maximize efficiency and increase service access and 
+
+quality (for example integrating FP messaging with antenatal care, immunization, and 
+
+other services). 
+
+● Building capacity of national provincial governments to strengthen and scale up MNCH 
+high impact practices such as skilled birth attendance, kangaroo mother care, and newborn 
+resuscitation; treatment for postpartum hemorrhage, eclampsia, and maternal anemia; and 
+interventions to promote early and exclusive breastfeeding, improve infant and young 
+child nutrition and prevent and treat diarrhea. 
+● Embedding technical experts at the federal/provincial levels to build FP/MNCH capacity 
+● Providing technical assistance at the federal level to understand the quantifiable linkages 
+between population growth (including the unmet demand for FP) and climate change to 
+take policy action accordingly. 
+
+
+ 
+
+
+Result 2: Improved utilization of quality FP/MNCH products and services. The 2017-2018 
+PDHS identified male condoms (9 percent) and female sterilization (9 percent) as the most 
+popular methods of contraception. Expanding the contraceptive method mix is one way to 
+increase choice as well as contraceptive prevalence. Expanding the provider base (including drug 
+shops, chemists, and other small retail points) and utilizing mobile service units, community 
+midwives and outreach workers are proven strategies that can increase access to new and existing 
+methods. This, when complemented by WHO-supported task sharing and task shifting strategies, 
+has the potential to contribute to increased uptake of health services including FP. This allows for 
+more efficient use of available human resources working in overburdened health systems during 
+the COVID-19 pandemic and in emerging public health emergencies. The USAID-supported 
+Randomized Control Trial on DMPA-SC (Sayana Press) in Sindh provides strong local evidence 
+on the effectiveness of task sharing in administering new methods of injectable contraceptives for 
+both intramuscular and subcutaneous forms of depot medroxyprogesterone acetate (DMPA). 
+Further analysis is required to better understand and implement increased uptake of underutilized 
+contraceptive methods as well as expand access to quality FP services. 
+
+ 
+
+Intermediate Result 2.1: Expanded delivery of FP/MNCH health products and services through 
+public and private community-based providers 
+
+ 
+
+Intermediate Result 2.2: New and/or existing high impact FP/MNCH service delivery 
+approaches tested and scaled 
+
+ 
+
+Illustrative interventions may include: 
+
+● Testing new or strengthening existing FP/MNCH service delivery approaches (i.e. digital 
+innovations, FP counseling and follow up) for scale up 
+● Investigating new contraceptive options including research/scientific trial providing 
+critical evidence for scale up 
+● Supporting efforts to improve contraceptive security by leveraging the joint expertise of 
+the private and public sectors to ensure a total market approach to supply chain 
+management 
+● Engaging outreach workers to promote a more diverse method mix (i.e. traditional family 
+planning -Standard Days Method (SDM), Sayana Press, female condoms, etc.) 
+● Working with the Population and Welfare Department to increase awareness and uptake 
+of male contraceptive methods (i.e. vasectomy) through the use of male mobilizers and 
+trained providers 
+● Promoting digital health tools to enhance use and uptake of contraceptives and FP 
+services. For example, Sehat Kahani and doctHERs are both telemedicine platforms 
+operating in Pakistan that virtually connect female doctors out of the workforce with 
+patients, often in remote communities, to provide healthcare service. 
+● Exploring the use of digital tools such as chatbots, hotlines, and telehealth to support 
+information dissemination and service provision for FP 
+● Expanding FP outlets through partnerships with GP clinics and pharmacies 
+● Establishing mobile outreach clinics, complementing the FP services provided by the 
+public sector to serve vulnerable populations. 
+
+
+ 
+
+
+Result 3: Men and youth empowered to communicate about, demand, and use essential health 
+care products and services. There will be an opportunity to overturn the impact of the COVID- 
+19 pandemic and transform its growth trajectory if Pakistan adopts inclusive policies, supports 
+innovative solutions, and encourages multi-stakeholder collaboration in the service of its 
+adolescents and youth. With 64 percent of the population under age 30, there is an urgent need to 
+engage young people by developing tailored FP/MNCH SBC strategies to meet the specific needs 
+of this demographic. Male engagement and involvement is another critical high impact practice 
+that can lead to increased utilization of and support for FP/MNCH services and products. 
+Premarital counseling has been identified in the National Action Plan (NAP) as a priority 
+intervention as it can facilitate couples communication around reproductive health and the role of 
+FP and other essential health services in achieving a healthy and happy family. Additional 
+research and analysis may be needed to identify other evidence-based SBC approaches that result 
+in favorable attitudes towards and increased acceptance of FP/MNCH services by youth and men. 
+Men and youth may also be engaged through social media to promote sharing of household 
+responsibilities, gender equitable norms and to better understand their role in COVID-19 vaccine 
+promotion efforts. Gender-related factors have a strong influence on FP/RH behaviors, as well as 
+vaccine hesitancy, confidence, and acceptability. 
+
+ 
+
+Intermediate Result 3.1: Youth engagement and counseling models for delivery by community 
+and facility providers tested, refined and scaled 
+
+ 
+
+Intermediate Result 3.2: Increased coverage of innovative, evidence-based SBC interventions 
+targeting youth, young couples, and men 
+
+ 
+
+Illustrative interventions may include: 
+
+● Developing or strengthening youth-focused FP engagement and counseling models for 
+LHWs and public and private sector health providers 
+● Testing new and/or and scaling up existing communication and empowerment approaches 
+for youth and young couples 
+● Testing new and/or scaling up existing high impact practices that engage men (i.e. use of 
+social media, community mobilizers, religious leaders) 
+● Developing approaches to address fears/rumors related to FP use, as well as vaccine safety 
+and side effects in order to expand COVID-19 vaccine coverage to pregnant women and 
+children. 
+
+
+ 
+
+Key Principles 
+
+Interventions supported by the Building Healthy Families Activity will focus on the following 
+guiding principles and expectations: 
+
+ 
+
+● Focus on strategic technical assistance with key government and private sector institutions 
+in order to build capacity and long-term sustainability 
+● Emphasis on proven (evidence-based) high impact FP practices that will achieve 
+immediate results to increase modern contraceptive prevalence at scale 
+● Strategic implementation using data, knowledge of country system, and environment to 
+select innovative and high-impact interventions 
+
+
+
+● Using innovative SBC interventions to change behavior and enable positive social norms 
+that address important health needs, including protection during the pandemic, seeking 
+care, discussing FP and what pregnant women and their families should do to deliver 
+safely 
+● Country-led design and implementation using local and international partners to both build 
+capacity and assure sustainability 
+● Commitment to feedback and accountability loops to engage local partners, beneficiaries 
+and communities and apply diversity, equity and inclusion principles to achieve more 
+inclusive, sustainable and lasting health results 
+● Designing FP/MNCH interventions that will also address and mitigate climate impacts 
+● Including clearly defined phase-out plans and exit strategies in the multi-year proposal, as 
+well as systems to refine these plans on an annual basis. The Building Healthy Families 
+Activity is intended to complement and not replace, compete with, or duplicate similar 
+support provided by other development partners within Pakistan. 
+
+
+ 
+
+3. STRATEGIC CONSIDERATIONS 
+
+
+ 
+
+3.1. Gender 
+
+
+
+
+ 
+
+Promoting gender equality and advancing the status of women and girls is vital to achieving 
+USAID’s development objectives. It is USAID policy that all implementing partners mainstream, 
+and integrate gender issues into their interventions. Therefore, the Recipient will be expected to 
+demonstrate compliance with USAID’s Gender Equality and Female Empowerment Policy and 
+ADS 205 and explicitly state how this Activity will work towards achieving gender equality while 
+supporting the gender policies and strategies of the United States Government and the GoP. 
+
+ 
+
+Findings from the Gender Analysis undertaken for this activity design note that institutional, 
+cultural, and social norms have left women at a disadvantage. Boys are favored at birth. Early 
+marriage further deepens the inequality as it predisposes women to early pregnancy and high 
+fertility, placing women and newborns at risk of death from birth complications. Additional social 
+dogmas further limit women’s rights and access to FP services. Women lack decision-making 
+power to decide on their own reproductive behavior. Instead, it is either the husband or the 
+mother-in-law that decides. The consequences of COVID-19—which at its peak led to a 30 
+percent decline in utilization of routine FP services—illustrate the particular disadvantages 
+women face in accessing health care due to lack of control over family resources. Men are usually 
+the primary decision makers, exercising decisions about medical expenditures, and investment in 
+and use of contraception, skilled delivery and child healthcare. 
+
+ 
+
+In order to promote equity in access to healthcare and other services, USAID/Pakistan 
+
+expects the Recipient to conduct a Gender Analysis to further pinpoint gender inequalities and 
+barriers to health, then determine the programmatic implications. This will help inform decisions 
+about how to design, implement, and scale up health programs that meet the differential needs of 
+women and men. SBC interventions targeting young men and women, will focus on facilitating 
+overall health, as well as voluntary FP use; encouraging their active roles in supporting their own 
+well-being, and defining and monitoring the quality of health services in their communities. For 
+example, encouraging men and women to support their partners to get health care services will 
+
+
+result in increased participation of women and men receiving health care, including COVID 
+vaccinations, in a timely manner. 
+
+ 
+
+3.2. Local Systems 
+
+
+
+
+ 
+
+USAID assistance is designed to align with the priorities of local actors; leverage local resources; 
+and increase local implementation over time to sustain positive changes. USAID support includes 
+building the capacity of partner government service providers or local NGOs, leveraging 
+USAID’s influence and convening power, facilitating local service delivery, and mobilizing 
+domestic resources, among other tactics. 
+
+
+The Recipient is expected to engage closely with local systems across KP and Sindh, focusing on 
+supporting continued capacity strengthening of provincial health ministries to assure quality and 
+performance of key health services by all facilities in supported program areas; outreach and 
+engagement with NGOs, private sector entities, local officials and community leaders; and 
+exploring means to expand quality FP services through community based providers, such as 
+LHWs and CMWs. The Activity should explore means of shifting more leadership, ownership, 
+decision making, and implementation to the local people and institutions who possess the 
+capability, connectedness, and credibility to drive change in the country and communities. The 
+Activity is encouraged to seek ways to diversify and broaden USAID’s partner base by working 
+with local and locally established organizations when appropriate. It will be important to align 
+and target efforts to support sustained results and facilitate the transfer of responsibility to these 
+institutions. 
+
+ 
+
+3.3. Youth 
+
+
+
+
+ 
+
+Youth is a cross-cutting issue identified in the Mission’s CDCS, and is considered a key focus 
+group for USAID/Pakistan. Building on existing efforts by HDA and the Pakistan Reading 
+Project, one objective of this Activity is to create an enabling environment and expand youth 
+access to quality health information and services. Per the USAID Youth in Development Policy, it 
+is pivotal that youth friendly and gender-sensitive approaches be applied in all health services that 
+are provided to young people, regardless of marital status or parity. The idea is to enable all 
+youth to progress through adolescence and young adulthood to become healthy, engaged, and 
+successful adults. The health and social benefits of contraceptive use for healthy timing and 
+spacing of pregnancy for young women and their children need to be well understood among 
+(young) couples, first time parents, extended family, and the community, to include the 
+community health system as well as key influencers, such as traditional and religious leaders. 
+Pre-marital FP counseling is an excellent opportunity to provide useful information and 
+counseling to young couples and adolescents. Mobile technology and social media can be utilized 
+to provide information, create virtual support networks, and link young couples to health services. 
+The Recipient is encouraged to conduct an independent youth analysis at the activity level. 
+
+ 
+
+3.4. Climate Change Integration 
+
+
+
+
+ 
+
+Climate change is a cross cutting issue that can have significant impacts on regional, national, and 
+local development efforts in all sectors. In recognition of that fact, in 2014, the former President 
+
+
+of the United States signed Executive Order (EO) 13677 which requires all U.S. Agencies to 
+factor climate change into their foreign assistance planning and manage the associated climate 
+risks. Heat worsens maternal and neonatal health outcomes, with research suggesting that an 
+increase of one degree celsius in the week before delivery corresponds with a six per cent greater 
+likelihood of stillbirth. Increased poverty and food insecurity driven by climate-related loss of 
+livelihoods will also impact maternal mortality. Climate-related emergencies cause major 
+disruptions in access to health services and life-saving commodities including contraception. The 
+activity design team used USAID’s “Climate Risk Screening Tool” to assess the potential climate 
+risks for the activity. Activity components will take place in many different parts of Pakistan, and 
+activities are largely focused on technical assistance and capacity building. The assessment 
+considered the potential impacts of climate (temperature, drought, precipitation and flooding, sea 
+level rise, storm surges, and other storms), in the focused geographical areas, over a 10-year time 
+frame. The climate risk analysis concluded that this activity poses low to moderate risk for all the 
+listed components of the activity. A summary of the conclusions from the analysis is presented in 
+Table 1: “Activity-Level Climate Risk Management Summary Table” under Section 4, ‘Climate 
+Change Integration” of the IEE. 
+
+ 
+
+3.5. Science Technology Innovation and Partnerships (STIP) 
+
+
+
+
+ 
+
+USAID/Pakistan is one of 20 Missions recognized as a “Lead Mission” in applying Science, 
+Technology, Innovation and Partnership (STIP) to enhance its development impact. As a Lead 
+Mission for STIP, USAID Pakistan will collaborate closely with the Global Development 
+Laboratory (GDL) as it moves through the Program Cycle, integrating STIP approaches and 
+operationalizing STIP partnerships in strategy development, project design or implementation and 
+evaluation. STIP related efforts often focus on making investments more cost-effective, reaching 
+many more beneficiaries at little or no additional cost, accelerating the timeline for obtaining 
+results, and/or bringing ground-breaking innovations to scale. The implementation of STIP 
+approaches are encouraged through this Activity. For one, digital health tools can increase the 
+effectiveness of FP service delivery and campaigns and they have the potential to address gender 
+barriers that restrict FP access and use among hard-to-reach populations. Not only do they have 
+the potential to improve users’ knowledge of FP methods and services, they are often able to 
+modify users’ or potential users’ behaviors by integrating features related to service provision. 
+From the provider perspective, digital tools have served as job aids and supported cross-provider 
+communication, data collection, and training for FP providers, including LHWs. The use of 
+digital tools such as chatbots, hotlines, and telehealth to support information dissemination and 
+service provision for FP has also seen a boost during the COVID-19 pandemic, as more health 
+systems globally have shifted to new, remote service delivery modalities. 
+
+ 
+
+3.6. Transparency and Accountability 
+
+
+
+
+ 
+
+Fostering transparency and accountability is a new focus area for the U.S. Mission in Pakistan and 
+will be pivotal to the success of this activity. In order to build resilient health systems, public 
+institutions that will be supported through USAID technical assistance will be required to explain 
+and make understandable their performance in achieving goals and addressing the needs of the 
+public, in comparison to standards and commitments made. Accountability requires visible, 
+responsive action if standards and commitments are not met. Where governance is transparent and 
+
+
+data is available, and where citizens are engaged and have an opportunity to interact with public 
+officials and participate in governance activities, it is more likely that officials and leaders can be 
+held accountable, and there is less space for malfeasance or corruption. 
+
+ 
+
+4. COLLABORATING, LEARNING AND ADAPTING (CLA) 
+
+
+ 
+
+This activity is expected to contribute to USAID/Pakistan’s commitment to a multi-faceted 
+Collaborating, Learning and Adapting (CLA) approach to development. The CLA approach is 
+based on the understanding that development efforts yield more effective results if they are 
+coordinated and collaborative and test promising, new approaches to generate improvements and 
+efficiencies, and build on what works and eliminate what doesn‘t. 
+
+ 
+
+CLA creates the conditions for fostering broader development success by: 
+
+ 
+
+● Collaborating: Facilitating collaboration internally and with external stakeholders to 
+promote increasingly national-led socio-economic development; e.g. enhancing existing 
+stakeholder engagement into learning platforms, substantially coordinating with other U.S. 
+Government- or other complementary activities to ensure complementarity and reduce 
+overlap, while also facilitating learning among activities (to reduce the collective cost 
+while enhancing shared results faster); programs that are complementary to this activity 
+● Learning: Generating and feeding new learning, innovations, and performance information 
+back into the system to inform program management, design, U.S. Government - 
+Government of Pakistan policy dialogue opportunities and funding allocations; (e.g. 
+creating pauses for reflection within the activity implementation scheme, engaging 
+stakeholders for shared “learning moments,” conducting analytical review of existing 
+and/or new evidence that may support or contradict common understanding); 
+● Adapting: translating learning (from within the implementation experience or external 
+sources) and considering changing conditions, along the lines of the risks, assumptions 
+and game changers, into strategic and programmatic adjustments. (e.g. adjusting work 
+plans to account for contextual shifts or tacit learning from a team’s experience, while 
+clearly and explicitly capturing and sharing the rationale for adjustments along the way). 
+
+
+ 
+
+5. MONITORING AND EVALUATION 
+
+
+ 
+
+5.1. Monitoring 
+
+
+
+
+ 
+
+A detailed Activity Monitoring, Evaluation and Learning Plan (AMELP) will be developed for 
+each component of the activity once implementing mechanisms are in place. USAID will provide 
+a template for AMELP which includes theory of change, performance monitoring, indicators for 
+each result with baseline and targets, tools for collecting feedback from beneficiaries. 
+
+ 
+
+Performance-based monitoring is essential for ensuring management and results achievement of 
+this project, and therefore, the implementing partner will be required to work closely with USAID 
+Pakistan to develop and maintain a performance monitoring system to track tangible, measurable 
+progress toward the results under this Statement of Work. The AMELP should include clearly 
+defined indicators, baselines, and targets for outputs and outcomes over the implementation 
+period. Gender specific/sensitive indicators should be considered for the activity to better capture 
+
+
+and report on gender sensitive information. The AMELP should also contain metrics for the 
+sustainability of successful interventions introduced with program support. An illustrative 
+AMELP must be included in the proposal, with the final version submitted to the USAID within 
+90 days of the award. During implementation, the Recipient will be using the M&E Plan to track 
+and report on progress against jointly agreed-upon quarter, annual, and end-of-program 
+performance targets. 
+
+ 
+
+The Agreement Officer's Representative (AOR) will monitor Activity Progress through a Multi- 
+Tiered Monitoring approach which includes regular contact with the Recipient, Document 
+Review, site visits, and independent monitoring. Partners will also be given access to USAID’s 
+database, Pak Info, a web-based mission information management tool. Pak Info will allow the 
+Recipient to report against assigned indicators, uploading quarterly performance reports and 
+adding/updating its site location(s). The partner will be given comprehensive training on usage of 
+Pak info. USAID has developed a standardized template for Quarterly Performance Reports 
+which partners are required to use. 
+
+ 
+
+The MEL plan will describe monitoring at three levels: 
+
+ 
+
+● by the implementing partner, 
+● by the independent monitoring contractor, 
+● by the USAID Health office. 
+
+
+ 
+
+The USAID Health Office will coordinate monitoring efforts and ensure that monitoring 
+information is used to inform and make necessary adjustments to interventions, reporting on 
+progress, and gathering and applying lessons learned. 
+
+In addition, the AOR will ensure: 
+
+ 
+
+● Regular meetings with the implementing partner 
+● Regular report reviews 
+● Site visits 
+● Participation in and review of key stakeholder meetings 
+
+
+ 
+
+5.2. Use of Geographic Information Systems (GIS) 
+
+
+
+
+ 
+
+Geographical information on program sites will be collected via Pak Info site option. Information 
+will be entered by implementing partners on a quarterly basis. The AOR will be responsible for 
+checking the information for accuracy and completeness. The USAID Program Office will 
+provide any necessary training on the system and conduct periodic quality checks. 
+
+ 
+
+5.3. Evaluation 
+
+
+
+
+ 
+
+The USAID/Pakistan Mission wide monitoring and evaluation contract will be utilized for 
+conducting a mid-year program evaluation. This will help the Building Healthy Families Activity 
+to identify its successes and gaps to-date and inform any strategic shifts in programming to meet 
+program goals. Evaluation findings will be shared with USAID and the partner. 
+
+ 
+
+[END OF SECTION A] 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+USAID intends to award one (1) Cooperative Agreement pursuant to this notice of funding 
+opportunity. USAID reserves the right to fund any one or none of the applications submitted. 
+Subject to funding availability and at the discretion of the Agency, USAID intends to provide 
+$TBD in total USAID funding. 
+
+ 
+
+2. Period of Performance 
+
+
+ 
+
+The anticipated period of performance is (05) five years, starting from [actual date to be filled in 
+at the time of award]. 
+
+ 
+
+3. Substantial Involvement 
+
+
+ 
+
+Consistent with ADS 303.3.11, USAID/Pakistan anticipates a close working partnership with the 
+successful Applicant for this activity to assist in achieving the objectives. The specific areas of 
+USAID involvement will include, but are not limited to: 
+
+ 
+
+1. Approval of the Recipient’s Annual Implementation Plans during performance by the 
+designated Agreement Officer’s Representative (AOR); 
+
+ 
+
+2. Approval of selection of Recipient Key Personnel: The Recipient shall request prior approval 
+from the USAID Agreement Officer’s Representative (AOR) for the replacement of key 
+personnel or changes in the key personnel positions; The following positions have been 
+designated as key to the successful implementation of the program objectives of this Cooperative 
+Agreement: 
+
+ 
+
+ a) Chief of Party (COP): The COP will be the direct link with the AOR and other relevant 
+stakeholders and accountable for achieving project results. S/he will be based in 
+Islamabad, Pakistan. The COP must have at least a master’s degree in a relevant discipline 
+and at least seven years of demonstrated experience working internationally, preferably in 
+Pakistan, managing progressively complex health programs (at least three years of which 
+must be as COP or similar capacity). Experience implementing complex and multi-faceted 
+projects is required, with demonstrated skill in organizing resources and establishing 
+priorities. The COP is expected to have the strategic vision, leadership qualities, depth and 
+breadth of technical expertise and experience, professional reputation, management 
+experience, interpersonal skills and written and oral presentation skills to fulfill the diverse 
+technical managerial requirements of the program description. S/he will have exceptional 
+communication and collaboration skills and a proven track record of interacting with other 
+projects, high-level host country governments and international agencies. The candidate 
+must have a proven track record of working effectively with government counterparts at 
+various levels. Given the complexity and scope of this project, it is critical that the COP 
+exhibit effective personnel management, coordination, and decision-making skills along 
+with an ability to troubleshoot. 
+
+
+ 
+
+ 
+
+b) Deputy Chief of Party/Senior Technical Advisor: The Deputy Chief of Party/Senior 
+Technical Advisor will be located in the Recipient’s Islamabad office, but will travel 
+extensively among the provinces. S/he must have at least a Master’s degree in a relevant 
+discipline and at least 10 years of demonstrated experience in successfully advising on the 
+management of FP/MNCH programs in developing countries. S/he must have a proven 
+track record of building teams and fostering collaboration in order to achieve goals, meet 
+milestones, and produce high quality written qualitative, quantitative, and narrative 
+deliverables. The DCOP must also demonstrate effective personnel management, 
+coordination, and decision-making skills, with an ability to be accountable for all aspects 
+of this project. In the absence of the COP, s/he is expected to be the direct link with the 
+AOR. 
+
+ 
+
+c) Senior SBC Advisor: The Senior SBC Advisor will oversee the design, implementation 
+and monitoring of SBC interventions in close coordination with the COP and DCOP. S/he 
+will lead SBC capacity building, partnership development, and integration of behavioral 
+interventions across the project, with key responsibility for Result 3. S/he must have at 
+least a Master’s degree in a relevant discipline and at least 10 years of demonstrated 
+experience in design, implementation and monitoring of large-scale development 
+programs. Superior verbal and written communication skills and experience establishing 
+robust partnerships with the private sector and local government organizations to support 
+SBC are required. Prior experience in strengthening the capacity of government health 
+system staff and CSOs is desired. 
+
+ 
+
+d) Senior Monitoring and Evaluation Advisor: The Senior Monitoring and Evaluation 
+Advisor will oversee the monitoring and evaluation system for reporting progress, and 
+maintain reporting procedures and guidelines in compliance with USAID systems. S/he 
+must have at least a Master’s degree in a relevant discipline and at least 10 years of 
+demonstrated experience in monitoring and evaluation of large-scale development 
+programs. Previous experience managing a rigorous M&E system, including a strong 
+focus on gender, is necessary. Knowledge of data collection protocols to ensure accurate 
+data collection and verification is essential, as well as an ability to identify data trends and 
+communicate this information to allow for changes in program implementation. Superior 
+verbal and written communication skills to manage project communications and 
+disseminate project information are required. Past experience leading and building the 
+capacity of M&E officers, including remote, field-based staff, to meet program needs and 
+deliverables is desired. 
+
+ 
+
+e) Director of Finance and Operations: The Director of Finance/Administration must 
+possess at least a Master’s Degree in Business Administration, Finance, Accounting. S/he 
+must have at least six years’ experience managing finances for large NGO programs. 
+Knowledge of USAID policies and business practices and with direct experience 
+managing the finances and administration of a USAID-funded project is preferred. The 
+Director of Finance/Administration must have extensive experience with project financial 
+
+
+management, including financial controls, accounting, and audit, as well as reporting on 
+accruals, pipeline, and expense validation and reimbursement to service providers. 
+
+ 
+
+3. Subaward approval: The Recipient must request prior review and written concurrence from the 
+Agreement Officer’s Representative (AOR) and obtain review and written approval from the 
+Agreement Officer (AO) before entering into any sub-awards under the performance of this 
+agreement; 
+
+ 
+
+4. Approval of the Recipient’s Monitoring, Evaluation and Learning (MEL) Plan by the 
+Agreement Officer’s Representative (AOR); and 
+
+ 
+
+5. Technical Participation and Consultations: USAID may monitor and participate to permit 
+specific directions or redirections in technical discussions with the Recipient and provide 
+technical guidance during the development of technical materials/documents and/or the provision 
+of technical interventions. USAID will review and approve final versions of all print or electronic 
+publications before release for publication. USAID may engage in discussion with the Recipient 
+and/or provide technical guidance to the Recipient to ensure the quality of the activity and that the 
+activity is aligned with the policies and strategies of the USAID and the US Government. 
+
+ 
+
+4. Authorized Geographic Code 
+
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 937. 
+
+ 
+
+5. Nature of the Relationship between USAID and the Recipient 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Building Health 
+Families Activity which is authorized by Federal statute. The successful Recipient will be 
+responsible for ensuring the achievement of the program objectives and the efficient and effective 
+administration of the award through the application of sound management practices. The 
+Recipient will assume responsibility for administering Federal funds in a manner consistent with 
+underlying agreements, program objectives, and the terms and conditions of the Federal award. 
+
+ 
+
+[END OF SECTION B] 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. ELIGIBLE APPLICANTS 
+
+
+ 
+
+Eligibility for this NOFO is not restricted. 
+
+ 
+
+While for-profit firms may participate, pursuant to 2 CFR 200.400(g), it is USAID policy not to 
+award profit to prime recipients and subrecipients under assistance instruments. However, while 
+profit is not allowed for sub-awards, the prohibition does not apply when the recipient acquires 
+goods and services in accordance with 2 CFR 200.317 -326, “Procurement Standards.” Forgone 
+profit does not qualify as cost-share. 
+
+ 
+
+Each applicant must be found to be a responsible entity before receiving an award. The 
+Agreement Officer (AO) may determine that a pre-award survey is required in accordance with 
+ADS 303.3.9.1 to determine whether the applicant has the necessary organization, experience, 
+accounting and operational controls, and technical skills – or ability to obtain them – in order to 
+achieve the objectives of the program and comply with established U.S. Government standards, 
+laws, and regulations. Applicants who do not currently meet all USAID requirements for systems 
+and controls may still be eligible under special award considerations and should not be 
+discouraged from applying. USAID welcomes applications from organizations that have not 
+previously received financial assistance from USAID. The prime recipient is encouraged to 
+promote involvement of “underutilized” partners and local organizations in the implementation of 
+this activity. 
+
+ 
+
+2. COST SHARING OR MATCHING 
+
+ 
+
+USAID has established a minimum required cost share of 5% of the total estimated cost for this 
+
+activity, which is approximately US$ [exact amount to be inserted by the time of award] to be 
+contributed throughout the life of the activity. Such funds may be mobilized from the recipient; 
+other multilateral, bilateral, and foundation donors; host governments; and local organizations, 
+communities and private businesses that contribute financially and in-kind to implementation of 
+activities at the country level, but not from other USG funding sources. This may include 
+contribution of staff level of effort, office space or other facilities or equipment which may be 
+used for the activity, provided by the partner. For guidance on cost sharing in grants and 
+cooperative agreements, please see the ADS 303.3.10 and 2 CFR 200.306 for U.S. NGOs. For 
+non-US NGOs, all cost sharing would be subject to the Required as Applicable Provision “Cost 
+Sharing” in the Mandatory Reference for ADS Chapter 303, Standard Provisions for Non-U.S. 
+Nongovernmental Organizations. 
+
+ 
+
+3. ELIGIBILITY OF GOODS AND SERVICES FOR USAID FINANCING 
+
+ 
+
+● Applicable Rules 
+
+
+ 
+
+The recipient must comply with USAID’s Rules for Procurement of Commodities and 
+Services Financed by USAID in 22 CFR 228 in the procurement and long-term lease (as 
+defined in 22 CFR 228.01) of goods and services with USAID funds. These rules govern the 
+
+
+source of USAID-financed commodities and the nationality of suppliers of USAID-financed 
+commodities and services, which must be in a country that is included in the authorized 
+geographic code. These rules apply to the recipient’s procurement contracts (as defined in 2 
+CFR 200) with vendors and to subcontracts at all tiers under the recipient’s procurement 
+contracts. 
+
+ 
+
+● Sub-Awards 
+
+
+ 
+
+These rules do not apply to sub-awards (as defined in 2 CFR 200.92) but do apply to the 
+procurement and long-term lease of goods and services by sub-recipients (as defined in 2 CFR 
+200.93) at all tiers, and to those sub-recipients’ procurement contracts and subcontracts with 
+vendors at all tiers. These rules do not apply to procurement or long-term lease of goods and 
+services with cost-sharing or program income funds. 
+
+ 
+
+● Restricted Commodities 
+
+
+ 
+
+“Restricted Commodities” are certain agricultural commodities, motor vehicles (excluding 
+driver service), pharmaceuticals, condoms and contraceptives, pesticides, used equipment, and 
+non-local purchase of fertilizer. Special rules apply to restricted commodities and are 
+described in ADS 312.3.3. 
+
+ 
+
+2. ELIGIBILITY OF ACTIVITIES UNDER USAID’S ENVIRONMENTAL 
+REGULATIONS 
+
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered and that USAID include environmental 
+sustainability as a central consideration in designing and carrying out its development programs. 
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ADS/200), 
+which, in part, require that the potential environmental impacts of USAID-financed activities are 
+identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. Recipient environmental compliance obligations under these 
+regulations and procedures are specified in the following paragraphs of this NOFO. 
+
+ 
+
+In addition, the Recipient must comply with host country environmental regulations unless 
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+regulations, the latter shall govern. 
+
+ 
+
+No activity funded under this CA will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). 
+(Hereinafter, such documents are described as “approved Regulation 216 environmental 
+documentation.”). 
+
+ 
+
+
+An Initial Environmental Examination (IEE) Asia 22-009 (See Attachment E) has been approved 
+for Building Healthy Families Activity, which covers activities expected to be implemented under 
+this agreement. The interventions with Negative Determination with Conditions (NDC) 
+determination will require development of an Environmental Mitigation and Monitoring Plan 
+(EMMP). 
+
+ 
+
+As part of its initial Implementation Plan, and all Annual Implementation Plans thereafter, the 
+recipient, in collaboration with the COR and Mission Environmental Officer or Bureau 
+Environmental Officer, as appropriate, shall review all ongoing and planned activities under this 
+Cooperative Agreement (CA) to determine if they are within the scope of the approved 
+Regulation 216 environmental documentation. 
+
+ 
+
+If the recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID 
+review and approval. No such new activities shall be undertaken prior to receiving written 
+USAID approval of environmental documentation amendments. 
+
+ 
+
+Any ongoing activities found to be outside the scope of the approved Regulation 216 
+environmental documentation shall be halted until an amendment to the documentation is 
+submitted and written approval is received from USAID. 
+
+ 
+
+3. LIMITATIONS ON SUBMISSIONS 
+
+
+ 
+
+Each applicant is limited to one application submission under this NOFO as the prime Applicant. 
+There is no limitation on being included as a potential sub-awardee across multiple applications. 
+The use of exclusive teaming arrangements is discouraged. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+D.1 AGENCY POINT OF CONTACT 
+
+ 
+
+Only the Agreement Officer is authorized to make commitments on behalf of USAID. The 
+Agreement Officer is listed below: 
+
+ 
+
+Bruce Gelband 
+
+Agreement Officer 
+
+USAID/Pakistan 
+
+Ramna 5, Diplomatic Enclave 
+
+Islamabad - Pakistan 
+
+Email: bgelband@usaid.gov 
+
+ 
+
+The point of contact for information about this NOFO is: 
+
+ 
+
+Mr. Faisal Jawad 
+
+Acquisition and Assistance Specialist 
+
+USAID/Pakistan 
+
+Ramna 5, Diplomatic Enclave 
+
+Islamabad - Pakistan 
+
+Email: fjawad@usaid.gov 
+
+ 
+
+The above contact information is only for informational purposes. The NOFO itself and any 
+subsequent amendments can be found at www.grants.gov. All applications must be submitted 
+according to instructions contained in this NOFO. 
+
+ 
+
+In order to maintain a fair and transparent funding opportunity, USAID maintains strict guidelines 
+on who within USAID may be contacted regarding applications or questions about the 
+opportunity. Applicants may only contact USAID via the email address provided above in this 
+NOFO. Failure to comply with the USAID points of contact guidance mandated in the NOFO 
+may disqualify the Applicant(s). 
+
+ 
+
+D.2 QUESTIONS AND ANSWERS 
+
+ 
+
+Questions and requests for clarification regarding this NOFO should be submitted via email to the 
+Agency Points of Contact above no later than the date and time indicated on the cover page. 
+
+ 
+
+Any information given to a prospective Applicant concerning this NOFO will be furnished 
+promptly to all other prospective Applicants as an amendment to this NOFO on www.grants.gov, 
+if that information is necessary in submitting applications or if the lack of it would be prejudicial 
+to any other prospective Applicant. Please check www.grants.gov for any amendments. 
+
+ 
+
+D.3 SUBMISSION DATE AND TIME 
+
+ 
+
+
+Applications must be submitted by email to points of contact stated in section D.1 before the 
+respective due dates and times on the cover page. Applicants must ensure that the applications are 
+received at USAID/Pakistan in their entirety. No additions or modifications to submitted 
+applications will be accepted after the closing date and time. Late applications will be considered 
+only if the Agreement Officer determines it is in the Government’s interest. Each email 
+submission may not exceed 15 MB in size. 
+
+ 
+
+Hard copies, whether hand delivered or by postal mail, will not be accepted. 
+
+ 
+
+If you do not receive an email confirmation for receipt of applications, please contact the point of 
+contact at the email address noted above. 
+
+ 
+
+D.4 APPLICANTS RESPONSIVENESS 
+
+ 
+
+All applications received by the closing date and time will be reviewed for responsiveness to the 
+specifications outlined in these guidelines and the application format. Section E: Application 
+Review Information addresses application review criteria. Applicants must review, understand, 
+and comply with all aspects of this NOFO. Failure to do so may lead to the disqualification 
+of an application. It is the Applicant’s responsibility to ensure that all necessary documentation 
+is complete and received on time. 
+
+ 
+
+D.5 APPLICATION SUBMISSION PROCEDURES 
+
+ 
+
+Submission of Applications 
+
+ 
+
+a. The subject line of application submissions must reference the NOFO No. 
+72039122RFA00003 and the title of the activity: Building Healthy Families Activity. The 
+applicant must indicate in the subject line of the email if multiple emails are sent (e.g. “1 
+of 4”). 
+
+
+ 
+
+b. Applications in response to this NOFO must be in English, and in U.S. dollars. 
+
+
+ 
+
+c. Applications must be submitted in two separate parts: the Technical Application and the 
+Business (Cost) Application. 
+
+
+ 
+
+Restriction on Disclosure and Use of Data 
+
+ 
+
+a. Applicants that include in their applications data that they do not want disclosed to the 
+public for any purpose, or used by the Government except for evaluation purposes shall: 
+
+ 
+
+i. Mark the title page with the following legend: “This application includes data that 
+shall not be disclosed outside the Government and shall not be duplicated, used, or 
+disclosed - in whole or in part - for any purpose other than to evaluate this application. 
+If, however, a grant or cooperative agreement is awarded to this Applicant as a result 
+of - or in connection with - the submission of this data, the Government shall have the 
+right to duplicate, use, or disclose the data to the extent provided in the resulting 
+
+
+
+award. This restriction does not limit the Government's right to use information 
+contained in this data if it is obtained from another source without restriction. The data 
+subject to this restriction are contained in sheets [insert numbers or other identification 
+of sheets]”; and 
+
+
+ 
+
+ii. Mark each page containing restricted data with the following legend: “Use or 
+disclosure of data contained on this sheet is subject to the restriction on the title page 
+of this application.” 
+
+
+ 
+
+b. Applicants are advised that it is anticipated that the successful program narrative, 
+submitted as part of the technical application, will become the Program Description of the 
+cooperative agreement awarded as a result of this NOFO. Pursuant to the Freedom of 
+Information Act of 1981, the public is entitled to request information from Agency award 
+files. As a general rule, information will be disclosed except: 
+
+ 
+
+i. Information submitted in response to this NOFO, prior to award of the grant, or 
+modifications or revisions thereto. 
+ii. Information properly classified or administratively controlled by USAID. 
+iii. Information specifically exempted from disclosure under the Freedom of Information 
+Act. 
+
+
+ 
+
+c. Upon award of the cooperative agreement resulting from this NOFO, USAID will 
+disclose, use, or duplicate any information submitted in response to this NOFO to the extent 
+provided in the award, and as required by the Freedom of Information Act. 
+
+ 
+
+Pre-Award Audits/Surveys and Discussions 
+
+ 
+
+USAID reserves the right to perform a pre-award audit/survey which may include, but is not 
+limited to: (1) interviews with individuals to establish their ability to perform award duties under 
+project conditions; (2) a review of the Applicant's financial condition, business and personnel 
+policies and procedures, etc.; and (3) site visits to the Applicant's institution. However, it must be 
+understood that USAID undertakes no obligation to perform any of the foregoing elements. 
+Accordingly, Applicants should submit their best and most complete application initially. 
+
+ 
+
+Authority to Commit USAID 
+
+ 
+
+The Agreement Officer (AO) is the only individual who may legally commit USAID to the 
+expenditure of public funds. No costs allocable to the proposed award will be reimbursed by 
+USAID before receipt of either a fully executed grant or cooperative agreement, or a specific 
+written authorization from the Agreement Officer (AO). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+D.6 TECHNICAL APPLICATION 
+
+ 
+
+(a) General 
+
+
+ 
+
+Applicants must organize the application to follow the review criteria specified in Section E. The 
+page length for the application shall not exceed seventeen (17) pages. Within these pages, the 
+executive summary shall not exceed one (1) page. The only annexes to be evaluated are listed 
+hereunder and are not subject to the page limitation. 
+
+ 
+
+Technical application must be organized in the following manner: 
+
+ 
+
+I. Executive Summary – not to exceed one (01) page 
+II. Proposed Program 
+
+
+III. Staffing and Management Plan 
+
+IV. Institutional Experience and Past Success 
+V. Annexes - See below 
+● Staffing Pattern / Organizational Chart 
+● Resume and Letter of Commitment of the key personnel (Chief of Party Only) 
+● Partner Letters of Commitment 
+● History of Performance 
+
+
+ 
+
+(b) Limitations 
+
+ 
+
+USAID will not evaluate information submitted in excess of the above stated page limits. The 
+Technical Application shall be written in Time New Roman Font, 12-point size and should be 
+single-spaced. The 12-point size requirement does not apply to text boxes, footnotes, tables, 
+graphs and charts, though these should be used sparingly and not in place of basic text. Applicants 
+shall use only 8.5 inch by 11-inch (210mm by 297mm) paper, with margins no less than one inch 
+on each border. Number each page consecutively. 
+
+ 
+
+Note: A page in the Technical Application that contains a table, chart, graph, etc., not otherwise 
+explicitly excluded per the instruction, is subject to the page limitation. 
+
+ 
+
+Not included in this page limitation are the following: 
+
+ 
+
+● Cover Page – the Applicant must provide with the following information on the Cover 
+Page: 
+
+
+ 
+
+a. Name of the organization submitting the application; 
+b. Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address); 
+c. Activity Title; 
+
+
+
+
+
+d. Notice of Funding Opportunity number; 
+e. Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ 
+under ADS 303.6). 
+f. DUNS number / SAM Unique Entity ID (UEI) 
+
+
+
+
+ 
+
+● Table of Contents 
+● Acronym List 
+● Annexes (as specified in D.6(a) above) 
+
+
+ 
+
+Information from annexes should be summarized in the narrative of the Technical Application, as 
+appropriate. 
+
+ 
+
+(c) Content of the Technical Application 
+
+ 
+
+Technical applications should include the sections and content below and should be directed at 
+the program as described in Section A. Funding Opportunity Description. The technical 
+application will be the critical item of consideration in selection of an Applicant for an award. The 
+information provided in the technical application must be specific, complete, and presented 
+concisely. The technical application must demonstrate the Applicant's capabilities and expertise 
+with respect to achieving the goals of this program and specify the specific results to be achieved. 
+The merit review criteria set forth in Section E. Application Review Information of this NOFO 
+indicate the relative importance of each criterion so that Applicants will know which areas require 
+emphasis in the preparation of the technical application. Applicants are advised that lack of 
+completeness or superficiality of the application may constitute grounds for excluding it from 
+consideration. 
+
+ 
+
+Please be aware that the applicant must comply with the USAID statutory and policy 
+requirements related to restrictions on abortion, and voluntary and informed family planning 
+while framing proposed programs. 
+
+ 
+
+The Technical Application includes the information set forth below: 
+
+ 
+
+1. Executive Summary (maximum 1 page) 
+
+
+ 
+
+A succinct summary of the Applicant’s overall implementation approach. 
+
+ 
+
+2. Proposed Program [See Section E.2.1] 
+
+
+ 
+
+The Proposed Program should convincingly articulate the Applicant’s proposed activities 
+to accomplish each of the three results presented in the Funding Opportunity Description, 
+focusing on what is technically feasible within the life of the Activity and resources 
+available. The Applicant should not merely repeat what is already described in the 
+Program Description but should convincingly describe clear, specific, evidence-based and 
+sustainable outcomes, preferably qualitative and quantitative, that contribute directly to 
+the accomplishment of the three results. Also, the Applicant will include a log frame. The 
+
+
+log frame must clearly and convincingly demonstrate the logic of how the activities will 
+lead to the outputs, then to the outcomes, and ultimately to the goal. 
+
+ 
+
+3. Staffing and Management Plan [See Section E.2.2] 
+
+
+ 
+
+Key Personnel: 
+
+ 
+
+USAID/Pakistan determined five (5) key personnel positions for this award, including the 
+Chief of Party. For this NOFO, the Applicant need only identify the Chief of Party (COP) 
+by name in the application. No other individual should be identified nor will be evaluated 
+at the application stage, but all positions, including each key personnel position must be 
+included in the overall staffing plan as described below. 
+
+ 
+
+Please see SECTION B: FEDERAL AWARD INFORMATION regarding the 
+qualification requirements for the position of Key Personnel - Chief of Party (COP) that 
+the applicant must take into consideration. 
+
+ 
+
+Staffing Plan: 
+
+ 
+
+Applicants must propose a staffing plan that convincingly demonstrates the Applicant’s 
+ability to successfully implement the Activity. The Applicant must describe how the 
+proposed Staffing Plan (including Key Personnel) will ensure successful implementation 
+and the approach by which local Pakistani labor and expertise will be maximized. If more 
+than one full-time expatriate is proposed, the Applicant must justify using more than one 
+expatriate, as opposed to local Pakistani professionals. 
+
+ 
+
+The Applicant must describe the division of roles and responsibilities between the 
+applicant, sub awardees and other resource organizations, if any, in implementing the 
+activity. The Applicant shall describe staffing roles for any proposed sub-awardees with 
+defined lines of management, supervisory authority, and technical responsibility. The 
+staffing plan shall clearly and logically address how consultants will be used to 
+complement full-time project staff and whether they will be local or expatriate staff. 
+
+ 
+
+4. Institutional Experience and Past Success [See Section E.2.3] 
+
+
+ 
+
+The prime Applicant and its major subrecipient(s)*, if any, combined must demonstrate 
+experience in (i), (ii), and (iii) below; 
+
+ 
+
+* For the purpose of this section, the term “major subrecipient” includes only those subrecipient(s) 
+budgeted in excess of $5,000,000 in the cost application over the entirety of the performance period. 
+
+ 
+
+In providing examples of work as outlined in (i), (ii), and (iii) below, the Applicant must 
+precisely describe its (or major subrecipients) specific role(s) in implementing the 
+experiences described. Also, the Applicant must articulate how the described institutional 
+experience, the results/successes achieved in carrying out the described experience, and 
+how the described experience will enhance the likelihood of successful implementation of 
+this activity. 
+
+
+ 
+
+i. Experience in capacity building of the government and private health institutions 
+to lead resilient, responsive family planning and maternal, newborn, and child health 
+(FP/MNCH) systems. This includes: 
+
+ 
+
+● Working with national and provincial governments and private sector to strengthen 
+and scale up FP high impact practices 
+● Embedding technical experts at the host government departments to build 
+FP/MNCH capacity 
+● Strengthening government systems to expand quality FP services through 
+community based providers, i.e. LHW, CMW etc. 
+● Developing and implementing an integrated FP/MNCH service delivery model to 
+maximize efficiency and increase service access and quality. 
+● Responding to, and adapting to outbreaks like COVID-19 and other emerging 
+public health threats within the broader health system to ensure delivery of routine 
+healthcare services. 
+
+
+ 
+
+ii. Experience in successfully implementing activities leading to men and youth 
+empowered to communicate about, demand, and use essential health care products 
+and services. This includes: 
+
+ 
+
+● Testing new or strengthening existing FP/MNCH service delivery approaches (i.e. 
+digital innovations, FP counseling and follow up) for scale up. 
+● Investigating new contraceptive options including research/scientific trial 
+providing critical evidence for scale up 
+● The use of digital tools/technology such as chatbots, hotlines, and telehealth to 
+support information dissemination and service provision for FP. 
+● Establishing mobile outreach clinics, complementing the FP services provided by 
+the public sector 
+● Increasing male engagement and uptake of male contraceptive methods 
+● Expanding FP outlets through partnerships to serve vulnerable populations 
+
+
+ 
+
+iii. Experience in successfully implementing activities that improve utilization of 
+quality FP/MNCH products and services. This includes: 
+
+ 
+
+● Developing or strengthening youth-focused FP engagement and counseling models 
+for Lady Health Workers (LHWs) and public and private sector health providers 
+● Developing and implementing approaches to address fears/rumors related to FP 
+use 
+● Testing and scaling SBC interventions that change behavior and enable positive 
+social norms that support women, men and young couples to use quality 
+FP/MNCH services and products. 
+
+
+ 
+
+5. Annexes 
+
+
+ 
+
+
+5.1 Staffing Pattern / Organizational Chart - The Applicant must provide an organizational 
+chart depicting its staffing plan including the chain of command among staff. The chart 
+must specify which personnel, if any, are employed by a sub-awardee, if any. The title and 
+position description of each of the key personnel positions (including the Chief of Party) 
+must be included in this Annex. 
+
+ 
+
+5.2 Resume and Letter of Commitment of the key personnel (Chief of Party Only) - This 
+information is only required for the Chief of Party (COP) position. The resume must 
+include a minimum of five references with current email and telephone number contact 
+information. It should be noted that USAID reserves the right to solicit references beyond 
+those submitted. The resume may not exceed five pages and must, at a minimum, identify 
+the start year and month and end year and month for each former/current employment 
+listed. Also, a signed letter of commitment must be submitted for the Chief of Party 
+proposed, indicating (a) his/her intention to serve for a stated term of the service [state the 
+period in the letter], and (b) agreement to the compensation level which corresponds to the 
+levels set forth in the cost application. 
+
+ 
+
+5.3 Partner Letters of Commitment - Applicants who intend to propose teaming 
+arrangements must include Letters of Commitment for all proposed major subrecipients 
+included in the application, indicating their anticipated roles in the activity. 
+
+ 
+
+5.4 History of Performance 
+
+The Applicant must provide information regarding its recent history of performance for no 
+more than three (3) projects performed within the past five (5) years involving approaches 
+similar to what is proposed under the application, as follows: 
+
+ 
+
+Name of the Awarding Organization; 
+
+Activity Title; 
+
+A brief description of the activity; 
+
+Period of Performance; 
+
+Award Amount; and 
+
+Name of at least two (2) professional contacts who most directly observed the 
+work at the organization for which the service was performed with complete 
+current contact information including telephone number, and e-mail address for 
+each proposed individual. 
+
+ 
+
+If the Applicant encountered problems on any of the referenced Awards, it may provide a 
+short explanation and the corrective action taken. The applicant should not provide general 
+information on its performance. USAID reserves the right to obtain information from 
+relevant sources concerning an Applicant’s history of performance and may consider such 
+information in its review of the Applicant’s performance risk. 
+
+ 
+
+D.7 BUSINESS (COST) APPLICATION 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. 
+While no page limit exists for the full cost application, applicants are encouraged to be as concise 
+
+
+as possible while still providing the necessary details. The business (cost) application must 
+illustrate the entire period of performance, using the budget format shown in the SF-424A. 
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary 
+for the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.206. 
+Applicants should not submit any additional information with their initial application. 
+
+ 
+
+The Cost Application must contain the following sections: 
+
+ 
+
+a. Cover Page - (with same details as listed in Section D.6 (b) 
+
+
+ 
+
+b. SF 424 Form(s) 
+
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard Forms 
+can be accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+Instructions for SF- 
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424- 
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF- 
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424ainstructions.
+html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF- 
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424binstructions.
+html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+c. Required Certifications and Assurances 
+
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+application. 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+(2) Assurances for Non-Construction Programs (SF-424B) 
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+d. Budget and Budget Narrative 
+
+
+ 
+
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later versions) 
+with visible formulas and references and must be broken out by project year, including 
+itemization of the federal and non-federal (cost share) amount. Files must not contain any hidden 
+or otherwise inaccessible cells. Budgets with hidden cells lengthen the cost analysis time required 
+to make award, and may result in a rejection of the cost application. The Budget Narrative must 
+contain sufficient detail to allow USAID to understand the proposed costs. The applicant must 
+ensure the budgeted costs address any additional requirements identified in Section F. The Budget 
+Narrative must be thorough, including sources for costs to support USAID’s determination that 
+the proposed costs are fair and reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the applicant and any 
+potential sub-applicants for the entire period of the program. See Attachment B: Summary 
+Budget Template 
+● Detailed Budget, including a breakdown by year, sufficient to allow the Agency to 
+determine that the costs represent a realistic and efficient use of funding to implement the 
+applicant’s program and are allowable in accordance with the cost principles found in 2 
+CFR 200 Subpart E. 
+● Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken out 
+by budget category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a 
+minimum: 
+
+ 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. The applicant’s budget must include position title, salary rate, level of 
+effort, and salary escalation factors for each position. Allowances, when proposed, must be 
+broken down by specific type and by position. Applicants must explain all assumptions in the 
+Budget Narrative. The Budget Narrative must demonstrate that the proposed compensation is 
+reasonable for the services rendered and consistent with what is paid for similar work in other 
+activities of the applicant and as per their established written policies on personnel 
+compensation. If the applicant’s written policies do not address a specific element of 
+compensation that is being proposed, the Budget Narrative must describe the rationale used 
+and supporting market research. 
+
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an 
+agency of the U.S. Government, the applicant must use such rate and provide evidence of its 
+approval. If an applicant does not have a fringe benefit rate approved, the applicant must 
+propose a rate and explain how the applicant determined the rate. In this case, the Budget 
+Narrative must include a detailed breakdown comprised of all items of fringe benefits (e.g., 
+superannuation, gratuity, etc.) and the costs of each, expressed in U.S. dollars and as a 
+percentage of salaries. 
+
+
+ 
+
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the number of 
+trips, the origin and destination, the number of individuals traveling, and the duration of the 
+trips. Per Diem and associated travel costs must be based on the applicant’s normal travel 
+policies. When appropriate please provide supporting documentation as an attachment, such 
+as company travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property – Must 
+include information on estimated types of equipment, models, supplies and the cost per unit 
+and quantity. The Budget Narrative must include the purpose of the equipment and supplies 
+and the basis for the estimates. The Budget Narrative must support the necessity of any rental 
+costs and reasonableness in light of such factors as: rental costs of comparable property, if 
+any; market conditions in the area; alternatives available; and the type, life expectancy, 
+condition, and value of the property leased. 
+
+
+ 
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200 for assistance in determining whether the sub-tier entity is a 
+subrecipient or contractor. The subrecipient budgets must align with the same requirements 
+as the applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+6) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any 
+other miscellaneous costs which directly benefit the program proposed by the applicant. The 
+applicant should indicate the subject, venue and duration of any proposed conferences and 
+seminars, and their relationship to the objectives of the program, along with estimates of costs. 
+Otherwise, the narrative should be minimal. 
+
+
+ 
+
+In addition to the above, the applicants should consider any costs foreseen for security. The 
+security costs shall be clearly identified as a separate budget sub line item under “Other Direct 
+Costs” and must be included as part of the overall applicant’s cost application. 
+
+ 
+
+8) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or will 
+charge all costs directly. In order to better understand indirect costs please see Subpart E of 2 
+CFR 200. The application must identify which approach they are requesting and provide the 
+applicable supporting information. Below are the most commonly used Indirect Cost Rate 
+methods: 
+
+ 
+
+Method 1 - Direct Charge Only 
+
+Eligibility: Any applicant 
+
+Initial Application Requirements: See above on direct costs 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+Eligibility: Any applicant with a NICRA issued by a USG Agency must use that 
+NICRA 
+
+Initial Application Requirements: If the applicant has a current NICRA, submit your 
+approved NICRA and the associated disclosed practices. If your NICRA was issued 
+by an Agency other than USAID, provide the contact information for the approving 
+Agency. Additionally, at the Agency’s discretion, a provisional rate may be set forth 
+
+
+72039122RFA00003 Building Healthy Families Activity 
+
+in the award subject to audit and finalization. See USAID’s Indirect Cost Rate Guide 
+for Non Profit Organizations for further guidance. 
+
+Method 3 -De minimis rate of 10% of modified total direct costs (MTDC) 
+Eligibility: Any applicant that does not have a current NICRA 
+Initial Application Requirements: Costs must be consistently charged as either indirect 
+or direct costs, but may not be double charged or inconsistently charged as both. If 
+chosen, this methodology once elected must be used consistently for all Federal 
+awards until such time as a non-Federal entity chooses to negotiate an indirect rate, 
+which the non-Federal entity may apply to do at any time. The applicant must 
+describe which cost elements it charges indirectly vs. directly. See 2 CFR 200 for 
+further information. 
+
+Method 4 -Indirect Costs Charged As A Fixed Amount 
+Eligibility: Non U.S. non-profit organizations without a NICRA may request, but 
+approval is at the discretion of the AO 
+Initial Application Requirements: Provide the proposed fixed amount and a worksheet 
+that includes the following: 
+
+● 
+Total costs incurred by the organization for the previous fiscal year and estimates 
+for the current year. 
+● 
+Indirect costs (common costs that benefit the day-to-day operations of the 
+organization, including categories such as salaries and expenses of executive 
+officers, personnel administration, and accounting, or that benefit and are 
+identifiable to more than one program or activity, such as depreciation, rental 
+costs, operations and maintenance of facilities, and telephone expenses) for the 
+previous fiscal year and estimates for the current year 
+● 
+Proposed method for prorating the indirect costs equitably and consistently across 
+all programs and activities of using a base that measures the benefits of that 
+particular cost to each program or activity to which the cost applies. 
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% de 
+minimis rate, the Agreement Officer will provide further instructions and may request 
+additional supporting information, including financial statements and audits, should the 
+application still be under consideration after the merit review. USAID is under no 
+obligation to approve the applicant’s requested method. 
+
+9) Cost Sharing – As outlined in Section C.2, there is a minimum required cost share of 5% of 
+the total estimated cost for this activity. The applicant should estimate the amount of cost-
+sharing resources to be provided over the life of the agreement and specify the sources of such 
+resources, and the basis of calculation in the budget narrative. Applicants should also provide 
+a breakdown of the cost share (financial and in-kind contributions) of all organizations 
+involved in implementing the resulting award. 
+e. Prior Approvals in accordance with 2 CFR 200.407 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of any 
+cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+f. Approval of Subawards 
+
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved. For 
+each proposed subaward the applicant must provide the following: 
+
+ 
+
+● Name of organization 
+● DUNS Number / SAM Unique Entity ID (UEI) 
+● Confirmation that the subrecipient does not appear on the Treasury Department’s Office 
+of Foreign Assets Control (OFAC) list 
+● Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+● Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+● Confirmation that the subrecipient is not suspended or debarred 
+● Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.332(b) 
+● Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+g. Branding Strategy & Marking Plan 
+
+
+ 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking 
+Plan to be evaluated and approved by the Agreement Officer and incorporated into any resulting 
+award. 
+
+ 
+
+Branding Strategy – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, project, or activity is named and positioned, and how 
+it is promoted and communicated to beneficiaries and host country citizens. 
+
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the 
+budget portion of the application. These costs are subject to the revision and negotiation with 
+
+
+
+the Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+cooperative agreement or other assistance instrument. 
+
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+
+ 
+
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+plaques, stickers, banners, press events, materials, and so forth. 
+
+
+
+
+ 
+
+(2) The intended name of the program, project, or activity. 
+
+
+
+
+ 
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the 
+USAID logo and brandmark, with the tagline “from the American people” as 
+found on the USAID Web site at http://www.usaid.gov/branding, unless Section 
+VI of the RFA or APS states that the USAID Administrator has approved the use 
+of an additional or substitute logo, seal, or tagline. 
+(ii) USAID prefers local language translations of the phrase “made possible by (or 
+with) the generous support of the American People” next to the USAID Identity 
+when acknowledging contributions. 
+(iii) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+(iv) If branding in the above manner is inappropriate or not possible, the applicant must 
+explain how USAID's involvement will be showcased during publicity for the 
+program or project. 
+(v) USAID prefers to fund projects that do not have a separate logo or identity that 
+competes with the USAID Identity. If there is a plan to develop a separate logo to 
+consistently identify this program, the applicant must attach a copy of the 
+proposed logos. Section VI of the RFA or APS will state if an Administrator 
+approved the use of an additional or substitute logo, seal, or tagline. 
+
+
+
+
+
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+direct beneficiaries and any special target segments. 
+
+
+
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program 
+to beneficiaries. 
+
+
+
+
+ 
+
+(i) Describe the main program message. 
+(ii) Provide plans for training materials, posters, pamphlets, public service 
+announcement, billboards, Web sites, and so forth, as appropriate. 
+(iii) Provide any plans to announce and promote publicly this program or project to host 
+country citizens, such as media releases, press conferences, public events, and so 
+forth. Applicant must incorporate the USAID Identity and the message, “USAID is 
+from the American People.” 
+(iv) Provide any additional ideas to increase awareness that the American people 
+support this project or program. 
+
+
+
+
+
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, 
+
+
+
+
+
+including any planned acknowledgement of the host-country government. 
+
+
+
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials 
+and related materials. Indicate if they are a donor or why they will be visibly 
+acknowledged, and if they will receive the same prominence as USAID. 
+
+
+
+
+ 
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above information is 
+adequately included and consistent with the stated objectives of the award, the applicant's cost 
+data submissions, and the performance plan. 
+
+
+ 
+
+g. If the applicant receives an assistance award, the Branding Strategy will be included in and 
+made part of the resulting grant or cooperative agreement. 
+
+
+ 
+
+Marking Plan – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and other 
+items that will visibly bear the “USAID Identity,” which comprises of the USAID logo and 
+brandmark, with the tagline “from the American people.” The USAID Identity is the official 
+marking for the Agency, and is found on the USAID Web site at 
+http://www.usaid.gov/branding. Section VI of the RFA or APS will state if an Administrator 
+approved the use of an additional or substitute logo, seal, or tagline. 
+
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the 
+budget portion of the application. These costs are subject to the revision and negotiation with 
+the Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+cooperative agreement or other assistance instrument. 
+e. The Marking Plan must include all of the following: 
+
+
+ 
+
+(1) A description of the public communications, commodities, and program materials that 
+the applicant plans to produce and which will bear the USAID Identity as part of the 
+award, including: 
+
+
+
+
+ 
+
+(i) Program, project, or activity sites funded by USAID, including visible 
+infrastructure projects or other sites physical in nature; 
+(ii) Technical assistance, studies, reports, papers, publications, audio- visual 
+productions, public service announcements, Web sites/Internet activities, 
+promotional, informational, media, or communications products funded by 
+USAID; 
+
+
+
+
+
+
+
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, 
+including commodities or equipment provided under humanitarian assistance or 
+disaster relief programs; and 
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+identity. 
+(v) Events financed by USAID, such as training courses, conferences, seminars, 
+exhibitions, fairs, workshops, press conferences and other public activities. If the 
+USAID Identity cannot be displayed, the recipient is encouraged to otherwise 
+acknowledge USAID and the support of the American people. 
+
+
+
+
+
+
+ 
+
+(2) A table on the program deliverables with the following details: 
+
+
+
+
+ 
+
+(i) The program deliverables that the applicant plans to mark with the USAID Identity; 
+(ii) The type of marking and what materials the applicant will use to mark the program 
+deliverables; 
+(iii) When in the performance period the applicant will mark the program deliverables, 
+and where the applicant will place the marking; 
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+Identity, and 
+(v) The rationale for not marking program deliverables. 
+
+
+
+
+
+
+ 
+
+(3) Any requests for an exemption from USAID marking requirements, and an 
+explanation of why the exemption would apply. The applicant may request an 
+exemption if USAID marking requirements would: 
+
+
+
+
+ 
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials 
+where independence or neutrality is an inherent aspect of the program and 
+materials. The applicant must identify the USAID Development Objective, Interim 
+Result, or program goal furthered by an appearance of neutrality, or state why an 
+aspect of the award is presumptively neutral. Identify by category or deliverable 
+item, examples of material for which an exemption is sought. 
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. The 
+applicant must explain why each particular deliverable must be seen as credible. 
+(iii) Undercut host-country government “ownership” of constitutions, laws, regulations, 
+policies, studies, assessments, reports, publications, surveys or audits, public 
+service announcements, or other communications. The applicant must explain why 
+each particular item or product is better positioned as host-country government item 
+or product. 
+(iv) Impair the functionality of an item. The applicant must explain how marking the 
+item or commodity would impair its functionality. 
+(v) Incur substantial costs or be impractical. The applicant must explain why marking 
+would not be cost beneficial or practical. 
+(vi) Offend local cultural or social norms, or be considered inappropriate. The applicant 
+must identify the relevant norm, and explain why marking would violate that norm 
+or otherwise be inappropriate. 
+
+
+
+
+
+
+
+(vii) Conflict with international law. The applicant must identify the applicable 
+international law violated by the marking. 
+
+
+
+
+
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and 
+will approve or disapprove any exemption requests. The Marking Plan will be reviewed to 
+ensure the above information is adequately included and consistent with the stated objectives 
+of the award, the applicant's cost data submissions, and the performance plan. 
+
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+exemptions, will be included in and made part of the resulting grant or cooperative agreement, 
+and will apply for the term of the award unless provided otherwise. 
+
+
+ 
+
+h. Funding Restrictions 
+
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+i. Conflict Of Interest Pre-Award Term (August 2018) 
+
+
+ 
+
+a. Personal Conflict of Interest 
+
+
+ 
+
+1. An actual or appearance of a conflict of interest exists when an applicant 
+organization or an employee of the organization has a relationship with an Agency 
+official involved in the competitive award decision-making process that could 
+affect that Agency official’s impartiality. The term “conflict of interest” includes 
+situations in which financial or other personal considerations may compromise, or 
+have the appearance of compromising, the obligations and duties of a USAID 
+employee or recipient employee. 
+
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits an SF- 
+424. Should the applicant discover a previously undisclosed conflict of interest 
+after submitting the application, the applicant must disclose the conflict of interest 
+to the AO no later than ten (10) calendar days following discovery. 
+
+
+ 
+
+b. Organizational Conflict of Interest 
+
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they 
+are aware of that may provide the applicant with an unfair competitive advantage in 
+competing for this financial assistance award. Examples of an unfair competitive 
+
+
+advantage include but are not limited to situations in which an applicant or the applicant’s 
+employee gained access to non-public information regarding a federal assistance funding 
+opportunity, or an applicant or applicant’s employee was substantially involved in the 
+preparation of a federal assistance funding opportunity. USAID will promptly take 
+appropriate action upon receiving any such notification from the applicant. 
+
+ 
+
+j. Pre-Award Costs 
+
+
+ 
+
+In accordance with 2 CFR 200.458 - Pre-award costs, Pre-award costs are those incurred prior to 
+the effective date of the Federal award directly pursuant to the negotiation and in anticipation of 
+the Federal award where such costs are necessary for efficient and timely performance of the 
+scope of work. Such costs are allowable only to the extent that they would have been allowable if 
+incurred after the date of the Federal award and only with the written approval of the Federal 
+awarding agency. Pre-Award costs may be authorized at the discretion of the Agreement Officer. 
+
+ 
+
+[END OF SECTION D] 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+E.1 CRITERIA 
+
+ 
+
+The merit review criteria prescribed herein are tailored to the requirements of this NOFO. 
+Applicants should note that these criteria serve to: (a) identify the significant matters which the 
+Applicants should address in their applications, and (b) set the standard against which all 
+applications will be evaluated. 
+
+ 
+
+As outlined in section C.2, there is a minimum required cost share for this activity. Applications 
+that do not meet the minimum cost share requirement may not be eligible for award consideration. 
+While it is a minimum requirement for eligibility, cost share will not be considered in the merit 
+review criteria. 
+
+ 
+
+E.2 MERIT REVIEW 
+
+ 
+
+Technical applications will be evaluated by a selection committee using the criteria shown in this 
+Section. The criteria below are presented by major categories. The merit review criterion-1 
+(Proposed Program) is more important than merit review criterion-2 (Staffing and Management 
+Plan ) or merit review criterion-3 (Institutional Experience and Past Success). Criterion-2 and 
+criterion-3 are equally important. 
+
+ 
+
+E.2.1 Proposed Program (See Section D.6.(c).2) 
+
+ 
+
+The extent to which the proposed program provides clear, specific, evidence-based and 
+sustainable outcomes that contribute directly to the accomplishment of each of the three 
+Activity results as also convincingly demonstrated by the log frame. 
+
+ 
+
+E.2.2 Staffing and Management Plan (See Section D.6.(c).3) 
+
+ 
+
+The extent to which the proposed staffing plan and proposed key person convincingly 
+demonstrate the ability to effectively manage and implement the proposed Activity 
+successfully. 
+
+ 
+
+E.2.3 Institutional Experience and Past Success (See Section D.6.(c).4) 
+
+ 
+
+The extent to which the application convincingly demonstrates the Applicant’s successful 
+past experience and the degree to which the Applicant will leverage this experience to 
+enhance the likelihood of successful implementation of this activity. 
+
+ 
+
+E.3 COST/BUSINESS REVIEW 
+
+ 
+
+The Agency will evaluate the cost application of the applicant(s) under consideration for an award 
+as a result of the merit criteria review to determine whether the costs are allowable in accordance 
+with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+ 
+
+Proposed cost share, if provided, will be reviewed for compliance with the standards set forth in 2 
+CFR 200.306, 2 CFR 700.10, and the Standard Provision "Cost Sharing (Matching)" for U.S. 
+entities, or the Standard Provision "Cost Share" for non-U.S. entities. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a preaward 
+survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+E.4 DETERMINATION OF AWARD 
+
+ 
+
+The submitted technical information will be evaluated by a selection committee using the criteria 
+shown above. The cost/business application will be reviewed by the Agreement 
+Officer/Agreement Specialist. As a result of this process, USAID intends to select the apparently 
+successful recipient based upon the initial application submission. Once the selection is made, the 
+Government may address any concerns to the selected recipient for resolution. However, the 
+Government reserves the right to negotiate with all applicants prior to selection of the successful 
+recipient if in the best interest of the Government. 
+
+ 
+
+If USAID and the apparently successful Applicant cannot come to a mutual understanding during 
+the course of discussions, or if the apparently successful Applicant is unable to provide 
+satisfactory Technical and Cost Applications, or does not meet deadlines for submissions, or 
+presents an unacceptable risk as a result of the risk assessment, then the Agreement Officer may 
+designate the next highest-evaluated Applicant as the apparently successful Applicant. This 
+decision is at the sole discretion of the Agreement Officer. The Agreement Officer’s decision 
+regarding funding of an award is final and not subject to review. 
+
+ 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1 FEDERAL AWARD NOTICES 
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential Applicant is hereby 
+notified of these requirements and conditions for the award. The Agreement Officer is the only 
+individual who may legally commit the Government to the expenditure of public funds. No costs 
+chargeable to the proposed Agreement may be incurred before receipt of either a fully executed 
+Agreement or a specific, written authorization from the Agreement Officer. 
+
+ 
+
+F.2 ADMINISTRATION 
+
+ 
+
+Awards will be made under relevant federal regulations and agency policy. For U.S nongovernmental 
+organizations, awards must be administered according to 2 CFR 200 and 2 CFR 700, 
+and USAID Standard Provisions will apply (https://www.usaid.gov/ads/policy/300/303maa). For 
+non U.S. non-governmental organizations, USAID provisions for non U.S. non-government 
+organizations will apply (https://www.usaid.gov/ads/policy/300/303mab). 
+
+ 
+
+F.3 PAYMENT AND FINANCIAL REPORTING 
+
+ 
+
+Financial reporting requirements will depend on the method of payment. Recipients will comply 
+with the financial reporting requirements set forth in the USAID standard provisions. If advance 
+payments are provided, reporting periods are calendar quarters or parts thereof. Quarterly 
+financial reports are due not later than 30 days after the end of each calendar quarter. If payment 
+is on a reimbursement basis, financial reports may be submitted monthly, but not less frequently 
+than 30 days after the end of each calendar quarter. Regardless of whether payments are on an 
+advance or reimbursement basis, the final financial report is due not later than 90 days after the 
+estimated completion date of the award. The Recipient shall also comply with the USAID 
+standard provision entitled “Reporting Host Government Taxes.” 
+
+ 
+
+F.4 REPORTING REQUIREMENTS 
+
+ 
+
+Program Reports shall be in accordance with applicable USAID Standard Provisions. 
+
+ 
+
+All written documentation must be submitted in professional-level English. The reports listed 
+below are the initial reports required by the recipient. Based on the evolving nature of the 
+agreement, USAID may provide modified reporting requirements. 
+
+ 
+
+Note: USAID’s fiscal year starts on October 1 and ends on September 30. Four fiscal quarterly 
+
+periods begin on October 1, January 1, April 1, and July 1. 
+
+ 
+
+
+Reports and 
+Deliverables 
+
+Due Dates 
+
+Delivery 
+
+1. Project Approval 
+
+
+Immediately following the award, the 
+Recipient shall initiate the process to 
+obtain the NOC/Registration approval 
+from the host government to fully 
+implement the activity in Pakistan. 
+
+Electronically - AOR 
+
+2. Annual Implementation 
+Plan 
+
+
+First plan will be submitted within 60 
+calendar days after the award. 
+
+Subsequent annual implementation plans 
+due September 1 of each subsequent 
+Agreement year 
+
+Electronically - AOR 
+
+3. Activity Monitoring, 
+Evaluation and Learning 
+(MEL) Plan 
+
+
+30 calendar days after the finalization of 
+the first year implementation plan. 
+
+Electronically - AOR 
+
+4. Environmental 
+Management & 
+Mitigation Plan (EMMP) 
+
+
+within 60 calendar days after the award 
+and thereafter submitted with the annual 
+implementation plan. 
+
+Electronically - AOR 
+
+5. Gender Analysis and a 
+Gender Action Plan. 
+
+
+30 calendar days after the finalization of 
+the first year implementation plan. 
+
+Electronically - AOR 
+
+6. Quarterly Performance 
+Reports 
+
+
+By March 31st, June 30th, September 
+15th and December 31st of each year 
+
+Electronically - AOR 
+
+7. Annual Performance 
+Report 
+
+
+October 30th of each year 
+
+Electronically - AOR 
+
+8. Ad Hoc reports by 
+USAID 
+
+
+Ad-hoc reports periodically per USAID’s 
+request 
+
+Electronically - AOR 
+
+9. Property Disposition Plan 
+
+
+Property Disposition Plan 
+
+60 calendar days prior to the end of the 
+Award. 
+
+Electronically - AO 
+
+10. Final Report 
+
+
+30 calendar days prior to the end of the 
+Agreement 
+
+Electronically - AOR 
+
+11. Financial reports 
+
+
+Quarterly financial report: 30 calendar 
+days after the end of each USG fiscal 
+quarter 
+
+Final financial report: 90 days following 
+the expiration of the award 
+
+Electronically - AOR 
+
+Financial Analyst Team 
+
+12. Security Plan 
+
+
+Within 45 calendar days of the 
+effective date of the agreement. 
+
+Electronically - AOR 
+
+
+
+
+1. Project approval - - In order to fully implement the activity in Pakistan, the Recipient is 
+required to comply with host government registration/No-Objection Certificate (NOC) 
+requirements. Registration/NOC approval is expected to take time, as such the Recipient is 
+requested to initiate the process immediately following award. While seeking approval, in 
+close consultation with the AOR, the Recipient shall consider staffing and related 
+consequences impacting implementation to ensure an efficient use of resources. 
+
+
+ 
+
+2. Annual Implementation Plan - The annual implementation plan details how the Recipient 
+will use the implementation plan year effectively to achieve the activity objectives and 
+strategic approaches. The implementation plan serves as a guide to program implementation 
+and, once approved, represents an agreement as to the objectives and timing of specific tasks 
+and interventions. The implementation plan is intended to be an annual roadmap for USAID 
+and the Recipient. It should be closely aligned with the overall program objectives, and 
+clearly explain how the actions and outputs will lead to the expected outcomes. More details 
+on the format of the implementation plan will be provided after the award. 
+
+
+ 
+
+3. Activity Monitoring and Evaluation (MEL) Plan - In accordance with USAID policy, the 
+Recipient is required to submit an Activity Monitoring, Evaluation and Learning Plan (MEL) 
+within 30 days after the finalization of the first-year implementation plan. The MEL reflects 
+the award progress over the life of the Activity and is a critical tool for planning, managing, 
+documenting, evaluating performance and learning. The MEL plan should demonstrate the 
+activity’s monitoring approach and relevant performance indicators of activity’s expected 
+results; plans for collaborating on external evaluations; proposed internal evaluations and 
+learning activities; and the Recipient’s proposed roles for MEL actions. Findings from the 
+MEL should be reviewed and validated in sessions with USAID staff (and relevant 
+stakeholders), and revised when appropriate in consultation with the AOR. More details and 
+additional support on the MEL plan development, review, and approval will be provided 
+after award. 
+
+
+ 
+
+4. Environmental Management & Mitigation Plan (EMMP) - This plan will be describing 
+how the Recipient will, in specific terms, implement all IEE conditions that apply to proposed 
+activity interventions. The EMMP shall include monitoring the implementation of the 
+conditions and their effectiveness, making any necessary adjustments to activity 
+implementation in order to minimize adverse impacts to the environment. An annotated 
+EMMP template can be found at http://www.usaidgems.org. 
+
+
+ 
+
+5. Gender Analysis and a Gender Action Plan - Gender Analysis is a tool for examining the 
+differences between the roles that women and men play in communities and societies, the 
+different levels of power they hold, their differing needs, constraints and opportunities, and 
+the impact of these differences on their lives. The gender analysis should identify root causes 
+of existing gender inequalities or obstacles to female empowerment in the context of the 
+activity, so that the Recipient can seek out opportunities to promote women’s leadership and 
+participation. The gender analysis should also identify potential adverse impacts and/or risks 
+of gender based 
+exclusion that could result from planned activities, including: (a) Displacing 
+women from access to resources or assets; (b) Increasing the unpaid work or caregiver burden 
+of females relative to males; (c) Conditions that restrict the participation of women or men in 
+
+
+
+project activities and benefits based on pregnancy, maternity/paternity leave, or marital status; 
+and (e) Marginalizing or excluding women in political and governance processes. 
+
+
+ 
+
+Because males and females are not homogenous groups, the gender analysis should also to the 
+extent possible disaggregate by income, province/geography, race, ethnicity, disability, and 
+other relevant social characteristics and explicitly recognize the specific needs of young girls 
+and boys, adolescent girls and boys, adult women and men, and older women and men. 
+
+ 
+
+The Recipient must also prepare a Gender Action Plan to outline how the the gaps and issues 
+identified in the gender analysis will be addressed by the Activity 
+
+ 
+
+6. Quarterly Performance Reports - The Recipient will submit quarterly performance reports 
+to reflect progress, the activities of the preceding three months and lessons learned. The report 
+must describe the tasks completed in the last three months relative to what was anticipated in 
+the approved implementation plan, and will assess the overall activity impact to date relative 
+to the performance indicator targets and results. The report shall also consist of a section on 
+Success Stories, highlighting the role of USAID and the American people in improving 
+opportunities for Pakistanis. Success stories must be no longer than 1 page and include quality 
+photos that will be shared for public outreach purposes. More details on the format of the 
+quarterly performance reports will be provided after the award. 
+
+
+ 
+
+7. Annual Performance Report - Annual performance reports will summarize actions, progress 
+and results during the year in relation to the approved implementation plan and the activity 
+theory of change it supports. The report should include lessons learned, proposed adaptive 
+management shifts, and proposed updates to the theory of change. The annual performance 
+report will be used by USAID to assess the status of activity implementation. Each annual 
+performance report will include an assessment as to whether the activity’s strategic 
+approaches and actions are leading to the activity objectives. The annual performance report 
+will cover all of the items included in the quarterly performance report, with a focus on the 
+Activity results over the entire year. More details on the format of the annual performance 
+report will be provided after award. 
+
+
+ 
+
+8. Ad-hoc Reports: USAID ad-hoc requests may include periodical updates or other reporting 
+taskers per USAID’s request. 
+
+
+ 
+
+9. Property Disposition Plan - In accordance with 2 CFR 200.311(c) the recipient must obtain 
+disposition instructions from the Agreement Officer when real property is no longer needed. 
+The property disposition plan must include all property purchased/financed under this award 
+as per the award’s provisions and propose a plan for its disposition. 
+
+
+ 
+
+10. Final Report - The Final Report must discuss all strategic approaches and results from the 
+start of the award through its completion. More details on the format of the final report will 
+be provided after award. 
+
+
+ 
+
+11. Financial Reports: Financial Reports shall be in accordance with applicable USAID 
+Standard Provisions. 
+
+
+
+ 
+
+Quarterly Financial Report: Quarterly Financial Reports shall be due within 30 days 
+following the end of each quarter corresponding to USAID’s fiscal year from October 
+1 through September 30. 
+
+ 
+
+Final Financial Report 
+
+ 
+
+The Final Financial Report shall be due within 90 days following the expiration of the 
+award. Financial Reports shall be in accordance with 2 CFR 700. USAID requires 
+recipients to use the Standard Form 425 or Standard Form 425a, Federal Financial 
+Report, or such other forms authorized for obtaining financial information as may be 
+approved by OMB. 
+
+ 
+
+Other Reports 
+
+ 
+
+On a quarterly basis, the AOR may require additional information related to financial 
+accruals and pipeline of funds. This information will help to ensure that the activity 
+has an adequate pipeline to conduct its programs. These reports/forms will be 
+submitted when requested within 30 calendar days from the end of each quarter. In 
+addition to this, Awardee will submit accruals reports to the AOR as well as respond 
+to the AOR’s ad hoc financials related information requests as required by the 
+Mission. 
+
+ 
+
+12. Security Plan: The recipient must submit the Security Plan following the sample security 
+plan template (See Attachment F). For additional information on security reporting 
+requirements please see section F.6(II). 
+
+
+ 
+
+F.4 PROGRAM INCOME 
+
+ 
+
+Program Income earned under the resultant award will be added to the Total Estimated 
+
+Amount (exclusive of cost share) in accordance with 2 CFR 200.307(e)(2). 
+
+ 
+
+F.5 SUBMISSION OF DEVELOPMENTAL EXPERIENCE DOCUMENTATION 
+
+ 
+
+USAID recipients must submit one electronic copy of development experience documentation to 
+the Development Experience Clearinghouse. Development experience documentation may be 
+submitted online: http://dec.usaid.gov. Or by mail (for pouch delivery): 
+
+ 
+
+USAID Development Experience Clearinghouse 
+
+M/CIO/ITSD/KM/DEC 
+
+RRB M.01-010 
+
+Washington, DC 20523-6100 
+
+Phone: (202) 712-0579 
+
+Email: docsubmit@usaid.gov 
+
+ 
+
+
+In addition, the recipient must submit one electronic copy of development experience 
+documentation to the AOR for the award. 
+
+ 
+
+F.6 SPECIAL AGREEMENT PROVISIONS: 
+
+ 
+
+I. EXECUTIVE ORDER ON TERRORISM FINANCING (FEB 2002) 
+
+
+ 
+
+The Recipient is reminded that U.S. Executive Orders and U.S. law prohibits transactions with, 
+and the provision of resources and support to, individuals and organizations associated with 
+terrorism. It is the responsibility of the contractor/recipient to ensure compliance with these 
+Executive Orders and laws. This provision must be included in all subcontracts/sub awards 
+issued under this contract/agreement. 
+
+ 
+
+II. SECURITY REPORTING REQUIREMENT 
+
+
+ 
+
+a) Security Conditions 
+
+
+ 
+
+The Recipient must be aware of security conditions in Pakistan, and by entering into an 
+agreement, assumes full responsibility for the safety of its employees. Prior to 
+commencing work, the Recipient shall ensure that it has adequate procedures in place to 
+advise its employees of situations or changed conditions that could adversely affect their 
+security. In order to keep abreast of security conditions in Pakistan, the Recipient shall 
+seek information from all available sources, including the USAID Pakistan EXO/Safety & 
+Security Office (SSO), for all areas in which its employees work or travel. 
+
+ 
+
+The Recipient acknowledges that security conditions are subject to change at any moment, 
+that USAID cannot guarantee the accuracy of any information that it may provide to the 
+Recipient and that USAID assumes no responsibility for the reliability of such 
+information. The Recipient has sole responsibility for anticipating, scheduling, budgeting, 
+receiving country clearance and securing required AOR and AO approvals for all travel 
+for its employees and/or his/her dependents traveling to post if accompanied by 
+dependents is allowed by the Recipient’s personnel internal policies. The Recipient shall 
+also be responsible for immediately notifying USAID Pakistan and the U.S. Embassy 
+American Citizen Services section in the event a U.S. citizen employee does not return 
+from travel as expected or does not report to work. In the event that USAID requests the 
+Recipient to do so, the Recipient's Project Director/Chief of Party (COP) shall assume 
+responsibility for contacting all of its employees. The Recipient shall provide to the 
+USAID Pakistan EXO/SSO the name, current address, and current home and/or cellular 
+telephone number of the COP and of an alternate designated employee. The Recipient 
+shall be responsible for ensuring that the information on file in the USAID Pakistan 
+EXO/SSO is up-to-date so that in an emergency, the COP or alternate representative can 
+be reached immediately and he/she can rapidly contact all other affected employees. 
+
+ 
+
+The Recipient will be requested to notify the AOR and EXO/SSO about any changes of 
+the individual listed in the security plan as in charge of security. 
+
+ 
+
+
+Once the Agreement is awarded, the Recipient shall be required to submit a list of all 
+personnel involved in the implementation of the project, including sub awardees’ 
+personnel. The required list shall be submitted to the AOR and EXO/SSO no later than 30 
+days after the effective date of the Agreement and must be updated every quarter after the 
+start date of the agreement and/or if a change of personnel happens. 
+
+ 
+
+b) Security Plan 
+
+
+ 
+
+The Recipient shall develop a security plan to safeguard all project operations and to 
+comply with all United States Government regulations and Pakistani law. The plan is to be 
+implemented and maintained also by all subcontractors (and/or sub-grantees). The security 
+plan will be reviewed by the Agreement Officer in consultation with USAID/Pakistan’s 
+EXO/SSO. 
+
+ 
+
+The plan shall include: 
+
+● Procedures for reporting and addressing security threats 
+● Procedures for reporting any deaths related to the project 
+● Procedures for reporting and addressing any persons missing or kidnapping 
+incidents 
+● Name and contact information of security contact person for the head office and 
+regional office(s) 
+● An internal “cascade” list for communicating with staff, which shall be updated/, 
+maintained by the Recipient. The Recipient shall provide the name, address and 
+telephone numbers of the COP and their designee to USAID as principal contacts 
+in case of security situations/emergencies. The Recipient shall be responsible for 
+passing information to their staff. 
+
+
+ 
+
+c) Life Support and Security Services 
+
+
+ 
+
+The Recipient shall be responsible for maintaining the security of its personnel, materials 
+and equipment. All employees of the Recipient must meet the requirements of their worksite, 
+which may include, but not limited to background checks, security/restricted area 
+clearances, drug-free workplace, safety training and/or any other company safety and 
+security requirements. 
+
+ 
+
+d) Security Threat Reporting 
+
+
+ 
+
+As part of the overall security requirements, the Recipient shall report any security threats 
+and/or incidents verbally / by telephone, immediately to the following USAID/Pakistan 
+representatives: 
+
+ 
+
+● Security & Safety Specialist and any other USAID/Pakistan EXO designated 
+official(s) 
+● Executive Officer (EXO) 
+● AOR 
+
+
+ 
+
+
+Subsequently, a written report shall be submitted in accordance with approved procedures. 
+The Recipient shall develop a list of specific steps to track any potential/identified threats, 
+which will be part of its overall security system. All subcontractors will be required by the 
+Recipient to report any threats/incidents to the Recipient, who will immediately after, 
+notify the above listed USAID/Pakistan representatives. 
+
+ 
+
+USAID requires appropriate Security reports be submitted to the Islamabad Safety & 
+Security Specialist, Executive Office, AOR and other USAID/Pakistan officials as 
+directed by USAID Executive Office. The type and frequency of these reports may vary 
+with the project scope, location, and criticality. The Recipient shall report an Initial Threat 
+Assessments and subsequent changes as often as the situation requires (weekly, bi-weekly, 
+monthly etc.). The Recipient is also required to notify USAID of any security related 
+incident in a timely manner according to the following guidelines: 
+
+There are various types of Incident Reporting: Serious Incident Report (SIR); Incident 
+Report (IR); Situation Report (SITREP); and any other security related report that may be 
+required by USAID. 
+
+ 
+
+Serious Incident Report (SIR) 
+
+ 
+
+● An incident that involves the death, injury, kidnapping of partner personnel and/or 
+damage to partner’s property. 
+● An incident that has critically damaged the funded program, such as fire, 
+catastrophic flood, etc. 
+● Initial SIR must be reported verbally immediately, and within 4 hours of the 
+incident occurrence/discovered 
+● A Complete SIR must be filed in writing within 24 hours of the incident 
+● Updated SIR will continue to be filed in a timely basis (daily, weekly) as long as 
+the situation exists. The timeline will be adjusted as required by USAID. 
+● Final Report SIR will summarize the incident, the subsequent happenings and the 
+final resolution. 
+
+
+ 
+
+Incident Report (IR) 
+
+ 
+
+● An incident involving accidents, potential harm, suspicious persons or acts, threats 
+or harassing actions against personnel or the program. 
+● IR should be filed as soon as possible (within 24 hours) after the incident is 
+evaluated, and a complete report not later than 72 hours after the incident. 
+
+
+ 
+
+Situation Report (SITREP) 
+
+ 
+
+● A report that a significant, but not critical action or activity, has taken place that 
+has impacted, or may impact, on the wellbeing of the personnel or the success of 
+the program. 
+● This report may describe trends, second hand information that may have bearing 
+on the project, or impact on future operations. 
+
+
+ 
+
+
+Telephonic communication is the preferred method to provide the initial information of an 
+incident. A written report by e-mail must follow as soon as possible within above 
+described guidelines and it shall be as detailed as possible. The report shall follow the 
+format approved in the original Security Plan but at a minimum it shall contain the name 
+of the company, name of the victim(s), date, time, a description of what happened, where 
+the incident occurred, and any other relevant details surrounding the incident. If this is an 
+ongoing incident, progress reports should be submitted in accordance with the guidelines 
+provided in order to keep USAID-Islamabad Security personnel apprised of the situation. 
+
+ 
+
+III. PAKINFO REPORTING REQUIREMENT 
+
+
+ 
+
+USAID/Pakistan utilizes a management information system (MIS), currently called PakInfo, to 
+track activities for all mission-funded projects at the national, provincial, district, and village 
+levels. The purpose of this database is to map the location of project implementation sites to the 
+nearest village or geospatial coordinates, monitor the use of funds at the district and tehsil level 
+and the performance of projects to meet timely information requirements for USAID/Pakistan and 
+several interested parties. These interested parties are USAID/Washington, Congress, 
+implementing partners, the Government of Pakistan (GOP), other donors, and stakeholders. This 
+reporting process supports the bilateral agreement between the U.S. Government and GOP by 
+sharing information on USAID/Pakistan’s Mission-funded activities. The Recipient shall provide 
+a quarterly update of information (including, but not limited to, performance results, geospatial 
+coordinates, and photographs) on the activities under the acquisition or assistance agreement by 
+entering this information into the USAID/Pakistan's MIS. The Recipient shall enter information 
+via an Internet website or a Microsoft (MS) Access Database; USAID will provide the URL 
+address or Access Database, and a user ID/password. A comprehensive user manual will be 
+provided by USAID/Pakistan. Upon receipt of the manual, the Recipient will enter and manage 
+the data accordingly. 
+
+ 
+
+IV. OFFICE OF INSPECTOR GENERAL (OIG) HOTLINE 
+
+
+ 
+
+The USAID Office of the Inspector General’s (OIG) mission is to protect the integrity of USAID 
+
+programs and awards. Additionally, the Office of Inspector General provides independent 
+oversight that promotes the efficiency, effectiveness, and integrity of foreign assistance programs 
+and operations under USAID OIG’s jurisdiction. The purpose of the OIG Hotline is to receive 
+
+complaints of fraud, waste, or abuse in our client agencies' programs and operations, including 
+mismanagement or violations of law, rules, or regulations by employees or program participants. 
+
+Fraud, waste and abuse are defined as: 
+
+ 
+
+Fraud is defined as the wrongful or criminal deception intended to result in financial or 
+
+personal gain. Fraud includes false representation of fact, making false statements, or by 
+
+concealment of information. 
+
+ 
+
+Waste is defined as the thoughtless or careless expenditure, mismanagement, or abuse of 
+
+resources to the detriment (or potential detriment) of the U.S. government. Waste also 
+
+includes incurring unnecessary costs resulting from inefficient or ineffective practices, 
+
+systems, or controls. 
+
+
+ 
+
+Abuse is defined as excessive or improper use of a thing, or to use something in a manner 
+
+contrary to the natural or legal rules for its use. Abuse can occur in financial or nonfinancial 
+
+
+settings. 
+
+ 
+
+Complainants can reach the USAID OIG Hotline in the following different methods to report 
+fraud, waste and abuse including: 
+
+ 
+
+By completing an online form on our website https://oig.usaid.gov/report-fraud 
+
+By email: ig.hotline@usaid.gov 
+
+By telephone: 1-800-230-6539 (Toll-Free) or 202-712-1023 
+
+By mail: 
+
+ 
+
+U.S. Agency for International Development 
+
+Office of Inspector General 
+
+P.O. Box 657 
+
+Washington, DC 20044-065 
+
+ 
+
+V. PARTNER VETTING 
+
+
+ 
+
+Prior to award, the highest rated applicants will be notified to fulfill vetting requirements. 
+
+ 
+
+(a) The recipient must comply with the vetting requirements for key individuals under this 
+award. 
+
+ 
+
+(b) Definitions: As used in this provision, “key individual,” “key personnel,” and “vetting 
+official” have the meaning contained in 22 CFR 701.1. 
+
+ 
+
+(c) The Recipient must submit within 15 days a USAID Partner Information Form, USAID 
+Form 500-13, to the vetting official identified below when the Recipient replaces key 
+individuals with individuals who have not been previously vetted for this award. Note: 
+USAID will not approve any key personnel who are not eligible for approval after vetting. 
+
+ 
+
+The designated vetting official is: 
+
+ 
+
+Vetting official: Chad Johnson 
+
+Address: USAID/Pakistan, U.S. Embassy Islamabad, Diplomatic Enclave, Ramna 5 
+
+Islamabad, Pakistan 44000 
+
+Email: pakaidvsu@usaid.gov (for inquiries only) 
+
+ 
+
+(d) (1) The vetting official will notify the Recipient that it— 
+
+ 
+
+(i) Is eligible based on the vetting results, 
+
+(ii) Is ineligible based on the vetting results, or 
+
+
+(iii) Must provide additional information, and resubmit the USAID Partner Information 
+Form with the additional information within the number of days the vetting official 
+specifies. 
+
+ 
+
+(2) The vetting official will include information that USAID determines releasable. 
+
+USAID will determine what information may be released consistent with applicable 
+
+law and Executive Orders, and with the concurrence of relevant agencies. 
+
+ 
+
+(e) The inability to be deemed eligible as described in this award term may be determined to be a 
+material failure to comply with the terms and conditions of the award and may subject the 
+recipient to suspension or termination as specified in the subpart “Remedies for Noncompliance” 
+at 2 CFR part 200. 
+
+ 
+
+(f) Reconsideration: 
+
+ 
+
+(1) Within 7 calendar days after the date of the vetting official's notification, the 
+
+recipient or prospective subrecipient or contractor that has not passed vetting may 
+
+request in writing to the vetting official that the Agency reconsider the vetting 
+
+determination. The request should include any written explanation, legal 
+
+documentation and any other relevant written material for reconsideration. 
+
+ 
+
+(2) Within 7 calendar days after the vetting official receives the request for 
+
+reconsideration, the Agency will determine whether the recipient's additional 
+
+information merits a revised decision. 
+
+ 
+
+(3) The Agency's determination of whether reconsideration is warranted is final. 
+
+ 
+
+(g) A notification that the Recipient has passed vetting does not constitute any other 
+
+approval under this award. 
+
+ 
+
+Alternate I. When sub-recipients will be subject to vetting, add the following paragraphs to 
+
+the basic award term: 
+
+ 
+
+(h) When the prime recipient anticipates that it will require prior approval for a subaward 
+
+in accordance with 2 CFR 200.308(c)(6) the subaward is subject to vetting. The prospective 
+
+subrecipient must submit a USAID Partner Information Form, USAID Form 500-13, to the 
+vetting official identified in paragraph (c) of this provision. The Agreement Officer must 
+
+not approve a subaward to any organization that has not passed vetting when required. 
+
+ 
+
+(i) The recipient agrees to incorporate the substance of paragraphs (a) through (i) of 
+
+this award term in all first tier subawards under this award. 
+
+ 
+
+VI. PROHIBITION ON PROVIDING FEDERAL ASSISTANCE TO ENTITIES THAT 
+REQUIRE CERTAIN INTERNAL CONFIDENTIALITY AGREEMENTS – 
+REPRESENTATION (APRIL 2015) 
+
+
+ 
+
+
+(a) In accordance with section 743 of Division E, Title VII, of the Consolidated and further 
+Continuing Resolution Appropriations Act, 2015 (Pub. L. 113-235), Government agencies 
+are not permitted to use funds appropriated (or otherwise made available) under that or 
+any other Act for providing federal assistance to an entity that requires employees, sub 
+awardees or contractors of such entity seeking to report fraud, waste, or abuse to sign 
+internal confidentiality agreements or statements prohibiting or otherwise restricting such 
+employees, sub awardees, or contractors from lawfully reporting such waste, fraud, or 
+abuse to a designated investigative or law enforcement representative of a Federal 
+department or agency authorized to receive such information. 
+
+
+ 
+
+(b) The prohibition in paragraph (a) of this provision does not contravene requirements 
+applicable to Standard Form 312, Form 4414, or any other form issued by a Federal 
+department or agency governing the non-disclosure of classified information. 
+
+
+ 
+
+(c) By submission of its application, the prospective recipient represents that it does not 
+require employees, sub awardees, or contractors of such entity seeking to report fraud, 
+waste, or abuse to sign internal confidentiality agreements or statements prohibiting or 
+otherwise restricting such employees, sub awardees, or contractors from lawfully 
+reporting such waste, fraud, or abuse to a designated investigative or law enforcement 
+representative of a Federal department or agency authorized to receive such information. 
+
+
+ 
+
+VII. SPECIAL AWARD REQUIREMENT RELATING TO THE PROHIBITION ON 
+CERTAIN TELECOMMUNICATION AND VIDEO SURVEILLANCE SERVICES 
+OR EQUIPMENT (NOVEMBER 2020) 
+
+
+ 
+
+FOR U.S. ORGANIZATIONS 
+
+Special Award Requirement Relating to the Prohibition on Certain Telecommunication and 
+Video Surveillance Services or Equipment (November 2020) 
+
+ 
+
+USAID has been granted a temporary waiver under Section 889(d)(2) that will allow the 
+recipient to use award funds through September 30, 2022, to procure certain 
+telecommunications and video surveillance services or equipment as specified in 2 CFR 
+200.216. Based on this waiver, all costs incurred for covered telecommunications and video 
+surveillance services or equipment will be allowable through September 30, 2022, without 
+regard to the cost principle at 2 CFR 200.471. Procurements made on or after October 1, 
+2022, will be unallowable in accordance with 2 CFR 200.471. 
+
+ 
+
+[End of Special Award Requirement] 
+
+ 
+
+FOR NON-U.S. ORGANIZATIONS 
+
+Special Award Requirement Relating to the Prohibition on Certain Telecommunication and 
+Video Surveillance Services or Equipment (November 2020) 
+
+ 
+
+USAID has been granted a temporary waiver under Section 889(d)(2) that will allow the 
+recipient to use award funds through September 30, 2022, to procure certain 
+telecommunications and video surveillance services or equipment as specified in the 
+
+
+standard provision “Prohibition on Certain Telecommunication and Video Surveillance 
+Services or Equipment (AUGUST 2020).” Based on this waiver, all costs incurred for 
+covered telecommunications and video surveillance services or equipment will be allowable 
+through September 30, 2022, without regard to the standard provision “Allowable Costs” 
+and the cost principle at 2 CFR 200.471. Procurements made on or after October 1, 2022, 
+will be unallowable in accordance with the standard provision “Allowable Costs” and 2 
+CFR 200.471. 
+
+ 
+
+[END OF SECTION F] 
+
+ 
+
+
+ATTACHMENT A: REFERENCES 
+
+ 
+
+A. USAID Gender Equality and Female Empowerment Policy 
+
+
+ 
+
+B. USAID CDC 
+
+
+ 
+
+C. USAID’s Democracy & Governance Strategy 
+
+
+ 
+
+D. USAID COVID-19 Strategy 
+
+
+ 
+
+E. USAID’s Evaluation Policy. 
+
+
+ 
+
+● Action Plan (2019-24) for Implementation of Recommendations Approved by CCI Regarding 
+Alarming Population Growth in Pakistan. 
+
+
+ 
+
+● Department of Sports and Youth Affairs, 2018. Sindh Youth Policy 2018. Government of Sindh 
+Pakistan. 
+
+
+ 
+
+● Durrani, S. (2021). FP2030 Government Commitment Form. 
+
+
+ 
+
+● The High Impact Practices Partnership. (2019). High Impact Practices in Family Planning (HIPs). 
+Family Planning High Impact Practices list. 
+
+
+ 
+
+● Ministry of Youth Affairs. National Youth Policy (2008). Islamabad. 
+
+
+ 
+
+● Mir, Ali M. and Kiren Khan. (2020). "Best Bets for Accelerating Family Planning in Pakistan: 
+Invest in community health workers," brief. Islamabad: Population Center Pakistan. 
+
+
+ 
+
+● Mureed S. Web-Based Poll Survey to Assess Impact of COVID-19 on RMNCAH&N Surveys: 
+Perceptions of Key Information. Islamabad: NIH Health Services Academy. 
+
+
+ 
+
+● Pakistan Bureau of Statistics, Ministry of Planning, Development & Reform. (2019). 
+“Contraceptive Performance Report 2017-2018”. Islamabad. 
+
+
+ 
+
+● Pakistan Ministry of Planning Development and Special Initiatives. (2020). Pakistan Population 
+Situation Analysis 2020. 
+
+
+ 
+
+● Sundaram A et al. (2019). Adding It Up: Costs and Benefits of Meeting the Contraceptive and 
+Maternal and Newborn Health Needs of Women in Pakistan, New York: Guttmacher Institute. 
+https://www.guttmacher.org/ report/adding-it-up-meeting-contraceptive-mnh-needs-pakistan. 
+https://doi.org/10.1363/2019.30703 
+
+
+ 
+
+● United Nations Population Fund. (2019). (rep.). Pakistan's Commitment ICPD25 Nairobi Summit. 
+
+
+ 
+
+● United Nations Population Fund. (2020). (rep.). Landscape Analysis of Contraceptive Commodity 
+Security in Pakistan. 
+
+
+ 
+
+[END OF ATTACHMENT A] 
+
+ 
+
+
+ATTACHMENT B: SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Line Item 
+
+Year 
+1 
+
+Year 2 
+
+Year 3 
+
+Year 4 
+
+Year 
+5 
+
+Total Amount 
+(USD) 
+
+Salary and Allowances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fringe Benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travel and Transportation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equipment & Supplies 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subawards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Other Direct Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Direct Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indirect Charges, if any 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Costs plus Cost 
+Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Leveraged funds, if any 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Activity Costs Plus 
+Leveraged funds 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+[END OF ATTACHMENT B] 
+
+ 
+
+
+ATTACHMENT C: PLANNED PRE-AWARD SCHEDULE 
+
+ 
+
+ 
+
+Pre-Award Milestone 
+
+Anticipated Date 
+
+NOFO Posted on grants.gov 
+
+May 13, 2022 
+
+Due date for Receipt of Q&A 
+
+May 23, 2022 
+
+Due date for Submission of Applications 
+
+June 13, 2022, 
+
+15:00 Pakistan Standard Time 
+
+USAID Reviews Applications 
+
+June/July 2022 
+
+Discussions with Finalist completed 
+
+August 2022 
+
+Anticipated Award Date 
+
+September 2022 
+
+
+
+ 
+
+ 
+
+[END OF ATTACHMENT C] 
+
+ 
+
+ 
+
+
+ATTACHMENT D: STANDARD PROVISIONS 
+
+ 
+
+ (Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award 
+will also contain the following “required as applicable” Standard Provisions: 
+
+ 
+
+Please note that the resulting award will include all standard provisions (both mandatory 
+and required as applicable) in full text. 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+Require 
+d 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. NEGOTIATED INDIRECT COST RATES - PREDETERMINED 
+(NOVEMBER 2020) 
+
+RAA2. NEGOTIATED INDIRECT COST RATES - PROVISIONAL 
+(Nonprofit) (NOVEMBER 2020) 
+
+RAA3. NEGOTIATED INDIRECT COST RATE - PROVISIONAL (Profit) 
+(DECEMBER 2014) 
+
+RAA4. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA5. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 
+2012) 
+
+ 
+
+ 
+
+RAA6. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+ 
+
+RAA7. PROTECTION OF THE INDIVIDUAL AS A RESEARCH SUBJECT 
+(APRIL 1998) 
+
+ 
+
+ 
+
+RAA8. CARE OF LABORATORY ANIMALS (MARCH 2004) 
+
+ 
+
+ 
+
+RAA9. TITLE TO AND CARE OF PROPERTY (COOPERATING COUNTRY 
+TITLE) (NOVEMBER 1985) 
+
+ 
+
+ 
+
+RAA10. COST SHARING (MATCHING) (FEBRUARY 2012) 
+
+ 
+
+ 
+
+RAA11. PROHIBITION OF ASSISTANCE TO DRUG TRAFFICKERS (JUNE 
+1999) 
+
+ 
+
+ 
+
+RAA12. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+ 
+
+ 
+
+RAA13. REPORTING HOST GOVERNMENT TAXES (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA14. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+ 
+
+RAA15. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) 
+(FEBRUARY 2012) 
+
+ 
+
+ 
+
+RAA16. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA17. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA18. USAID DISABILITY POLICY - ASSISTANCE (DECEMBER 2004) 
+
+ 
+
+ 
+
+RAA19. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN 
+USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+
+
+
+ 
+
+ 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING 
+FUNDS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO 
+PROMOTE, SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR 
+PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA23. UNIVERSAL IDENTIFIER AND SYSTEM FOR AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA24. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION 
+(NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA25. PATENT REPORTING PROCEDURES (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA26. ACCESS TO USAID FACILITIES AND USAID’S INFORMATION 
+SYSTEMS (AUGUST 2013) 
+
+ 
+
+ 
+
+RAA27. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA28. AWARD TERM AND CONDITION FOR RECIPIENT INTEGRITY 
+AND PERFORMANCE MATTERS (April 2016) 
+
+ 
+
+ 
+
+RAA29. RESERVED 
+
+ 
+
+ 
+
+RAA30. PROGRAM INCOME (AUGUST 2020) 
+
+ 
+
+ 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+ 
+
+Require 
+d 
+
+ 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (NOVEMBER 2020) 
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS (DECEMBER 2014) 
+
+TBD 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST RATE 
+AGREEMENT (NICRA) (NOVEMBER 2020) 
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED AMOUNT 
+(NONPROFIT) (JUNE 2012) 
+
+RAA5. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA6. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA7. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION 
+(NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA8. SUBAWARDS (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA9. TRAVEL AND INTERNATIONAL AIR TRANSPORTATION 
+(DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA10. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA11. REPORTING HOST GOVERNMENT TAXES (JUNE 2012) 
+
+ 
+
+ 
+
+RAA12. PATENT RIGHTS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA13. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 
+2012) 
+
+ 
+
+ 
+
+RAA14. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+ 
+
+ 
+
+RAA 15. COST SHARE (JUNE 2012) 
+
+ 
+
+ 
+
+RAA16. PROGRAM INCOME (AUGUST 2020) 
+
+ 
+
+ 
+
+RAA17. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+
+
+
+ 
+
+ 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN 
+USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+ 
+
+ 
+
+RAA19. PROTECTION OF HUMAN RESEARCH SUBJECTS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING 
+FUNDS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO 
+PROMOTE, SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR 
+PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA23. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+ 
+
+RAA24. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) 
+(FEBRUARY 2012) 
+
+ 
+
+ 
+
+RAA25. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA26. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING(ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA27. LIMITATION ON SUBAWARDS TO NON-LOCAL ENTITIES 
+(JULY 2014) 
+
+ 
+
+ 
+
+RAA28. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA29. CONTRACT AWARD TERM AND CONDITION FOR RECIPIENT 
+INTEGRITY AND PERFORMANCE MATTERS (April 2016) 
+
+ 
+
+ 
+
+RAA30. RESERVED 
+
+ 
+
+ 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+[END OF ATTACHMENT D] 
+
+ 
+
+ 
+
+
+ATTACHMENT E: INITIAL ENVIRONMENTAL EXAMINATION (IEE) 
+
+ 
+
+Initial Environmental Examination (IEE) is attached separately with this NOFO as 
+ATTACHMENT E 
+
+ 
+
+[END OF ATTACHMENT E] 
+
+
+ATTACHMENT F: SAMPLE SECURITY PLAN TEMPLATE 
+
+ 
+
+Sample Security Plan Template is attached separately with this NOFO as ATTACHMENT F. 
+
+ 
+
+ 
+
+[END OF ATTACHMENT F] 
+
+
+ATTACHMENT G: ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+ACRONYMS 
+
+ 
+
+BMGF Bill and Melinda Gates Foundation 
+
+ 
+
+CDCS Country Development Cooperation Strategy 
+
+ 
+
+CPR Contraceptive prevalence rate 
+
+ 
+
+DCP3 Disease Control Priorities 3 
+
+ 
+
+DLI Disbursement Linked Indicators 
+
+ 
+
+KP Khyber-Pakhtunkhwa 
+
+ 
+
+FCDO United Kingdom Foreign Commonwealth and Development Office 
+
+ 
+
+FP Family planning 
+
+ 
+
+GHSC-PSM Global Health Supply Chain – Procurement and Supply Management Activity 
+
+ 
+
+GoP Government of Pakistan 
+
+ 
+
+HDA Human Development Activity 
+
+ 
+
+IHSS-SD Integrated Health Systems Strengthening - Service Delivery Activity 
+
+ 
+
+KP Khyber Pakhtunkhwa 
+
+ 
+
+LHW Lady health worker 
+
+ 
+
+MAP Midwifery Association of Pakistan 
+
+ 
+
+MNCH Maternal, newborn, and child health 
+
+ 
+
+PHC Primary Health Care 
+
+ 
+
+PDHS Pakistan Demographic and Health Survey 
+
+ 
+
+SoGP Society of Gynecologists Pakistan 
+
+ 
+
+TFR Total Fertility Rate 
+
+ 
+
+UNFPA United Nations Population Division 
+
+ 
+
+[END OF ATTACHMENT F] 
+
+

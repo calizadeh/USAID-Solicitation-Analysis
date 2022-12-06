@@ -1,0 +1,3466 @@
+ 
+
+A close-up of a logo Description automatically generated with low confidence 
+
+
+ 
+
+Issue Date: September 1, 2022 
+
+ 
+
+Deadline for Questions: September 9, 2022, at 17:00 Ghana Local Time 
+
+ 
+
+Closing Date & Time 
+
+for Concept paper: October 7, 2022, at 17:00 Ghana Local Time 
+
+ 
+
+Closing Date & Time 
+
+for Full Applications: 30 days after receiving Request for Full Application at 17:00 
+
+Ghana Local time 
+
+ 
+
+Subject: Notice of Funding Opportunity (NOFO) - Request for 
+Applications (RFA) 72064122RFA00008 
+
+ 
+
+Program Title: USAID/Ghana Strengthening Accountability in Ghana's 
+Education System (SAGES) 
+
+ 
+
+ 
+
+To All Interested Parties: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+Cooperative Agreement from qualified entities to implement USAID/Ghana’s Strengthening 
+Accountability in Ghana’s Education System (SAGES) Systems Strengthening Activity (the 
+Activity). Eligibility for this award is not restricted; see Section C of this Request for Applications 
+(RFA). 
+
+ 
+
+USAID intends to make an award to the applicant that best meets the objectives of this NOFO 
+based on the Merit Review Criteria described in this NOFO, subject to a Risk Assessment. 
+
+ 
+
+Eligible parties interested in submitting an application are encouraged to read this NOFO 
+thoroughly to understand the type of program sought, application submission requirements and 
+selection process. This is a multi-tiered NOFO in accordance with the Automated directives System 
+(ADS) 303.3.6.1(c). Selection under this RFA will be based on a two-step process: 
+
+ 
+
+● Phase 1 - Concept Paper submissions: open to all eligible organizations as described in this 
+RFA. 
+
+
+ 
+
+● Phase 2 - Full Application submissions: by invitation only to applicants selected during Phase 
+1 evaluation. 
+
+
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet the eligibility standards described in Section C of this RFA. This funding opportunity is posted 
+on www.grants.gov and may be amended. It is the responsibility of the applicant to regularly check 
+the website to ensure they have the latest information pertaining to this NOFO and to ensure that 
+the RFA has been received from the internet in its entirety. USAID bears no responsibility for data 
+errors resulting from the transmission or conversion process. If you have difficulty registering on 
+www.grants.gov or accessing the RFA, please contact the Grants.gov Helpdesk at 1-800-518-4726 
+or via email at support@grants.gov for technical assistance. USAID expects that applicants will 
+have equal access to all local organizations needed to implement this contract and strongly 
+discourages exclusivity agreements with local organizations. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifiers and System for Award Management (SAM) requirements detailed in Section 
+D.3.2.3.7. The registration process may take many weeks to complete. Therefore, applicants are 
+encouraged to begin registration early in the process. 
+
+ 
+
+Please send any questions regarding this solicitation to the point of contact identified in Section 
+
+D. The deadline for questions is shown above. Responses to questions received prior to the deadline 
+will be furnished to all potential applicants through an amendment to this notice posted to 
+www.grants.gov. 
+
+ 
+
+Issuance of this NOFO does not constitute an award commitment on the part of the U.S. 
+Government nor does it commit the U.S. Government to pay for any costs incurred in preparation or 
+submission of comments/suggestions or an application. Applications are submitted at the risk of the 
+applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+Taniece Owusu 
+
+Supervisory Agreement Officer (acting) 
+USAID/West Africa 
+
+
+TABLE OF CONTENTS 
+SECTION A: PROGRAM DESCRIPTION ...................................................................................................... 2 
+SECTION B: FEDERAL AWARD INFORMATION .................................................................................... 16 
+SECTION C: ELIGIBILITY INFORMATION .............................................................................................. 19 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION ......................................................... 20 
+SECTION E: APPLICATION REVIEW INFORMATION ........................................................................... 40 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION ................................................. 43 
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) ............................................................... 50 
+SECTION H: OTHER INFORMATION ........................................................................................................ 51 
+ANNEX 1 – BUDGET TEMPLATE .............................................................................................................. 52 
+ANNEX 2 - ACCOUNTABILITY FOR LEARNING FRAMEWORK………………………………….....53 
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+ 
+
+STRENGTHENING ACCOUNTABILITY IN GHANA’S EDUCATION SYSTEM 
+(SAGES) ACTIVITY 
+
+ 
+
+1. INTRODUCTION 
+
+ 
+
+The purpose of the Strengthening Accountability in Ghana’s Education System (SAGES) Systems 
+Strengthening activity is to improve primary education service delivery through institutionalizing 
+accountability in the Ghanian primary education system. The activity will support efforts led by 
+the Government of Ghana (GOG), in particular the Ministry of Education (MOE) and its 
+agencies/affiliates, to: 
+
+● Strengthen the enabling environment for education accountability; and 
+● Increase the performance of education system actors and improve the effectiveness of 
+their interactions with each other in support of education accountability. 
+
+
+ 
+
+2. BACKGROUND 
+
+ 
+
+2.1 Country and Sector Context 
+
+ 
+
+Although the GOG is responsible to deliver quality public services to its citizens, the latest Afro-
+barometer Round 8 Survey (2019) report indicates a decline in citizens approval ratings on the 
+GOG’s ability to do so. Between 2017 and 2019, service sectors, including education, experienced 
+an 8 percent decline in approval ratings. The report also noted that these sectors were among the 
+most problematic areas in need of government support. Eighty percent of citizens surveyed 
+indicated that, in their opinion, the GOG has done little or nothing at all to strengthen service 
+delivery in these areas. 
+
+ 
+
+In contrast to public perception, the GOG has made substantial progress advancing access to basic 
+education over the past decade. Between 2010 and 2015, net enrollment grew from 60.1 percent 
+to 79.5 percent for kindergarten and from 77.8 percent to 91.5 percent for primary. Data published 
+in 2020 indicates that approximately 71 percent of Ghanian children complete primary education. 
+While laudable, it is important to note that no region is close to achieving universal primary 
+completion and significant disparities exist in completion rates between regions, sex, and wealth. 
+For example, primary completion rates in the Northern region range from 53-55 percent, while 
+completion rates in the Southern regions range from 63 to 79 percent. The percentage of women 
+and girls who have never been to school is highest in the Northern region (59 percent), followed 
+
+
+by Upper West (53 percent), and Upper East (45 percent), compared with only 14 percent of 
+women and girls in Greater Accra. In addition, one-fifth (20 percent) of women and girls in Greater 
+Accra have completed secondary education or higher, compared with only 4 percent or less in the 
+Northern, Upper East, and Upper West Regions. 
+
+ 
+
+Although access to education services is reasonably high, evidence suggests that service quality 
+continues to be weak and may be driving public perception. Data from the 2020 Foundational 
+Learning module assessment at the Grade 2/3 level indicates that only 7 percent of Ghanaian 
+children in Grade 3 have the expected reading skills for that grade and 8 percent of children have 
+the expected numeracy skills. The data indicates that for students who remain in school, about half 
+eventually obtain foundational skills (equivalent to Grade 2/3) in reading and numeracy. By grade 
+9, 66 percent of students are able to read at Grade 2/3 level or above, and 44 percent possess Grade 
+2/3 numeracy skills. Similar to disparities in access, learning gaps vary by region, with the lowest 
+shares of children with reading and numeracy skills in the Northern region. 
+
+ 
+
+As articulated in United Nations Educational, Scientific and Cultural Organization’s (UNESCO) 
+2017 Global Education Monitoring (GEM) Report “Accountability in Education: Meeting our 
+Commitments,” increased accountability can help address persistent deficiencies in the provision 
+and quality of education services. Accountability can be described as the quality of being 
+answerable and reliable, with the government and other education actors obliged to report on the 
+fulfillment of their responsibilities. The achievement of learning outcomes relies on multiple actors 
+fulfilling often shared responsibilities, and good-quality education is the product of an education 
+system in which all actors make a concerted effort to meet their responsibilities. An accountability 
+approach to education requires a supportive enabling environment and actors equipped to fulfill 
+their responsibilities with the appropriate skills, with information and sufficient resources 
+available. 
+
+ 
+
+2.2 Ministry of Education’s Commitment to Accountability 
+
+ 
+
+The Ministry of Education (MOE) recognizes the importance of strengthening accountability in 
+the sector. Its Education Strategic Plan (ESP) 2018-2030 emphasizes accountability mechanisms 
+and articulates the need for a sector-wide accountability framework. In addition, the MOE 
+identified the following critical sub-activities to address system accountability: 
+
+● Design, implement, and enforce an education accountability framework along the chain of 
+education service delivery from the MOE to the school level. 
+● Design and pilot a sector-wide accountability framework to include formal performance 
+reviews for administrators at all levels of the education system; and 
+● Review and implement the education accountability framework, including appropriate 
+communication and training activities. 
+
+
+ 
+
+
+To advance the ESP and the Education Sector Medium-Term Development Plan (ESMTDP), the 
+MOE and the Ghana Education Service (GES) partnered with Education Development Partners 
+Group and RISE (Research on Improving Systems of Education) at the University of Oxford to 
+develop an Education Accountability Framework (EAF) for basic education. Developed under the 
+Ghana Accountability for Learning Outcomes Project (GALOP),1 the EAF defines the roles, 
+responsibilities, and expectations of key players in the education system - from classroom 
+practitioners to policy makers - and includes overarching principles to inform the development of 
+guidelines and regulations for key processes. It also examines key system-wide processes that 
+focus on accountability for learning: school inspections; national large-scale assessments; school 
+monitoring and supervision; and the Education Management Information System (EMIS). 
+
+1 GALOP is a results-based financing mechanism implemented by the MOE and jointly funded by the World Bank, 
+United Kingdom's Foreign, Commonwealth and Development Office (FCDO) and the Global Partnership for 
+Education (GPE). 
+
+2 USAID/Ghana Country Development Cooperation Strategy (https://www.usaid.gov/ghana/cdcs). 
+
+ 
+
+2.3 Relationship with USAID Strategic Priorities in Ghana 
+
+ 
+
+USAID/Ghana’s five-year (2020-2025), integrated, behavior-led Country Development 
+Cooperation Strategy (CDCS) outlines the Mission’s approach to support Ghana’s achievement of 
+key sustainable development goals and advance its journey to self-reliance in an effort to achieve 
+its CDCS goal of “a more self-reliant Ghana offering a productive, healthy life to all its citizens.”2 
+To this end, the CDCS Development Objectives (DO), intermediate results (IR), and sub-
+intermediate results (sub-IRs) are defined as behavioral outcomes—specific actions that must be 
+adopted and practiced to achieve and sustain each DO and the Mission’s path to self-reliance. 
+
+ 
+
+The behavior-led approach focuses on identifying and changing behaviors by strengthening factors 
+that support change and mitigating those that hinder change. It requires that partners: (1) identify 
+behaviors by actors required to achieve intended results; (2) support interventions that will promote 
+the identified behaviors; and (3) measure activity performance based on progress toward achieving 
+identified behaviors. This contrasts with the conventional USAID approach of defining results and 
+interventions with more limited attention focused on actor behaviors. 
+
+ 
+
+This activity aligns with the behavioral approach of the CDCS with its focus on the engagement 
+of key actors (government, private sector, and citizens) and the collective actions that they must 
+take to address the critical issue of low service quality in Ghana’s primary education system. It 
+will contribute to the achievement of USAID/Ghana’s CDCS by focusing on supporting the 
+following CDCS IRs and Sub-IRs: 
+
+ 
+
+● IR 2.1: National government leads policy implementation for efficient service delivery. 
+○ Sub-IR 2.1.3: Government implements evidence-based policies to improve health, 
+education, agriculture, energy, and fishery sectors. 
+
+
+
+
+
+
+ 
+
+● IR 2.2: Local authorities manage policy implementation for efficient service delivery. 
+○ Sub-IR 2.2.3: District Education Offices (DEOs) implement education 
+accountability framework policy. 
+
+
+
+
+
+ 
+
+● IR 2.3: Service providers adhere to national quality standards. 
+○ Sub-IR 2.3.2: Head Teachers accountably manage schools. 
+○ Sub-IR 2.3.3: Teachers deliver quality instruction. 
+
+
+
+
+
+ 
+
+● IR 3.1: Government improves equitable delivery of quality services in health, education, 
+and agriculture. 
+○ Sub-IR 3.1.1: Government increases investment in quality services. 
+
+
+
+
+
+ 
+
+● IR 3.3: Citizens adopt improved practices to advance their well-being and resilience. 
+○ Sub-IR 3.3.5: Parents send their children to school year-round. 
+
+
+
+
+
+ 
+
+2.4 Relationship to USAID and Other Donor Programs 
+
+ 
+
+USAID Education Programs 
+
+The SAGES Systems Strengthening activity is one of two activities that form the Strengthening 
+Accountability in Ghana's Education System (SAGES) project, which aims to “strengthen the 
+delivery of quality and equitable basic education services to children in public primary schools to 
+achieve improved learning outcomes.” The project focuses on strengthening the accountability 
+structures within the basic education system to improve both quality and equity. This activity will 
+directly complement a planned government-to-government (G2G) activity - called the SAGES 
+G2G activity - that will operationalize the EAF to strengthen accountability within the education 
+system to improve education service delivery. The G2G activity emphasizes collaboration with 
+local stakeholders to identify challenges and mobilize resources to improve the quality of 
+education. It is designed to achieve the following three activity results (AR): 
+
+● AR 1: GOG plans and allocates resources for implementation of EAF. 
+● AR 2: Education officials implement the EAF. 
+● AR 3: Educators and education administrators deliver quality services in public primary 
+schools. 
+
+
+ 
+
+AR 1 and AR 2 focus on systems strengthening and will affect all MOE levels and actors in 
+Ghana’s public education system nationwide. AR 3 will improve the quality of instruction with 
+school and community level interventions in the 17 districts in the Zone of Influence (ZOI) in 
+northern Ghana. The GOG entities responsible for implementing the G2G activity include the 
+MOE and its affiliates/agencies, including the GES, the National Schools Inspectorate Authority 
+(NASIA), the National Teaching Council (NTC), and the National Council for Curriculum and 
+Assessment (NaCCA). The SAGES Systems Strengthening activity will collaborate closely with 
+
+
+the SAGES G2G activity to support the MOE and its agencies/affiliates to achieve the objectives 
+of the G2G activity by using the successful applicant’s knowledge, skills, and expertise to provide 
+capacity development to the full range of MOE actors that comprise the education system. 
+
+ 
+
+Other USAID Programs 
+
+USAID/Ghana’s CDCS calls for cross-sectoral integration in order to maximize the impact of 
+assistance. This is particularly relevant for USAID activities operating in the 17 districts that 
+comprise the ZOI in northern Ghana. The SAGES Systems Strengthening activity will also 
+coordinate with and leverage USAID’s other programs operating in the accountability sphere, such 
+as: 
+
+ 
+
+● The Performance Accountability Activity. This is a cross-sectoral activity that focuses on 
+delivering quality public services with increased accountability. It will be implemented 
+under the Accountable Governance Project (AGP), which aims to “advance accountable, 
+effective and responsive governance.” The activity will strengthen civil society oversight 
+and feedback into government performance in public service delivery; and support 
+government and public service providers, especially at the local level, to be more 
+responsive to citizen demand in delivering quality essential services. It will define and 
+measure success by the increased practice of behaviors determined to be at the foundation 
+of transparent, accountable, and inclusive governance; as well as contribute to efforts to 
+prevent violent extremism. 
+● The Resilience in Northern Ghana (RING II) activity will leverage the Ministry of Local 
+Government and Rural Development’s (MLGRD)’s performance-based grants mechanism 
+to provide grants to improve responses of local systems to nutrition and resiliency needs 
+of vulnerable households in 17 Municipalities and District Assemblies (MMDAs) and four 
+Regional Coordinating Councils. MMDAs that meet established eligibility criteria will 
+receive a USAID supplementary matching grant to scale up nutrition, food security and 
+resilience interventions within their medium-term development and annual implementation 
+plans. 
+
+
+ 
+
+Other Related Donor Programs 
+
+As noted above, GALOP, is a five-year, $281.7 million project funded by the World Bank, the 
+United Kingdom's Foreign, Commonwealth and Development Office (FCDO), and the Global 
+Partnership for Education (GPE). GALOP’s objective is to improve the quality of education in 
+low-performing basic schools and to strengthen education sector equity and accountability in 
+Ghana. It targets the 10,000 lowest-performing basic schools (kindergarten, primary and junior 
+high schools) and all special schools. GALOP’s five key components are: 
+
+1. Strengthen teaching and learning through support and resources for teachers. 
+2. Strengthen school support, management, and resourcing. 
+3. Strengthen accountability systems for learning. 
+
+
+
+RFANo.72064122RFA00008Page7of53
+
+4.Technicalassistance, institutional strengthening, monitoring, and research.
+5.Supporting the Education Response Plan to COVID-19 in Ghana for continued learning, 
+recovery and resilience in basic schools.
+USAID agreed to support Component 3:Strengthen accountability systems for learning.As noted,
+GALOP supported the MOE and GES to develop the EAF in 2019,which is the foundation for thework under this component. This activity, coupled with the SAGES G2Gactivity, encompassesUSAID’s continued efforts to support Component3. 
+
+3. PROBLEM STATEMENT AND THEORY OF CHANGE
+While the development of the EAF is a steptoward institutionalizing accountability in theeducation system, theEAF has not yet been fully implemented. The SAGESSystems 
+Strengthening activitywill seek toaddress two overarching challenges to implement the EAFand 
+increase accountability within the primary education system:
+
+1.The enabling environment lacks critical elementsnecessary for accountability to function.
+This includes:
+a.Lack of financial resources for primary education, including resourcesfor both 
+EAF implementation and the provision of supervisory services of localeducation 
+officials.
+b.Lack of a designated authority with appropriate skills within the MOE to plan for,
+implement, and monitor the EAF throughout theeducation system.
+c.Lack of clearly defined rules to guide behavior of system actorsand enforce the 
+system of accountability, including a lack of established performance standards,
+administrative regulations, and incentives; and 
+d.Lack of awareness of the role of accountability in education and the roles of eachsystem actor with regardto executing responsibilities with accountability.
+2.System actors do not perform their duties as required for a well-functioning system ofeducation accountability:
+a.System actors lack the skills needed to perform their roles to the standard required. 
+b.System actors do not interact witheachother as required which limits theeffectiveness offeedback channels.
+c.System actors do not systematically engage in data-driven decision-making due tolimited data collection,management,and reporting. 
+d.School and classroom actors lack management skills; and
+e.Lack ofcollaboration and engagementat the school and community level. 
+The theory of change for this activity posits that:
+
+
+IF the enabling environment for accountability is established and IF system actors perform 
+at minimum standards and interact effectively, THEN accountability will be 
+institutionalized in the Ghanaian primary education system, which will lead to improved 
+education service delivery. 
+
+ 
+
+This theory of change is based on the premise that an education accountability system must be 
+grounded in a supportive environment to enable sustained, improved service delivery. It requires 
+that the system has established incentives to influence the behavior of actors, and that feedback 
+loops exist to reinforce and address behaviors. It recognizes that the actions of individuals and 
+agencies are interlinked and interdependent—they are responsible for supporting each other’s 
+success and accountable to each other in the system. An accountable primary education system 
+holds all individuals and every agency of the education sector responsible for contributing to 
+delivery of quality services in the pursuit of improving learning outcomes. To that end, such a 
+system must collectively recognize the important roles and responsibilities that central education 
+authorities, regional and district education officers, head teachers, teachers, school management 
+committees, parents, community leaders, the general public and the private sectors have to create 
+systemic, sustainable accountability in Ghana’s education sector. 
+
+ 
+
+4. PROPOSED OUTCOMES AND RESULTS 
+
+ 
+
+The overall goal of the SAGES Systems Strengthening activity is to improve education service 
+delivery by institutionalizing accountability throughout the primary education system. The activity 
+has two objectives. The first objective, establish the enabling environment for accountability in 
+the primary education system, refers to the conditions that must be in place for system actors to 
+perform their roles. The second objective, increase the performance and improve the interactions 
+among all key actors in the primary education system, focuses specifically on the ability of system 
+actors to perform their defined roles. 
+
+ 
+
+Objective 1: Establish the enabling environment for accountability in the primary education 
+system. 
+
+ 
+
+The SAGES Systems Strengthening activity will work closely with the MOE, GES, NASIA, NTC, 
+NaCCA and other agencies/affiliates to establish the foundation needed for accountability in the 
+primary education system, with a focus on financial resources, rules, and roles and relationships. 
+
+ 
+
+Financial Resources. The applicant’s program description should include activities that will 
+strengthen MOE system actors to better budget, plan and manage financial resources to implement 
+the EAF. As part of this effort, the recipient should identify potential ways in which the MOE can 
+better use resources, attract non-government financing, or introduce other creative financing 
+mechanisms into the budget and planning process. 
+
+
+ 
+
+Rules: The applicant’s program description should include activities that support the MOE in 
+updating the EAF to define rules to enforce the system of accountability. This includes supporting 
+the MOE to develop a system of accountability, or administrative regulations, to ensure incentives 
+are in place to guide the behavior of key actors and defining the minimum performance standards 
+and expectations for all key actors, including identifying relationships among actors. 
+
+ 
+
+Roles and Responsibilities: The applicant’s program description should include activities that 
+support the GES Project Implementation Unit (PIU) to clearly define roles, responsibilities, and 
+relationships of each system actor under EAF. Activities should also address the need to increase 
+awareness system-wide of the role of accountability in education as well as the impact of policy 
+and budgetary decisions on learning outcomes. 
+
+ 
+
+Objective 2: Increase the performance and improve the interactions among all key actors in 
+the primary education system. 
+
+ 
+
+A functioning education system requires that all actors perform their duties at a minimum standard, 
+and that effective interactions, or relationships, exist between actors. Strong accountability 
+relationships are essential to durable and adaptive local systems. These relationships provide the 
+feedback channels that give a system its dynamism and ultimately its sustainability. The 
+applicant’s program description should focus on improving the performance (roles) and 
+interactions of all system actors (relationships) to better: 
+
+ 
+
+● Advocate for improved resources and service delivery for primary education. 
+● Perform their roles in education accountability to the required standard. 
+● Interact and collaborate appropriately with other system actors. 
+● Engage in data-driven decision-making through the systematic collection, management, 
+and reporting of data; and 
+● Identify and implement solutions to improve accountability. 
+
+
+ 
+
+In addition, specifically at the community and school level in the ZOI, the recipient’s program 
+description should include activities that work directly with local system actors to improve: 
+
+● Management of schools and classrooms; and 
+● Engagement and collaboration among SMCs, teachers, parents, and the community in 
+support of education accountability. 
+
+
+ 
+
+5. ACTIVITY PARAMETERS AND GUIDING PRINCIPLES 
+
+ 
+
+The applicant should take the following parameters and guiding principles into consideration in 
+developing their program description: 
+
+
+ 
+
+5.1 Geographical Focus 
+
+The SAGES Systems Strengthening program focuses on actors nationwide with the exception of 
+school and community-level interventions that should focus on actors in the 17 districts in 
+USAID’s ZOI in northern Ghana. 
+
+ 
+
+5.2 Key System Actors 
+
+At a minimum, the applicant’s program description must include activities that engage the 
+following key actors in all system-level interventions: 
+
+● MOE 
+● GES - including the Regional Education Offices (REO) and District Education Offices 
+(DEO) 
+● NASIA 
+● NTC 
+● NaCCA 
+
+
+ 
+
+In addition, at a minimum, the applicant’s program description must include activities that engage 
+the following key actors in all community/school level interventions focused in the ZOI: 
+
+● Head teachers 
+● Teachers 
+● School Management Committees (SMCs) 
+● Parents 
+● Community Leaders 
+
+
+ 
+
+5.3 Behavior-Led 
+
+The Applicant’s program description should align and advance USAID Ghana’s integrated, 
+behavior-led approach as detailed in Section 2.3. 
+
+ 
+
+5.4 Systems Strengthening 
+
+Decades of donor investments directed at single levels and actors in the education system have not 
+resulted in widespread or sustained improvement and resiliency for the system as a whole. The 
+COVID-19 pandemic has further added pressure to already tenuous service delivery mechanisms, 
+increasing the number of vulnerable people at risk of missing out on services, and unraveling many 
+of the precious development gains made. Promoting accountability, sustainability, and inclusivity 
+is critical to moving Ghana towards self-reliance. This requires a systems approach which engages 
+actors at all levels of the education system and therefore, USAID/Ghana has made the strategic 
+decision to focus on systems strengthening. 
+
+ 
+
+The Applicant’s program description should incorporate approaches that engage and improve the 
+system and foster sustainable accountability. 
+
+
+ 
+
+5.5 Host Government Collaboration 
+
+As described in Section 2.4, the SAGES Systems Strengthening activity complements 
+USAID/Ghana’s SAGES G2G activity. To achieve complementarity, close coordination between 
+the activities is essential. The applicant’s program description should describe plans for effective 
+coordination with the MOE and other key GOG system actors described in Section 5.2. 
+
+ 
+
+5.6 Universal Design for Learning 
+
+Where appropriate, applicants should seek to utilize approaches that use principles of Universal 
+Design for Learning (UDL)3, based upon the premise that all children and youth learn differently. 
+UDL provides a set of concrete suggestions that can be applied to any discipline or domain to 
+ensure that all learners can access and participate in meaningful, challenging learning 
+opportunities. At the heart of the UDL framework is the following set of principles for curriculum 
+development and instructional practice: use multiple means of engagement (foster learners’ 
+motivation in a variety of ways); use multiple means of representation (present information to 
+learners in a variety of ways); use multiple means of action and expression (enable learners to 
+express what they learn in a variety of ways). 
+
+3 https://www.cast.org/impact/universal-design-for-learning-udl 
+
+ 
+
+The Applicant’s program description should incorporate approaches that take UDL guidelines into 
+consideration in the context of advancing the activity objectives outlined in Section 4. 
+
+ 
+
+6.0 MONITORING, EVALUATION, AND LEARNING 
+
+ 
+
+6.1 Monitoring 
+
+ 
+
+In accordance with USAID/Ghana’s behavioral-led approach, Mission activities must heavily 
+focus on effectively measuring, analyzing, and evaluating identified behavioral outcomes that are 
+designed to help monitor changes in peoples’ conditions and behaviors, the functionality of 
+systems, and the effectiveness of institutions beyond the life of the strategy and each activity. 
+Using data to understand the Mission’s contribution to success is essential, and the behavior-led 
+approach requires a slight reorientation of how indicators are identified and tracked across the 
+Mission program cycle. In addition to Standard Foreign Assistance indicators, applicants will be 
+expected to develop an Activity Monitoring, Evaluation, and Learning Plan (AMELP) that 
+includes indicators to measure behavioral outcomes. Monitoring data is used not only to track 
+performance but also guide adaptive management and other activity decision-making. 
+
+ 
+
+The SAGES Systems Strengthening activity will utilize a two-tiered monitoring system. It will 
+include: 
+
+ 
+
+
+Applicant monitoring: The successful applicant will provide the first tier of monitoring. Per the 
+AMELP, monitoring will focus on measuring, analyzing, and evaluating identified behavioral 
+outcomes that are designed to capture changes in: (i) citizens’ and service providers’ conditions 
+and behaviors, (ii) the functionality of systems, and (iii) the likely effectiveness of institutions 
+beyond the life of USAID assistance. Special attention will be paid to developing indicators that 
+monitor the impact the Activity’s interventions are having on the conditions and behaviors of 
+women and youth. The applicant will be expected to report on activity performance and changes 
+in the context in which the activity is being implemented. 
+
+ 
+
+USAID monitoring: The USAID/Ghana AOR and the alternate AOR will provide a second tier of 
+monitoring. This will include reviewing the successful applicant’s quarterly and other reports and 
+conducting site visits. This monitoring may also be carried out in conjunction with representatives 
+of the MOE, GES, NASIA, NTC, NaCCA and other MOE agencies and affiliates. 
+
+ 
+
+Illustrative Indicators 
+
+Illustrative indicators are provided below. This list is not exhaustive and serves only as a guide. 
+
+ 
+
+● Number of education administrators and officials who complete professional development 
+activities with USG assistance (ES. 1-12). 
+● Number of educators who complete professional development activities with USG 
+assistance (ES.1-6). 
+● Percent of head teachers who attend schools daily in USG-supported schools. 
+● Percent of learners targeted for USG assistance who attain a minimum grade-level 
+proficiency in reading at the end of grade 2. 
+● Number of PTAs or community-based school governance structures engaged in primary 
+and secondary education supported with USG assistance. 
+
+
+ 
+
+6.2 Evaluation 
+
+ 
+
+USAID/Ghana may conduct independent evaluation(s) of the SAGES Systems Strengthening 
+activity. The recipient must fully and openly collaborate with the identified evaluation 
+contractor(s) to include providing activity data, status reports, and information on success against 
+results. 
+
+ 
+
+In addition to supporting any external evaluations, the recipient must report on approved research 
+questions. Final research questions will come from the successful application (see Learning 
+Agenda below). 
+
+ 
+
+6.3 Learning agenda 
+
+ 
+
+As part of the AMELP, the recipient will be expected to develop a learning plan, which may 
+include different MOE and USAID regular dissemination platforms and hosting quarterly “pause 
+
+
+and reflect” meetings with the MOE, its appropriate agencies and USAID to share learnings and 
+challenges and identify needed adjustments. Key learning questions will be developed with a range 
+of stakeholders, including USAID, MOE, and its appropriate agencies. Illustrative learning 
+questions may include: 
+
+● How does our programming factor the political economy realities in Ghana to maximize 
+efficient service delivery? 
+● Which aspects of accountability have the most impact on improvement of quality and 
+equitable education service delivery? 
+● How do we leverage the capacities of local service providers for efficient service delivery? 
+What programmatic changes are needed to contribute to sustainable progress for improved 
+service delivery? 
+● Does increased awareness of the primary education budget and financial information lead 
+to an increase in resources allocated for primary education? 
+● When School Management Committees are engaged/active, is there increased 
+accountability in schools/classrooms? 
+● How can parents and school personnel maximize the learning potential of children with 
+cognitive development delays and learning challenges? (e.g., those that have been caused 
+by nutritional deficits?) 
+
+
+ 
+
+
+ 
+
+ 
+
+Annex A - Acronym List 
+
+ 
+
+AMELP: Activity Monitoring, Evaluation, and Learning Plan 
+
+AOR: Agreement Officer Representative 
+
+CDCS: Country Development Cooperation Strategy 
+
+DEO: District Education Offices 
+
+DO: Development Objectives 
+
+DRG: Democracy, Rights and Governance 
+
+EAF: Education Accountability Framework 
+
+EMIS: Education Management Information System 
+
+ESMTDP: Education Sector Medium-Term Development Plan 
+
+ESP: Education Strategic Plan 
+
+FCDO: United Kingdom's Foreign, Commonwealth and Development Office 
+
+G2G: Government to Government 
+
+GALOP: Ghana Accountability for Learning Outcomes Project 
+
+GEM: Global Education Monitoring 
+
+GES: Ghana Education Service 
+
+GOG: Government of Ghana 
+
+GPE: Global Partnership for Education 
+
+IR: Intermediate Result 
+
+MOE: Ministry of Education 
+
+NaCCA: National Council for Curriculum and Assessment 
+
+NASIA: National Schools Inspectorate Authority 
+
+NTC: National Teaching Council 
+
+REO: Regional Education Offices 
+
+RISE: Research on Improving Systems of Education 
+
+SAGES: Strengthening Accountability in Ghana’s Education System 
+
+UNESCO: United Nations Educational, Scientific and Cultural Organization 
+
+USAID: United States Agency for International Development 
+
+ZOI: Zone of Influence 
+
+ 
+
+
+ 
+
+Annex B: Zone of Influence Map 
+
+ 
+
+A picture containing diagram
+Description automatically generated
+[END OF SECTION A] 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. ESTIMATE OF FUNDS AVAILABLE AND NUMBER OF AWARDS 
+CONTEMPLATED 
+
+
+ 
+
+USAID intends to award one (1) Cooperative Agreement pursuant to this NOFO. Subject to 
+funding availability and at the discretion of the Agency, USAID intends to provide $45M-$50M 
+million in total USAID funding over a five-year period. 
+
+ 
+
+ 
+
+2. START DATE AND PERIOD OF PERFORMANCE FOR FEDERAL AWARDS 
+
+
+ 
+
+The anticipated period of performance is five (5) years. The estimated start date will be 
+
+February 1, 2023. 
+
+ 
+
+3. SUBSTANTIAL INVOLVEMENT 
+
+
+ 
+
+USAID will be substantially involved in this Cooperative Agreement to help the Recipient 
+achieve the agreement objectives in the following manner: 
+
+ 
+
+3.1 Approval of the Recipient’s Implementation Plans: The Agreement Officer 
+Representative (AOR) will approve the Recipient's annual implementation plans (AIP) and any 
+subsequent changes to the plans due to shifting context, new information, security conditions, 
+etc. The AOR will participate in strategic planning sessions for the development of AIPs. The 
+Recipient and AOR must review the agreement’s terms and conditions to ensure inadvertent 
+changes to them are not approved through the AIP. 
+
+
+
+
+ 
+
+3.2 Approval of the Activity Monitoring Evaluation and Learning Plan (AMELP): The 
+
+
+
+
+AOR will review and approve the AMELP and all subsequent changes to it. 
+
+ 
+
+3.3 Approval of the Activity Communications & Outreach (C&O) Plan: The AOR will 
+review and approve the C&O Plan and all subsequent changes to it. 
+
+ 
+
+3.4 Approval of Key Personnel and Any Changes in Key Personnel: Key personnel are 
+those individuals considered to be essential to the successful implementation of the award. 
+USAID will be consulted early in the process of any proposed changes in key personnel 
+following award, and the AO will approve the selection after AOR concurrence. Key 
+personnel identified for this award will be identified and included prior to award, if 
+applicable. 
+
+
+
+
+ 
+
+3.5 Agency and Recipient Collaboration or joint participation: USAID and Recipient 
+engagement in collaboration and joint participation may occur when the Recipient’s 
+successful accomplishment of program objectives would benefit from USAID’s technical 
+knowledge. USAID anticipates collaboration and joint participation where there is sufficient 
+reason for USAID’s involvement and the involvement shall be specifically tailored to 
+support identified elements in the program description. Areas and spaces for joint 
+participation and collaboration may be identified throughout the life of the Activity. All 
+such direction or redirection must be within the program description budget, and other terms 
+and conditions of the award. 
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+3.6 Direction of program to align with other USAID programs: The AOR will authorize 
+specific kinds of direction or redirection because of interrelationships with other Activities 
+sponsored by the U.S. Government or other donors and to ensure coordination and 
+complementarity, avoid duplication of efforts, and/or support U.S. foreign policy 
+considerations. All such direction or redirection must be within the program description, 
+budget, and other terms and conditions of the award. 
+
+
+
+
+ 
+
+4 ADMINISTRATIVE AND TECHNICAL INVOLVEMENT 
+
+
+The following factors applicable to both grants and cooperative agreements are not 
+considered substantial involvement during performance and include the following: 
+
+1. Agency approval of recipient plans prior to award. 
+2. Normal exercise of Federal stewardship responsibilities during the project 
+period such as site visits, performance reporting, financial reporting, and audit 
+to ensure the recipient accomplishes the objectives, terms, and conditions of 
+the award. 
+3. Unanticipated Agency involvement to correct deficiencies in project 
+or financial performance from the terms of the assistance instrument. 
+4. General statutory requirements understood in advance of the award, such as 
+civil rights, environmental protection, and provision for the handicapped. 
+5. Agency review of performance after completion; and 
+6. General administrative requirements, such as those included in 2 CFR 200. 
+
+
+Also, the Agency may provide technical assistance, guidance, or advice to the 
+recipient during the period of the award to enhance collaboration or engagement 
+with the recipient. Such technical assistance, guidance, or advice is not considered 
+substantial involvement when: 
+
+7. USAID provides it at the request of the recipient. 
+8. The recipient is not required to follow it; or 
+9. The recipient is required to follow it, but USAID provides it prior to the start 
+of the award, and the recipient understands this prior to the award of the 
+instrument, for example, when more-frequent reporting is required, as 
+allowed by 2 CFR 200.327 and 2 CFR 200.328. 
+
+
+ 
+
+5. AUTHORIZED GEOGRAPHIC CODE 
+
+
+The geographic code for the procurement of commodities and services under this program is 
+935. Code 935 is defined as any area or country including the recipient country but excluding 
+any country that is a prohibited source. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+6. NATURE OF THE RELATIONSHIP BETWEEN USAID AND THE RECIPIENT 
+
+
+ 
+
+The principal purpose of the relationship with the Recipient under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Strengthening 
+Accountability in Ghana’s Education System (SAGES) Activity, which is authorized by Federal 
+statute. The Recipient will be responsible for ensuring the achievement of the program 
+objectives and the efficient and effective administration of the award through the application of 
+sound management practices. The Recipient will assume responsibility for administering 
+Federal funds in a manner consistent with underlying agreements, program objectives, and the 
+terms and conditions of the Federal award. 
+
+ 
+
+ 
+
+[END OF SECTION B] 
+
+
+ 
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. ELIGIBLE APPLICANTS 
+
+
+Eligibility for this NOFO is not restricted. U.S. and non-US organizations may participate under 
+this NOFO. Public International Organizations (PIOs), as defined by ADS 308, are eligible to 
+submit an application. Any PIO that submits an application to this NOFO is agreeing to have all 
+substantial involvement clauses (See Section B.3) included as special conditions in their final PIO 
+cost-type agreement (See ADS 308.3.2.2 and ADS 308.3.9.1) or is otherwise ineligible for award. 
+
+Applicants must have established financial management, monitoring and evaluation processes, 
+internal control systems, and policies and procedures that comply with established U.S. 
+Government standards, laws, and regulations. The successful applicant will be subject to a 
+responsibility determination assessment (pre-award Survey) by the Agreement Officer (AO). 
+
+The Recipient must be a responsible entity. The AO may determine a pre-award survey is required 
+to conduct an examination that will determine whether the prospective recipient has the necessary 
+organization, experience, accounting and operational controls, and technical skills – or ability to 
+obtain them – in order to achieve the objectives of the program and comply with the terms and 
+conditions of the award. 
+
+For-profit applicants must note that USAID policy prohibits the payment of fee/profit for recipients 
+under assistance instruments. Forgone profit does not qualify as cost-share or leverage. 
+
+USAID welcomes applications from organizations that have not previously received financial 
+assistance from USAID. 
+
+ 
+
+2. COST SHARING OR MATCHING 
+
+
+Cost sharing will strengthen local ownership of the program and sustainability of results. 
+Therefore, Applicants must contribute at least $100,000 to support the USAID/SAGES Systems 
+Strengthening activity. Applicants that do not meet the minimum cost share requirement are not 
+eligible for award consideration. 
+
+Cost share refers to the resources a Recipient contributes to the total cost of an agreement. Cost 
+share will become a condition of the resulting award and will be included in the approved award 
+budget. Cost share may be audited and must be verifiable from the Recipient’s records. U.S. 
+organizations are subject to the requirements of 2 CFR 200.306, and non-U.S. organizations are 
+subject to the Standard Provision, “Cost Share.” If a Recipient does not meet its cost share 
+requirement, the AO may apply the difference between the actual cost share and the agreed upon 
+cost share to reduce the amount of USAID funding for the following funding period, require the 
+Recipient to refund the difference to USAID when the award expires or is terminated, or reduce 
+the amount of cost share required under the award. 
+
+ 
+
+3. NUMBER OF APPLICATIONS 
+
+
+An applicant may submit only one application per organization; no individual investigator/ 
+program director applications will be accepted. 
+
+ 
+
+[END OF SECTION C] 
+
+
+ 
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+ 
+
+1. AGENCY POINTS OF CONTACT 
+
+
+ 
+
+Name: Taniece Owusu 
+
+Title: Supervisory Agreement Officer (acting) 
+
+Email: tbaldwinowusu@usaid.gov 
+
+ 
+
+Name: Nathan Strand 
+Title: Agreement Officer 
+Email: nstrand@usaid.gov 
+
+ 
+
+Name: Ruth Amegashie 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: ramegashie@usaid.gov 
+
+ 
+
+2. QUESTIONS AND ANSWERS 
+
+
+All questions regarding this NOFO should be submitted in writing to the e-mail addresses 
+above not later than the time indicated on the cover letter. Any information given to a 
+prospective Applicant concerning this NOFO will be furnished promptly to all other 
+prospective Applicants as an amendment to this NOFO, if that information is necessary in 
+submitting applications or if the lack of it would be prejudicial to any other prospective 
+Applicant. 
+
+ 
+
+3. GENERAL CONTENT AND FORM OF THE CONCEPT PAPER AND 
+FULL APPLICATION 
+
+
+This is a two-tiered NOFO in accordance with ADS, 303.3.6.1c Selection under this NOFO 
+will be based on a two-step process: 
+
+● Phase 1 - Concept Paper submissions: open to all eligible organizations as described 
+in this NOFO. 
+
+
+ 
+
+● Phase 2 - Full application submissions: by invitation only to applicants selected under 
+Phase 1 evaluation. 
+
+
+Applicants must first submit a concept paper for review. USAID/Ghana will evaluate all 
+concept papers according to the criteria specified in this NOFO. If USAID/Ghana determines 
+the concept warrants further evaluation per the selection criteria established, full applications 
+will be requested. 
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do 
+so may be considered as being non-responsive and may be evaluated accordingly. Applicants 
+should retain a copy of the concept paper and application and all enclosures for their records. 
+
+ 
+
+ 
+
+
+Concept papers must comply with the following: 
+
+● Page limitations. USAID will not review any pages in excess of the page limits noted in 
+the subsequent sections. 
+● Language requirements. Concept papers must be written in the English Language. 
+● Page formats. Use standard 8 ½” x 11”, single-sided, single-spaced, 12-point Times New 
+Roman font. A 10-point font can be used for graphs, tables, and charts. Use, 1” margins, 
+left justification, and headers and/or footers on each page that include consecutive page 
+numbers, date of submission, and applicant’s name. 
+● File format: Submit using a single searchable and editable PDF. 
+
+
+
+
+
+
+ 
+
+Applications must comply with the following: 
+
+● Page limitations. USAID will not review any pages in excess of the page limits noted in 
+the subsequent sections. 
+● Language requirements. Applications must be written in English. 
+● Page formats. Use standard 8 ½” x 11”, single-sided, single-spaced, 12-point Times New 
+Roman font. A 10-point font can be used for graphs, tables, and charts. Use 1” margins, 
+left justification, and headers and/or footers on each page that include consecutive page 
+numbers, date of submission, and applicant’s name. 
+● File formats. Submit using searchable and editable Microsoft Word or PDF formats, 
+except budget files which must be submitted using Microsoft Excel. 
+● The cost application must include an Excel spreadsheet with all cells unlocked and no 
+hidden formulas or sheets. 
+
+
+
+
+
+
+ 
+
+ 
+
+3.1 Phase 1 - Concept Paper – Open to all eligible organizations as described in this 
+NOFO 
+
+ 
+
+3.1.1 Submission Instructions 
+
+
+
+
+
+
+Concept papers must be submitted electronically via email to Taniece Baldwin Owusu 
+(tbaldwinowusu@usaid.gov), Nathan Strand (nstrand@usaid.gov), and Ruth Amegashie 
+(ramegashie@usaid.gov). Email submissions must include the following information in the 
+subject line: 
+
+“RFA 72064122RFA00008 – [name of organization] - Concept Paper” 
+
+3.1.2 Contents and Form 
+
+
+
+
+
+
+Concept Papers must not exceed eight (8) pages in total. Each section also has a page limit 
+that cannot be exceeded. Applicants are advised that any pages exceeding these limits will 
+not be considered for evaluation. 
+
+3.1.2.1 Applicant Information (up to 0.5 pages) 
+
+This section must include the following information: 
+
+a. Activity title. 
+b. RFA number. 
+c. Name of lead or primary organization(s) applying. 
+d. Any partnerships and/or proposed sub-awardees; and 
+
+
+
+e. Contact person, telephone number, email, address. 
+
+
+3.1.2.2 Technical Concept (up to 6 pages) 
+
+Applicants must describe how the proposed concept will achieve the 
+program objectives in the NOFO Program Description, including: 
+
+a. a results framework supporting the two objectives. 
+b. evidence/rationale for the results framework. 
+c. demonstrated knowledge of Ghana’s primary education system, its 
+levels, its actors, and the challenges and opportunities of 
+government accountability within that system. 
+d. a conceptual approach to building and expanding school and 
+community support and engaging schools and communities to 
+support accountability and improved learning outcomes in the 17 
+ZOI districts. 
+e. how the program will meaningfully coordinate and leverage other 
+programs in the accountability sphere and with local partners; and 
+f. how the approach will support behavior-led change. 
+
+
+ 
+
+3.1.2.3 Management Approach (up to 1 page) 
+
+Applicants must provide an organizational chart (with titles and lines of 
+reporting) depicting a notional management and staffing plan that will carry 
+out the results framework described in the Technical Concept. The applicant 
+must also provide the names and briefly outline qualifications of key 
+personnel. If the applicant is considering any sub awardees, they should 
+provide a brief overview of what role they would play in implementation of 
+the program. 
+
+. 
+
+3.1.2.4 Estimated summary budget (up to 1 page) 
+
+The Applicant must estimate prime award costs and costs for any proposed 
+subawards. The summary budget must follow the template below: 
+
+ 
+
+Estimated Summary Budget 
+
+Cost Elements 
+
+Year 1 
+
+Year 2 
+
+Year 3 
+
+Year 4 
+
+Year 5 
+
+Total 
+
+Prime 
+Award 
+Direct 
+Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subawards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prime Award 
+Indirect Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Proposed Cost 
+Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOTAL 
+AWARD 
+BUDGET 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+3.1.2.5 Relevant experience (up to 0.5 pages) 
+
+The Applicant must provide three examples of its most recent projects, or 
+projects most relevant to its concept paper, including the title of the project, 
+location, dates, total funding, donor (if any), and brief description. 
+
+ 
+
+3.2 Phase 2 - Full Application - Open only to organizations selected in Phase 1 
+
+ 
+
+3.2.1 Full Application Submission Procedures 
+
+ 
+
+Invited applicants must submit full applications to this NOFO no later than the closing date 
+and time indicated in the letter requesting a full application. Late applications may be 
+considered at the discretion of the Agreement Officer. Applicants must retain proof of 
+timely delivery in the form of system generated documentation of delivery receipt date and 
+time. Applicants must ensure that all necessary documentation is complete and received by 
+USAID/Ghana on time. 
+
+ 
+
+Full Applications must be submitted in two separate parts: (a) Technical Application and 
+(b) Business/Cost Application. Please indicate in the subject line of the email whether the 
+email relates to the technical application or the cost application. Your subject line should 
+also indicate the desired sequence of emails (if more than one is sent) and of attachments 
+(e.g., “No. 1 of 4”). 
+
+ 
+
+For example, if your cost application is being sent in two emails, the first email will have 
+a subject line which says: "[RFA 72064122RFA00008], [organization name], Cost 
+Application, Part 1 of 2". 
+
+ 
+
+All applications received by the submission deadline will be reviewed for responsiveness 
+to the NOFO and the application format. No additions or modifications will be accepted 
+after the submission date. 
+
+ 
+
+After the application has been sent electronically, immediately check your own email to 
+confirm that the attachments were included. If a transmission error is discovered, please 
+send the material again. Do not submit the same document unless there has been a change 
+or send the same email more than once unless there has been a change; and if so, please 
+note that it is a “corrected” email. 
+
+ 
+
+
+3.2.2 Technical Application Format 
+
+ 
+
+The technical application must be specific, complete, and concise. The application must 
+demonstrate a clear understanding of the work to be undertaken, the responsibilities of all 
+parties involved, offer critical thinking and analysis for each component, demonstrate how 
+the programmatic approach and operational principles will be implemented, and tie the 
+technical approach to the Objectives to be achieved. The application must take into account 
+the requirements of the Activity and merit review criteria found in this NOFO. 
+
+ 
+
+The technical application consists of eight sections as described below. Each section must 
+comply with the section page limit listed. 
+
+ 
+
+a. Cover Page (one page) 
+b. Table of Contents (one page) 
+c. Acronym List (one page) 
+d. Technical Approach (15 pages) 
+e. Management, Staffing Plan and Key Personnel (five pages) 
+f. Outline of Year One Work Plan (five pages) 
+g. Resumes and References for Key Personnel (two pages for each key personnel 
+position) 
+h. Key Personnel Letters of Commitment (one page each) 
+
+
+ 
+
+Additional guidance, where needed, is provided for the following sections: 
+
+ 
+
+ 3.2.2.1 Cover Page (one page) 
+
+ The Cover Page must include the following information 
+
+a. Activity title 
+b. RFA number 
+c. Name of primary or lead organization (s) applying 
+d. Any partnerships and/or proposed sub-awardees 
+e. Contact person, telephone number, fax number, address, and types of 
+name(s) and title(s) of person(s) who prepared the application, and 
+corresponding signatures. 
+f. The Tax Identification Number (TIN)/Employer Identification Number 
+(EIN) and SAM Unique Entity ID (UEI) numbers of the Prime Applicant 
+and any proposed sub-applicants. 
+
+
+ 
+
+ 3.2.2.2 Technical Approach (15 pages) 
+
+The technical approach must provide a clear description of the Applicant’s 
+proposed plan for achieving the objectives in the NOFO and results in the submitted 
+Concept Paper Results Framework. The approach must describe how interventions 
+will drive behavior-led changes. The Applicant must demonstrate clearly how the 
+Objectives and Results will be achieved. 
+
+
+Proposed interventions must demonstrate a clear understanding of the Ghana 
+education system and the challenges and opportunities the MOE faces in 
+implementing the Accountability for Learning Framework (referred to as the EAF). 
+The Applicant must present a cohesive approach for integrating and leveraging its 
+interventions with activities funded by USAID, other donors, and the GOG in the 
+accountability sphere in Ghana. The Applicant must also present a plan which 
+describes how they will meaningfully engage with local partners. 
+
+The Applicant must also demonstrate a strategy and approach to systems 
+strengthening and capacity building. It should be linked to evidence and past 
+sustainable success in sustainably building the skills and capacity of host 
+government actors to successfully fulfill their government roles. 
+
+The technical approach must also reflect how the Applicant plans to learn and adapt 
+its program to the changing needs and capacity-building requirements of the GOG. 
+
+ 
+
+ 3.2.2.3 Management and Staffing Plan and Key Personnel (five pages) 
+
+ 
+
+Applicants must submit a Management and Staffing Plan that includes the 
+following: 
+
+● An organizational chart showing all positions proposed across all 
+objectives, inter-staff relationships, proposed office structure, and 
+integration of consultants (as applicable). 
+● An overview of how activities and communication will be managed and 
+coordinated between the prime and sub-recipients. 
+● The proposed approach to recruitment and staffing for efficient program 
+launch and effective performance. 
+● A description of how adaptive management will be expressed through 
+staffing skills, management structure, project organizational culture, 
+business processes, and stakeholder engagement throughout project 
+implementation. 
+
+
+ 
+
+The Applicant must propose and justify four “Key Personnel” positions within its 
+staffing plan and provide the following information for each: 
+
+● Brief description of the role and responsibilities, 
+● Qualifications and relevant work experience of individuals proposed, 
+● Rationale for the appropriateness of proposed individual, and 
+● Description of how the position and the individual filling it support effective 
+implementation. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3.2.2.4 Outline of Year One Work Plan (five pages) 
+
+ 
+
+Applicants must submit an outline of the first year Work Plan, which illustrates the 
+Offeror’s proposed activities and their planned timing and sequence, including 
+major milestones and proposed incremental targets for Year 1. 
+
+ 
+
+3.2.3 Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical 
+Application. While no page limit exists for the full cost application, Applicants are 
+encouraged to be as concise as possible while still providing the necessary details. The 
+business (cost) application must illustrate the entire period of performance, using the 
+budget format shown in the SF-424A. 
+
+ 
+
+Prior to award, Applicants may be required to submit additional documentation deemed 
+necessary for the Agreement Officer to assess the Applicant’s risk in accordance with 2 
+CFR 200.205. Applicants will not submit any additional information with their initial 
+application. 
+
+ 
+
+Applicants should indicate the Exchange Rate of Ghana Cedi per US dollar that they use 
+in developing their budget. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated 
+below this listing with the letters for each requirement) 
+
+ 
+
+3.2.3.1 Cover page 
+
+ 
+
+The Business/Cost application must include a cover page containing the following 
+information: 
+
+a. Activity title. 
+b. RFA number. 
+c. Name of lead or primary organization(s) applying. 
+d. Any partnerships and/or proposed sub-awardees; and 
+e. Contact person, telephone number, fax number, address, and types of 
+name(s) and title(s) of person(s) who prepared the application, and 
+corresponding signatures 
+
+
+ 
+
+3.2.3.2 SF 424 Form 
+
+ 
+
+The Applicant must sign and submit the cost application using the SF-424 series. 
+Standard Forms can be accessed electronically at www.grants.gov or using the 
+following links: 
+
+ 
+
+ 
+
+
+Instructions 
+for SF-424 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+Application for 
+Federal 
+Assistance (SF-
+424) 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+Instructions 
+for SF-424A 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+Budget 
+Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+Instructions 
+for SF-424B 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+Assurances 
+(SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-
+424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+3.2.3.3 Required Certifications and Assurances 
+
+ 
+
+The Applicant must complete the following documents and submit a signed copy 
+with their full application: 
+
+ 
+
+a. “Certifications, Assurances, Representations, and Other Statements 
+of the Recipient” document found at 
+https://www.usaid.gov/sites/default/files/documents/303mav.pdf 
+b. Assurances for Non-Construction Programs (SF-424B) 
+c. Certificate of Compliance: Please submit a copy of your Certificate of 
+Compliance if your organization's systems have been certified by 
+USAID/Washington's Office of Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+3.2.3.4 Budget and Budget Narrative 
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or 
+later versions) with visible formulas and references and must be broken out by 
+project year, including itemization of the federal and non-federal (cost share) 
+amount. Files must not contain any hidden or otherwise inaccessible cells. Budgets 
+with hidden cells lengthen the cost analysis time required to make an award and 
+may result in a rejection of the cost application. 
+
+ 
+
+The Budget Narrative must be a written narrative in Word or PDF formats that 
+explains individual cost elements and how they were estimated. The narrative must 
+contain sufficient detail to allow USAID to understand the proposed costs. 
+
+ 
+
+The Applicant must ensure the budgeted costs address any additional requirements 
+identified in Section F, such as Branding and Marking. The Budget Narrative must 
+
+
+be thorough, including sources for costs to support USAID’s determination that the 
+proposed costs are fair and reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a 
+minimum: 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), 
+broken out by major budget category and by year for activities implemented 
+by the Applicant and any potential sub-Applicants for the entire period of 
+the program. See Section H for Summary Budget Template 
+● Detailed Budget, including a breakdown by year, sufficient to allow the 
+Agency to determine that the costs represent a realistic and efficient use of 
+funding to implement the Applicant’s program and are allowable in 
+accordance with the cost principles found in 2 CFR 200 Subpart E. 
+● Detailed Budgets for each Sub-Recipient, for all federal funding and cost 
+share, broken out by budget category and by year, for the entire 
+implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, 
+at a minimum: 
+
+ 
+
+a. Salary and Allowances - Must be proposed consistent with 2 CFR 200.430 
+Compensation - Personal Services. The Applicant’s budget must include 
+position title, salary rate, level of effort, and salary escalation factors for each 
+position. Allowances, when proposed, must be broken down by specific type 
+and by position. Applicants must explain all assumptions in the Budget 
+Narrative. The Budget Narrative must demonstrate that the proposed 
+compensation is reasonable for the services rendered and consistent with what 
+is paid for similar work in other activities of the Applicant. Applicants must 
+provide their established written policies on personnel compensation. If the 
+Applicant’s written policies do not address a specific element of compensation 
+that is being proposed, the Budget Narrative must describe the rationale used 
+and support market research. 
+
+
+ 
+
+b. Fringe Benefits - (if applicable) If the Applicant has a fringe benefit rate 
+approved by an agency of the U.S. Government, the Applicant must use such 
+rate and provide evidence of its approval. If an Applicant does not have a fringe 
+benefit rate approved, the Applicant must propose a rate and explain how the 
+Applicant determined the rate. In this case, the Budget Narrative must include 
+a detailed breakdown of all items of fringe benefits (e.g., superannuation, 
+gratuity, etc.) and the costs of each, expressed in U.S. dollars and as a 
+percentage of salaries. 
+
+
+ 
+
+c. Travel and Transportation - Provide details to explain the purpose of the trips, 
+the number of trips, the origin and destination, the number of individuals 
+traveling, and the duration of the trips. Per Diem and associated travel costs 
+
+
+
+must be based on the Applicant’s normal travel policies. When appropriate 
+please provide supporting documentation as an attachment, such as company 
+travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+d. Procurement or Rental of Goods (Equipment & Supplies), Services, and Real 
+Property- Must include information on estimated types of equipment, models, 
+supplies and the cost per unit and quantity. The Budget Narrative must include 
+the purpose of the equipment and supplies and the basis for the estimates. The 
+Budget Narrative must support the necessity of any rental costs and 
+reasonableness in light of such factors as: rental costs of comparable property, 
+if any; market conditions in the area; alternatives available; and the type, life 
+expectancy, condition, and value of the property leased. 
+
+
+ 
+
+e. Subawards – Specify the budget for the portion of the program to be passed 
+through to any subrecipients. See 2 CFR 200.330 for assistance in determining 
+whether the sub-tier entity is a subrecipient or contractor. The subrecipient 
+budgets must align with the same requirements as the Applicant’s budget, 
+including those related to fringe and indirect costs. 
+
+
+ 
+
+f. Knowledge Management - The Applicant must incorporate the estimated cost 
+for knowledge management as described in Section A. 
+
+
+ 
+
+g. AMELP - The Applicant must allocate sufficient human and financial resources 
+within the budget necessary for successful implementation of the AMELP. 
+
+
+ 
+
+h. Reports – The activity will require various reports throughout the life of the 
+Activity as included in section F. 
+
+
+ 
+
+i. Security – The Applicant must clearly identify security costs in the budget and 
+budget narrative that demonstrates it has undertaken a thoughtful review of their 
+security needs to successfully implement the Activity as presented in its 
+technical approach 
+
+
+ 
+
+j. Environmental Compliance – The Applicant must include enough resources in 
+the budget to ensure it can comply with environmental requirements for this 
+Activity. 
+
+
+ 
+
+k. Other Direct Costs - This may include other costs not elsewhere specified, such 
+as report preparation costs, passports and visas fees, medical exams, and 
+inoculations, as well as any other miscellaneous costs which directly benefit the 
+program proposed by the Applicant. The Applicant should indicate the subject, 
+venue and duration of any proposed conferences and seminars, and their 
+relationship to the objectives of the program, along with estimates of costs. 
+Otherwise, the narrative should be minimal. 
+
+
+ 
+
+l. Indirect Costs - Applicants must indicate whether they are proposing indirect 
+costs or will charge all costs directly. In order to better understand indirect 
+
+
+
+costs please see Subpart E of 2 CFR 200.414. The application must identify 
+which approach they are requesting and provide the applicable supporting 
+information. Below are the most commonly used Indirect Cost Rate methods: 
+
+
+ 
+
+Method 1 - Direct Charge Only 
+
+ 
+
+Eligibility: Any Applicant 
+
+ 
+
+Initial Application Requirements: See above on direct costs 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+ 
+
+Eligibility: Any Applicant with a NICRA issued by a USG Agency must use 
+that NICRA 
+
+ 
+
+Initial Application Requirements: If the Applicant has a current NICRA, submit 
+your approved NICRA and the associated disclosed practices. If your NICRA 
+was issued by an Agency other than USAID, provide the contact information 
+for the approving Agency. Additionally, at the Agency’s discretion, a 
+provisional rate may be set forth in the award subject to audit and finalization. 
+See USAID’s Indirect Cost Rate Guide for Non Profit Organizations for 
+further guidance. 
+
+ 
+
+Method 3 - De minimis rate of 10% of modified total direct costs (MTDC) 
+
+ 
+
+Eligibility: Any Applicant that has never received a NICRA 
+
+ 
+
+Initial Application Requirements: Costs must be consistently charged as either 
+indirect or direct costs but may not be double charged or inconsistently charged 
+as both. If chosen, this methodology once elected must be used consistently for 
+all Federal awards until such time as a non-Federal entity chooses to negotiate 
+an indirect rate, which the non-Federal entity may apply to do at any time. The 
+Applicant must describe which cost elements it charges indirectly vs. directly. 
+See 2 CFR 200.414(f) for further information. 
+
+ 
+
+Method 4 - Indirect Costs Charged as A Fixed Amount 
+
+ 
+
+Eligibility: Non U.S. non-profit organizations without a NICRA may request, 
+but approval is at the discretion of the AO 
+
+ 
+
+Initial Application Requirements: Provide the proposed fixed amount and a 
+worksheet that includes the following: 
+
+ 
+
+● Total costs incurred by the organization for the previous fiscal year and 
+estimates for the current year. 
+
+
+
+● Indirect costs (common costs that benefit the day-to-day operations of the 
+organization, including categories such as salaries and expenses of 
+executive officers, personnel administration, and accounting, or that benefit 
+and are identifiable to more than one program or activity, such as 
+depreciation, rental costs, operations and maintenance of facilities, and 
+telephone expenses) for the previous fiscal year and estimates for the current 
+year 
+● Proposed method for prorating the indirect costs equitably and consistently 
+across all programs and activities of using a base that measures the benefits 
+of that particular cost to each program or activity to which the cost applies. 
+
+
+ 
+
+If the Applicant does not have an approved NICRA and does not elect to utilize 
+the 10% de minimis rate, the Agreement Officer will provide further 
+instructions and may request additional supporting information, including 
+financial statements and audits, if the application is still under consideration 
+after the merit review. USAID is under no obligation to approve the 
+Applicant’s requested method. 
+
+ 
+
+m. Cost Sharing - The Applicant must include the amount of cost-sharing resources 
+to be provided over the life of the agreement and specify the sources of such 
+resources, and the basis of calculation in the budget narrative. Applicants must 
+also provide a breakdown of the cost share (financial and in-kind contributions) 
+of all organizations involved in implementing the resulting award. 
+
+
+ 
+
+3.2.3.5 Prior Approvals in accordance with 2 CFR 200.407 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any 
+requirements for prior approval by the Agency. If the Applicant would like the 
+award to reflect approval of any cost elements for which prior written approval is 
+specifically required for allowability, the Applicant must specify and justify that 
+cost. See 2 CFR 200.407 for information regarding which cost elements require 
+prior written approval. 
+
+ 
+
+3.2.3.6 Approval of Subawards 
+
+ 
+
+The Applicant must submit information for all subawards that it wishes to have 
+approved at the time of award. For each proposed subaward the Applicant must 
+provide the following: 
+
+ 
+
+● Name of organization 
+● SAM UEI Number 
+● Confirmation that the subrecipient does not appear on the Treasury 
+Department’s Office of Foreign Assets Control (OFAC) list 
+● Confirmation that the subrecipient does not have active exclusions in the 
+System for Award Management (SAM) 
+
+
+
+● Confirmation that the subrecipient is not listed in the United Nations Security 
+designation list 
+● Confirmation that the subrecipient is not suspended or debarred 
+● Confirmation that the Applicant has completed a risk assessment of the 
+subrecipient, in accordance with 2 CFR 200.331(b) 
+● Any negative findings as a result of the risk assessment and the Applicant’s plan 
+for mitigation. 
+
+
+ 
+
+3.2.3.7 UEI and SAM Requirements 
+
+ 
+
+USAID may not award to an Applicant unless the Applicant has complied with all 
+applicable System for Award Management (SAM) requirements including. Each 
+Applicant (unless the Applicant is an individual or Federal awarding agency that is 
+exempted from requirements under 2 CFR 25.110(b) or (c), or has an exception 
+approved by the Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+a. Provide a valid UEI number for the Applicant and all proposed 
+sub-recipients. 
+b. Be registered in SAM before submitting its application. SAM is streamlining 
+processes, eliminating the need to enter the same data multiple times, and 
+consolidating hosting to make the process of doing business with the 
+government more efficient (www.sam.gov). 
+c. Continue to maintain an active SAM registration with current information at 
+all times during which it has an active Federal award or an application or 
+plan under consideration by a federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, Applicants 
+are encouraged to begin the process early. If an Applicant has not fully complied 
+with the requirements above by the time USAID is ready to make an award, USAID 
+may determine that the Applicant is not qualified to receive an award and use that 
+determination as a basis for making an award to another Applicant. 
+
+ 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+Non-U.S. Applicants can find additional resources for registering in SAM, 
+including a Quick Start Guide and a video on how to obtain an NCAGE code, on 
+www.sam.gov, navigate to Help, then to International Registrants. 
+
+ 
+
+3.2.3.8 History of Performance 
+
+ 
+
+The Applicant must provide information regarding its recent history of performance 
+for all its cost-reimbursement contracts, grants, or cooperative agreements 
+involving similar or related programs, not to exceed three (3) awards as follows: 
+
+ 
+
+• Name of the Awarding Organization. 
+• Award Number. 
+
+
+
+
+
+• Activity Title. 
+• A brief description of the Activity. 
+• Period of Performance. 
+• Award Amount. 
+• Reports and findings from any audits performed in the last three (3) years; 
+and 
+• Name of at least two (2) updated professional contacts who most directly 
+observed the work at the organization for which the service was performed 
+with complete current contact information including telephone number, and 
+e-mail address for each proposed individual. 
+
+
+
+
+ 
+
+If the Applicant encountered problems on any of the referenced Awards, it may 
+provide a short explanation and the corrective action taken. The Applicant should 
+not provide general information on its performance. USAID reserves the right to 
+obtain relevant information concerning an Applicant’s history of performance from 
+any sources and may consider such information in its review of the Applicant’s 
+risk. The Agency may request additional information and conduct a pre-award 
+survey if it determines that it is necessary to inform the risk assessment. 
+
+ 
+
+3.2.3.9 Branding Strategy & Marking Plan 
+
+ 
+
+The Successful Applicant must provide a Branding Strategy and Marking Plan 
+(BSMP) to be evaluated and approved by the Agreement Officer within 30 days of 
+the award being made, which will be incorporated into the resulting award. It must 
+include all estimated costs associated with the branding and marking of the 
+Activity, such as plaques, stickers, banners, press events and materials, etc. 
+
+ 
+
+Applicants must briefly describe (not to exceed two pages) how they will promote 
+USAID identity, U.S. Government’s support for this Activity and the Activity’s 
+achievements in Ghana. It is a Federal statutory and regulatory requirement that all 
+overseas programs, projects, activities, public communications, and commodities 
+that USAID partially or fully funds under an assistance award or sub-award must 
+be appropriately marked with the USAID identity. 
+
+ 
+
+The branding and marking plan must be consistent with USAID’s Branding and 
+Marking Policy. USAID’s Agreement Officer will have final approval of the 
+branding strategy and marking plan. The branding and marking plan will be 
+included in and made a part of the resulting associate cooperative agreement. 
+
+ 
+
+1. Branding Strategy – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a 
+"Branding Strategy," describing how the program, project, or activity is named 
+and positioned, and how it is promoted and communicated to beneficiaries and 
+host country citizens. 
+
+
+ 
+
+
+b. The request for a Branding Strategy, by the Agreement Officer from the 
+Applicant, confers no rights to the Applicant and constitutes no USAID 
+commitment to an award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame 
+specified by the Agreement Officer will make the Applicant ineligible for an 
+award. 
+
+
+ 
+
+d. The Applicant must include all estimated costs associated with branding and 
+marking USAID programs, such as plaques, stickers, banners, press events, 
+materials, and so forth, in the budget portion of the application. These costs are 
+subject to the revision and negotiation with the Agreement Officer and will be 
+incorporated into the Total Estimated Amount of the grant, cooperative 
+agreement, or other assistance instrument. 
+
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all the following: 
+
+
+ 
+
+1. All estimated costs associated with branding and marking USAID programs, 
+such as plaques, stickers, banners, press events, materials, and so forth. 
+
+ 
+
+2. The intended name of the program, project, or activity. 
+
+ 
+
+i. USAID requires the Applicant to use the “USAID Identity,” comprised 
+of the USAID logo and brand mark, with the tagline “from the American 
+people” as found on the USAID Web site at 
+https://www.usaid.gov/branding, unless Section VI of the RFA or APS 
+states that the USAID Administrator has approved the use of an 
+additional or substitute logo, seal, or tagline. 
+
+
+
+
+
+
+ 
+
+ii. USAID prefers local language translations of the phrase “made possible 
+by (or with) the generous support of the American People” next to the 
+USAID Identity when acknowledging contributions. 
+
+
+
+
+
+
+ 
+
+iii. It is acceptable to cobrand the title with the USAID Identity and the 
+Applicant's identity. 
+
+
+
+
+
+
+ 
+
+iv. If branding in the above manner is inappropriate or not possible, the 
+Applicant must explain how USAID's involvement will be showcased 
+during publicity for the program or project. 
+
+
+
+
+
+
+ 
+
+v. USAID prefers to fund projects that do not have a separate logo or 
+identity that competes with the USAID Identity. If there is a plan to 
+develop a separate logo to consistently identify this program, the 
+Applicant must attach a copy of the proposed logos. Section VI of the 
+RFA or APS will state if an Administrator approved the use of an 
+additional or substitute logo, seal, or tagline. 
+
+
+
+
+
+
+
+ 
+
+3. The intended primary and secondary audiences for this project or program, 
+including direct beneficiaries and any special target segments. 
+
+ 
+
+4. Planned communication or program materials used to explain or market the 
+program to beneficiaries. 
+
+ 
+
+i. Describe the main program message. 
+
+
+
+
+
+
+ 
+
+ii. Provide plans for training materials, posters, pamphlets, public service 
+announcements, billboards, Web sites, and so forth, as appropriate. 
+
+
+
+
+
+
+ 
+
+iii. Provide any plans to announce and promote publicly this program or 
+project to host country citizens, such as media releases, press 
+conferences, public events, and so forth. Applicants must incorporate the 
+USAID Identity and the message, “USAID is from the American 
+People.” 
+
+
+
+
+
+
+ 
+
+iv. Provide any additional ideas to increase awareness that the American 
+people support this project or program. 
+
+ 
+
+5. Information on any direct involvement from host-country government or 
+ministry, including any planned acknowledgement of the host-country 
+government. 
+
+ 
+
+6. Any other groups whose logo or identity the Applicant will use on program 
+materials and related materials. Indicate if they are a donor or why they will be 
+visibly acknowledged, and if they will receive the same prominence as USAID. 
+
+ 
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above 
+information is adequately included and consistent with the stated objectives of 
+the award, the Applicant's cost data submissions, and the performance plan. 
+
+ 
+
+g. If the Applicant receives an assistance award, the Branding Strategy will be 
+included in and made part of the resulting grant or cooperative agreement. 
+
+ 
+
+2. Marking Plan – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a 
+“Marking Plan,” detailing the public communications, commodities, and 
+program materials, and other items that will visibly bear the “USAID Identity,” 
+which comprises of the USAID logo and brand mark, with the tagline “from the 
+American people.” The USAID Identity is the official marking for the Agency 
+and is found on the USAID Web site at https://www.usaid.gov/branding. 
+Section VI of the RFA or APS will state if an Administrator approved the use 
+of an additional or substitute logo, seal, or tagline. 
+
+
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the Applicant, 
+confers no rights to the Applicant and constitutes no USAID commitment to an 
+award. 
+
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified 
+by the Agreement Officer will make the Applicant ineligible for an award. 
+
+
+ 
+
+d. The Applicant must include all estimated costs associated with branding and 
+marking USAID programs, such as plaques, stickers, banners, press events, 
+materials, and so forth, in the budget portion of the application. These costs are 
+subject to the revision and negotiation with the Agreement Officer and will be 
+incorporated into the Total Estimated Amount of the grant, cooperative 
+agreement, or other assistance instrument. 
+
+
+ 
+
+e. The Marking Plan must include all the following: 
+
+
+ 
+
+1. A description of the public communications, commodities, and program 
+materials that the Applicant plans to produce, and which will bear the USAID 
+Identity as part of the award, including: 
+
+ 
+
+i. Program, project, or activity sites funded by USAID, including visible 
+infrastructure projects or other sites physical in nature. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ii. Technical assistance, studies, reports, papers, publications, audio-visual 
+productions, public service announcements, Web sites/Internet activities, 
+promotional, informational, media, or communications products funded 
+by USAID. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iii. Commodities, equipment, supplies, and other materials funded by 
+USAID, including commodities or equipment provided under 
+humanitarian assistance or disaster relief programs; and 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iv. It is acceptable to cobrand the title with the USAID Identity and the 
+Applicant's identity. 
+
+
+
+
+
+
+ 
+
+v. Events financed by USAID, such as training courses, conferences, 
+seminars, exhibitions, fairs, workshops, press conferences and other 
+public activities. If the USAID Identity cannot be displayed, the 
+Recipient is encouraged to otherwise acknowledge USAID and the 
+support of the American people. 
+
+
+
+
+
+
+ 
+
+2. A table on the program deliverables with the following details: 
+
+ 
+
+i. The program deliverables that the Applicant plans to mark with the 
+USAID identity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ii. The type of marking and what materials the Applicant will use to mark 
+the program deliverables. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iii. When in the performance period the Applicant will mark the program 
+deliverables, and where the Applicant will place the marking. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iv. What program deliverables the Applicant does not plan to mark with the 
+USAID identity, and 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+vi. The rationale for not marking program deliverables. 
+
+
+
+
+
+
+ 
+
+3. Any requests for an exemption from USAID marking requirements, and an 
+explanation of why the exemption would apply. The Applicant may request an 
+exemption if USAID marking requirements would: 
+
+ 
+
+i. Compromise the intrinsic independence or neutrality of a program or 
+materials where independence or neutrality is an inherent aspect of the 
+program and materials. The Applicant must identify the USAID 
+Development Objective, Interim Result, or program goal furthered by 
+an appearance of neutrality, or state why an aspect of the award is 
+presumptively neutral. Identify by category or deliverable item, 
+examples of material for which an exemption is sought. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ii. Diminish the credibility of audits, reports, analyses, studies, or policy 
+recommendations whose data or findings must be seen as independent. 
+The Applicant must explain why each particular deliverable must be 
+seen as credible. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iii. Undercut host-country government “ownership” of constitutions, laws, 
+regulations, policies, studies, assessments, reports, publications, 
+surveys or audits, public service announcements, or other 
+communications. The Applicant must explain why each particular item 
+or product is better positioned as a host-country government item or 
+product. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iv. Impair the functionality of an item. The Applicant must explain how 
+marking the item or commodity would impair its functionality. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+v. Incur substantial costs or be impractical. The Applicant must explain 
+why marking would not be cost beneficial or practical. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+vii. Offend local cultural or social norms or be considered inappropriate. 
+The Applicant must identify the relevant norm and explain why 
+marking would violate that norm or otherwise be inappropriate. 
+
+
+
+
+
+
+ 
+
+
+viii. Conflict with international law. The Applicant must identify the 
+applicable international law violated by the marking. 
+
+
+
+
+
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and 
+reasonableness and will approve or disapprove any exemption requests. The 
+Marking Plan will be reviewed to ensure the above information is adequately 
+included and consistent with the stated objectives of the award, the 
+Applicant's cost data submissions, and the performance plan. 
+
+
+ 
+
+g. If the Applicant receives an assistance award, the Marking Plan, including any 
+approved exemptions, will be included in and made part of the resulting grant 
+or cooperative agreement, and will apply for the term of the award unless 
+provided otherwise. 
+
+
+ 
+
+3.2.3.10 Funding Restrictions 
+
+ 
+
+Profit is not allowable for Recipients or subrecipients under this award. See 2 
+CFR 200.330 for assistance in determining whether a sub-tier entity is a 
+subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award 
+without the explicit written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities 
+and services that will be reimbursed by USAID under this award must be from the 
+authorized geographic code specified in Section B.5 of this NOFO and must meet 
+the source and nationality requirements set forth in 22 CFR 228. 
+
+ 
+
+3.2.3.11 Conflict of Interest Pre-Award Term (August 2018) 
+
+ 
+
+1. Personal Conflict of Interest 
+
+ 
+
+a. An actual or appearance of a conflict of interest exists when an Applicant 
+organization or an employee of the organization has a relationship with an 
+Agency official involved in the competitive award decision-making process 
+that could affect that Agency official’s impartiality. The term “conflict of 
+interest” includes situations in which financial or other personal 
+considerations may compromise, or have the appearance of compromising, 
+the obligations and duties of a USAID employee or Recipient employee. 
+
+ 
+
+b. The Applicant must provide conflict of interest disclosures when it submits 
+an SF-424. If the Applicant discovers a previously undisclosed conflict of 
+interest after submitting the application, the Applicant must disclose the 
+
+
+
+
+
+conflict of interest to the AO no later than ten (10) calendar days following 
+discovery. 
+
+
+
+
+ 
+
+2. Organizational Conflict of Interest 
+
+ 
+
+The Applicant must notify USAID of any actual or potential conflict of 
+interest that they are aware of that may provide the Applicant with an unfair 
+competitive advantage in competing for this financial assistance award. 
+Examples of an unfair competitive advantage include but are not limited to 
+situations in which an Applicant or the Applicant’s employee gained access 
+to non-public information regarding a federal assistance funding 
+opportunity, or an Applicant or Applicant’s employee was substantially 
+involved in the preparation of a federal assistance funding opportunity. 
+USAID will promptly take appropriate action upon receiving any such 
+notification from the Applicant. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION D] 
+
+
+ 
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. CRITERIA 
+
+
+ 
+
+The merit review criteria prescribed here are tailored to the requirements of this NOFO 
+Applicants should note that these criteria serve to: (a) identify the significant matters which the 
+applicants should address in their applications and (b) set the standard against which all 
+applications will be evaluated. 
+
+ 
+
+USAID/Ghana will evaluate technical and other factors relative to each other, as described here 
+and prescribed by the Concept Paper/Technical Application Format. The Concept Papers and 
+Technical Applications will be scored by a Selection Committee (SC) using the criteria 
+described in this section. 
+
+ 
+
+ 2. TECHNICAL REVIEW AND SELECTION PROCESS 
+
+This is a multi-tiered NOFO in accordance with ADS 303.3.6.1(c). Selection under this NOFO 
+will be based on a two-step process: 
+
+● Phase 1 - Concept Paper submissions: open to all eligible organizations as described in this 
+NOFO. Concept papers will receive a PASS or FAIL rating depending on the results of the 
+evaluation process according to the merit review criteria outlined below for this stage. 
+Applicants who are not invited to proceed to Phase 2 will be notified. 
+
+ 
+
+● Phase 2 - Full application submissions: by invitation only to applicants selected under Phase 
+1 evaluation. 
+
+Applicants must first submit a concept paper for review. All concept papers will be 
+evaluated according to the criteria specified in this NOFO. If the concept is determined to 
+warrant further evaluation per the selection criteria established, USAID will request a full 
+application. In accordance with ADS 303.3.10.2 and 2 CFR 200.306, cost sharing will be 
+used to break ties among full applications with equivalent scores after evaluation against all 
+other factors. 
+
+2.1 Merit Review Phase 1 - Concept Paper – Open to all eligible organizations 
+
+The concept papers will be evaluated based on the following criterion: 
+
+Does the concept paper demonstrate a high probability of achieving the objectives of the 
+Strengthening Accountability in Ghana’s Education System (SAGES) Systems Strengthening 
+Activity? 
+
+2.2 Merit Review Phase 2 - Full Application – Open only to organizations selected in Phase 1 
+
+USAID/Ghana will conduct merit reviews of all full applications from organizations invited from 
+Phase 1 that comply with all requirements and instructions in this NOFO. The review and 
+evaluation of full applications will be in accordance with the below criteria which are in descending 
+order of importance. The sub-criteria under each Criterion are of equal importance. 
+
+
+2.2.1 Criterion 1 – Technical Approach 
+
+USAID/Ghana will evaluate the technical approach and year one work plan outline based on the 
+extent to which they: 
+
+a. are sound, evidenced-based, and likely to meet the Activity’s objectives and purpose as set 
+forth in the NOFO. 
+
+b. strengthen linkages between GOG actors at various levels in the education sector and 
+improve learning outcomes. 
+
+c. are appropriately contextualized, include a cohesive plan for coordinating and leveraging 
+with USAID, other donor, and GOG programs operating in the accountability sphere, and 
+include plans for meaningful engagement with local partners; and 
+
+d. use a behavior-led approach and incorporate opportunities for learning and adapting. 
+
+ 2.2.2 Criterion 2 – Management and Staffing Plan and Key Personnel 
+
+USAID/Ghana will evaluate the management and staffing plan and key personnel based on the 
+extent to which: 
+
+a. the Applicant demonstrates that named key personnel have the expertise to successfully 
+achieve the objectives of the program description; 
+
+b. the proposed management and staffing plan effectively supports the strategy presented to 
+achieve the results in the Program Description; and 
+
+c. the organizational structure delineates clear lines of supervision and communication, 
+including any subawards. 
+
+ 
+
+3. BUSINESS REVIEW 
+
+USAID/Ghana will evaluate the cost application of the applicant(s) under consideration for an 
+award as a result of the merit criteria review to determine whether the costs are allowable in 
+accordance with the cost principles found in 2 CFR 200 Subpart E. 
+
+USAID/Ghana will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be included 
+in the award. 
+
+Proposed cost share, if provided, will be reviewed for compliance with the standards set forth in 2 
+CFR 200.306, 2 CFR 700.10, and the Standard Provision "Cost Sharing (Matching)" for U.S. 
+entities, or the Standard Provision "Cost Share" for non-U.S. entities. 
+
+The AO will perform a risk assessment (2 CFR 200.205). The AO may determine that a pre- award 
+survey is required to inform the risk assessment in determining whether the prospective recipient has 
+the necessary organizational, experience, accounting and operational controls, financial resources, 
+and technical skills – or ability to obtain them – in order to achieve the objectives of the program 
+and comply with the terms and conditions of the award. Depending on the result of the risk 
+
+
+assessment, the AO will decide to execute the award, not execute the award, or award with “specific 
+conditions” (2 CFR 200.207). 
+
+ 
+
+ 
+
+[END OF SECTION E] 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. FEDERAL AWARD NOTICES 
+
+
+A notice of award signed by the AO is the authorizing document. USAID will provide it to the 
+selected Recipient electronically. Unsuccessful Applicants will be notified. 
+
+Award of the agreement contemplated by this RFA cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential applicants are hereby 
+notified of these requirements and conditions for the award. 
+
+2. ADMINISTRATIVE AND NATIONAL POLICY REQUIREMENTS 
+
+
+The resulting award from this NOFO will be administered in accordance with the 
+following policies and regulations. 
+
+For US organizations: ADS 303 2 CFR 700, 2 CFR 200, and Standard Provisions for 
+U.S. Non-governmental organizations. 
+
+For Non-US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard 
+Provisions for Non-U.S. Non-governmental Organizations. 
+
+For Public International Organizations: ADS 308 and Standard Provisions for Cost-
+Type Agreements with Public International Organizations (PIOs)This NOFO only 
+contains provisions that are required at this stage. Final provisions will be incorporated 
+in the final award as applicable to the selected Recipient. 
+
+ 
+
+3. PLANS AND REPORTING 
+
+
+ 
+
+The recipient must adhere to all reporting requirements listed below. All plans and reports 
+must be submitted in English. Documents must be submitted electronically by email by the 
+due date for review by the Agreement Officer’s Representative (AOR) designated by the AO. 
+The AO and designated Acquisition & Assistance Specialist must be copied on each 
+submission. 
+
+ 
+
+ 3.1 Plans 
+
+ 
+
+3.1.1 Annual Work Plan - Within 60 calendar days of the effective date of the award, 
+the recipient must submit the first annual work plan covering the period from the 
+effective date through September 30, 2023. It must build on the draft outline of the Year 
+One Work Plan submitted with the recipient’s application. Subsequent work plans will 
+cover the period October 1 to September 30 of the following year and must be submitted 
+by August 15 of each year. The AOR will review the work plan and provide written 
+
+
+comments to the recipient. The recipient must finalize the work plan no later than 15 
+calendar days after receipt of the AOR’s written comments. Approved work plans may be 
+revised with AOR written approval on an as needed basis to reflect unforeseen 
+adjustments in implementation. 
+
+ 
+
+In addition to the submission of the electronic copy of the annual work plans described 
+above, the recipient must present the plan to the AOR and other interested USAID staff 
+on an annual basis. This presentation will be held in or around October of each year and 
+organized in collaboration with the AOR. 
+
+ 
+
+The Work Plan will include: 
+
+ 
+
+● Key activities, proposed accomplishments, and expected progress towards 
+achieving planned results and performance targets tied to the MEL Plan. 
+● Timeline for implementation of the year’s proposed activities, including target 
+completion dates. 
+● Information on how activities will be implemented and supervised. 
+● Personnel requirements to achieve expected outcomes. 
+● Major commodities and equipment to be procured when applicable. 
+● Details of collaboration with other major partners and other USAID/USG projects 
+and activities. 
+● Details of steps to ensure sustainability of activities. 
+● Planned short-term and long-term technical assistance (STTA/LTTA). 
+● Summary spend plan (budget) by month; and 
+● Activity Fact Sheets. 
+
+
+ 
+
+3.1.2 Monitoring, Evaluation & Learning (MEL) Plan: Within 90 days of the 
+effective date of the award, the recipient must submit a MEL plan to the AOR for 
+approval. The MEL plan must cover the full period of the Cooperative Agreement and 
+must include, but not necessarily be limited to, the following: 
+
+● Description of how the recipient will monitor program interventions, measure 
+results, ensure data quality, and use data to inform on-going activities. 
+● Description of how data will be collected, disaggregated, stored, and analyzed. 
+● List of the indicators to be used to measure achievement of the results. 
+● Description of the method of data collection to be used to obtain the indicator 
+data; and 
+● A Collaborating, Learning, and Adapting (CLA) Plan, which will establish a plan 
+and agenda for robust CLA (including program questions and evidence gaps) 
+https://usaidlearninglab.org/qrg/understanding-cla-0 
+
+
+ 
+
+
+The recipient’s activity MEL plan must ensure that USAID/Ghana indicators are tracked 
+and reported on, to include relevant CDCS and other indicators, as identified in 
+USAID/Ghana’s Performance Management Plan (PMP). Other required indicators, such 
+as standard foreign assistance indicators, to support USAID/Ghana’s annual reporting 
+must also be included as part of the activity’s MEL Plan. Illustrative indicators for 
+reporting include the following: 
+
+ 
+
+● Number of education administrators and officials who complete professional 
+development activities with USG assistance (ES. 1-12). 
+● Number of educators who complete professional development activities with 
+USG assistance (ES. 1-6). 
+● Percent of head teachers who attend schools daily in USG-supported schools. 
+● Education system strengthened through USG-assisted policy reform (ES. 1-59) 
+● Number of PTAs or community-based school governance structures engaged in 
+primary and secondary education supported with USG assistance. (ES. 1-13) 
+
+
+ 
+
+The AOR will review the draft MEL plan and provide written comments/suggestions to 
+the recipient. The recipient must finalize the plan no later than 15 days from receipt of the 
+AOR’s written comments/suggestions. The MEL plan may be revised only with AOR 
+written approval. 
+
+ 
+
+3.1.3 Close-out/Demobilization Plan: 
+
+ 
+
+Six months prior to the completion date of the award, the recipient must submit a close-
+out/demobilization plan to the AO with a copy to the AOR. The close-out plan must 
+describe, at a minimum and as applicable, including how the recipient will complete the 
+following: 
+
+● Manage the final months of the award, 
+● Ensure retention of needed staff and appropriate phase-out of other staff, 
+● Ensure all activities are successfully completed, 
+● Physical close-out of offices, 
+● Disposition of property, 
+● Closeout of subawards, and 
+● Completion of final performance, financial, and other reports. 
+
+
+ 
+
+3.1.4 Communications and Outreach Plan 
+
+Within 60 days of award, the recipient must submit a Communications and Outreach 
+(C&O) Plan for USAID review and approval. The C&O Plan must explain how the 
+recipient will create and implement a variety of appropriate outreach and 
+communications tools and platforms to i) raise public awareness, understanding, and 
+
+
+support for the Activity; ii) help advance the Activity’s programmatic objectives; and iii) 
+contribute to knowledge management, including through close coordination with the 
+AMELP. The recipient will also include an annual Communications Calendar noting key 
+elements and activities warranting public information and outreach activities. The C&O 
+Plan must identify the audience (primary and secondary), format, schedule, and purpose 
+of all internal and external communications products. It must include plans for 
+submission of Success Stories across the period of performance. 
+
+The C&O Plan must include a narrative section describing the strategic purpose for each 
+outreach tool not listed among the required reports. Additionally, the C&O Plan must 
+include a section describing the resource needs for each communications product, to 
+ensure adequate planning and execution of the plan to produce high-quality, timely, 
+succinct, and effective communications tools. The Plan must also describe how it 
+articulates and complements the AMELP. 
+
+The draft C&O Plan will be refined jointly with the AOR and USAID’s Development 
+Outreach and Communications Specialists. The C&O Plan must align with the Branding 
+Implementation Plan and Marking Plan, which describes how the recipient will 
+communicate to beneficiaries and stakeholder audiences that the work of this agreement 
+is from the American people per the Branding Strategy and USAID Branding Guidelines 
+(see https://www.usaid.gov/branding ). 
+
+ 
+
+3.2 Reports 
+
+ 
+
+3.2.1 Financial Reporting 
+
+ 
+
+The recipient must submit quarterly financial reports using the SF-425 Federal Financial 
+Reporting form available at Federal Financial Report | GSA. The recipient will send the 
+completed SF-425 by e-mail to the AOR and copy the AO and the USAID/West Africa 
+Regional Financial Management Office (RFMO) at accra-cont@usaid.gov, within 30 
+calendar days following the end of each USAID quarter. 
+
+ 
+
+Reports are due as noted below: 
+
+Reporting Quarter SF-425 Due Date 
+
+January 1 – March 31 April 30 
+
+April 1 – June 30 July 31 
+
+July 1 – September 30 October 31 
+
+October 1 – December 31 January 31 
+
+ 
+
+The recipient must submit the Final Financial Report within 90 days after the end of the 
+activity. If the recipient has a Letter of Credit with the US government, the recipient must 
+
+
+submit a copy of the “Final” Federal Financial Report (FFR/SF-425) report for this award 
+to the USAID LOC Team at locfinalreport@usaid.gov. 
+
+ 
+
+3.2.2 Performance Reporting - The recipient must submit quarterly performance reports 
+30 calendar days after the end of the reporting period (as noted above for Financial 
+Reporting). 
+
+ 
+
+Content for Performance reports will comply with 2 CFR 200.329. 
+
+ 
+
+Annual Reports – The fourth quarterly report will be replaced by the Annual Performance 
+Report and will be due on October 1 of each year. 
+
+ 
+
+3.2.3 Final Performance Report - A Final Performance Report is required within 90 
+days of the expiration of the Cooperative Agreement. The Final Performance Report 
+should include the following: 
+
+● An Executive Summary describing the project, overall accomplishments, lessons 
+learned, and conclusions about future assistance needs. 
+● Overall description of the project and activities implemented. 
+● Description of overall achievements and results during the life of the project. 
+● Assessment of progress made in achieving the project’s goal, objectives, and 
+expected results. 
+● Any shortcomings or difficulties encountered, and reasons why expected results 
+were not met, if applicable. 
+● Summary of MEL Plan indicator results and an assessment of indicators’ relative 
+usefulness in tracking project progress. 
+● Summary of key findings from internal evaluations and assessments. 
+● Summary of learning activities, including progress made in responding to key 
+research questions around critical knowledge gaps in the learning agenda. 
+● Changes in the project environment over the course of implementation. 
+● Changes in project design and implementation, as well as summary of adaptive 
+management approaches applied. 
+● Summary of lessons learned. 
+● Recommendations regarding unfinished work, if applicable; and 
+● Recommendations relevant to future project design and implementation. 
+
+
+ 
+
+The Final Performance Report must also include a list of all reports, publications, 
+evaluations, and information and media products produced under this agreement, as well 
+as confirmation that all products were submitted to the USAID Development Experience 
+Clearinghouse (DEC). 
+
+ 
+
+
+4. PROGRAM INCOME 
+
+Any program income generated under the award will be added to USAID funding and used for 
+program purposes. 
+
+ 
+
+5. ENVIRONMENTAL COMPLIANCE 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered, and that USAID include 
+
+environmental sustainability as a central consideration in designing and carrying out its 
+development programs. 
+
+ 
+
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) Parts 201.5.10g and 204 
+/https://www.usaid.gov/sites/default/files/documents/201.pdf) and 
+/https://www.usaid.gov/sites/default/files/documents/204.pdf) , which, in part, require that the 
+potential environmental impacts of USAID-financed activities are identified prior to a final 
+decision to proceed and that appropriate environmental safeguards are adopted for all activities. 
+
+ 
+
+USAID/Ghana conducted an Initial Environmental Examination (IEE) for four education sector 
+activities encompassing 5 intervention categories: 
+
+ 
+
+● Intervention Category 1. Policy advocacy and technical assistance to national 
+government institutions to improve education policy implementation and strengthen 
+school management strengthening 
+● Intervention Category 2. Capacity building with district education authorities and 
+
+
+communities to improve delivery of quality education services 
+
+● Intervention Category 3. Distribution and promotion of instructional material 
+● Intervention Category 4. Support improvement of school operations and data 
+
+
+management systems 
+
+● Intervention Category 5. Capacity building with private sector partners to strengthen 
+school financing. 
+
+
+ 
+
+The activities under the Ghana Education Portfolio 2020 - 2025 are among the classes of actions 
+listed in 22 CFR 216.2(c)(2) and have no foreseeable direct or indirect adverse effect on the 
+environment. Therefore, a Categorical Exclusion is approved. 
+
+ 
+
+If the recipient proposes interventions outside of the above categories, those interventions are 
+subject to an environmental analysis and the appropriate documentation prepared and approved, 
+whether it be a new Request for Categorical Exclusion, an amendment, or other type of 22 CFR 
+216 document. 
+
+ 
+
+
+Climate change risks to the Ghana Education Portfolio of activities are rated low to moderate. 
+Potential risks to activities include risks to the logistics networks necessary to host policy 
+advocacy and technical assistance activities, risks to staff, participants, and other personnel, and 
+risks to the necessary utilities and telecommunications infrastructure needed for anticipated 
+activities. Two recommended actions to address these risks include 1) designing policy advocacy 
+and technical assistance activities to be adaptable to changing climate conditions and to 
+incorporate climate resilience across various conditions, and 2) including specific language on 
+climate risk screening and management in any contracts or Subawards. 
+
+ 
+
+To reduce COVID-19 transmission during the implementation of SAGES activities, recipients 
+must ensure all activities addressed by this IEE adhere to current, applicable COVID-19 
+guidelines. Refer to the AFR COVID-19 PIEE (attached and linked here 
+https://ecd.usaid.gov/document.php?doc_id=52754 for links to U.S. and international guidance 
+on appropriate measures to reduce COVID-19 transmission. Such measures may include, but are 
+not limited to social distancing, use of personal protective equipment, limiting the size of 
+gatherings and travel, and effective disinfection. 
+
+ 
+
+USAID has developed a “COVID-19 GUIDANCE FOR IMPLEMENTING PARTNERS “page 
+on its website: https://www.usaid.gov/work-usaid/resources-for-partners/covid-19-guidance-
+implementing-partners. The recipient should ensure its staff/consultants and any sub awardee 
+staff/consultants have appropriate training, authorization, and resources to meet the expectations 
+of the applicable guidance while implementing these activities. 
+
+ 
+
+6. GENDER CONSIDERATIONS 
+
+ 
+
+Promoting gender equality and advancing the status of all women and girls around the world is 
+vital to achieving U.S. foreign policy and development objectives. As part of the design of any 
+proposed activity, the recipient will assess, identify, and ensure the proposed program addresses 
+gender issues which impact the participation of men and women. 
+
+ 
+
+Refer to USAID ADS 205 found at https://www.usaid.gov/ads/policy/200/205 
+
+https://www.usaid.gov/sites/default/files/documents/205.pdf for more information on integrating 
+this policy into the applicant’s approach. 
+
+ 
+
+ 
+
+[END OF SECTION F] 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+ 
+
+1. The points of contact for this NOFO and any questions during the award process 
+is as follows: 
+
+
+ 
+
+Taniece Owusu 
+
+Supervisory Agreement Officer (acting) 
+
+U.S Agency for International Development 
+
+U.S Embassy, Ghana Accra 
+
+No. 24 Fourth Circular Road, Cantonments, 
+
+P.O. Box 1630 Accra, Ghana 
+
+Email: tbaldwinowusu@usaid.gov 
+
+Nathan Strand 
+Agreements Officer 
+
+U.S Agency for International Development 
+
+U.S Embassy, Ghana Accra 
+
+No. 24 Fourth Circular Road, Cantonments, 
+
+P.O. Box 1630 Accra, Ghana 
+
+Email: nstrand@usaid.gov 
+
+Ruth Amegashie 
+
+Acquisition and Assistance Specialist 
+
+U.S Agency for International Development 
+
+U.S Embassy, Ghana Accra 
+
+No. 24 Fourth Circular Road, Cantonments, 
+
+P.O. Box 1630 Accra, Ghana 
+
+Email: ramegashie@usaid.gov 
+
+ 
+
+2. Acquisition and Assistance Ombudsman 
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in 
+USAID’s acquisition and assistance process. The A&A Ombudsman serves as a resource 
+for all organizations who are doing or wish to do business with USAID. Please visit this 
+page for additional information: https://www.usaid.gov/work-usaid/acquisition-
+assistance-ombudsman 
+
+ 
+
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+ 
+
+[END OF SECTION G] 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+1. USAID RIGHTS 
+
+
+USAID reserves the right to fund any or none of the applications submitted. The 
+Agreement Officer is the only individual who may legally commit the Government to the 
+expenditure of public funds. Any award and subsequent incremental funding will be 
+subject to the availability of funds and continued relevance to Agency programming. 
+
+ 
+
+2. APPLICATIONS WITH PROPRIETARY DATA 
+
+
+Applicants who include data that they do not want disclosed to the public for any purpose 
+or used by the U.S. Government except for evaluation purpose should mark the cover page 
+with the following: 
+
+“This application includes data that must not be duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, 
+however, an award is made as a result of – or in connection with – the submission 
+of this data, the U.S. Government will have the right to duplicate, use, or disclose 
+the data to the extent provided in the resulting award. This restriction does not limit 
+the U.S. Government’s right to use information contained in this data if it is obtained 
+from another source without restriction. The data subject to this restriction are 
+contained in sheets {insert sheet numbers}.” 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the 
+following: 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the 
+title page of this application.” 
+
+ 
+
+ 
+
+[END OF SECTION H] 
+
+
+ 
+
+ 
+
+ANNEX 1 – BUDGET TEMPLATE 
+
+ 
+
+ 
+
+An attachment is included in the NOFO in Excel format (.xsls) for the applicant to complete. 
+
+ 
+
+[END OF ANNEX 1] 
+
+ 
+
+ 
+
+
+ 
+
+ANNEX 2 – ACCOUNTABILITY FOR LEARNING FRAMEWORK 
+
+ 
+
+ PLEASE NOTE: 
+
+The attached document entitled "ACCOUNTABILITY FOR LEARNING FRAMEWORK " is an 
+
+internal document of the Ghana Ministry of Education and not a public document. This is a draft 
+document and is proprietary to the Ministry of Education and is not approved for use other than 
+informational purposes for this NOFO. It is to assist the applicant to better understand the needs of 
+the Ghana Ministry of Education and not be reproduced or used in any other form than to respond to 
+this 
+
+NOFO. 
+
+ 
+
+[END OF ANNEX 2] 
+
+

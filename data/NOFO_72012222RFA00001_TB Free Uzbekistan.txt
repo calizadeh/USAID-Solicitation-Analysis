@@ -1,0 +1,4768 @@
+Issue Date: September 30, 2022 
+
+Deadline for Questions: October 11, 2022, 9 AM, Tashkent Time 
+
+Closing Date: November 21, 2022, 9 AM, Tashkent Time 
+
+Subject: Notice of Funding Opportunity (NOFO) No. 72012222RFA00001 
+
+Program Title: TB Free Uzbekistan 
+
+ 
+
+Ladies/Gentlemen: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+Cooperative Agreement from qualified entities to implement the TB Free Uzbekistan activity. Eligibility 
+for this award is restricted to qualified U.S. and Non-U.S. non-governmental organizations. 
+
+ 
+
+USAID intends to make an award to the applicant who best meets the objectives of this funding 
+opportunity based on the merit review criteria described in this NOFO subject to a risk assessment. 
+Eligible parties interested in submitting an application are encouraged to read this NOFO thoroughly to 
+understand the type of program sought, application submission requirements and selection process. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and meet 
+eligibility standards in Section C of this NOFO. This funding opportunity is posted on www.grants.gov, 
+and may be amended. It is the responsibility of the applicant to regularly check the website to ensure they 
+have received the latest information, in its entirety. USAID bears no responsibility for data errors 
+resulting from transmission or conversion processes. If you have difficulty registering on 
+www.grants.gov or accessing the NOFO, please contact the Grants.gov Helpdesk at 1-800-518-4726 or 
+via email at support@grants.gov for technical assistance. 
+
+ 
+
+USAID may only award to an applicant which has complied with all applicable unique entity identifier 
+and System for Award Management (SAM) requirements detailed in Section D. The registration process 
+may take many weeks to complete. Therefore, applicants are encouraged to begin registration early in the 
+process. 
+
+ 
+
+Please send questions to the points of contact identified in Section D. The deadline for questions is 
+shown above. Responses to questions received prior to the deadline will be furnished to all potential 
+applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+Issuance of this NOFO does not constitute an award commitment on the part of the Government nor 
+commit the Government to pay for any costs incurred in preparation or submission of questions or an 
+application. Applications are submitted at the risk of the applicant. All preparation and submission costs 
+are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ /s/ 
+
+ 
+
+Dana Rose 
+
+Agreement Officer 
+
+
+ 
+
+TABLE OF CONTENT 
+
+ 
+
+SECTION A: PROGRAM DESCRIPTION ................................................................................................. 3 
+
+SECTION B: FEDERAL AWARD INFORMATION ............................................................................... 20 
+
+SECTION C: ELIGIBILITY INFORMATION ......................................................................................... 22 
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION.................................................... 23 
+
+SECTION E: APPLICATION REVIEW INFORMATION ...................................................................... 38 
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION ............................................ 40 
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACTS ............................................................. 55 
+
+SECTION H: OTHER INFORMATION ................................................................................................... 56 
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE .................................................................................... 57 
+
+ANNEX 2 – STANDARD PROVISIONS ................................................................................................. 58 
+
+ANNEX 3 – INITIAL ENVIRONMENT EXAMINATION ..................................................................... 61 
+
+ANNEX 4 – LOCAL COMPENSATION PLAN ...................................................................................... 62 
+
+ 
+
+ 
+
+ 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+Goal: Reduce the burden of tuberculosis (TB) in Uzbekistan 
+
+Objective: Achieve 2027 National/ United Nations High Level Meeting (UNHLM) tuberculosis targets 
+through optimized reach, cure, prevent and sustain technical area interventions which will expand high 
+quality, people-centered, affordable, and integrated TB-related health activities with robust national and 
+sub-national health systems. 
+
+ 
+
+The TB Free Uzbekistan activity will contribute to the USAID/Uzbekistan’s Strategic Framework and its 
+Development Objective 4: Quality, People-Centered, and Integrated Healthcare Provision for Priority 
+Disease Threats Expanded, including: 
+
+● Intermediate Result 4.1: Equitable access to affordable disease prevention, detection, and 
+treatment services improved. 
+
+● Intermediate Result 4.2: Components of health systems (health workforce, health information 
+systems, leadership and governance, and financing) as related to priority disease threats strengthened. 
+
+TB Free Uzbekistan will serve as USAID/Uzbekistan’s flagship activity to support the National TB 
+Program (NTP) under the Ministry of Health (MOH) of Uzbekistan. This will be done through two subobjectives 
+organized into intermediate results (IR): 
+
+ 
+
+Sub-objective 1: SERVICES: Increase the effectiveness of TB prevention, detection, diagnosis, and 
+treatment services for all forms of TB 
+
+IR1.1 Increase case detection through targeted screening and active case finding, including contact 
+investigations 
+
+IR 1.2. Increase bacteriological and drug-susceptibility testing coverage 
+
+IR 1.3. Increase successful initiation and treatment outcomes for all forms of TB 
+
+IR 1.4. Increase and improve TB preventive treatment and other TB preventive measures 
+
+Sub-objective 2: SYSTEMS: Strengthen TB Health Systems 
+
+IR 2.1 Strengthen governance and management 
+
+IR 2.2 Improve monitoring and evaluation (M&E), including data systems 
+
+IR 2.3 Improve the capacity of human resources within the TB response 
+
+ 
+
+PART 1: INTRODUCTION 
+
+ 
+
+USAID has provided long-term support for Uzbekistan's healthcare system, including programs to 
+combat TB. In 2018, Uzbekistan became an active participant in USAID's Global Accelerator to Stop 
+TB. On March 25, 2019, USAID and Uzbekistan's Ministry of Health (MOH) signed a memorandum of 
+understanding (MOU) to combat TB. Since Oct 2019, USAID has launched several additional activities 
+to fight TB in close partnership with the MOH. 
+
+ 
+
+The new TB Free Uzbekistan bilateral activity will continue these joint efforts to reduce the burden of TB 
+in the country and will expand high-quality, people-centered, and integrated TB-related health activities 
+through equitable access to affordable TB prevention, care, and treatment services and more robust health 
+systems to achieve national and UNHLM targets. It will be aligned with the National TB Program's 
+(NTP) 2021-2026 National Strategic Plan, USAID's Global TB Accelerator to Stop TB, WHO End TB 
+Strategy, and the Global Fund's TB grant agreement. TB Free Uzbekistan will coordinate with existing 
+and all TB partners in the country and in the wider Central Asia region. 
+
+
+ 
+
+PART 2: BACKGROUND 
+
+ 
+
+While Uzbekistan has been making significant progress in combating TB over the last decade, the disease 
+(especially drug-resistant types of TB, or DR-TB) remains one of the country's most pressing public 
+health challenges. Uzbekistan is among the world's 30 high burden multi-drug resistant TB (MDR-TB) 
+countries. Moreover, the COVID-19 pandemic disrupted the country's efforts to combat TB and reversed 
+a decade of progress in reducing the TB burden. As a result, about 9,900 TB cases were 'missed' (i.e., not 
+detected or reported) in 2020 and 8,500 TB incident cases were 'missed' in 2021. More than 1,100 DRTB 
+cases were missed each year in 2020 and 2021. 
+
+ 
+
+The pandemic caused the decline in new and relapsed notified drug susceptible TB (DS-TB) cases from 
+16,272 cases in 2019 to 12,111 cases in 2020 (26% decline) and the reduction in all notified DS-TB cases 
+(previously treated and laboratory-confirmed or clinically diagnosed pulmonary or extrapulmonary cases) 
+from 18,744 cases in 2019 to 14,127 cases in 2020 (25% reduction). However, TB case finding is 
+recovering presented by preliminary data. In 2021, 13,544 new and relapse TB cases were notified (an 
+11% increase compared to 2020). The number of notified DR-TB cases increased in 2021 (2,144) by 
+17% compared to 2020 (1,778). 
+
+ 
+
+The country needs to consolidate efforts in the next few years on mitigating and learning from COVID- 
+19 disruptions, restoring access to and provision of essential TB testing and treatment services to prepandemic 
+levels, and getting back on the trajectory to achieve its UN targets committed by the country in 
+2018. Additionally, there is a need to update the case detection strategy for children to align with the 
+updated WHO guidelines on management of childhood TB, released in March 2022, which include 
+recommendations for stool-based TB diagnosis and revised treatment decision algorithms for children 
+who remain clinically diagnosed. 
+
+ 
+
+According to the WHO, estimated TB incidence in the country has steadily decreased from 101 in 2009 
+to 66 in 2020 per 100,000 population. The TB notification rate was reduced from 71 to 42 per 100,000 
+population for the same years (2009-2020), but less smoothly with an increase in 2013 and 2019. TB 
+mortality decreased in Uzbekistan from 10 in 2009 to 3.2 in 2020 per 100,000 population. The treatment 
+coverage rate (notified/estimated cases proportion) reached over 70% in 2019. However, it dropped 
+significantly to 55% in 2020 due to the COVID -19 pandemic. In 2021, treatment coverage increased to 
+62% (NTP preliminary data); however, still, about 35% of TB cases remain undetected. In 2021, 
+Uzbekistan reported 2,144 laboratory-confirmed DR-TB cases, achieving only 60% of the UNHLM 
+country target of 3,493. In terms of childhood TB, WHO estimates of TB burden among those under age 
+15 (3200) and 2021 notification data for this age group (1733) reveal that almost half (46%) of children 
+with TB are missing - either not detected or reported. 
+
+TB Free Uzbekistan will focus on the general population; however, applications should be clear in its 
+technical approach in identifying key populations and developing interventions to address their specific 
+needs for prevention, detection, and treatment. For example, the activity will ensure that individuals with 
+disabilities are taken into consideration when implementing activities aimed at increasing access 
+(distance) and awareness of clinical-based services. 
+
+ 
+
+The Government of Uzbekistan has adopted comprehensive health reforms, including the National 
+Strategy Concept of Healthcare Improvement for 2019-2025, which explicitly outlines TB reduction 
+goals. Two presidential decrees prioritize TB services, the Improvement of TB and Pulmonology Services 
+
+
+(#4191) and Accelerating Pharmaceutical Industry Development. The Ministry of Health and Ministry of 
+Finance are addressing health financing reforms to offer: 1) Social Health Insurance and 2) a State- 
+Guaranteed Package of Healthcare Services (launched in January 2021). Note that TB Free Uzbekistan 
+will not focus on health financing. In January 2022, the MOH and the World Bank held online 
+consultations with several experts and representatives of different entities, including NTP's 
+representatives, to plan development of Uzbekistan’s new Health Development Strategy 2030. The 
+validity of the Presidential decree (#4191) on measures to improve the system for providing specialized 
+TB and pulmonological care, which served as a national program, expired in 2021. In March 2022, the 
+President of Uzbekistan instructed MOH to develop a new framework for the TB and pulmonology 
+governmental program that will be a basis for a new decree. 
+
+Uzbekistan is committed to eliminating TB by 2050. The National TB Strategy (NSP), 2021- 2026, aims 
+to reduce the TB incidence rate by 50% and the number of TB deaths by 75% by 2025 (compared with 
+2015 levels). NTP aims to achieve UNHLM's TB diagnosis and treatment targets, focusing on DR TB 
+patients, childhood TB, and preventive treatment of TB. The NTP's strategic plan is well aligned with the 
+USAID's four main technical areas: 
+
+1. Reach: To provide universal access to diagnosis of all forms of TB, including M-XDR TB, 
+by promoting the use of rapid molecular tests, including M-XDR TB diagnostics with molecular and 
+drug-susceptibility testing (DST) and lab capacity strengthening; 
+
+2. Cure: To ensure access to quality, patient-centered TB services for patients with all forms of 
+TB, including innovative out-patient services, shortened regimens, and TB services to reach and treat 
+locally defined high-risk groups; 
+
+3. Prevent: To scale up TB infection preventive treatment with intensified contact investigation 
+and infection control; and, 
+
+4. Sustainable Systems: To strengthen the country's response to combat TB through 
+innovation and health system strengthening, including expanding NTP's capacity in managing all TB 
+activities and increasing domestic financing and sustainability for TB services. 
+
+ 
+
+LINK TO THE U.S. STRATEGIC FRAMEWORK FOR FOREIGN ASSISTANCE 
+
+ 
+
+This activity will coordinate and align with the USAID Global Accelerator to End Tuberculosis, 
+announced by USAID Administrator Mark Green at the High-level Meeting on TB of the United Nations 
+General Assembly in New York in September 2018. The Accelerator is a new business model designed 
+to increase investments from the public and private sectors to end the TB epidemic while simultaneously 
+building local ownership and sustainability. It will leverage additional resources from countries, private 
+sector partners, and other local organizations to meet the UN targets. It will focus on the countries with a 
+high burden of TB in which USAID already has existing partnerships and where the Agency could better 
+align with local communities and partners to deliver performance-based results toward the global target. 
+This approach ensures USAID is fighting to end TB effectively and efficiently. 
+
+Alignment with the USAID/Uzbekistan Strategic Framework. 
+
+ 
+
+The New TB Free Uzbekistan activity will result in the following Intermediate Results (IRs): 
+
+● IR 1: Increased effectiveness of TB prevention, detection, diagnosis, and treatment services for all 
+forms of TB: 
+
+o IR1.1 Increased TB case detection through screening and active case finding, including contact 
+investigations 
+
+
+o IR 1.2. Increased bacteriological and drug-susceptibility testing coverage 
+
+o IR 1.3. Increased successful initiation and treatment outcomes for all forms of TB 
+
+o IR 1.4. Increased and improved TB preventive treatment and other TB preventive measures 
+
+● IR 2: Strengthened TB Health Systems: 
+
+o IR 2.1. Strengthened Governance and Management 
+
+o IR 2.2. Strengthened M&E, HIS, Data Systems 
+
+o IR 2.3. Strengthened Human Resources 
+
+ 
+
+These results will achieve the new activity's purpose of expanding high-quality, people-centered, 
+affordable, sustainable, and integrated TB-related health activities and reaching UNHLM TB targets in 
+Uzbekistan. Finally, it will contribute to the USAID/Uzbekistan Development Objective 4: Quality, 
+People-Centered, and Integrated Healthcare Provision for Priority Disease Threats Expanded including: 
+
+ 
+
+● Intermediate Result 4.1: Equitable access to affordable disease prevention, detection, and 
+treatment services improved. 
+
+● Intermediate Result 4.2: Components of health systems (health workforce, health information 
+systems, leadership and governance, and financing) as related to priority disease threats strengthened. 
+
+ 
+
+Key Assumptions 
+
+These key assumptions must hold to achieve IRs and to contribute to achieving the activity objectives: 
+
+● A continued collaborative relationship between the Government of Uzbekistan (GOU) and the 
+United States Government (USG) 
+
+● Continued MOH support of USAID health programs’ implementation 
+
+● Continued commitment of the GOU to the UNHLM goals in combating TB 
+
+● Continued commitment of the GOU to a gradual increase of domestic funding within next five 
+years for essential supplies and medicines funded currently by the Global Fund grant 
+
+● Continued collaboration with major health development partners in the country 
+
+ 
+
+USAID AND OTHER DONOR RELATED ACTIVITIES 
+
+Complementarity with other USAID Health Activities 
+
+To support Uzbekistan in achieving the national targets to fight TB and in line with the USAID Strategy 
+and Global Accelerator to End TB, USAID will provide technical assistance outlined in the recently 
+developed TB Roadmap FY 2022 funds. USAID projects focus on expanding access to accurate TB 
+testing and effective treatment, quality patient-centered care, especially for high-risk groups, and 
+increasing NTP's capacity for a sustainable and effective response to stop TB in the country. 
+
+ 
+
+The New TB Activity will closely coordinate with other USAID activities provided through different 
+regional and bilateral projects focused on combating TB in Uzbekistan, including the following activities: 
+
+1. The USAID Eliminating Tuberculosis in Central Asia (USAID ETICA) project, implemented 
+by Abt. Associates (regional). The new activity will strengthen the bilateral component of the regional 
+flagship activity USAID ETICA, which promotes TB and drug-resistant TB (DR-TB) detection and 
+treatment success while improving the enabling environment and financial sustainability of the national 
+programs in five Central Asian countries, 
+
+2. The Sustaining Technical and Analytic Resources (STAR) project, implemented by the Public 
+Health Institute, has embedded three senior-level TB technical advisors in the Uzbekistan NTP to 
+
+
+streamline overall program coordination, enhance monitoring and evaluation capacity, and improve 
+diagnostic network (bilateral), 
+
+3. The Promoting the Quality of Medicines Plus project, implemented by the U.S. Pharmacopeial 
+Convention (USP) (bilateral), 
+
+4. Local Organization Network: The End TB Uzbekistan Project, implemented by the local 
+NGO Intilish, aims to increase access to TB diagnostics and treatment for vulnerable groups in Tashkent 
+city (bilateral), 
+
+5. The Tuberculosis Implementation Framework Agreement (TIFA) project implemented by 
+John Snow Research & Training Institute, Inc. - a key component of the USAID Global Accelerator to 
+End TB to support NTP for locally-generated solutions to address the TB diagnosis, treatment, and 
+prevention, addressing stigma and discrimination (bilateral), and 
+
+6. The Improved Prevention, Detection, and Treatment of Drug-Resistant Tuberculosis 
+project in Central Asia, implemented by WHO (regional). 
+
+The new bilateral activity will partner with the local public organization in Uzbekistan to implement 
+locally-generated solutions to improve TB diagnosis, treatment, and prevention services focusing on most 
+at-risk populations. Partnering directly with local institutions and organizations (civil society 
+organization, professional associations, government entities, academia, research, private sector, and 
+media) will maximize the potential impact of USAID resources to make sustainable improvements in TB 
+services by accelerating the transition to local accountability and ownership. 
+
+ 
+
+Other donors and partners supporting TB control efforts in Uzbekistan 
+
+● The Global Fund is one of the largest donors for TB in Uzbekistan. 
+
+In 2020, Uzbekistan's domestic expenditures dedicated to TB activities ($ 69.3 million) were 81.1% of 
+the total budget ($ 85.4 million). The Global Fund (GF), a significant multilateral donor, has an 
+approximate annual budget of $9.8 million for TB programs. USAID, a lead bilateral donor, supports a 
+yearly budget of $6 million for TB. Targeted programming by GIZ, KFW, and MSF equates to a 
+combined additional $300,000 annually. 
+
+ 
+
+In 2020, USAID supported NTP to develop an NSP for TB and Funding Request to the Global Fund for 
+the period of 2021-2024 in the amount of $44.1 million, where $26.1 million was allocated for the TB 
+activities. A significant share of the GF grant is dedicated to procuring TB medicines and laboratory 
+supplies. Later, in January 2021, MOH placed a $1.6 million order for first- and second-line TB drugs 
+from the state budget, using the international mechanism for high-quality TB drugs and diagnostics - 
+Global Drug Facility (GDF). Current domestic TB drug procurement is focused on covering all first-line 
+drugs (FLD) and 20% of the second-line drug (SLD) supply. In 2021, the budget for TB medications 
+increased up to $ 2.2 million, consisting of $ 0.5 million for FLDs and almost $ 1.7 million for SLDs. 
+Domestic funding will gradually increase procurement in subsequent years in line with the new 
+Governmental TB Program framework. At the same time, GF will decrease procurement funding. 
+
+ 
+
+The NTP's TB Technical Working Group and the GF's Country Coordinating Mechanism (CCM) TB 
+stakeholders group meet regularly. USAID-embedded NTP advisors help to facilitate the TB Technical 
+Working Group. They also participate in bi-monthly donor coordination meetings. The Global Fund 
+CCM coordinates and ensures complementary support for the NTP and HIV programs. USAID regularly 
+provides leadership and technical inputs to NTP and GF's activities, advocates for TB activities 
+sustainability, and offers technical assistance to implement NSP. 
+
+
+● Medecins San Frontieres supports NTP in implementing TB control activities in Karakalpakstan 
+Autonomous Republic and Tashkent city. 
+
+PART 3: THEORY OF CHANGE 
+
+The "TB Free Uzbekistan" Activity's theory of change is centered around cross-sectoral change to 
+address root causes and key barriers to eliminating tuberculosis (TB) by creating a sustainable ecosystem 
+of strengths and opportunities for Uzbekistan. Evidence-driven solutions with USAID TB Accelerator's 
+to Stop TB technical areas (Reach, Cure, Prevent and Sustain) will lead to resilient and vibrant 
+communities free of TB. The new activity will build on the existing strengths of the national TB program 
+to accomplish lasting change through proven approaches to stop spreading the disease, including 
+activities to interrupt TB transmission in communities, scaling up preventive interventions, increasing TB 
+case finding and notifications, and ensuring all people with TB complete treatment stop spreading the 
+disease. These interventions will be underpinned by a strengthened, more resilient and sustainable health 
+system to address the main social drivers of the TB epidemic in Uzbekistan. A multiplier effect of 
+strengthening future public health pandemic preparedness and readiness will be achieved by supporting 
+the country's platforms and models for effective and equitable TB service delivery. 
+
+ 
+
+IF TB case notification, curative and preventive treatment initiation and completion rates increase, 
+accompanied by systems strengthening to sustainably increase the quality of TB service delivery, THEN 
+it will contribute to achieving the national targets and reducing the burden of TB in Uzbekistan, and 
+quality TB service delivery at the national level will be maintained. 
+
+ 
+
+PART 4: PROPOSED OUTCOMES AND RESULTS 
+
+ 
+
+ACTIVITY DESCRIPTION COMPONENTS 
+
+ 
+
+This new bilateral TB activity operational content will build around technical areas reflected in the 
+FY2022 TB Roadmap for Uzbekistan as part of the USAID's Global Accelerator to End TB. Specifically, 
+under the REACH technical domain, the new activity will improve TB detection, screening, and testing 
+via the TB diagnostics network and laboratory capabilities, increase the involvement of all care providers 
+and strengthen community engagement, and scale up contact investigation activities. This domain will 
+include updates to case detection strategies among children per WHO recommendations. The activity will 
+tackle barriers to treatment success of all forms of TB as part of the CURE technical area. Within the 
+PREVENT field, the core strategy will advance preventive treatment for PLHIV, children and adult 
+contacts, and infection prevention and control. In the SUSTAIN technical area, the main activity will 
+increase self-reliance by improving NTP's management capacities, programmatic efficiency, and 
+mobilizing domestic resources for a stronger TB and DR-TB response. 
+
+ 
+
+ 
+
+The overall activity will have a goal of reducing the burden of TB in Uzbekistan with a prioritized focus 
+placed on building the leadership, management, financing, and technical capacities of health institutions, 
+communities, and civil society to reach, prevent, detect and successfully treat all forms of TB. TB Free 
+Uzbekistan will build the capacity of health systems and services to better prevent, detect, notify and 
+initiate TB treatment. 
+
+ 
+
+GEOGRAPHIC SCOPE 
+
+ 
+
+
+Regions for implementation will be determined by the successful applicant in the work planning 
+development stage, with approval by the Agreement Officer’s Representative. This will be done in 
+cooperation with NTP leadership. 
+
+ 
+
+Sub-objective 1: Increase effectiveness of TB prevention, detection, diagnosis, and 
+treatment services for all forms of TB 
+
+ 
+
+IR 1.1 Increase TB case detection through screening and active case finding, including contact 
+investigations 
+
+ 
+
+Primary health care (PHC) providers are the leading players in improving TB case finding and access to 
+TB services. Unfortunately, some PHC doctors have outdated knowledge of diagnostic protocols, 
+leading to delayed TB diagnosis and treatment. Doctors in PHC facilities are not consistently utilizing 
+rapid molecular tests for TB (Xpert). Rather, often they refer patients for X-rays and smear microscopy 
+tests and only after positive results refer a patient to the TB specialist. Low PHC providers' motivation 
+results from inefficient incentives, a part of the ongoing healthcare financing reforms. Inadequate 
+transportation coverage, quality, and specimen collection frequency are other main barriers to 
+increasing TB case finding. Another barrier to improving connectivity between available TB services 
+and communities is the limited number of NGOs and community organizations working on reducing the 
+TB burden and stigma. 
+
+ 
+
+USAID engaged with CSOs, other community players, and relevant healthcare system entities to 
+improve case finding and strengthen coordination in contact investigation. USAID organized advocacy 
+workshops in project sites with local partners, including centers of healthy lifestyles, TB centers, MoH 
+branches in the Community and Family Committees, religious organizations, local authorities to 
+improve collaboration for increasing TB detection among vulnerable groups such as potential and 
+recently returned labor migrants, PLHIV, and household contacts of individuals with active TB disease. 
+To address TB stigma and discrimination in TB, USAID trained journalists and used social networks to 
+disseminate information about TB symptoms and treatment, resulting in more than 100 publications on 
+TB issues. USAID also conducted a gender study to identify gender and other social barriers among 
+target groups and measured the stigma associated with TB. The study results informed the design of 
+activity interventions, including information and awareness campaigns. 
+
+ 
+
+There are still several persistent barriers to increasing TB case finding outside healthcare facilities, such 
+as a limited number of NGOs working on TB issues, overall low community engagement in finding TB 
+cases, limited health education about TB at the community level, and a persistent strong presence of TB 
+stigma. CSOs can play a more prominent role in delivering community-based detection services of TB 
+among household contacts and high-risk groups. The activity will identify opportunities to address 
+stigma and gender barriers associated with TB among medical professionals and work with communities 
+to better understand and address the social and cultural determinants influencing the TB response in 
+Uzbekistan. Engagement with traditional and community leaders will determine ways to increase 
+community-participation in supporting TB clients in the community setting. 
+
+ 
+
+ Illustrative activities in communities: 
+
+ 
+
+• Active case finding (ACF) (i.e. TB screening activities outside of health facilities, outreach to 
+vulnerable and marginalized populations); 
+
+
+● General public education, population-based advocacy campaigns, and other efforts in social and 
+behavior change communication (SBCC); 
+
+● Screening of populations, including the key populations identified by the applicant; 
+
+● Measurement of TB stigma and interventions to alleviate such stigma; and 
+
+● Address gender-based differences in access to health information by including targeted 
+community-based activities. 
+
+ 
+
+Illustrative activities in primary health care and facility-based TB case identification: 
+
+ 
+
+1. Increasing facility-based case finding: 
+
+● FAST (Find cases Actively, Separate safely, and Treat effectively); 
+
+● Facility-based quality improvement; 
+
+● Reporting improvements; and 
+
+● Specific TB collaborative activities with other programs (e.g. intensified case finding (ICF) in 
+diabetes, and nutrition clinics. This activity may include introduction of screening and referral strategies 
+from pediatricians and other providers who care for children. 
+
+2. Engagement of non-NTP providers and sites (public and private) as part of the public-private mix 
+(PPM): 
+
+● Hospital engagement; 
+
+● Establishment of social businesses and franchises; and 
+
+● Link private providers to publicly funded TB programs. 
+
+ 
+
+IR 1.2. Increase bacteriological and drug-susceptibility testing coverage 
+
+ 
+
+Laboratory services in Uzbekistan represent a five-level network: 1) smear microscopy labs, 208 at the 
+primary healthcare level and 12 in prisons; 2) 63 smear microscopy with Xpert labs, including 3 in 
+prisons); 3) 14 labs with line probe assay (LPA) capacity; 4) 8 culture laboratories providing drugsusceptibility 
+testing (DST), and 5) two national reference laboratories (NRLs) in Tashkent and Nukus. 
+In 2021, the NRL in Tashkent passed an external quality assessment by SRL Gauting, Germany. 
+Uzbekistan has made significant progress in increasing rapid TB diagnostics coverage. USAID provided 
+46 new Xpert platforms, increasing the total number of Xperts available in all regions and the 
+penitentiary system to 111 machines. The number of annual Xpert tests performed gradually increased 
+from 15,000 to 108,000 tests between 2014 and 2019; however, it dropped back to 55,000 in 2020 due to 
+the impact of COVID-19 but slightly rebounded back in 2021 to 64,000 annual tests. LPA equipment 
+(for first- and second-line DST) is available in six regional laboratories, covering all regions except 
+Jizzakh, Sirdarya, and the prison system. 
+
+ 
+
+The significant drop in TB case notifications in 2020 and 2021 compared to 2019 is attributed to the 
+COVID-19 pandemic, which disrupted access and provision of TB services and aggravated the TB 
+disease burden. Persistent barriers to scaling up high-quality diagnosis include the absence of an 
+information system and poor specimen transportation practice. There is no unified laboratory 
+management information system in the country. A database in MS Access supports operations at levels 
+3–5 TB laboratories, while laboratories at levels 1–3 use paper-based information systems. A laboratory 
+registrar enables electronic data exchange and processing of laboratory results at culture and MGM 
+(Molecular Genetic Methods) laboratories (GeneXpert and LPA). Despite some improvements in USAID 
+pilot sites in a few regions, there is no national TB specimen transportation policy and reliable system in 
+the country. 
+
+ 
+
+
+Illustrative activities: 
+
+ 
+
+● Investments focused on improving laboratory capacity, including Xpert machine and cartridge 
+procurements, maintenance and training, diagnostic network assessments, TA, and training to improve 
+the quality of TB diagnosis; 
+
+● Interventions to increase the use of appropriate diagnostic tools and to strengthen functional 
+specimen transport networks and quality laboratory management systems; 
+
+● Interventions aimed at scaling-up rapid diagnostic tests and diagnostic monitoring tools; 
+
+● Strategies and approaches to increase DR-TB case finding focus on efforts to improve the 
+coverage and usage of Xpert or other rapid tests that detect rifampicin resistance. 
+
+● Achieve complete coverage and improvements in the quality of drug-susceptibility (DST) for all 
+forms of TB utilizing phenotypic and genotyping methods. 
+
+● Introduction of stool-based TB testing and updated treatment decision algorithms for children 
+using a molecular WHO recommended rapid diagnostic test (ex, Xpert) to improve bacteriological testing 
+for children and the quality of clinical diagnosis. 
+
+ 
+
+IR 1.3. Increase successful initiation and treatment outcomes for all forms of TB 
+
+ 
+
+Patients with drug-susceptible TB (DS-TB) receive treatment with quality first-line TB medicines, fully 
+procured by the government of Uzbekistan. The treatment success among all 14,224 TB new and relapse 
+cases notified in 2020 remained high at 91%, as in the previous year. USAID supports different activities 
+to improve TB diagnosis and treatment and implements an electronic surveillance system. USAID 
+developed and conducted training for healthcare providers on patient-centered TB treatment approaches 
+in pilot sites. USAID contributed to developing a national protocol for video-supported treatment (VST), 
+a cost-efficient, patient-centered outpatient solution to improve TB treatment. USAID procured 
+smartphones for TB patients and tablets for healthcare staff, developed VST training materials, trained 
+staff, and provided ongoing technical assistance to healthcare providers for VST implementation. VST 
+played an important role in continuing patient care during the COVID lockdown periods. USAID 
+involved MDTs to provide psychosocial support to TB patients and organized a “TB patient school” 
+program. 
+
+ 
+
+Despite all the progress in DS-TB treatment, persistent challenges still exist, including limited access to 
+rapid TB diagnosis and delayed initiation of therapy, a partially implemented pharmacovigilance and 
+drug safety monitoring system, almost mandatory practice of DS-TB patients hospitalization, and 
+financial hardship of TB patients while on treatment. 
+
+ 
+
+In 2020-21 the COVID-19 pandemic significantly affected the overall detection of DR-TB cases. In 2019 
+Uzbekistan did not have a routine surveillance system for anti-TB drug resistance. The last drug 
+resistance survey (DRS) was conducted in 2010–2011. In 2021, the NTP is preparing for the next DRS in 
+2022-23. 
+
+ 
+
+There are several barriers to finding and effectively treating DR-TB patients. The Xpert test is not used 
+everywhere as an initial TB test for individuals with presumptive TB, despite being recommended in the 
+updated national algorithm. There is a slow pace in implementing new treatment regimens, 1) with 
+modified all oral shorter treatment (mSTR) and 2) bedaquiline, pretomanid and linezolid (BPaL). 
+Inadequate support for patients receiving the lengthy and challenging DR-TB treatment represents a 
+serious gap. DR-TB treatment is currently strictly hospital-based, a more people-centered model of DRTB 
+care should be adopted to improve treatment adherence and outcomes. 
+
+
+ 
+
+Illustrative activities improve appropriate treatment initiation: 
+
+ 
+
+● Development and roll-out of more patient-centered approaches to TB treatment; 
+
+● Assessing care cascades and improving the quality of TB care; 
+
+● Interventions that increase adherence, including improved access to supportive services such as 
+counseling, nutritional support, ancillary medications, and economic strengthening; 
+
+● Novel approaches such as m-Health and e-Health, behavior change communications, and peer 
+support; 
+
+● Trace and reduce Interruptions in treatment, both pre- and post-initiation of treatment; 
+
+● Link and refer TB patients to services for co-morbidities and risk factors (e.g. diabetes, 
+malnutrition, HIV). 
+
+ 
+
+Illustrative activities to improve treatment completion rate: 
+
+ 
+
+● Second-line drug susceptibility testing (DST); 
+
+● Scale up of treatment capacity, including expanded community services, treatment at home, and 
+innovative treatment strategies (such as video-observed treatment); 
+
+● Quality improvement of DR-TB treatment services, including cohort analyses and improved sideeffect 
+management; 
+
+● Strengthened mechanisms for active tuberculosis drug-safety monitoring and management 
+(aDSM); and 
+
+● Interventions to reduce primary and early LTFU and ensure rapid treatment initiation (including 
+case managers, patient psychosocial support and education, use of optimized short regimens, expanded 
+use of new drugs and regimens when indicated, and elimination of catastrophic DR-TB patient costs). 
+
+ 
+
+IR 1.4. Increase and improve TB preventive treatment and other TB preventive measures 
+
+In 2021, the number of TPT among infected children below five years in the household and close 
+contacts group (2,059) was far behind the UNHLM target (3,260), while the number of patients 
+preventively treated in the age group above five years (10,281) is above the UNHLM target (9,263). The 
+number of patients with HIV status who received isoniazid preventive therapy (8,397) also exceeded the 
+UNHLM target for this group (7, 296). A total of 20,737 individuals on preventive treatment in 2021 
+represents 104% of TPT implementation goals towards the UNHLM target (19,820). 
+
+ 
+
+Recording and reporting TB preventive activities remain a challenge in the country, especially on 
+preventive treatment results and outcomes. Specific data provided by the NTP is based on indirect 
+information and assumptions. Six-month isoniazid is the country's only TB preventive treatment (TPT) 
+regimen. Additionally, responsibility for the TPT is not always clearly divided between TB and PHC 
+services. 
+
+ 
+
+ Healthcare workers' safety and availability of personal protective equipment (PPE) have become one of 
+the top priorities for the MOH across all healthcare facilities during the COVID-19 pandemic. USAID 
+provided technical support to manage the PPE supply chain and trained healthcare providers and 
+communities on the proper use of PPE and appropriate measures for infection prevention and control 
+(IPC). 
+
+ 
+
+Illustrative activities to improve preventive treatment completion: 
+
+
+ 
+
+● Expand TB preventive therapy, including improved TB infection (TBI) detection and treatment 
+for individuals at high risk of disease progression (people with suppressed immune systems, household 
+contacts, and young children). 
+
+● Improve contact investigation to ensure all household and social contacts likely exposed to TB 
+access TPT, including children, and prioritize high risk contacts for follow up services. 
+
+● Train health care providers on people-centered TB preventive treatment services; 
+
+● Refine and implement innovative models for outpatient TB and DR-TB treatment with the 
+provision of comprehensive case management services through PHC, CSOs, community-based health 
+committees, and communities to encourage treatment adherence; 
+
+● Support the development and rollout of a social behavior change strategy (SBC) and SBC 
+national guidelines that enhance outpatient and case management models; 
+
+ 
+
+Illustrative activities for improving infection prevention and control: 
+
+ 
+
+● Strengthen Infection Prevention and Control standards, including improved administrative and 
+environmental controls, the use of personal protective equipment, health care worker surveillance and 
+safety measures, and interventions to interrupt the chain of transmission in high-risk settings or among 
+high-risk populations. 
+
+ 
+
+Illustrative activities of community engagement in prevention and communication 
+
+ 
+
+● Strengthen community knowledge and awareness of TB through CSOs and PHC to increase TB 
+and DR-TB case detection rates and reduce stigma and discrimination against TB patients; 
+
+● Dersign, conduct outreach activities together with key community leaders to mitigate and prevent 
+social attitudes and behaviors that perpetuate TB-related stigma; 
+
+● Empower former TB patients to become role models and engage them in peer outreach with the 
+support of CSOs. 
+
+ 
+
+ Sub IR 1.4.1. GENDER: Develop targeted communication strategies on TB prevention, awareness, and 
+treatment cascade for various vulnerable groups, including migrant workers, youth and women to 
+improve gender-sensitive information, education and communication. 
+
+ 
+
+Illustrative activities: 
+
+ 
+
+● Increase knowledge among healthcare workers of gendered physiological and socio-economic 
+differences in TB infection between men and women, and how to implement this into the process of 
+identification, diagnosis, and treatment outcomes. 
+
+● Gender-based landscape analyses: sex/age/income/geographic location related to gender 
+differences in TB awareness, stigma, adherence and services and utilize this information to inform the 
+development of interventions. 
+
+● Develop context and population specific targeting messaging. 
+
+ 
+
+Sub-objective 2: Strengthen TB Health Systems 
+
+IR 2.1 Strengthen governance and management 
+
+ 
+
+The GOU has demonstrated a strong commitment to TB efforts and pledged to achieve the UNHLM 
+
+
+targets. NTP incorporated those targets into the current NSP 2021-2026. The GOU laid out a gradual 
+increase in budget in Presidential Decree # 4191 On Improvement of Phthisiatric (Tuberculosis) and 
+Pulmonological Services in February 2019. In 2020 and 2021, the GOU procured quality first and 
+second-line TB drugs with domestic funding, despite significant financial spending on COVID-19 
+response and pandemic-related negative economic impact. Future government and partners' TB activities 
+will be supported through the new national regulatory framework, a new Presidential Decree to be issued 
+in 2022 and which will be based on TB NSP 2021-2026, developed earlier and recently updated. TB Free 
+Uzbekistan will not focus on health financing for TB; this will be addressed through a separate activity. 
+
+ 
+
+Uzbekistan's MOH and USAID signed a Statement of Partnership (MOU) in March 2019 and monitor its 
+implementation regularly through quarterly meetings, reports, and activity reviews. USAID develops an 
+annual TB Roadmap in close partnership with the NTP and other key stakeholders. Still, challenges 
+remain with sustaining the speed of the health system reforms, including poor quality of services, 
+inadequate involvement of community-based organizations and affected populations, and slow pace of 
+financing reforms for TB services and fully transitioning to an outpatient TB treatment model. There is a 
+slow integration of TB services in PHC because of an absence of incentives for service provision 
+(insufficient mechanism of purchasing healthcare services). There is no defined vision for the service 
+delivery network. Funding is limited and fragmented and not targeted to the population's needs. 
+Budgeting is insufficient for program management and largely depends on donors' and partners' support. 
+Despite the highest governmental commitment, the involvement of other ministries and governmental 
+entities is still suboptimal, and there are no activities on establishing the Multi-sectoral Accountability 
+Framework (TB MAF). 
+
+ 
+
+With USAID support, Uzbekistan is one of the countries in the region that has institutionalized the use of 
+QuanTB as a national quantification and early warning system for TB medicines to maintain stock levels 
+and reduce risks for stock-outs and potential expiration. USAID trained NTP staff in all regions on Drug 
+management of TB drugs: new methods of drug quantification with the use of the QuanTB program. 
+USAID supported NTP with the GF grant application for 2021-2024 to supply FLDs and SLDs and 
+switch to short-modified and non-injectable regimens for DR-TB patients. 
+
+ 
+
+USAID's Promoting the Quality of Medicines Plus (PQM+) activity worked to ensure access to qualityassured 
+TB medicines, including adopting the WHO accelerated registration of WHO-prequalified 
+medications, supporting the manufacturer in Uzbekistan for WHO prequalification, improving quality 
+control laboratories for testing medicines according to international standards, and establishing the Good 
+Manufacturing Practices (GMP) inspectorate at the Agency for Development of the Pharmaceutical 
+Industry in Uzbekistan. 
+
+ 
+
+The NTP often needs external support and capacity-building (due to the high staff turnover at the regional 
+and central levels) for drug management, data collection, and analysis for procurement and supply chain 
+decision-making. Drug management and PSM guidelines need to be updated. NTP has to deal with a 
+complicated registration process for all TB medicines procured by domestic funds or apply for a waiver 
+to the Cabinet of Ministers, which is a lengthy process. 
+
+ 
+
+Illustrative activities: 
+
+ 
+
+● Support further implementation of TB healthcare system reforms; 
+
+● Improving the NTP processes to more efficiently and effectively develop, implement, and 
+monitor national and sub-national TB strategic plans; 
+
+
+● Increase transparency and accountability of the NTP and TB response; 
+
+● Support the host government reforms of TB financing at TB facility and PHC levels; 
+
+● Increase financial contributions from the private sector and non-state partners; 
+
+● Strengthen the TB legal framework and its dissemination; 
+
+● Improve mechanisms and activities to promote inclusiveness and involvement of communitybased 
+organizations, civil society, medical councils, and professional associations in the TB response; 
+
+● Strengthen approaches to outsource TB services to non-governmental entities; 
+
+● Use of early warning systems for stock levels; 
+
+● Strengthening of pharmacovigilance systems. 
+
+ 
+
+IR 2.2 Improve monitoring and evaluation (M&E), including data systems 
+
+ 
+
+USAID supported the national M&E TWG, updated protocols and checklists for monitoring and 
+evaluation, and supported and participated in regular monitoring field visits jointly with the NTP and 
+WHO. In partnership with WHO, USAID supported NTP in introducing the District Health Information 
+System Version 2 (DHIS2) TB surveillance electronic register in Uzbekistan. USAID provided technical 
+assistance in finalizing the electronic TB register and reporting forms -TB07 and TB08. The new TB 
+register will be piloted in one of the three project sites selected by the NTP/MoH. 
+
+ 
+
+The main remaining barrier to a robust M&E system is the absence of a national-level electronic 
+reporting system. The capacity of the M&E unit at the NTP level to manage national data and reporting is 
+understaffed and has minimal resources. The low capacity of the M&E unit doesn't allow for establishing 
+quality supervision activities at the subnational level (from regional to rayon level). 
+
+ 
+
+The data collection system is not well established and not flexible enough to provide NTP with up-to-date 
+information for operational and managerial decisions. The issues mentioned above contribute to the 
+absence of well-structured, consistent national monitoring visits from central to regional and regional to 
+district. These activities are mainly dependent on the Global Fund and USAID monitoring visits support. 
+TB Free Uzbekistan will ensure that data collection, analysis and reporting is disaggregated by sex, age 
+and other relevant categories. 
+
+ 
+
+Illustrative activities: 
+
+ 
+
+● Facilitate consensus among stakeholders to launch and implement the new electronic TB register 
+and other health management information platforms, ensuring smooth operation of DSM, patient-level 
+drug consumption, and laboratory information management systems, and provide timely, accurate data to 
+program managers and decision-makers at national and oblast levels; TB Free Uzbekistan’s data systems 
+will ensure connection with the national eHealth system. 
+
+● Support regular implementation of data quality assessment (DQA) activities and strengthen NTP 
+staff capacity at central and oblast levels; 
+
+● Build capacity to learn and utilize data visualization, GIS, and mapping to analyze programs and 
+inform activity directions; 
+
+● Enhance NTP capacity at the central and oblast levels on data collection, reporting, and analysis 
+of TB data, including age and sex disaggregates, including age bands (0-4, 5-19); 
+
+● Support implementation of routine data review sessions for data sharing and data-driven decisionmaking 
+among stakeholders; 
+
+● Document and disseminate best practices from Uzbekistan to other countries in the region; 
+
+● Support development and strengthening of a robust case-based TB surveillance system. 
+
+
+● Build NTP data collection and analysis capacity to disaggregate all treatment adherence and 
+failure and loss to follow-up data by age and sex. This will support governments and community based 
+organizations’ understanding of reasons and influencing factors behind behaviors of men and women. 
+
+ 
+
+IR 2.3 Improve the capacity of human resources within the TB response 
+
+ 
+
+GOU health reforms prioritized the development of human resources for health through various policies. 
+Eight thousand one hundred fifty staff members are working in the TB services as of Dec 2021, of whom 
+6,610 are nurses and 1,538 doctors, with some differences across the regions. The Ministry of Labor and 
+Social Protection determines salaries with a 50% salary increase for occupational risk of TB in line with 
+Presidential Decree #4191 (2019). 
+
+ 
+
+The development of human resources for TB control was reflected in the Program on Fighting TB in the 
+Republic of Uzbekistan for 2011–2015 and 2019-2021. The current NSP for 2021-2025 includes 
+planning the comprehensive implementation plan for the sustainable development of human resources for 
+TB control. The NTP is in the initial stage of analyzing the existing human resources for TB services or 
+specifying the gaps and challenges. TB doctors and PHC personnel need training and postgraduate 
+education, capacity-building in drug management and laboratory activities, operational research, and 
+international cooperation. 
+
+ 
+
+Illustrative activities: 
+
+ 
+
+● Support development and implementation of national policies and plans for human resources as 
+they relate to TB operations; 
+
+● Improve the quality of TB disease management at the primary health facility level for public 
+health and curative services; 
+
+● Task shifting to make the best possible use of available healthcare staff for the TB program; 
+
+● Contribute to improving pre-service and in-service TB clinical training; 
+
+● Support TB human resource assessments; 
+
+● Development of national cadres for community-based TB service delivery. 
+
+ 
+
+ANTICIPATED RISKS AND CHALLENGES 
+
+ 
+
+The sub-optimal domestic financing of the TB program and an overall fragile health system with poor 
+quality of health services and other health challenges pose a risk of interruption of TB service provision 
+and further spread of TB infection and disease. Fluctuating economic stability, political environment, 
+socio-cultural, and other factors can also significantly affect the introduction and implementation of 
+innovative TB activities in Uzbekistan and should be incorporated into the planning process. 
+
+ 
+
+The ongoing COVID-19 pandemic continues to present significant challenges. USAID/Uzbekistan must 
+respond rapidly and strategically to minimize the disruption of TB service delivery to end TB. Thus, a 
+particular focus must be on boosting TB notification and treatment success rates and strengthening TB 
+prevention and care practices. 
+
+ 
+
+The funding allocated through the Global Fund grants for TB program implementation is shrinking and 
+moving into a transition phase. There is a limited donor landscape, with few private sector partners 
+involved in TB response in the region. Coordination with other donors and implementers is critical to 
+ensure complementarities and synergies in programmatic approaches and prevent duplication of efforts. 
+
+
+ 
+
+Additionally, civil society and local organizations' roles and voices in TB services are perceived as weak 
+and need strengthening. 
+
+ 
+
+OPERATIONAL RESEARCH 
+
+ 
+
+Improve evidence-based programming and measurement to inform policy, programming, and 
+monitoring for TB 
+
+ 
+
+The applicants must develop a continuum of care model that tracks screening, referral, diagnosis, curative 
+and preventive treatment initiation, and completion of treatment/prophylaxis points along a continuum of 
+care. The applicants should propose effective data collection, analysis, monitoring, and reporting tools 
+and applications to measure the continuum of care. Measuring the decline of TB incidence in the focal 
+geographic areas will be essential. 
+
+ 
+
+PART 5: ACTIVITY PARAMETERS & CROSS-CUTTING PRINCIPLES 
+
+ 
+
+Gender and Social Inclusion: 
+
+ 
+
+USAID makes every effort to integrate gender, women’s empowerment and inclusive development into 
+relevant strategies, projects, and activities throughout the Agency’s Program Cycle. USAID’s Gender 
+Equality and Women’s Empowerment 2020 policy requires that our activities promote gender equality, 
+prevent and respond to gender-based violence and empower women and girls. 
+
+ 
+
+The applicant should assign a Gender Specialist or Gender POC and describe how it will: 1) analyze the 
+gender norms that influence the reasons men and women delay treatment and drop out of treatment; 2) 
+develop activities that seek to reduce gender-specific factors that lead to treatment delays and drop-out; 
+3) strengthen case management counseling skills so that health care providers and social workers employ 
+gender-responsive counseling approaches; 4) support community outreach workers/CSOs to support the 
+resilience of men and women and disadvantaged groups with TB and their family members to address 
+gender-specific risk factors, stigma, and discrimination they experience from healthcare providers, within 
+the family, and in their communities. 
+
+ 
+
+Besides the requirement that all data are sex-disaggregated, the applicant should include at least one 
+illustrative gender-sensitive indicator for the AMELP to monitor if gender-related differences are 
+changing. The Collaborating, Learning, and Adapting (CLA) section of the work plan should include 
+lessons learned on integrating gender into the TB program and course corrections and adaptation to the 
+activities to address gender issues outlined above. The applicant should include these strategies in the 
+technical approach. 
+
+ 
+
+Youth 
+
+ 
+
+With over 60 percent of the population under the age of 30, Uzbekistan’s youth have the potential to 
+transform the country through their contributions to the labor market and Uzbekistan’s economic growth. 
+In line with the recently issued 2022 USAID Youth in Development Policy, the activity will integrate 
+youth issues and engage young people across agency activity cycles. The“Free TB Uzbekistan” activity 
+includes concrete and practical approaches that will not only address the challenges youth face to access 
+timely TB diagnostic services but also support young people in completing lengthy treatment. The new 
+
+
+activity will include tailored to youth messaging, outreach efforts, and strategies to fight stigma. 
+Additionally, the new activity will include support for the less invasive, more child-friendly diagnostic 
+method of stool-based testing and improved treatment decision algorithms for younger people, to ensure 
+high quality diagnosis and treatment services are available to meet their needs. 
+
+ 
+
+Private Sector Engagement 
+
+ 
+
+USAID/Uzbekistan's Promoting the Quality of Medicines Plus (PQM+) Project provides technical 
+assistance to domestic private-sector producers to manufacture TB drugs according to international 
+quality assurance standards. The new TB activity and PQM+ will promote government procurement of 
+quality-assured TB and TB-related medical products and their distribution to and use in health facilities. 
+Other private sector engagement activities might include developing sustained partnership or resource 
+mobilization with Uzbekistan's local or international private sector to support areas such as sample 
+transport, supply chain, digital health information technology, pharmacies and occupational counseling 
+and screening. 
+
+ 
+
+Digital Transformation 
+
+ 
+
+The new activity will work to improve the efficiency and effectiveness of TB detection, treatment, and 
+prevention with the adoption and consistent use of digital technology. The activity will work to 
+strengthen the critical components of the digital ecosystems of TB services in connection to other 
+healthcare digital systems that enable timely, efficient, and patient-centered care. It might include but is 
+not limited to the following: 
+
+● Introducing critical digital equipment and technologies for TB laboratory management system, 
+electronic TB surveillance system, TB medicine and other essential commodities supply chain 
+management, specimen transportation, and electronic health records system, 
+
+● Introducing digital solutions to increase the healthcare providers' capacity and quality of care, 
+such as using computer-assisted diagnostics, digital access to the most updated clinical guidance, instant 
+access to health record system, laboratory management system, clinical management system, and use of 
+video-conferencing equipment for telemedicine and access specialized expertise, 
+
+● Teaching and supporting end-users of digital healthcare services (patients and family members), 
+such as video-supported treatment, access to information, and healthcare providers. 
+
+ 
+
+Environmental Compliance/Climate Change 
+
+ 
+
+Based on the current TB programming in Uzbekistan, it is anticipated that there will be interventions 
+qualifying for a Negative Determination with Conditions. Therefore, specific Environmental/Climate 
+change considerations shall be addressed in the design. TB Free Uzbekistan will be encouraged to 
+coordinate with USAID/Uzbekistan’s climate change focused activities. 
+
+ 
+
+PART 6: MONITORING, EVALUATION, AND LEARNING (MEL) 
+
+Monitoring, evaluation, and learning are instrumental in tracking progress in achieving the goals and 
+objectives of the USAID investments in the country through its bilateral activity. It is a critical 
+component in USAID's efforts to ensure effective accountability of investments in TB response at the 
+global, regional, and country level. USAID expects that monitoring, evaluation, and learning will be 
+integrated into the new bilateral activity. 
+
+ 
+
+
+The applicant is expected to develop a monitoring, evaluation and learning plan for the activity with all 
+considerations regarding activity results and sub-results, strategic goal and objectives of the activity, 
+strategic framework, and country strategy for USAID/Uzbekistan Mission. This management tool will 
+include a monitoring, an evaluation, and a learning section and will be revised during co-creation and 
+finalized as part of the final application package in consultation with USAID. 
+
+ 
+
+The monitoring section will specify indicators and the processes by which implementing partners and 
+USAID/Uzbekistan will routinely monitor the progress of activities against stated objectives. This section 
+should incorporate the ten core indicators based on the USAID's Performance-Based Monitoring and 
+Evaluation Framework for TB Programs (Guide for Indicators). These indicators are aligned with the 
+leading global strategic documents, including the U.S. Government's Global TB Strategy, Uzbekistan's 
+National Strategic Plan, the Stop TB Partnership's Global Plan to End TB, the WHO End TB Strategy, 
+and UNGA HLM Political Declaration on TB. Other extended indicators from the comprehensive list 
+presented in the PBMEF guide may also be considered to help track progress towards achieving set 
+targets of core indicators. The monitoring section should also envision a clear and concise Data Quality 
+Assurance (DQA) plan to verify the quality and reliability of data collected for every indicator. 
+
+ 
+
+The evaluation section should include a description of any systematic collection and analysis of data as a 
+basis for further improving and informing decisions about programming. While research questions may 
+be submitted for consideration as part of the evaluation, applicants should focus on formative and process 
+evaluation questions. USAID may procure an independent impact evaluation of this award, and 
+evaluations conducted by the awardee are subject to review and approval by USAID. 
+
+ 
+
+USAID's Collaborating, Learning, and Adapting (CLA) methodology is central to the overall project 
+strategy and the MEL plan. CLA allows a project to maintain a culture of learning that guides adaptation 
+and improves the quality of project design and interventions. The Recipient will promote a strong ethos 
+of generating and disseminating evidence and learnings that the Recipient expects will lead to improved 
+coverage and quality of TB service delivery in Uzbekistan. 
+
+ 
+
+The learning section should identify and discuss data from monitoring, portfolio reviews, research 
+findings, evaluations, analyses conducted by USAID or third parties, knowledge gained from experience, 
+stocktaking exercises, and other sources. Applicants should detail how knowledge learned will be applied 
+throughout programming to implementation approaches, processes, and stakeholder engagement. 
+Applicants should further discuss how lessons learned will be disseminated to activity stakeholders, 
+partners, and collaborators to be used for making programmatic decisions that enhance the success of 
+interventions designed to achieve expected intermediate results. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION A] 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+ 
+
+USAID intends to award one Cooperative Agreement pursuant to this NOFO. Subject to funding 
+availability and at the discretion of the Agency, USAID’s estimate it will provide approximately 
+$14,000,000 in total USAID funding, with an initial obligation of $2,400,000. 
+
+ 
+
+2. Start Date and Period of Performance for Federal Awards 
+
+ 
+
+The anticipated period of performance is five years. The start date will be determined at the time of the 
+award. 
+
+ 
+
+3. Substantial Involvement 
+
+All approvals and actions resulting from the substantial involvement below will be delegated to the 
+Agreement Officer’s Representative (AOR): 
+
+ 
+
+a. Approval of the Recipient's Annual Implementation Plans: 
+
+ 
+
+The initial Annual Implementation Plan and subsequent implementation plans must be submitted to and 
+approved per the description of implementation plans provided in “Reporting Requirements”. 
+
+ 
+
+b. Approval of Specified Key Personnel: 
+
+ 
+
+Key personnel must be submitted for approval in writing as designated in the Section “Key Personnel”. 
+
+ 
+
+c. Approval of Monitoring, Evaluation, and Learning Plan (MEL Plan): 
+
+ 
+
+The initial MEL Plan and subsequent updates to the MEL Plan must be submitted to and approved per the 
+description provided in “Performance Monitoring, Evaluation and Learning”. 
+
+ 
+
+d. Direction and Redirection of Activities: 
+
+ 
+
+Specific direction or redirection of the work due to interrelationships with other projects or activities, 
+and/or changes in the USG priorities, may be directed by the AOR. All such direction or redirection must 
+be within the scope of the program description, budget, and other terms and conditions of the award. 
+
+ 
+
+4. Authorized Geographic Code 
+
+ 
+
+The geographic codes for the procurement of commodities and services under this program are Code 937 
+(the United States, the recipient country, and developing countries other than advanced developing 
+countries, but excluding any country that is a prohibited source) and 110 (the United States, the 
+independent states of the former Soviet Union, or a developing country, but excluding any country that is 
+a prohibited source). 
+
+ 
+
+5. Nature of the Relationship between USAID and the Recipient 
+
+
+The principal purpose of the relationship with the Recipient and under the subject program is to transfer 
+funds to accomplish a public purpose of support or stimulation of the TB Free Uzbekistan which is 
+authorized by Federal statute. The successful Recipient will be responsible for ensuring the achievement 
+of the program objectives and the efficient and effective administration of the award through the 
+application of sound management practices. The Recipient will assume responsibility for administering 
+Federal funds in a manner consistent with underlying agreements, program objectives, and the terms and 
+conditions of the Federal award. 
+
+ 
+
+[END OF SECTION B] 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+ 
+
+Eligibility for this NOFO is not restricted. Qualified U.S. and Non-U.S. non-governmental organizations 
+may participate under this NOFO. 
+
+ 
+
+USAID welcomes applications from organizations that have not previously received financial assistance 
+from USAID. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+ 
+
+A cost share is not required on this award. 
+
+ 
+
+3. Other 
+
+ 
+
+There is no limit to the number of applications any one entity may submit. 
+
+ 
+
+[END OF SECTION C] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+1. Agency Point of Contact 
+
+ 
+
+Primary: Ms. Gulzhanat Rysdauletova 
+
+ Acquisition and Assistance Specialist 
+
+ 
+
+Secondary: Mr. Zafar Khamidullaev 
+
+ Acquisition and Assistance Specialist 
+
+ 
+
+Address: USAID/Uzbekistan 
+
+ 3 Moyqorghon Street, 5th Block, 
+
+ Yunusobod District, 100093 Tashkent 
+
+Email: AlmatyAASolicitations@usaid.gov 
+
+ grysdauletova@usaid.gov 
+
+ zkhamidullaev@usaid.gov 
+
+ 
+
+2. Questions and Answers: 
+
+ 
+
+Questions regarding this NOFO should be submitted to AlmatyAASolicitations@usaid.gov with copies 
+to Acquisition and Assistance Specialists Gulzhanat Rysdauletova at grysdauletova@usaid.gov and Zafar 
+Khamidullaev at zkhamidullaev@usaid.gov, no later than the date and time indicated on the cover letter, 
+as amended. 
+
+ 
+
+Any information given to a prospective applicant concerning this NOFO will be furnished promptly to all 
+other prospective applicants as an amendment to this NOFO, if that information is necessary in 
+submitting applications or if the lack of it would be prejudicial to any other prospective applicant. 
+
+ 
+
+3. General Content and Form of Application 
+
+ 
+
+Preparation of Applications: 
+
+ 
+
+Each applicant must furnish the information required by this NOFO. Applications must be submitted in 
+two separate parts: the Technical Application and the Business (Cost) Application. This subsection 
+addresses general content requirements applying to the full application. Please see subsections 5 and 6, 
+below, for information on the content specific to the Technical and Business (Cost) Applications. The 
+Technical Application must address technical aspects only while the Business (Cost) Application must 
+present the costs, and address risk and other related issues. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a cover page containing the following 
+information: 
+
+ 
+
+● Name of the organization(s) submitting the application; 
+
+● Identification and signature of the primary contact person (by name, title, organization, mailing 
+address, telephone number and email address) and the identification of the alternate contact person (by 
+name, title, organization, mailing address, telephone number and email address); 
+
+● Program name; 
+
+● Notice of Funding Opportunity number; 
+
+
+● Name of any proposed subrecipients or partnerships, including their names, type of relationship 
+(e.g., subcontract or strategic/technical collaborator)and indicate if sub-partner is international or local 
+(Uzbek) or regional (Central Asian) organization or entity; 
+
+● UEI of the applicant. 
+
+ 
+
+Any erasures or other changes to the application must be initiated by the person signing the application. 
+Applications signed by an agent on behalf of the applicant must be accompanied by evidence of that 
+agent’s authority, unless that evidence has been previously furnished to the issuing office. 
+
+ 
+
+Applications must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent sections. 
+Please ensure that applications comply with the page limitations. 
+
+● Written in English. 
+
+● Use standard 8 ½” x 11”, single-spaced, 12 point Times New Roman font or a similar size 
+typeset, 1” margins, left justification and headers and/or footers on each page including consecutive page 
+numbers, date of submission, and applicant’s name. 
+
+● 10 point font can be used for graphs and charts. Tables however, must comply with the 12 
+point Times New Roman requirement. 
+
+● Submitted via Microsoft Word or PDF formats, except budget files which must be submitted in 
+Microsoft Excel. 
+
+● The Technical Application must be a searchable and editable Word or PDF format as appropriate. 
+
+● The Cost Schedule must include an Excel spreadsheet with all cells unlocked and no hidden 
+formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in addition to the Excel 
+version at the applicant’s discretion, however, the official Cost Application submission is the unlocked 
+Excel version. 
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so may be 
+considered as being non-responsive and may be evaluated accordingly. Applicants should retain a copy 
+of the application and all enclosures for their records. 
+
+ 
+
+4. Application Submission Procedures 
+
+ 
+
+Applications in response to this NOFO must be submitted to AlmatyAASolicitations@usaid.gov with 
+copies to Acquisition and Assistance Specialists Gulzhanat Rysdauletova at grysdauletova@usaid.gov 
+and Zafar Khamidullaev at zkhamidullaev@usaid.gov, no later than the closing date and time indicated 
+on the cover letter, as amended. Late applications will not be reviewed nor considered. Applicants must 
+retain proof of timely delivery in the form of system generated documentation of delivery receipt date 
+and time/confirmation from the receiving office/certified mail receipt. 
+
+ 
+
+Email submissions must include the NOFO number and applicant’s name in the subject line heading. In 
+addition, for an application sent by multiple emails, the subject line must also indicate whether the email 
+relates to the technical or Cost Application, and the desired sequence of the emails and their attachments 
+(e.g. "No. 1 of 4", etc.). For example, if your Cost Application is being sent in two emails, the first email 
+should have a subject line that states: "[NOFO number], [organization name], Cost Application, Part 1 of 
+2". 
+
+ 
+
+
+USAID’s preference is that the Technical Application and the Cost Application each be submitted as 
+consolidated email attachments, e.g. that you consolidate the various parts of a Technical Application 
+into a single document before sending it. If this is not possible, please provide instructions on how to 
+collate the attachments. USAID will not be responsible for errors in compiling electronic applications if 
+no instructions are provided or are unclear. 
+
+ 
+
+After submitting an application electronically, applicants should immediately check their own email to 
+confirm that the attachments were indeed sent. If an applicant discovers an error in transmission, please 
+send the material again and note in the subject line of the email or indicate in the file name if submitted 
+via www.grants.gov that it is a "corrected" submission. Do not send the same email more than once 
+unless there has been a change, and if so, please note that it is a "corrected" email. 
+
+ 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several hours 
+occur from transmission to receipt. Therefore, applicants are requested to send the application in 
+sufficient time ahead of the deadline. For this NOFO, the initial point of entry to the government 
+infrastructure is the USAID mail server. 
+
+ 
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, applicants 
+are discouraged from sending files in this format as USAID/Central Asia cannot guarantee their 
+acceptance by the internet server. 
+
+ 
+
+5. Technical Application Format 
+
+ 
+
+The Technical Application will be the most important factor for consideration in selection for award of 
+the proposed Cooperative Agreement. The Technical Application should demonstrate the applicant's 
+capabilities and expertise with respect to achieving the goals of this activity. Therefore, it should be 
+specific, complete and presented concisely. The applicant must address how it proposes to carry out the 
+Program Description contained in Section A. The application should take into account the requirements 
+of the program and evaluation criteria found in this NOFO. 
+
+ 
+
+The Technical Application is limited to twenty-five (25) pages. The Technical Application must include 
+the following sections: 
+
+a. Cover Page (not included in 25-page limit) 
+
+The cover page should include the information listed in Section 3 above. 
+
+b. Table of Contents (not included in 25-page limit) 
+
+The table of contents must list all parts of the Technical Application, with page numbers and attachments. 
+
+ 
+
+c. Acronym List (not included in 25-page limit) 
+
+d. Executive Summary (included in 25-page limit; 1 page) 
+
+● Contain brief descriptions of the general approach, including innovations, and approaches to build 
+sustainability. 
+
+ 
+
+e. Technical Approach must be organized as follows (included in 25-page limit): 
+
+
+The applicants must present a logical and evidence-based technical approach demonstrating a clear 
+understanding of the technical requirements to prevent, detect and diagnose, and treat all forms of 
+tuberculosis with an emphasis on vulnerable populations. 
+
+ 
+
+Areas of specific consideration should include approaches to address the Intermediate Results under each 
+of the two Sub-objectives. In Sub-Objective 1 for Services, address case detection through targeted active 
+finding and screening; testing outcomes through use of new diagnostic technologies; successful treatment 
+outcomes for all forms of TB and use of shorter treatment regimens and new drugs for drug-resistant TB; 
+and contact investigation and post-exposure therapy for close contacts of TB patients. 
+
+ 
+
+In Sub-Objective 2 for Systems, applicants must describe a health systems strengthening approach that 
+covers: bolstering the policy environment for TB control; formulating the TB component under Universal 
+Health Coverage; increasing the integration of quality urban TB services into public sector, NGO, and 
+private sector provider platforms; and facilitating linkages between urban TB service organizations and 
+social support organizations. The applicants must demonstrate a technical and operational understanding 
+of the gender dynamics of TB disease, the social and economic context of TB infection in Uzbekistan, 
+and the development of a continuum of care model, its measurement, and related research. 
+
+ 
+
+Demonstration of understanding of the Uzbekistan health system and its key government and private 
+sector stakeholders, characteristics of at-risk populations, and collaboration mechanisms between key 
+stakeholders in high-transmission areas and among at-risk populations is critical. This must include a 
+description of appropriate interventions that will achieve the Activity goal and objectives. The applicants 
+must present a logical methodology on how to adaptively manage these interventions, specifying data 
+requirements and milestones. 
+
+ 
+
+f. Inclusion of Gender (included in 25 page limit of Technical Approach) 
+
+ 
+
+The applicants must demonstrate in their Technical Application how they will identify and address all the 
+gender related barriers. The application should also show how they are aligned with health system 
+strengthening. Another desired outcome of the policy is to reduce gender based violence. Evidence shows 
+that women and men can face stigma and discrimination from their family and their employers once they 
+are diagnosed with TB. Both boys and girls also might drop out of school after being diagnosed with TB 
+even after they no longer are at risk of transmitting the disease. The activity must address the ways in 
+which stigma and discrimination affect women and men differently. 
+
+ 
+
+g. Management Approach and Staffing Plan (4 page limit, included in 25 page limit of Technical 
+Approach): 
+
+ 
+
+Management Plan: 
+
+ 
+
+USAID prefers collaborative applications structured as a prime and subrecipient relationship with activity 
+staff clearly defined under one single management structure. Consortiums without a clear hierarchy and 
+delineation of authority among members are discouraged. The applicants must describe the relationship 
+between prime and subrecipients, clearly defining the value each partner brings. In regards to 
+sustainability, consortium applicants with local (Uzbek or Central Asian) entity sub-partners are highly 
+encouraged. 
+
+ 
+
+Key Team Positions and Staffing Plan: 
+
+
+ 
+
+The applicants must provide a description of its proposed team for key positions to accomplish all of the 
+objectives within the TB Free Uzbekistan activity. The applicants must propose individuals for key 
+personnel positions who are highly qualified and able to fulfill all important responsibilities. Key 
+Personnel CVs, Letters of Commitment, and References will be requested from the apparent successful 
+applicant. The staffing plan should clearly demonstrate the potential to facilitate the achievement of the 
+Activity’s scope and objectives. 
+
+ 
+
+h. Organizational Capacity (included in 25 page limit of General Technical Approach) 
+
+ 
+
+Briefly describe organizational capacity – technical, managerial, financial, etc. to carry out the proposed 
+intervention, including the business model for your organization’s intervention, prior work in this sector, 
+your organization’s credibility within targeted communities, and a demonstrable commitment to 
+coordinating your organization’s efforts within the context. Please note the extent to which the proposed 
+program is supported by local organizations. 
+
+ 
+
+To demonstrate prior work in this sector, please provide the details of five activities (ongoing or 
+complete) that you implemented within the last five years. Note that these activities may be the same as 
+or different from the list required in the Cost Application. 
+
+ 
+
+i. Annexes (not included in the page limit) 
+
+ 
+
+Annexes must include and are limited to ONLY the following: 
+
+ 
+
+Annex 1 - Gender Analysis 
+
+ 
+
+The applicant should describe the methods used to assess the current gender relationships and status in 
+target communities and identify the potential impacts of project implementation by gender. 
+
+ 
+
+Annex 2 - Geographic Maps 
+
+ 
+
+To illustrate the proposed geographic scope or other key elements of the proposed Technical Approach, 
+the applicant may choose to include geographic maps, as required. 
+
+ 
+
+Annex 3 - Organizational Chart and Staffing Plan 
+
+ 
+
+A visual organizational chart and staffing plan should be included. The applicant shall present, through 
+the organizational chart, the proposed program management structure. The staffing plan should be 
+consistent with the applicant’s technical approach and sufficient for management of the technical 
+components proposed in the Application. The information in this Annex should represent the information 
+presented in the Management Plan of the main Technical Approach narrative section. 
+
+ 
+
+6. Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. While no 
+page limit exists for the full Cost Application, applicants are encouraged to be as concise as possible 
+while still providing the necessary details. The business (cost) application must illustrate the entire period 
+of performance, using the budget format shown in the SF-424A. 
+
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary for the 
+Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.205. Applicants should 
+not submit any additional information with their initial application. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated below this listing 
+with the letters for each requirement): 
+
+ 
+
+a) Cover Page (See Section D.3 above for requirements) 
+
+ 
+
+b) SF 424 Form(s) 
+
+ 
+
+The applicant must sign and submit the Cost Application using the SF-424 series. Standard Forms can be 
+accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+Instructions for SF- 
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424- 
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF- 
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424ainstructions.
+html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF- 
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424binstructions.
+html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+c) Required Certifications and Assurances 
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their application: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the Recipient” 
+document found at https://www.usaid.gov/sites/default/files/documents/303mav.pdf 
+
+(2) Assurances for Non-Construction Programs (SF-424B) 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if your 
+organization's systems have been certified by USAID/Washington's Office of Acquisition and Assistance 
+(M/OAA). 
+
+ 
+
+d) Budget and Budget Narrative 
+
+ 
+
+The Budget must be submitted as one unprotected Excel-compatible file with visible formulas and 
+references and must be broken out by project year. Files must not contain any hidden or otherwise 
+inaccessible cells. Budgets with hidden cells lengthen the cost analysis time required to make award and 
+may result in a rejection of the Cost Application. The Budget Narrative must contain sufficient detail to 
+
+
+allow USAID to understand the proposed costs. The applicant must ensure the budgeted costs address 
+any additional requirements identified in Section F, such as Branding and Marking. The Budget Narrative 
+must be thorough, including sources for costs to support USAID’s determination that the proposed costs 
+are fair and reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), broken out by major 
+budget category and by year for activities implemented by the applicant and any potential sub-applicants 
+for the entire period of the program. See Section H, Annex 1 for Summary Budget Template. 
+
+● Detailed Budget, including a breakdown by year, sufficient to allow the Agency to determine that 
+the costs represent a realistic and efficient use of funding to implement the applicant’s program and are 
+allowable in accordance with the cost principles found in 2 CFR 200 Subpart E. 
+
+● Detailed Budgets for each subrecipient, for all federal funding and potential cost share, broken out 
+by budget category and by year, for the entire implementation period of the project. 
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a minimum: 
+
+ 
+
+1) Personnel and Allowances – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. The applicant’s budget must include position title, salary rate, level of effort, and 
+salary escalation factors for each position. Allowances, when proposed, must be broken down by 
+specific type and by position. Applicants must explain all assumptions in the Budget Narrative. The 
+Budget Narrative must demonstrate that the proposed compensation is reasonable for the services 
+rendered and consistent with what is paid for similar work in other activities of the applicant. Applicants 
+must provide their established written policies on personnel compensation. If the applicant’s written 
+policies do not address a specific element of compensation that is being proposed, the Budget Narrative 
+must describe the rationale used and supporting market research. 
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an agency 
+of the U.S. Government, the applicant must use such rate and provide evidence of its approval. If an 
+applicant does not have a fringe benefit rate approved, the applicant must propose a rate and explain how 
+the applicant determined the rate. In this case, the Budget Narrative must include a detailed breakdown 
+comprised of all items of fringe benefits (e.g., superannuation, gratuity, etc.) and the costs of each, 
+expressed in U.S. dollars and as a percentage of salaries. 
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the number of 
+trips, the origin and destination, the number of individuals traveling, and the duration of the trips. Per 
+Diem and associated travel costs must be based on the applicant’s normal travel policies. When 
+appropriate please provide supporting documentation as an attachment, such as company travel policy, 
+and explain assumptions in the Budget Narrative. 
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property – Must 
+include information on estimated types of equipment, models, supplies and the cost per unit and quantity. 
+The Budget Narrative must include the purpose of the equipment and supplies and the basis for the 
+estimates. The Budget Narrative must support the necessity of any rental costs and reasonableness in 
+light of such factors as: rental costs of comparable property, if any; market conditions in the area; 
+alternatives available; and the type, life expectancy, condition, and value of the property leased. 
+
+ 
+
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200.330 for assistance in determining whether the sub-tier entity is a 
+subrecipient or contractor. The subrecipient budgets must align with the same requirements as the 
+applicant’s budget, including those related to fringe and indirect costs. 
+
+ 
+
+6) Construction – If applicable. 
+
+ 
+
+7) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any other 
+miscellaneous costs which directly benefit the program proposed by the applicant. The applicant should 
+indicate the subject, venue and duration of any proposed conferences and seminars, and their relationship 
+to the objectives of the program, along with estimates of costs. Otherwise, the narrative should be 
+minimal. 
+
+ 
+
+9) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or will charge all 
+costs directly. In order to better understand indirect costs please see Subpart E of 2 CFR 200.414. The 
+application must identify which approach they are requesting and provide the applicable supporting 
+information. Below are the most commonly used Indirect Cost Rate methods: 
+
+ 
+
+Method 1 - Direct Charge Only 
+
+Eligibility: Any applicant 
+
+Initial Application Requirements: See above on direct costs 
+
+ 
+
+Method 2 - Negotiated Indirect Cost Rate Agreement (NICRA) 
+
+Eligibility: Any applicant with a NICRA issued by a USG Agency must use that NICRA 
+
+Initial Application Requirements: If the applicant has a current NICRA, submit your approved NICRA 
+and the associated disclosed practices. If your NICRA was issued by an Agency other than USAID, 
+provide the contact information for the approving Agency. Additionally, at the Agency’s discretion, a 
+provisional rate may be set forth in the award subject to audit and finalization. See USAID’s Indirect 
+Cost Rate Guide for Non Profit Organizations for further guidance. 
+
+ 
+
+Method 3 - De minimis rate of 10% of modified total direct costs (MTDC) 
+
+Eligibility: Any applicant that has never received a NICRA 
+
+Initial Application Requirements: Costs must be consistently charged as either indirect or direct costs but 
+may not be double charged or inconsistently charged as both. If chosen, this methodology once elected 
+must be used consistently for all Federal awards until such time as a non-Federal entity chooses to 
+negotiate an indirect rate, which the non-Federal entity may apply to do at any time. The applicant must 
+describe which cost elements it charges indirectly vs. directly. See 2 CFR 200.414(f) for further 
+information. 
+
+ 
+
+Method 4 - Indirect Costs Charged as A Fixed Amount 
+
+Eligibility: Non-U.S. non-profit organizations without a NICRA may request, but approval is at the 
+discretion of the AO 
+
+ 
+
+Initial Application Requirements: Provide the proposed fixed amount and a worksheet that includes the 
+following: 
+
+ 
+
+
+● Total costs incurred by the organization for the previous fiscal year and estimates for the current 
+year. 
+
+● Indirect costs (common costs that benefit the day-to-day operations of the organization, including 
+categories such as salaries and expenses of executive officers, personnel administration, and accounting, 
+or that benefit and are identifiable to more than one program or activity, such as depreciation, rental 
+costs, operations and maintenance of facilities, and telephone expenses) for the previous fiscal year and 
+estimates for the current year 
+
+● Proposed method for prorating the indirect costs equitably and consistently across all programs 
+and activities of using a base that measures the benefits of that particular cost to each program or activity 
+to which the cost applies. 
+
+ 
+
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% de minimis rate, 
+the Agreement Officer will provide further instructions and may request additional supporting 
+information, including financial statements and audits, should the application still be under consideration 
+after the merit review. USAID is under no obligation to approve the applicant’s requested method. 
+
+ 
+
+e) Prior Approvals in accordance with 2 CFR 200.407 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements for prior 
+approval by the Agency. If the applicant would like the award to reflect approval of any cost elements 
+for which prior written approval is specifically required for allowability, the applicant must specify and 
+justify that cost. See 2 CFR 200.407 for information regarding which cost elements require prior written 
+approval. 
+
+ 
+
+f) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the time of 
+award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+● Name of organization 
+
+● Unique Entity Identifier (UEI) 
+
+● Confirmation that the subrecipient does not appear on the Treasury Department’s Office of 
+Foreign Assets Control (OFAC) list 
+
+● Confirmation that the subrecipient does not have active exclusions in the System for Award 
+Management (SAM) 
+
+● Confirmation that the subrecipient is not listed in the United Nations Security designation list 
+
+● Confirmation that the subrecipient is not suspended or debarred 
+
+● Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.331(b) 
+
+● Any negative findings as a result of the risk assessment and the applicant’s plan for mitigation. 
+
+ 
+
+g) UEI and SAM Requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique entity 
+identifier (UEI) and System for Award Management (SAM) requirements. Each applicant (unless the 
+applicant is an individual or Federal awarding agency that is exempted from requirements under 2 CFR 
+25.110(b) or (c), or has an exception approved by the Federal awarding agency under 2 CFR 25.110(d)) 
+is required to: 
+
+
+(i) Be registered in SAM before submitting its application; 
+
+(ii) Provide a valid unique entity identifier in its application and all proposed subrecipients; 
+
+(iii) Continue to maintain an active SAM registration with current information at all times during which it 
+has an active Federal award or an application or plan under consideration by a Federal awarding agency. 
+It also must state that the Federal awarding agency may not make a Federal award to an applicant until 
+the applicant has complied with all applicable unique entity identifier and SAM requirements and, if an 
+applicant has not fully complied with the requirements by the time the Federal awarding agency is ready 
+to make a Federal award, the Federal awarding agency may determine that the applicant is not qualified 
+to receive a Federal award and use that determination as a basis for making a Federal award to another 
+applicant. 
+
+The registration process may take many weeks to complete. Therefore, applicants are encouraged to 
+begin the process early. If an applicant has not fully complied with the requirements above by the time 
+USAID is ready to make an award, USAID may determine that the applicant is not qualified to receive an 
+award and use that determination as a basis for making an award to another applicant. 
+
+Unique Entity Identifier (UEI): http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick Start Guide 
+and a video on how to obtain an NCAGE code, on www.sam.gov, navigate to Help, then to International 
+Registrants. 
+
+ 
+
+h) History of Performance 
+
+ 
+
+The applicant must provide information regarding its recent history of performance for all its costreimbursement 
+contracts, grants, or cooperative agreements involving similar or related programs, not to 
+exceed 5 (five) awards, as follows: 
+
+ 
+
+● Name of the Awarding Organization; 
+
+● Award Number; 
+
+● Activity Title; 
+
+● A brief description of the activity; 
+
+● Period of Performance; 
+
+● Award Amount; 
+
+● Reports and findings from any audits performed in the last 3 years; and 
+
+● Name of at least two (2) updated professional contacts who most directly observed the work at the 
+organization for which the service was performed with complete current contact information including 
+telephone number, and e-mail address for each proposed individual. 
+
+ 
+
+If the applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general information on its 
+performance. USAID reserves the right to obtain relevant information concerning an applicant’s history 
+of performance from any sources and may consider such information in its review of the applicant’s risk. 
+The Agency may request additional information and conduct a pre-award survey if it determines that it is 
+necessary to inform the risk assessment. 
+
+ 
+
+
+i) Branding Strategy & Marking Plan 
+
+ 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking Plan, 
+which, after internal approvals, will be incorporated into any resulting award by the Agreement Officer. 
+
+ 
+
+Branding Strategy – Assistance (June 2012) 
+
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding Strategy," 
+describing how the program, project, or activity is named and positioned, and how it is promoted and 
+communicated to beneficiaries and host country citizens. 
+
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers no rights to 
+the applicant and constitutes no USAID commitment to an award. 
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the Agreement 
+Officer will make the applicant ineligible for an award. 
+
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget portion 
+of the application. These costs are subject to the revision and negotiation with the Agreement Officer and 
+will be incorporated into the Total Estimated Amount of the grant, cooperative agreement or other 
+assistance instrument. 
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+
+(1) All estimated costs associated with branding and marking USAID programs, such as plaques, stickers, 
+banners, press events, materials, and so forth. 
+
+
+(2) The intended name of the program, project, or activity. 
+
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the USAID logo and 
+brandmark, with the tagline “from the American people” as found on the USAID Web site at 
+http://www.usaid.gov/branding, unless Section VI of the RFA or APS states that the USAID 
+Administrator has approved the use of an additional or substitute logo, seal, or tagline. 
+
+
+(ii) USAID prefers local language translations of the phrase “made possible by (or with) the generous 
+support of the American People” next to the USAID Identity when acknowledging contributions. 
+
+
+(iii) It is acceptable to cobrand the title with the USAID Identity and the applicant's identity. 
+
+
+(iv) If branding in the above manner is inappropriate or not possible, the applicant must explain how 
+USAID's involvement will be showcased during publicity for the program or project. 
+
+
+(v) USAID prefers to fund projects that do not have a separate logo or identity that competes with the 
+USAID Identity. If there is a plan to develop a separate logo to consistently identify this program, the 
+applicant must attach a copy of the proposed logos. Section VI of the RFA or APS will state if an 
+Administrator approved the use of an additional or substitute logo, seal, or tagline. 
+
+ 
+
+
+(3) The intended primary and secondary audiences for this project or program, including direct 
+
+beneficiaries and any special target segments. 
+
+
+(4) Planned communication or program materials used to explain or market the program to beneficiaries. 
+
+ 
+
+(i) Describe the main program message. 
+
+
+(ii) Provide plans for training materials, posters, pamphlets, public service announcement, billboards, 
+Web sites, and so forth, as appropriate. 
+
+
+(iii) Provide any plans to announce and promote publicly this program or project to host country citizens, 
+such as media releases, press conferences, public events, and so forth. Applicant must incorporate the 
+USAID Identity and the message, “USAID is from the American People.” 
+
+
+(iv) Provide any additional ideas to increase awareness that the American people support this project or 
+program. 
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, including any 
+planned acknowledgement of the host-country government. 
+
+
+(6) Any other groups whose logo or identity the applicant will use on program materials and related 
+materials. Indicate if they are a donor or why they will be visibly acknowledged, and if they will receive 
+the same prominence as USAID. 
+
+
+e. The Agreement Officer will review the Branding Strategy to ensure the above information is 
+adequately included and consistent with the stated objectives of the award, the applicant's cost data 
+submissions, and the performance plan. 
+
+ 
+
+f. If the applicant receives an assistance award, the Branding Strategy will be included in and made part 
+
+of the resulting grant or cooperative agreement. 
+
+ 
+
+[END OF PRE-AWARD TERM] 
+
+ 
+
+Marking Plan – Assistance (June 2012) 
+
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking Plan,” 
+detailing the public communications, commodities, and program materials, and other items that will 
+visibly bear the “USAID Identity,” which comprises of the USAID logo and brandmark, with the tagline 
+“from the American people.” The USAID Identity is the official marking for the Agency, and is found on 
+the USAID Web site at http://www.usaid.gov/branding. Section VI of the RFA or APS will state if an 
+Administrator approved the use of an additional or substitute logo, seal, or tagline. 
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no rights to the 
+applicant and constitutes no USAID commitment to an award. 
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the Agreement 
+Officer will make the applicant ineligible for an award. 
+
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget portion 
+
+
+of the application. These costs are subject to the revision and negotiation with the Agreement Officer and 
+will be incorporated into the Total Estimated Amount of the grant, cooperative agreement or other 
+assistance instrument. 
+
+
+e. The Marking Plan must include all of the following: 
+
+
+(1) A description of the public communications, commodities, and program materials that the applicant 
+plans to produce, and which will bear the USAID Identity as part of the award, including: 
+
+
+(i) Program, project, or activity sites funded by USAID, including visible infrastructure projects or other 
+sites physical in nature; 
+
+
+(ii) Technical assistance, studies, reports, papers, publications, audiovisual productions, public service 
+announcements, Web sites/Internet activities, promotional, informational, media, or communications 
+products funded by USAID; 
+
+
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, including commodities or 
+equipment provided under humanitarian assistance or disaster relief programs; and 
+
+ 
+
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's identity. 
+
+
+(v) Events financed by USAID, such as training courses, conferences, seminars, exhibitions, fairs, 
+workshops, press conferences and other public activities. If the USAID Identity cannot be displayed, the 
+recipient is encouraged to otherwise acknowledge USAID and the support of the American people. 
+
+ 
+
+(2) A table on the program deliverables with the following details: 
+
+
+(i) The program deliverables that the applicant plans to mark with the USAID Identity; 
+
+
+(ii) The type of marking and what materials the applicant will use to mark the program deliverables; 
+
+
+(iii) When in the performance period the applicant will mark the program deliverables, and where the 
+applicant will place the marking; 
+
+
+(iv) What program deliverables the applicant does not plan to mark with the USAID Identity; and 
+
+
+(v) The rationale for not marking program deliverables. 
+
+
+(3) Any requests for an exemption from USAID marking requirements, and an explanation of why the 
+exemption would apply. The applicant may request an exemption if USAID marking requirements 
+would: 
+
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials where independence or 
+neutrality is an inherent aspect of the program and materials. The applicant must identify the USAID 
+Development Objective, Interim Result, or program goal furthered by an appearance of neutrality, or 
+state why an aspect of the award is presumptively neutral. Identify by category or deliverable item, 
+examples of material for which an exemption is sought. 
+
+
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy recommendations whose data 
+or findings must be seen as independent. The applicant must explain why each particular deliverable 
+
+
+must be seen as credible. 
+
+
+(iii) Undercut host-country government “ownership” of constitutions, laws, regulations, policies, studies, 
+assessments, reports, publications, surveys or audits, public service announcements, or other 
+communications. The applicant must explain why each particular item or product is better positioned as 
+host-country government item or product. 
+
+
+(iv) Impair the functionality of an item. The applicant must explain how marking the item or commodity 
+would impair its functionality. 
+
+ 
+
+(v) Incur substantial costs or be impractical. The applicant must explain why marking would not be cost 
+beneficial or practical. 
+
+ 
+
+(vi) Offend local cultural or social norms or be considered inappropriate. The applicant must identify the 
+relevant norm and explain why marking would violate that norm or otherwise be inappropriate. 
+
+
+(vii) Conflict with international law. The applicant must identify the applicable international law violated 
+by the marking. 
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and will approve 
+or disapprove any exemption requests. The Marking Plan will be reviewed to ensure the above 
+information is adequately included and consistent with the stated objectives of the award, the 
+
+applicant's cost data submissions, and the performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved exemptions, 
+will be included in and made part of the resulting grant or cooperative agreement, and will apply for the 
+term of the award unless provided otherwise. 
+
+ 
+
+[END OF PRE-AWARD TERM] 
+
+j) Funding Restrictions 
+
+ 
+
+USAID policy is not to award profit under assistance instruments. However, all reasonable, allocable and 
+allowable expenses, both direct and indirect, which are related to the agreement program and are in 
+accordance with applicable cost principle under 2 CFR 200 Subpart E. of the Uniform Administrative 
+Requirements may be paid under the anticipated award. 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.330 for assistance 
+in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the explicit written 
+approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that will be 
+reimbursed by USAID under this award must be from the authorized geographic code specified in 
+Section B.4 of this NOFO and must meet the source and nationality requirements set forth in 22 CFR 
+228. 
+
+
+k) Conflict of Interest Pre-Award Term (August 2018) 
+
+ 
+
+ a. Personal Conflict of Interest 
+
+ 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization or an 
+employee of the organization has a relationship with an Agency official involved in the competitive 
+award decision-making process that could affect that Agency official’s impartiality. The term “conflict of 
+interest” includes situations in which financial or other personal considerations may compromise, or have 
+the appearance of compromising, the obligations and duties of a USAID employee or recipient employee. 
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits an SF-424. Should the 
+applicant discover a previously undisclosed conflict of interest after submitting the application, the 
+applicant must disclose the conflict of interest to the AO no later than ten (10) calendar days following 
+discovery. 
+
+ 
+
+b. Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are aware of that 
+may provide the applicant with an unfair competitive advantage in competing for this financial assistance 
+award. Examples of an unfair competitive advantage include but are not limited to situations in which an 
+applicant or the applicant’s employee gained access to non-public information regarding a federal 
+assistance funding opportunity, or an applicant or applicant’s employee was substantially involved in the 
+preparation of a federal assistance funding opportunity. USAID will promptly take appropriate action 
+upon receiving any such notification from the applicant. 
+
+ 
+
+[END OF PRE-AWARD TERM] 
+
+ 
+
+[END OF SECTION D] 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. Criteria 
+
+ 
+
+The merit review criteria prescribed here are tailored to the requirements of this particular NOFO. 
+Applicants should note that these criteria serve to: (a) identify the significant matters which the applicants 
+should address in their applications, and (b) set the standard against which all applications will be 
+evaluated. 
+
+ 
+
+Technical and other factors will be evaluated relative to each other, as described here and prescribed by 
+the Technical Application Format. The Technical Application will be scored by a Selection Committee 
+(SC) using the criteria described in this section. 
+
+ 
+
+2. Review and Selection Process 
+
+ 
+
+Applications will be reviewed to ensure they have met all the required elements as set forth in Section D 
+to be determined by the Agreement Officer to be responsive to the NOFO. The application must be 
+directly responsive to the terms, conditions, guidelines, and provisions of this NOFO to be assured for 
+consideration. Applications not conforming to this NOFO may be categorized as not meeting the 
+minimum requirements of the Government, thereby eliminating them from further consideration. USAID 
+will conduct a merit review of all applications received that comply with the instructions and meet the 
+eligibility requirements of this NOFO. 
+
+ 
+
+a. Merit Review 
+
+ 
+
+USAID will conduct a merit-based review of all applications received that comply with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following criteria 
+shown in descending order of importance (e.g., technical approach is more important than management 
+approach and staffing plan). 
+
+ 
+
+Criterion 
+
+Description 
+
+Technical Approach 
+
+The extent to which the applicant’s proposed technical approach 
+comprehensively describes evidence-based, realistic, and sustainable 
+approaches which will achieve the goal and objective(s) specified in the 
+Program Description. 
+
+Management Approach 
+and Staffing Plan 
+
+The extent to which the proposed management approach and staffing 
+plan demonstrates the clear potential to facilitate the achievement of the 
+Activity’s scope and objectives including a sound, realistic management 
+structure and staffing plan; the complementarity of skills of all long-term 
+in-country, home office, and sub-partner technical personnel; and a 
+sound approach to engaging partnerships, clearly defining the value that 
+each partner brings. 
+
+Organizational 
+Capacity 
+
+The extent to which the applicant demonstrates experience in 
+implementing similar programs of comparable scale and complexity. 
+
+
+
+ 
+
+b. Business Review 
+
+ 
+
+
+The Agency will evaluate the Cost Application of the applicant(s) under consideration for an award as a 
+result of the merit criteria review to determine whether the costs are allowable in accordance with the 
+cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial aspects of 
+the program and the applicant's ability to perform the activities within the amount requested; (2) whether 
+the applicant's plans will achieve the program objectives with reasonable economy and efficiency; and 
+(3) whether any special conditions relating to costs should be included in the award. 
+
+ 
+
+If proposed, cost share will be reviewed for compliance with the standards set forth in 2 CFR 200.306, 2 
+CFR 700.10, and the Standard Provision "Cost Sharing (Matching)" for U.S. entities, or the Standard 
+Provision "Cost Share" for non-U.S. entities. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a pre-award 
+survey is required to inform the risk assessment in determining whether the prospective recipient has the 
+necessary organizational, experience, accounting and operational controls, financial resources, and 
+technical skills – or ability to obtain them – in order to achieve the objectives of the program and comply 
+with the terms and conditions of the award. Depending on the result of the risk assessment, the AO will 
+decide to execute the award, not execute the award, or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+c. Co-Creation Process 
+
+ 
+
+After the evaluation of the applications USAID may invite the highest-rated applicant to continue onto 
+the co-creation phase. During this phase, the applicant may work one-on-one with USAID technical 
+teams and possibly other stakeholders. 
+
+ 
+
+The goals of co-creation sessions will be to jointly modify and refine the Program Description submitted 
+by the applicant, as well as to discuss management details, including proposed key personnel and staffing 
+plans. 
+
+ 
+
+The co-creation session(s) may take place online or in-person. Any pre-award costs associated and 
+incurred by the selected applicant will not be reimbursed by USAID. 
+
+ 
+
+Based on the outcomes of the co-creation phase, USAID can decide to request the applicant(s) to submit 
+the revised Technical and Cost Applications. USAID may decide that co-creation is not successful, in 
+which case, the apparently successful applicant will be notified that the process is terminated, and 
+USAID will begin discussions with the next highest ranked applicant. 
+
+ 
+
+ 
+
+[END OF SECTION E] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. Federal Award Notices 
+
+ 
+
+A notice of award signed by the AO is the authorizing document for the award resulting from this NOFO. 
+USAID will provide it electronically to the authorized individual identified by the Recipient in the 
+application. 
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been appropriated, 
+allocated and committed through internal USAID procedures. While USAID anticipates that these 
+procedures will be successfully completed, potential applicants are hereby notified of these requirements 
+and conditions for the award. The Agreement Officer is the only individual who may legally commit the 
+Government to the expenditure of public funds. No costs chargeable to the proposed Agreement may be 
+incurred before receipt of either a fully executed Agreement or a specific, written authorization from the 
+Agreement Officer. 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+ 
+
+The award will be administered as follows: 
+
+ 
+
+Agreement Office: 
+
+Acquisition and Assistance Office 
+
+USAID/Uzbekistan 
+
+3 Moyqorghon Street, 5th Block, 
+
+Yunusobod District, 100093 Tashkent 
+
+ 
+
+Technical Office: 
+
+Health Development Office 
+
+USAID/Uzbekistan 
+
+3 Moyqorghon Street, 5th Block, 
+
+Yunusobod District, 100093 Tashkent 
+
+ 
+
+For U.S. organizations ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for U.S. Nongovernmental 
+organizations. 
+
+ 
+
+For non-U.S. organizations, Standard Provisions for Non-U.S. Non-governmental Organizations will 
+apply. 
+
+ 
+
+See Annex 2 for a list of the Standard Provisions that will be applicable to any awards resulting from this 
+NOFO. 
+
+ 
+
+3. Reporting Requirements. 
+
+ 
+
+The Recipient must provide the following reports to the Agreement Officer’s Representative (AOR) and 
+
+to the Agreement Officer at AlmatyAAReporting@usaid.gov, as specified below, in accordance with 
+
+2 CFR 200.328 and 200.327 and the Substantial Involvement provisions. 
+
+ 
+
+a. Financial Reporting: 
+
+
+ 
+
+The Recipient must submit the Federal Financial Form (SF-425) on a quarterly basis within 30 calendar 
+days after the end of each USG fiscal quarter (i.e. October 30, January 30, April 30, July 30) via 
+electronic format to the Agreement Officer’s Representative (AOR), with a copy to the Agreement 
+Officer at AlmatyAAReporting@usaid.gov and the USAID/CA Office of Financial Management at 
+CARInvoices@usaid.gov. 
+
+ 
+
+The Recipient must submit the electronic version of all final financial reports to USAID/CA/FMO, the 
+Agreement Officer, and the AOR. The Recipient must submit the final financial report no later than 90 
+calendar days from the end of the agreement. 
+
+ 
+
+Electronic copies of the SF-425 can be found at: www.grants.gov. 
+
+ 
+
+b. Performance Reporting: 
+
+ 
+
+i. Annual Implementation Plans: 
+
+ 
+
+Within ninety days (90) of the effective date of the award of the Cooperative Agreement, the Recipient 
+must develop and submit the first annual implementation plan to the AOR. Implementation plans may be 
+submitted electronically. 
+
+ 
+
+Upon acceptance of the implementation plan by the AOR, any substantial revisions to the plan must 
+require the written approval of the AOR. Annual implementation plans for subsequent years are due to 
+the AOR 30 days prior to the end of the USG’s fiscal year or approximately August 31st. Regardless of 
+the start date of this award, implementation plans will be adjusted to the fiscal calendar of October 1- 
+September 30. 
+
+ 
+
+The Recipient must ensure that the implementation plan appropriately reflects activity objectives and the 
+program description. The implementation plan should detail the work to be accomplished during the 
+upcoming year. All implementation plan activities must be within the scope of the award. The annual 
+implementation plan will serve as a guide for activity implementation–a demonstration of links between 
+interventions and objectives in accordance with the Monitoring, Evaluation and Learning (MEL) Plan. 
+The annual implementation plan must outline key activities and the expected results to be accomplished 
+for that year and will be negotiated and shared with key stakeholders for comments as appropriate. The 
+annual implementation plan will also serve as a basis for budget estimates for that year of program 
+implementation. A budget with sufficient detail to allow the AOR to judge the efficiency of the 
+implementation plan should be included. The AWP should delineate an overall budget by line item and a 
+budget per objective and activity. The AWP may be revised on an occasional basis in the course of 
+implementation, as needed, to reflect changes on the ground with the concurrence of the AOR. 
+
+ 
+
+The Recipient’s Collaborating, Learning, and Adapting (CLA) approach may entail periods of 
+reflection/assessment that lead to significant changes to the implementation plan in such areas as policy 
+focus, approaches, etc. In these instances, the AWP may be revised in the course of implementation, as 
+needed, to reflect changes on the ground only with the concurrence of the AOR. 
+
+ 
+
+The annual implementation plans must also highlight how gender will be effectively addressed in the 
+activity, using learning and information from the initial gender analysis and subsequent implementation. 
+This includes ensuring the following areas are captured as they relate to gender: 
+
+
+ 
+
+● Prioritize recommendations and action items 
+
+● Highlight key stakeholders in implementation and plans for outreach to stakeholders 
+
+● Training and capacity development plan for staff and targeted beneficiaries 
+
+● A description of tools to be developed or used; and 
+
+● Any other content the implementing partner deems pertinent. 
+
+If appropriate, the Recipient can highlight for USAID work or research that the implementing partner 
+feels would further the cause of gender integration and social inclusion but is not within the scope of the 
+current award. 
+
+ 
+
+ii. Quarterly/Annual Performance Reports: 
+
+ 
+
+The Recipient will use the standard form Performance Progress Report (SF-PPR) to report performance 
+progress for the program under the award. Reports may be submitted electronically. Regardless of the 
+start date of the cooperative agreement all reporting will be adjusted to the USG fiscal year calendar. 
+
+ 
+
+Quarterly Reports: The Recipient must submit quarterly reports that include narratives of quarterly 
+achievements, and progress against the work plan and agreed-upon performance indicators. A format for 
+the quarterly report must be approved by the AOR on an annual basis. The Recipient must submit 
+quarterly reports within thirty (30) calendar days of the end of each quarter. The following quarter end 
+dates must be used to determine the date of submission off the quarterly reports: 3/31, 6/30, 9/30, or 
+12/31. The fourth quarter report must be drafted as an annual report and must cover activities of the 
+quarter as well as overall assessment of performance and progress for the prior 12 months of the program 
+(See Annual Reports below). 
+
+ 
+
+The quarterly report must describe and assess the overall progress to date based upon agreed performance 
+indicators. The reports must also describe the accomplishments of the Recipient and the progress made 
+during the past quarter and will include information on key activities, both ongoing and completed during 
+the quarter (e.g. meetings, trainings, workshops, significant events, subcontracts, and grants). The 
+quarterly report should include targets and results for each indicator agreed upon in the MEL Plan. The 
+quarterly report provides the opportunity to discuss impacts of learning on the program; for example, 
+how has implementation evolved as the result of information gathered over the course of the quarter? 
+Also, notification must be given in the case of problems, delays, or adverse conditions which materially 
+impair the ability to meet the objectives of the award or which may have an impact on the development 
+hypothesis or theory of change for the activity, and/or other activities (USG-funded or not) which might 
+be informed by such learning. This notification must include a statement of the action taken or 
+contemplated, and any assistance needed to resolve the situation. Lastly, the quarterly report will outline 
+how the project has collaborated with host country governments and other USG and other donor funded 
+projects and efforts. The quarterly reports must utilize photos, maps, tables and other graphical elements 
+useful in communicating performance data and activity implementation and include at least one success 
+story. Any outreach or press reporting about the activity must also be included. 
+
+ 
+
+Annual Reports: The Recipient must submit annual reports that include narratives of achievements, and 
+progress against the work plan and agreed-upon performance indicators. A format for the annual report 
+
+
+must be approved by the AOR on an annual basis. The Recipient must submit annual reports within thirty 
+(30) calendar days of the end of each U.S. Government fiscal year. Annual reports should contain content 
+appropriate for public dissemination. In addition to content summarizing performance from the 
+preceding quarter (See Quarterly Report above), the Annual Report must include a section that 
+summarizes performance from the preceding year. The annual summary must concentrate on outcome 
+and impact based on agreed upon performance indicators. It will report on annual achievements against 
+targets and will account for any shortfalls. The analysis in the annual section must not be limited to 
+performance measures – it will also summarize progress during the previous year in a qualitative fashion. 
+To this end, the Annual Report must also utilize photos, maps, tables, and other graphical elements useful 
+in summarizing project performance from the past year. In addition, the annual report must include a 
+professionally formatted, four-to eight pages annual summary of achievements, noteworthy activities, 
+lessons learned, changes in the environment, etc. The summary must be formatted to function as a standalone, 
+externally shareable document, designed to keep key project stakeholders (such as USG agencies, 
+other donors, and other USG implementers) up to date on progress. The summary must include photos, 
+maps, tables, and other graphical elements as relevant. The annual summary must not directly recycle 
+text, photos or other elements from quarterly summaries. 
+
+ 
+
+As Part of Quarterly Performance reporting, the Recipient will address the following: 
+
+ 
+
+Development, Outreach and Communication: 
+
+ 
+
+The Recipient will be requested to provide the following information: 
+
+ 
+
+● Activity fact sheets, to be updated and submitted to USAID on a specified USAID template 
+twice/year or at the request of USAID. 
+
+ 
+
+● An updated quarterly list of public events to be organized by the Recipient during the upcoming 
+three months, including approximate date, location, and audience. The Recipient will coordinate 
+with USAID about all planned events with press participation, press activities, press releases, as 
+well as inclusion of USAID promotional materials for the participants, participation of USAID or 
+USG representatives. 
+
+ 
+
+● Two success stories a year with an accompanying photograph (see item c. for specifications). The 
+success stories will be provided in a Word Document format, using a standard USAID success 
+story template. 
+
+ 
+
+● The fourth quarterly performance report must also include a digital collection of at least 20 highresolution 
+(at least 300 pixels per inch (ppi)) professional photographs a year that are illustrative 
+of project’s achievements. The photographs will comply with a guidance provided in the USAID 
+Graphic Standards Manual. Each photograph will have a brief explanation about its subject and 
+identify: the author and his/her organization, person(s) featured in the photograph, and the 
+location where the photograph was taken. 
+
+ 
+
+● Clippings of and/or web links to, press articles that mention the activity or its interventions. 
+
+ 
+
+● An electronic and/or print copy of all communications materials produced by the activity on a 
+quarterly basis. 
+
+
+● Once a year, the activity will present a summary of all publicity events and received media 
+coverage. 
+
+● The Recipient will upload to USAID’s Development Experience Clearinghouse (DEC) all 
+appropriate activity materials. Materials that can be uploaded to DEC include quarterly and final 
+reports, publications, brochures, evaluations, photos, among others. The DEC serves as a 
+searchable repository of all USAID related publications going back decades. If necessary, 
+uploaded materials can be restricted so that they can only be accessed by USAID staff (however, 
+to the extent possible, we hope to keep materials publicly accessible). As part of the annual work 
+plan process an annual communications plan indicating key milestones, events and 
+communications tools and approaches to be used. This will include a communications calendar 
+that will state the proposed timing for major events. As per USAID/Central Asia’s guidelines, the 
+activity will give at least four-weeks advance notice of all public events that include the press 
+and/or senior U.S. Government participation and inform the AOR and USAID DOC team 
+accordingly. 
+
+ 
+
+TEAMS and USAID Sponsored J-1 Visas: All host country nationals being funded fully, partially, 
+directly, or indirectly by USAID must enter the U.S. on a J-1 Visa, regardless of the type or duration of 
+the activity. In order to secure a J-1 visa, each participant must first secure a DS-2019 form (Certificate of 
+Eligibility for Exchange Visitor J-1 Status). TEAMS is the only means of obtaining a DS-2019 for 
+USAID-funded Exchange Visitors. 
+
+ 
+
+USAID/Uzbekistan delegates the TEAMS data entry, verification, and reporting responsibilities to its 
+implementing partner who is responsible for data entry (the R1 role) and verification (the R2 role) of all 
+training programs and participants that are funded by USAID. 
+
+ 
+
+USAID/Uzbekistan is responsible for approval (the R3 role) and the CORs/AORs and program managers 
+are responsible for working with their implementing partners to obtain the data needed by the R3. 
+USAID/Washington is responsible for submission of the data (the R4 role) to SEVIS. The DS-2019 
+approval process is as follows: 
+
+ 
+
+● Data is entered into TEAMS by the implementing partner’s Data Entry Initiator (R1) for initiating 
+visa applications and tracking the participants in TEAMS; 
+
+● The R1 submits the information to the Visa Compliance System (VCS); 
+
+● The designated Verifier (R2) verifies the accuracy of the data in the VCS, and either submits the 
+information to the R3 if all is correct, or rejects the file if there are errors in the data; 
+
+● A designated United States citizen in the USAID Mission – the Approver (R3) – reviews the 
+electronic versions of documents in TEAMS and either approves or rejects the files (for missing 
+data or other concerns based on review of the files) sending them back to the R1 with comments; 
+
+● When the R3 approves a file, the information is electronically transferred to the Responsible 
+Officer (R4) in USAID/Washington who provides the final approval before the information is 
+submitted to the Department of Homeland Security SEVIS database for processing; 
+
+ 
+
+● The DS-2019 form is created, printed and mailed to the Responsible Officer in the Mission; 
+
+ 
+
+
+● The Responsible Officer gives the form to the USAID COR or AOR who provides it to the 
+implementing partner. The implementing partner is responsible for delivering the form to the 
+participant so that he/she can present it to the Consular Officer during their appointment for a J-1 
+visa at the U.S. Embassy consular section, or designated Consulate. Exchange visitors apply 
+online at the U.S. State Department’s website in Uzbekistan. 
+
+● When asked to enter a “Program Number”, applications should enter USAID’s Exchange Visitor 
+Program Number G-2-00263. 
+
+ 
+Gender Reporting: Annual activity reports must include a specific gender section with the following 
+explanations: 
+
+• Summary of the implementing partner’s accomplishments in achieving specific gender-related 
+results and conclusions about areas that could need future support. 
+
+• Overall description of all gender-related activities. 
+
+• Achievement of results, intermediate-results, outputs, and/or targets for all gender related 
+indicators, disaggregated by sex, with specific discussion of improvements in previously 
+identified gender disparities and inequalities. 
+
+• Difficulties or challenges encountered in the implementation of gender-related activities. 
+
+• Recommendations for sustainability of the gender-related activities after the activity has ended. 
+
+• Documentation on lessons learned and best practices, including identification of new 
+opportunities for men and women that were created, what negative impacts were addressed or 
+avoided, and what needs and gender inequalities emerged or remain. 
+
+ 
+
+ iii. Final Report: 
+
+ 
+
+The Recipient must submit a final report that summarizes achievements, and progress against the work 
+plan and agreed-upon performance indicators over the life of the project. The Recipient must submit the 
+Final Report within ninety (90) calendar days after the expiration of the award. The Final Report must 
+contain content appropriate for public dissemination. The Final Report must contain the following 
+information: 
+
+ 
+
+1. An executive summary of the accomplishments and results achieved; 
+
+2. An in-depth analysis of progress and results that synthesizes achievements that contributed 
+towards program objectives. This section must clearly describe activities, major accomplishments, and 
+results achieved, including results for all of the activities under the Cooperative Agreement; 
+
+3. Describe reasons why targets were not achieved or were surpassed and why activities were 
+delayed or not carried out, if appropriate; 
+
+4. A summary of problems/obstacles encountered during the implementation, and how those 
+obstacles were addressed and overcome, if appropriate; 
+
+5. Success stories, including examples of synergy and collaboration with partners; 
+
+6. Lessons learned, best practices, and other findings, along with recommendations for future 
+programming in this sector; 
+
+7. A summary of progress made in achieving indicator targets during the activity implementation 
+(based on valid data collection and analysis and credible baseline) including final data, compared to 
+baseline data, for all indicators included in the monitoring and evaluation plan. This section should 
+include disaggregated data by gender, historically disenfranchised groups, and other relevant groups 
+identified; 
+
+8. A comparison of actual expenditures with budget estimates, including analysis and explanation of 
+cost overruns or high unit costs, as relevant; 
+
+
+9. Other pertinent information, including recommendations with-in depth- analysis and lessons 
+learned, related to the overall activity results; 
+
+10. The Final Report must also contain an index of all reports and information products produced 
+under the award; and 
+
+11. The Final Report must include a professionally formatted, four-to-eight page annual summary of 
+achievements, noteworthy activities, lessons learned, changes in the environment, etc. The Report must 
+be formatted to function as a stand-alone, externally shareable document, designed to keep key project 
+stakeholders (such as USG agencies, other donors, and other USG implementers) up to date on progress. 
+The Final Report must include photos, maps, tables, and other graphical elements as relevant. The Final 
+Report must not directly recycle text, photos or other elements from Annual Reports. 
+
+ 
+
+4. Development Experience Clearinghouse Requirements 
+
+ 
+
+Consistent with ADS 540, the Recipient must prepare and submit a copy of semi-annual and final 
+performance reports, results of assessments and operational research, if any, required by this award to the 
+USAID Development Experience Clearinghouse (DEC) at: 
+
+ Online: https://dec.usaid.gov/dec/content/submit.aspx; 
+
+By Mail: 
+
+USAID Development Experience Clearinghouse 
+
+M/CIO/ITSD/KM/DEC 
+
+RRB M.01-010 
+
+Washington, DC 20523-6100 
+
+ 
+
+Essential bibliographic information must accompany submissions, whenever it is available. The 
+submission page on the DEC identifies the minimum required fields to submit. For questions on DEC 
+submissions, contact: 
+
+ Email: ksc@usaid.gov 
+
+ Telephone: +1 202-712-0579 
+
+ 
+
+*Note: Mail sent to USAID via the US Postal Service undergoes security and irradiation processing. To 
+send sensitive items, like CDs or DVDs, please contact the DEC team at ksc@usaid.gov to arrange 
+delivery. 
+
+ 
+
+5. Program Income 
+
+ 
+
+USAID does not anticipate any program income under the award. Should there be any program income, 
+the Recipient shall account for it in accordance with 2 CFR 200.307. Program income earned under this 
+award shall be added to the project. 
+
+6. Key Personnel 
+
+ 
+
+The list of Key Personnel: 
+
+ 
+
+Chief of Party 
+
+ 
+
+
+Chief of Party (CoP) is responsible for the overall management and operations of the activity. This 
+includes providing strategic leadership, management and administration as well as representation. She/he 
+will supervise activity implementation and ensure the activity meets stated Objectives and reporting 
+requirements, including all outreach communications requirements. The CoP will take a leadership role 
+in coordination among USAID, MOH, and other implementing partners. S/he shall have depth and 
+breadth of technical expertise and experience, a solid professional reputation, interpersonal skills and 
+professional relationships to fulfill the requirements of the activity description. 
+
+ 
+
+The COP must have the following: 
+
+● A Masters’ degree or higher in degree in public health, health administration, medicine, 
+epidemiology, infectious diseases, health systems, health economics or health financing is preferred. 
+
+● Minimum 7 years of prior Chief or Party (COP)/Country Director or Deputy CD/COP Activity 
+Management Expertise, with international Tuberculosis or other infectious diseases activities of similar 
+size and complexity. Prior expertise leading USAID activities is desirable. 
+
+● The CoP should have 8-10 years of increasing service delivery expertise in a health country 
+setting comparable to that of Uzbekistan as a public health advisor or program manager, with both 
+clinical treatment and care expertise and health systems strengthening experience. 
+
+● Demonstrated experience in leading diverse teams, including remote leadership, is required as the 
+CoP will lead a multidisciplinary team across multiple components comprised of technical and 
+administrative staff that may be based in multiple locations across the country. 
+
+● Prior expertise in high level health policy negotiations and substantial prior donor collaboration 
+and representational duties is required. 
+
+● Demonstrated ability to work with host government health officials (national and sub-national 
+levels); local civil society; and private sector strongly desired. 
+
+● Excellent representational and communication skills, written and oral proficiency in English. 
+
+● Excellent past performance references 
+
+● Prior expertise in post Soviet Union context in a senior management capacity on donor financed 
+programs is strongly desired. 
+
+● Experience working with USG supported projects and knowledge of financial rules and 
+regulations at a senior level is strongly preferred. 
+
+Strategic Communications and Outreach Advisor leads development and implementation of all TB 
+prevention and awareness communications and outreach products and deliverables. 
+
+ 
+
+The Strategic Communications and Outreach Advisor must have the following: 
+
+ 
+
+● Minimum Bachelor's degree in health communications or mass communications, social 
+marketing, or journalism with health or behavior change focus. 
+
+● Minimum five years experience in health behavior change communication program design, 
+implementation and management. 
+
+● Demonstrated understanding of theories and best strategic behavior change practices relating to 
+individual behavior change and broader social responses. 
+
+● At least three years experience working in an international or resource challenged setting. 
+Experience working with mass media and communications campaigns in former Soviet context is highly 
+desirable. 
+
+● Strong project management skills 
+
+
+● Experience working with influential figures/celebrities to advocate and champion for social 
+change a desired plus. 
+
+ 
+
+Deputy Chief of Party (Operations and Finance lead) 
+
+The Deputy Chief of Party (Operations and Finance lead) works closely with the COP. S/he acts for the 
+COP as needed, and carries out any other tasks assigned by the COP to ensure proper management of the 
+activity. The DCOP is responsible for all management and operations of TB Free Uzbekistan. 
+
+The Deputy Chief of Party (Operations and Finance lead) must have the following: 
+
+ 
+
+● Master’s degree in public health, health administration, business administration, health systems, 
+health economics or health financing is preferred. 
+
+● Should have 5 years of progressively responsible and relevant professional experience in health 
+program design and management, with a focus on infectious diseases. 
+
+● Senior management level Activity Management (administration, strategic planning, 
+implementation and reporting) Expertise, with international Tuberculosis or other infectious disease 
+activities of similar size and complexity. 
+
+● Prior expertise in high level health policy negotiations and substantial prior donor collaboration 
+and representational duties is required. 
+
+● Demonstrated ability to work with host government health officials (national and sub-national 
+levels); local civil society; and private sector strongly desired. 
+
+● Excellent representational and communication skills, written and oral proficiency in English. 
+
+ 
+
+7. Environmental Compliance 
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of AID’s activities 
+on the environment be considered, and that USAID include environmental sustainability as central 
+consideration in designing and carrying out its development programs. This mandate is codified in 
+Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System (ADS), Chapters 201 
+and 204, which, in part, require that the potential environmental impacts of USAID-financed activities 
+are identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. The Recipient’s environmental compliance obligations under these regulations 
+and procedures are specified in the following paragraphs of this Agreement. In addition to complying 
+with the obligations below, the Recipient must comply with host country environmental regulations 
+unless otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+regulations, the latter shall govern. 
+
+ 
+
+No activity funded under this award will be implemented unless an environmental threshold 
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a Request 
+for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), Environmental Assessment 
+(EA) or Environmental Review Checklist (ERC) duly signed by the Bureau Environmental Officer 
+(BEO). A Memo to the File (MTF) 6 (Asia-19-009-MTF-6) to Programmatic Health IEE (P-IEE) Asia 
+19-009, covering the Tuberculosis (TB) Free Uzbekistan, was approved by the BEO/Asia on September 
+12, 2022, valid through FY 2025. 
+
+ 
+
+USAID has determined that almost all project activities (90-95%) for technical assistance, training 
+programs except to the extent such programs include activities directly affecting the environment (such as 
+
+
+construction of facilities, etc.); analyses, studies, academic or research workshops and meetings; and 
+document and information transfers qualify for a Categorical Exclusion (CE) under 22 CFR Part 
+216.2(c)(2) (no effect on the natural or physical environment) and, therefore, these activities are excluded 
+from further environmental review and reporting to USAID. For activities qualifying for a Negative 
+Determination with Conditions (NDC), such as for example small construction and renovation and/or 
+procurement of medical equipment, conducting medical tests, providing policy and technical 
+recommendations, strategic plans and regulatory and legal changes, limited procurement of electric and 
+electronic equipment, commodities and materials and other small renovations, the Recipient must screen, 
+mitigate, monitor, and report to USAID in accordance with terms established in MTF 6. All activity 
+components are rated as low climate risk as they are not expected to materially affect the implementation 
+or outcomes of the activity. Additional climate risk screening should be conducted for activities with 
+NDC by the Recipient as required in P-IEE Asia 19-009. 
+
+ 
+
+As part of its Implementation Plan, and all Annual Implementation Plans thereafter, the recipient, in 
+collaboration with the Agreement Officer’s Representative (AOR), the Regional Mission Environmental 
+Officer, and Climate Integration Lead, will review all ongoing and planned activities under this award to 
+determine if they are within the scope of the approved 22 Reg. 216 environmental documentation. If the 
+recipient plans any new activities outside the scope of MTF 6, it must assist the AOR to prepare another 
+MTF or P-IEE amendment for USAID review and approval. No such new activities shall be undertaken 
+prior to receiving written USAID approval of the MTF or P-IEE amendment. Any on-going activities 
+found to be outside the scope of the approved 22 Reg. 216 environmental documentation must be halted 
+until an amendment to the documentation is submitted and written approval is received from USAID. 
+
+ 
+
+For any activities with Negative Determination of Conditions as indicated in MTF 6, USAID anticipates 
+that implementing required conditions and mitigation measures that apply to actions under this agreement 
+and otherwise complying with applicable environmental requirements will require environmental 
+compliance and management expertise. Respondents to the RFA must therefore include as part of their 
+application their approach to achieving environmental compliance and management to include: 
+
+-- The applicant’s approach to developing and implementing an EMMP, activity/site-specific ERC and 
+other required documentation. 
+
+-- The applicant’s approach to providing necessary environmental management expertise, including 
+examples of past experience of environmental management of similar activities. 
+
+-- The applicant’s illustrative budget for implementing the environmental compliance activities, including 
+screening, mitigation, monitoring and reporting. For the purpose of this solicitation, applicants should 
+reflect illustrative costs for environmental compliance implementation and monitoring in their cost 
+application. 
+
+ 
+
+8. Performance Monitoring, Evaluation, and Learning 
+
+ 
+
+The Recipient is required to develop and implement monitoring, evaluation, and learning (MEL) plan that 
+is consistent with ADS 201, in consultation with the AOR, and, as appropriate, with the Mission MEL 
+Specialist. The MEL plan shall cover the life of award. Annual MEL Plan development is NOT 
+recommended. However, the Recipient should review the MEL plan annually to ensure that it is still 
+valid. If, over the course of implementation, modifications to the MEL plan become necessary, changes 
+to the MEL plan shall be proposed to the AOR. Once approved by the AOR, the Recipient will then 
+amend the MEL plan to reflect those changes and document clearly the changes as approved. If 
+modified, the MEL plan shall not exclude data previously collected, and, to the extent possible, shall 
+mitigate any significant variations in data collection methodology, indicator definition, or data 
+
+
+presentation. The intent of the MEL plan is to show changes over time as a result of USAID 
+intervention. 
+
+ 
+
+The MEL plan will be guided by the activity’s goal and objectives, anticipated results articulated in the 
+results framework, the theory of change, and planned inputs/interventions as laid out in the annual work 
+plan. The MEL plan will also serve as a tool of mutual understanding among all involved parties (e.g. 
+USAID, the Recipient, Subrecipient (if any) and other stakeholders) on stakeholders’ MEL roles and 
+responsibilities and how the achievements of this award will be measured and presented. Routine MEL 
+tasks and reports will give the Recipient and USAID/Uzbekistan a basis for gauging performance and 
+return on investment, promoting learning, and facilitating adaptive management to allow activity 
+adjustment due to unforeseen changes in strategy, approach, or operating environment that may be 
+needed to achieve or maximize results. The MEL plan must, therefore, articulate clearly the link to the 
+results framework and the theory of change of the award; identify how key assumptions in the theory of 
+change would be tested or validated over the course of implementation; clearly define the high quality 
+indicators to be reported to USAID (see below); and contain practical, feasible, and cost-effective 
+methodologies to accomplish the tasks laid out in the MEL plan. 
+
+ 
+
+The MEL plan will be submitted to the AOR for approval within 45 days of the award and is separate 
+from the implementation plan and regular financial and other reports required by the standard 
+clauses. The MEL plan and its annexes should be finalized before major implementations begin, and 
+prior to the first indicator data is being collected. 
+
+ 
+
+Performance Monitoring 
+
+ 
+
+The MEL plan shall follow contents and instructions as specified in the USAID/CA MEL Plan 
+Template*. At minimum, the MEL plan shall be accompanied by two annexes: an indicator tracking 
+table* (ITT) and indicator reference sheets (IRSs). The ITT will contain a list of all indicators with 
+appropriate disaggregations to be tracked and reported to USAID/Uzbekistan. The Recipient is 
+encouraged to use quantitative as well as qualitative indicators as deemed appropriate for the result it is 
+intended to measure. The ITT will be submitted to the AOR according to the reporting timeline specified 
+in the award. To the extent possible, and with AOR approval, baseline data should be collected prior to 
+intervention inputs. 
+
+ 
+
+It is highly recommended that the MEL plan include no more than 10 indicators; i.e., those at the higher 
+level results or at the output level and above, rather than all indicators that the Recipient uses for its 
+internal management. When selecting indicators, the Recipient should take into consideration the 
+relevance and accuracy of the indicators according to the planned tasks/services and intended results, as 
+well as time and resources required to collect and report each indicator data. All selected indicators must 
+be in line with the activity as well as the Mission-wide Performance Management Plan (PMP). The 
+existing U.S. Foreign Assistance Standard Indicators and/or those of the US Government’s Initiatives, the 
+Mission’s Regional Development and Cooperation Strategy, and other relevant IRSs shall be used as 
+applicable1. 
+
+1 The latest list of Standard Indicators will be provided by AOR after the award is signed. 
+
+*The templates will be provided by AOR after the award is signed. 
+
+ 
+
+A separate IRS* is to be developed independently for each indicator as per the template and instructions 
+provided. If a qualitative indicator is used it must also be accompanied by a IRS. If a qualitative 
+
+
+indicator is used it must also be accompanied by a IRS. If a Standard Foreign Assistance Indicator is 
+used a standard definition must also be used. The Recipient may add a “precise definition” to the 
+standard definition to further elaborate inclusion and exclusion criteria specific to the nature of the 
+activity as needed. However, the precise definition must be within the scope of the standard definition. If 
+the selected standard or custom indicators are the same as those being used in activity and/or the PMP, 
+the same standard IRSs shall be used so that the results can be aggregated at USAID/Uzbekistan 
+level. As applicable, all indicators shall be disaggregated by geographical locations at the Administrative 
+1 (province or state) level. All people indicators must be disaggregated by sex and include other metrics 
+that allow the full capture of effect on gender equality and women’s economic empowerment. 
+
+All performance indicators are required to have baseline data. Baseline data should be collected before the 
+start of the implementation that is expected to lead to a result (output or outcome) measured by that 
+performance indicator. If baseline data cannot be collected until later in the course of an activity, the 
+indicator’s IRS should document when and how the baseline data will be collected. 
+
+ 
+
+USAID/Uzbekistan will conduct a data quality assessment (DQA) of the indicators that are to be reported 
+to Washington, DC, as soon as each required indicator data is being collected and reported to the 
+Mission. The Mission may conduct the DQA on other indicators as deemed appropriate. 
+
+ 
+
+USAID/Uzbekistan works to deploy Development Information Systems, which will serve as a repository 
+for all performance indicators, including baseline values and timeframes, targets, and rationales for 
+targets and actual values. Once DIS is deployed, the awardees will be required to enter baseline, target 
+and actual data directly. USAID will provide training and necessary support to contractor’s MEL staff. 
+The AOR will clear data prior to the awardee inputting the data and review the data submitted to ensure 
+accuracy. 
+
+ 
+
+Routine monitoring is not all about tracking and reporting numbers against the selected indicators. The 
+Recipient should use appropriate means, mechanisms, and tools to assess the level of performance 
+beyond tracing numbers; capture any unintended positive results and the factors contributing to such 
+results; and examine any unintended negative consequences or results of the implementation, especially 
+those that could affect the safety of beneficiaries or their equitable access to the services. All these 
+should be well documented and shared with the AOR. USAID staff may pay visits to the implementation 
+sites at any time during the life of the award. 
+
+ 
+
+Evaluation 
+
+ 
+
+The USG funding shall not be used for any studies that do not meet USAID and/or international 
+standards, are not necessary or have no added value to maximize the outcomes or results, and/or have no 
+clear objectives and a plan for data use. The Recipient may conduct special studies, such as internal 
+evaluations2, formative assessment, and baseline and endline surveys, as deemed necessary. The studies 
+shall be planned and their purposes, methods, and intended use of the findings and recommendations be 
+precisely described in a relevant section of the MEL plan. The study concept/protocol and the scope of 
+work or terms of reference of the study team should be shared with the AOR and AOR clearance shall be 
+obtained prior to implementation. 
+
+2 Either by the Recipient’s or subRecipient’s staff or outsourced Recipient or consultant. See definition in ADS 201. 
+
+ 
+
+At any time of award, USAID/Uzbekistan may conduct one or more evaluation(s), either by USAID staff 
+and/or a third party external to USAID and the Recipient, as deemed appropriate. This is mainly to 
+
+
+generate strategic information and learning opportunities that can inform program management and to 
+strengthen current programming and/or to support design of future activities; measure progress and/or 
+achievement of intended/unintended higher level outcomes; and account for the investments and 
+demonstrate their effectiveness and/or impact. The Recipient must work closely with and provide 
+essential support to USAID and/or external evaluators as requested. 
+
+ 
+
+Learning 
+
+ 
+
+The Recipient shall concisely describe the plan for adaptive learning in the MEL plan. This section shall 
+explain the activity’s approach to learning from monitoring data, evaluation findings (if applicable), data 
+presentation, and other learning activities, and how it will be adapted in response to new learning and 
+knowledge, especially how the lessons can be applied to the USAID program cycle. Learning also 
+includes creating case studies, best practices, and communications pieces to share internally to USAID 
+and externally to partners and stakeholders. 
+
+ 
+
+Inclusive Development 
+
+ 
+
+USAID intends for the activity to be subject to rigorous monitoring and evaluation, to: a) ensure the 
+intended results are being generated; b) inform activity management if and when course corrections may 
+be necessary; c) ensure the interventions are targeting the right groups; and d) capture diverse 
+perspectives from stakeholders; and e) monitor the context. In accordance with Automated Directives 
+System (ADS) 201, achieving results outlined in a project through the implementation of a set of 
+activities is a continuous process. Monitoring efforts should include ongoing consultations and other 
+forms of direct communication with marginalized groups (such as, but not limited to, indigenous peoples, 
+LGBTQI+ people, persons with disabilities, religious/ethnic minorities, women/girls, youth) to gauge 
+their perception of programming as well as program impacts. A detailed M&E design will be developed 
+subsequent to the award and will include appropriate Standard Foreign Assistance Indicators (F 
+indicators), as well as custom indicators. 
+
+ 
+
+9. Electronic Payments System 
+
+ 
+
+1. Definitions: 
+
+ 
+
+a. “Cash Payment System” means a payment system that generates any transfer of funds through a 
+transaction originated by cash, check, or similar paper instrument. This includes electronic payments to a 
+financial institution or clearing house that subsequently issues cash, check, or similar paper instrument to 
+the designated payee. 
+
+ 
+
+b. “Electronic Payment System” means a payment system that generates any transfer of funds, other 
+than a transaction originated by cash, check, or similar paper instrument, that is initiated through an 
+electronic terminal, telephone, mobile phone, computer, or magnetic tape, for the purpose of ordering, 
+instructing or authorizing a financial institution to debit or credit an account. The term includes debit 
+cards, wire transfers, transfers made at automatic teller machines, and point-of-sale terminals. 
+
+ 
+
+2. The Recipient agrees to use an electronic payment system for any payments under this award to 
+beneficiaries, subrecipients, or contractors. 
+
+ 
+
+3. Exceptions. Recipients are allowed the following exceptions, provided the Recipient documents 
+
+
+its files with the appropriate justification: 
+
+ 
+
+a. Cash payments made while establishing electronic payment systems, provided that this exception 
+is not used for more than six months from the effective date of this award. 
+
+ 
+
+b. Cash payments made to payees where the Recipient does not expect to make payments to the 
+same payee on a regular, recurring basis, and payment through an electronic payment system is not 
+reasonably available. 
+
+ 
+
+c. Cash payments to vendors below $3000, when payment through an electronic payment system is 
+not reasonably available. 
+
+ 
+
+d. The Recipient has received a written exception from the Agreement Officer that a specific 
+payment or all cash payments are authorized based on the Recipient’s written justification, which 
+provides a basis and cost analysis for the requested exception. 
+
+ 
+
+4. More information about how to establish, implement, and manage electronic payment methods is 
+available to Recipients at http://solutionscenter.nethope.org/programs/c2e-toolkit. 
+
+ 
+
+10. Police and Prisons 
+
+ 
+
+Under this award, assistance may not be used to provide training, advice, or any financial support for 
+police, prisons, or other law enforcement forces. 
+
+ 
+
+11. Salary Supplemental for Host Government Employees 
+
+ 
+
+Any payments by the Recipient to any host government’s employee at any level is subject to the 
+
+USAID policy guidance on criteria for payment of salary supplements for host government employees 
+dated April 1988 (or as amended). When this issue arises during the life of the cooperative agreement, the 
+Recipient must consult with the AO on any questions regarding the applicability of the policy. 
+
+ 
+
+12. Collection of Activity Location Data 
+
+ 
+
+In accordance with USAID ADS 201 and ADS 579, the Recipient must plan, collect and submit 
+Geographic data through the Activity Location Data based on the following requirements: 
+
+ 
+
+At a minimum, the location(s) where the activity is implemented must be collected at the site location 
+[The location of an exact site represented by the latitude/longitude coordinates of the site locations] level. 
+The location of the activity’s beneficiaries also needs to be collected using the same methods and 
+standards used to collect the Location of Implementation. 
+
+ 
+
+The performance indicators for geographically disaggregated performance and/or context indicators 
+should be collected as described in ADS 201 and ADS 201 Additional Help: Monitoring Data 
+Disaggregation by Geographic Location, which provides additional guidance. 
+
+ 
+
+Activity Location Data must be collected according to the standards provided by USAID in accordance 
+with ADS 579. Activity Location Data must be submitted twice a year according to Agency approved 
+
+
+methods. If the Activity Location Data has not changed since the previous data submission, it must be 
+indicated when the data is submitted. 
+
+ 
+
+The Activity Location Data must exclude personally identifiable information. If the Activity Location 
+Data collected by the Recipient requires protection from unauthorized access to mitigate data risk, the 
+Recipient must notify USAID before submitting the Activity Location Data to USAID and implement 
+mitigation techniques to protect the data from unauthorized access in consultation with USAID. 
+
+ 
+
+In addition, other geographic data assets must be submitted in accordance with the special clause or 
+provision of the “Submission of Datasets to the Development Data Library (see page 7)”. Both primary 
+and derived Geographic Data Files must be submitted in accordance to ADS 579 Additional Help: 
+Geographic Data Collection and Submission Standards. Submissions must be reviewed by the AOR, and 
+then the Recipient must submit the final Activity Location Data to the AOR. A template for standard 
+submissions will be provided by the AOR, or by the GIS Team. 
+
+ 
+
+[END OF SECTION F] 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACTS 
+
+ 
+
+For questions please refer to Section D of this NOFO. 
+
+ 
+
+[END OF SECTION G] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+1. Award 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement Officer is 
+the only individual who may legally commit the Government to the expenditure of public funds. Any 
+award is subject to the availability of funds and continued relevance to Agency programming. 
+
+ 
+
+2. Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used by the 
+U.S. Government except for evaluation purpose, should mark the cover page with the following: 
+
+ 
+
+“This application includes data that must not be disclosed, duplicated, used, or disclosed – in whole or in 
+part – for any purpose other than to evaluate this application. If, however, an award is made as a result of 
+– or in connection with – the submission of this data, the U.S. Government will have the right to 
+duplicate, use, or disclose the data to the extent provided in the resulting award. This restriction does not 
+limit the U.S. Government’s right to use information contained in this data if it is obtained from another 
+source without restriction. The data subject to this restriction are contained in sheets {insert sheet 
+numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this 
+application.” 
+
+ 
+
+3. Exclusivity in Partnerships with Subrecipients 
+
+ 
+
+Exclusivity agreements are prohibited under this NOFO. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION H] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Item # 
+
+Cost Category 
+
+Year 1 
+
+Year 2 
+
+Year 3 
+
+Year 4 
+
+Year 5 
+
+Total in 
+
+US Dollars 
+
+1. 
+
+Personnel and 
+Allowances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. 
+
+Fringe Benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. 
+
+Travel and 
+Transportation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. 
+
+Equipment & Supplies 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. 
+
+Subawards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. 
+
+Other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7. 
+
+Total Direct Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8. 
+
+Indirect Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9. 
+
+Total Federal Funds 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10. 
+
+Total Estimated 
+Amount 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Note: Your organization should submit its summary budget in the above summary budget template. You 
+must also submit the detailed budget for each of the cost categories with the accompanying budget 
+narrative. 
+
+ 
+
+[End of Annex 1] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 2 – STANDARD PROVISIONS 
+
+ 
+
+ 
+
+(Note: the full text of these provisions may be found at: https://www.usaid.gov/ads/policy/300/303maa 
+and https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award will 
+also contain the following “required as applicable” Standard Provisions: 
+
+ 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR U.S. NONGOVERNMENTAL 
+ORGANIZATIONS 
+
+ 
+
+Required 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. NEGOTIATED INDIRECT COST RATES - PREDETERMINED (NOVEMBER 2020) 
+
+RAA2. NEGOTIATED INDIRECT COST RATES - PROVISIONAL (Nonprofit) 
+(NOVEMBER 2020) 
+
+RAA3. NEGOTIATED INDIRECT COST RATE - PROVISIONAL (Profit) (DECEMBER 
+2014) 
+
+RAA4. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+X 
+
+ 
+
+RAA5. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 2012) 
+
+ 
+
+X 
+
+RAA6. VOLUNTARY POPULATION PLANNING ACTIVITIES – SUPPLEMENTAL 
+REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+X 
+
+RAA7. PROTECTION OF THE INDIVIDUAL AS A RESEARCH SUBJECT (APRIL 1998) 
+
+ 
+
+X 
+
+RAA8. CARE OF LABORATORY ANIMALS (MARCH 2004) 
+
+ 
+
+TBD 
+
+RAA9. TITLE TO AND CARE OF PROPERTY (COOPERATING COUNTRY TITLE) 
+(NOVEMBER 1985) 
+
+ 
+
+X 
+
+RAA10. COST SHARING (MATCHING) (FEBRUARY 2012) 
+
+ 
+
+X 
+
+RAA11. PROHIBITION OF ASSISTANCE TO DRUG TRAFFICKERS (JUNE 1999) 
+
+ 
+
+X 
+
+RAA12. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+X 
+
+ 
+
+RAA13. REPORTING HOST GOVERNMENT TAXES (DECEMBER 2014) 
+
+X 
+
+ 
+
+RAA14. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+X 
+
+RAA15. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) (FEBRUARY 2012) 
+
+ 
+
+X 
+
+RAA16. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+X 
+
+RAA17. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX TRAFFICKING 
+(ASSISTANCE) (SEPTEMBER 2014) 
+
+X 
+
+ 
+
+RAA18. USAID DISABILITY POLICY - ASSISTANCE (DECEMBER 2004) 
+
+X 
+
+ 
+
+RAA19. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN USAID 
+ASSISTANCE AWARDS INVOLVING CONSTRUCTION (SEPTEMBER 2004) 
+
+ 
+
+X 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING ACTIVITIES ON 
+LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+X 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING FUNDS (JUNE 
+2012) 
+
+ 
+
+X 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO PROMOTE, 
+SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR PRACTICE OF 
+PROSTITUTION (JUNE 2012) 
+
+X 
+
+ 
+
+RAA23. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD MANAGEMENT 
+(NOVEMBER 2020) 
+
+
+
+
+X 
+
+ 
+
+RAA24. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION (NOVEMBER 
+2020) 
+
+ 
+
+X 
+
+RAA25. PATENT REPORTING PROCEDURES (NOVEMBER 2020) 
+
+ 
+
+X 
+
+RAA26. ACCESS TO USAID FACILITIES AND USAID’S INFORMATION SYSTEMS 
+(AUGUST 2013) 
+
+X 
+
+ 
+
+RAA27. CONTRACT PROVISION FOR DBA INSURANCE UNDER RECIPIENT 
+PROCUREMENTS (DECEMBER 2014) 
+
+X 
+
+ 
+
+RAA28. AWARD TERM AND CONDITION FOR RECIPIENT INTEGRITY AND 
+PERFORMANCE MATTERS (April 2016) 
+
+ 
+
+X 
+
+RAA30. PROGRAM INCOME (AUGUST 2020) 
+
+X 
+
+ 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+ 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+ 
+
+Required 
+
+ 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (NOVEMBER 2020) 
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS (DECEMBER 2014) 
+
+TBD 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST RATE AGREEMENT 
+(NICRA) (NOVEMBER 2020) 
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED AMOUNT (NONPROFIT) (JUNE 
+2012) 
+
+RAA5. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+X 
+
+ 
+
+RAA6. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD MANAGEMENT 
+(NOVEMBER 2020) 
+
+X 
+
+ 
+
+RAA7. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION (NOVEMBER 
+2020) 
+
+X 
+
+ 
+
+RAA8. SUBAWARDS (DECEMBER 2014) 
+
+X 
+
+ 
+
+RAA9. TRAVEL AND INTERNATIONAL AIR TRANSPORTATION (DECEMBER 2014) 
+
+X 
+
+ 
+
+RAA10. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+X 
+
+ 
+
+RAA11. REPORTING HOST GOVERNMENT TAXES (JUNE 2012) 
+
+ 
+
+X 
+
+RAA12. PATENT RIGHTS (JUNE 2012) 
+
+X 
+
+ 
+
+RAA13. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 2012) 
+
+ 
+
+X 
+
+RAA14. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+ 
+
+X 
+
+RAA 15. COST SHARE (JUNE 2012) 
+
+ 
+
+X 
+
+RAA16. PROGRAM INCOME (AUGUST 2020) 
+
+ 
+
+X 
+
+RAA17. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+X 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN USAID 
+ASSISTANCE AWARDS INVOLVING CONSTRUCTION (SEPTEMBER 2004) 
+
+ 
+
+X 
+
+RAA19. PROTECTION OF HUMAN RESEARCH SUBJECTS (JUNE 2012) 
+
+ 
+
+X 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING ACTIVITIES ON 
+LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+X 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING FUNDS (JUNE 
+2012) 
+
+
+
+
+ 
+
+X 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO PROMOTE, 
+SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR PRACTICE OF 
+PROSTITUTION (JUNE 2012) 
+
+ 
+
+X 
+
+RAA23. VOLUNTARY POPULATION PLANNING ACTIVITIES – SUPPLEMENTAL 
+REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+X 
+
+RAA24. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) (FEBRUARY 2012) 
+
+ 
+
+X 
+
+RAA25. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+X 
+
+RAA26. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING(ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+X 
+
+RAA27. LIMITATION ON SUBAWARDS TO NON-LOCAL ENTITIES (JULY 2014) 
+
+X 
+
+ 
+
+RAA28. CONTRACT PROVISION FOR DBA INSURANCE UNDER RECIPIENT 
+PROCUREMENTS (DECEMBER 2014) 
+
+X 
+
+ 
+
+RAA29. CONTRACT AWARD TERM AND CONDITION FOR RECIPIENT INTEGRITY 
+AND PERFORMANCE MATTERS (April 2016) 
+
+X 
+
+ 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+ 
+
+[End of Annex 2] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 3 – INITIAL ENVIRONMENT EXAMINATION 
+
+ 
+
+Please see a separate attachment (MTF 6 (Asia-19-009-MTF-6) to Programmatic Health IEE (P-IEE)) to 
+this NOFO. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 4 – LOCAL COMPENSATION PLAN 
+
+ 
+
+Please see a separate attachment to this NOFO. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Compensation Guideline - Uzbekistan 
+Based on USAID/CA/Tashkent Compensation Plan dated 08/15/21 
+
+RANGE (In 
+U.S. Dollars) 
+Middle High 
+Daily Rate Daily Rate 
+$227.08 $256.47 
+$192.53 $217.42 
+$175.37 $198.02 
+$124.50 $140.50 
+$107.01 $120.74 
+$93.41 $105.35 
+$76.72 $86.48 
+$63.79 $71.89 
+$57.75 $65.05 
+$52.58 $59.21 
+$40.70 $45.79 
+
+USAID Low 
+Levels 
+USAID Position Titles USAID Contractor 
+Positions 
+Qualifications 
+Daily Rate 
+Grade 12 
+Deputy Controller Sr. 
+Project Management 
+Specialist 
+Sr. Specialist 
+Head Finance 
+Manager 
+Head Field 
+Coordinator 
+Over 8 Years of Professional 
+Experience and Demonstration 
+Highly Advanced Skills, expert 
+knowledge. 
+Advanced Degree in Technical or 
+Mgt. Area (additional weight is 
+given to U.S. degrees) 
+Policy Level Responsibility in 
+Technical or Mgt. Area 
+$197.70 
+Grade 11 
+Chief Accountant Sr. 
+Project Management 
+Specialist 
+Sr. SpecialistHead 
+Finance Manager 
+Head Field 
+Coordinator 
+Over 7 Years of Professional 
+Experience or Demonstration Highly 
+Advanced Skills 
+Advanced Degree in Technical or 
+Mgt. Area (additional weight is 
+given to U.S. degrees) 
+Policy Level Responsibility in 
+Technical or Mgt. Area 
+$167.65 
+Grade 10 
+Project Mgt. Specialist; 
+Computer Management; 
+Specialist Chief 
+Accountant 
+Sr. Specialists; 
+Finance Manager; 
+Field Coordinator 
+Over 6 Year of Professional 
+Experience or Demonstration Highly 
+Advanced Skills Advanced Degree 
+in Technical or Mgt. Area (additional 
+weight is given to U.S. degrees) 
+Policy Level Responsibility in 
+Technical or Mgt. Area $152.72 
+Grade 9 Supervisor Administrative 
+Asst.; Procurement Agent 
+Office Manager 
+Marketing/Economic 
+etc. Specialists 
+Over 5 Year Advanced Degree in 
+Technical or Mgt. Area of 
+Professional Experience 
+Technical/Management Leadership 
+in Programmatic or Operational 
+Area Usually has supervisory 
+responsibility $108.50 
+Grade 8 Interpreter/Translator; 
+Project Manager; 
+Accounting Technician; 
+Travel Assistant; 
+Maintenance Supervisor 
+Interpreter; Engineer; 
+Computer Specialist; 
+Other Technical 
+Professionals 
+Professional Degree in Technical 
+Area Over 4 Year of Professional 
+Experience Highly developed skills 
+in technical area 
+$93.28 
+Grade 7 Administrative Assistant; 
+Accounting Technician; 
+Travel Assistant 
+Accountant; 
+Information 
+Specialists; Sr. 
+Administrative 
+Assistants 
+University Degree Over 3 Years of 
+Professional or Administrative 
+experience Management 
+Responsibility for Specific Tasks 
+$81.47 
+Grade 6 Warehouse Storekeeper; 
+Senior Office Secretary; 
+Expendable Storekeeper; 
+Motor Pool Supervisor 
+Administrative 
+Assistants 
+University Degree Over 3 years of 
+professional or administrative 
+experience Responsibility for 
+Specific Tasks 
+$66.95 
+Grade 5 Secretary, Personnel 
+Clerk 
+Jr. Administrative 
+Assistants; Jr. 
+Interpreters 
+University Degree with no 
+professional experience Currently in 
+college No college with 5 years of 
+experience $55.70 
+Grade 4 Electrician; Carpenter; 
+Plumber; Receptionist 
+Electrician; Carpenter; 
+Other Skilled Labor 
+5 years of experience in skills area 
+$50.44 
+Grade 3 Chauffeur Drivers Proven driving experience with 
+reliable automobile $45.94 
+Grade 1 Cleaning woman Cook Proven skills to cook or clean $35.60 
+
+annual BS Meal Allowance 
+step 1 step 6 step 11 $450.00 
+$50,951.00 $58,591.00 $66,231.00 
+$43,139.00 $49,609.00 $56,079.00 
+$39,256.00 $45,146.00 $51,036.00 
+$27,759.00 $31,919.00 $36,079.00 
+$23,802.00 $27,372.00 $30,942.00 
+$20,731.00 $23,836.00 $26,941.00 
+$16,956.00 $19,496.00 $22,036.00 
+$14,031.00 $16,136.00 $18,241.00 
+$12,664.00 $14,564.00 $16,464.00 
+$11,495.00 $13,220.00 $14,945.00 
+$8,806.00 $10,131.00 $11,456.00 
+
+

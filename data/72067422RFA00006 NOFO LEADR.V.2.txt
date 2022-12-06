@@ -1,0 +1,4323 @@
+Issuance Date: August 16, 2022, 4:00pm, South Africa time 
+
+Deadline for Questions: September 6, 2022, 4:00pm, South Africa time 
+
+Closing Date for Concept Paper: September 26, 2022 @, 10:00am, South Africa time 
+
+ 
+
+Co-Creation Kick Off Meeting: TBD (October/November 2022) 
+
+ 
+
+Subject: Notice of Funding Opportunity Number: 72067422RFA00006 
+
+ 
+
+Program Title: USAID/Lesotho / Local Entities Advancing and Driving Health Responses 
+
+(LEADR) Activity 
+
+ 
+
+Catalog of Federal Assistance Listing (CFDA) Number: 98.001 
+
+ 
+
+Dear Prospective Applicants: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications from qualified 
+entities to implement the Local Entities Advancing and Driving Health Responses (LEADR) activity. 
+Eligibility for this award is restricted to local and regional organizations as defined in Section C. 
+
+The total estimated amount is anticipated to be $15 million. 
+
+ 
+
+USAID desires to engage in pre-award co-design and make award to the applicant(s) who best meets the 
+objectives of this funding opportunity based on the merit review criteria described in this NOFO subject to 
+a risk assessment. Eligible parties interested in submitting an application are encouraged to read this 
+NOFO thoroughly to understand the type of program sought, application submission requirements and 
+selection process. USAID strongly discourages the use of exclusive agreements with organizations and key 
+personnel as this limits the program’s potential to receive the best services. 
+
+ 
+
+If USAID decides to engage in co-design, selected applicants will be notified of the time and date of the 
+co-design kickoff. The Government will make every effort to provide at least two weeks’ notice to 
+facilitate participation in the co-design process. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and meet 
+eligibility standards in Section C of this NOFO. This funding opportunity is posted on www.grants.gov, 
+and may be amended. It is the responsibility of the applicant to regularly check the website to ensure they 
+have the latest information pertaining to this notice of funding opportunity and to ensure that the NOFO 
+has been received from the internet in its entirety. USAID bears no responsibility for data errors resulting 
+from transmission or conversion process. If you have difficulty registering on www.grants.gov or 
+accessing the NOFO, please contact the Grants.gov Helpdesk at 1-800-518-4726 or via email at 
+support@grants.gov for technical assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique entity 
+identifier and System for Award Management (SAM) requirements detailed in Section D. The registration 
+process may take many weeks to complete. Therefore, applicants are encouraged to begin registration 
+early in the process. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for questions is 
+shown above. Responses to questions received prior to the deadline will be furnished to all potential 
+applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the part of the 
+Government nor does it commit the Government to pay for any costs incurred in preparation or submission 
+of comments/suggestions or an application. Applications are submitted at the risk of the applicant. All 
+preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nya Kwai Boayue 
+
+Agreement Officer 
+
+Regional Office of Acquisition and Assistance
+
+
+ 
+
+Table of Contents 
+
+2014 
+
+ 
+
+P42TB1bA#y1 
+
+
+SECTION A: PROGRAM DESCRIPTION 4 
+SECTION B: FEDERAL AWARD INFORMATION 15 
+SECTION C: ELIGIBILITY INFORMATION 18 
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 20 
+SECTION E: CONCEPT PAPER MERIT REVIEW CRITERIA 26 
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 27 
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 48 
+SECTION H: OTHER INFORMATION 49 
+ANNEX 1 – CONCEPT PAPER TEMPLATE 50 
+ANNEX 2 - STANDARD PROVISIONS 52 
+ANNEX 3 - ABBREVIATIONS AND ACRONYMS 53 
+
+
+ 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as amended. The 
+resulting award will be subject to 2 CFR 200 – Uniform Administrative Requirements, Cost Principles, 
+and Audit Requirements for Federal Awards, and USAID’s supplement, 2 CFR 700, as well as the 
+additional requirements found in Section F. 
+
+ 
+
+I. INTRODUCTION 
+
+
+ 
+
+USAID/Lesotho wants to support an activity to deliver high-quality integrated prevention, care and 
+treatment services that will sustain the reduction in HIV, TB, and COVID-19 transmission, morbidity, and 
+mortality through the implementation of a comprehensive, people-centered program in Butha-Buthe and 
+Mokhotlong districts. 
+
+ 
+
+A successful application should focus on the provision of effective decentralized, differentiated, and 
+integrated facility and community services, which maximize equitable access to comprehensive HIV, TB, 
+and COVID-19 interventions using a primary health care approach that ensures clients access holistic 
+services. In addition, the activity should provide health system strengthening technical support at sub-
+national levels with limited support at national level to achieve and sustain epidemic control, including, but 
+not limited to health system governance, human resources for health capacity building, collaborative 
+quality improvement, monitoring, and evaluation (M&E), and site level supply chain management. Finally, 
+the applicant should utilize adaptive management principles to inform sustained epidemic control through 
+(i) collaboration, learning, and adapting (CLA); (ii) development of strategic partnerships with local 
+entities, civil society organizations, and the private sector; and (iii) begin integration of the HIV, TB, and 
+COVID-19 services into broader Reproductive Maternal Newborn Child and Adolescent Health 
+(RMNCAH) services using a primary health care approach. By integrating multiple service delivery 
+elements, a successful application should be able to leverage resources and common systems (i.e., 
+governance, infrastructure, supply chain management, human resources, information systems, laboratory, 
+infrastructure, service delivery, and community systems) to achieve the desired health outcomes efficiently 
+and effectively. 
+
+ 
+
+Primary clients are children, adolescents and adults living with HIV, pregnant and breastfeeding women, 
+HIV exposed infants, key populations, TB patients, and communities affected by the HIV, TB, and 
+COVID-19 pandemics. Secondary clients are the general population that need primary prevention 
+services, health/community service providers, and policy makers at national and sub-national levels. 
+
+ 
+
+II. BACKGROUND 
+
+
+ 
+
+Lesotho has the second highest HIV prevalence in the world, at 22.7 percent in adults aged >15 years, with 
+markedly higher rates among women (27.4 percent) than among men (17.8 percent), as per the 2020 
+Lesotho Population-based HIV Impact Assessment (LePHIA). The country has an estimated 280,000 
+people living with HIV and saw a decline in HIV incidence from 1.1 percent in adults aged 15-59 years 
+from the 2016 LePHIA, to a 0.5 percent in the same population in 2020. Lesotho met the UNAIDS 
+90/90/90 targets with 90 percent of people living with HIV (PLHIV) knowing their status, 97 percent of 
+PLHIV who know their status are on ART, and 92 percent of those on ART having suppressed viral loads, 
+an improvement from 4 years previously of 81 percent, 92 percent, and 88 percent respectively. The 
+Prevention of Mother- to-Child-Transmission (PMTCT) program in Lesotho started in 2003 and continues 
+to be one of the Ministry of Health’s (MOH) focal entry points into pediatric HIV prevention, care, and 
+treatment services and maternal, neonatal, and child services. 
+
+ 
+
+
+The Government of Lesotho (GOL) plays a pivotal role in providing political leadership in the delivery of 
+HIV, TB, and other health care services. The GOL finances the majority of the national response along the 
+continuum of care and treatment, covering 70 percent of antiretrovirals (ARVs), a significant share of 
+essential medicines, and the majority of human resources and infrastructure costs 
+
+ 
+
+III. PROBLEM STATEMENT 
+
+
+ 
+
+Despite the achievement of the 90-90-90 UNAIDS goals, HIV/AIDS, TB, and emerging pandemics remain 
+major public health priorities for the Government of Lesotho (GOL). Sustaining epidemic control requires 
+intentional efforts to address the remaining gaps, which include: (i) suboptimal continuity of treatment 
+coverage among diagnosed PLHIV on antiretroviral therapy (ART); (ii) diagnosis and treatment gap that is 
+higher in children, adolescents, youth, key populations, and men (iii) aging cohort of adults on ART that 
+poses new health needs e.g., non-communicable diseases; (iv) emerging pandemics that stretch the national 
+health system; and (v) suboptimal coverage of combination prevention interventions. 
+
+ 
+
+The HIV disease burden in young people aged 15-24 years is still high because they account for 50% of 
+new infections (PEPFAR Recency program data). HIV prevalence is five times higher among young 
+women aged 20-24 years than among male counterparts, and viral suppression among young people 
+remained below the UNAIDS targets, regardless of sex (LePHIA, 2020). Lesotho continues to be among 
+the top 20 countries with the highest global burden of HIV among pregnant women with a prevalence of 
+22.8 percent. While there are approximately 41,000 annual deliveries in Lesotho, there remains an 
+estimated 500 new HIV infections in children and 8,700 children living with HIV, (UNAIDS, 2021). 
+
+ 
+
+Lesotho remains a high burden TB/HIV country with an estimated TB incidence (including HIV/TB co-
+infection) in 2020 of 650 per 100,000 population (14,000 incident TB cases, out of which 8,200 are 
+estimated to be TB and HIV co-infected), (Global TB Report, 2021). AIDS-related mortality has not 
+significantly decreased from 4,908 deaths in 2016 to 4,700 in 2020 (UNAIDS, 2021). 
+
+ 
+
+Despite significant gains on HIV treatment coverage and high viral suppression rates, Lesotho has the third 
+lowest life expectancy globally at 54.79 in 2021. This could be affected by the high maternal, infant, and 
+neonatal mortality rates and sub-optimal reproductive health, maternal, neonatal, child, and adolescent 
+health (RMNCAH) service delivery at all levels of the primary health care system. Maternal, newborn 
+and child health indices show suboptimal health outcomes with adolescent fertility rates at 97.2 per 1,000 
+live births in 2019, maternal mortality ratio of 1.1 per 1,000-woman years of exposure, maternal mortality 
+ratio of 1,204 per 100,000 live births, under 5 mortality rate is 89.2 per 1000 live births, stillbirth rate is 
+27.9 per 1000 total births and neonatal mortality of 44 per 100 live births, the highest in the world. These 
+stark figures underscore the vital importance of ensuring that close coordination and targeted programming 
+with other RMNCAH partners is institutionalized to integrate HIV and TB services into a well performing 
+quality health system. 
+
+ 
+
+The COVID-19 pandemic has further stretched the health system to ensure the uptake and provision of 
+essential services. To date in Lesotho, there have been 32,716 cumulative cases and 697 deaths. As of 
+March 9, 2022, 40.3 percent of the population has been fully vaccinated. As a low-middle income country, 
+Lesotho’s systems for laboratory diagnostics, case management, oxygen systems, human resources for 
+health, health information, supply chain management, surveillance, and community health promotion have 
+been stretched in an effort to address the triple HIV, TB, and COVID-19 pandemics and other current 
+public health threats, while maintaining quality essential health services. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+IV. LEADR ACTIVITY RELATIONSHIP TO THE USG AND GOL POLICY FRAMEWORK 
+
+
+ 
+
+The LEADR activity directly contributes to the PEPFAR strategy and the Government of Lesotho (GOL)’s 
+goal of ensuring that 95 percent of people living with HIV know their status, 95 percent of those who 
+know their status are on ART, and 95 percent of those on treatment are virally suppressed (95-95-95 
+goals). In addition, it contributes to the USG and GOL policy framework for ending the COVID-19 
+pandemic and emerging public health threats. 
+
+ 
+
+PEPFAR has been partnering with the GOL since its inception to contribute to the reduction of HIV 
+related morbidity and mortality. The overarching goal of the PEPFAR program in Lesotho is to expand 
+access to quality HIV prevention, treatment, and related services in support of the National HIV/AIDS 
+Strategy (2018-2023). The national HIV/AIDS strategic plan (NSP) goals are to (i) reduce new HIV 
+infections by at least 50 percent by 2023 from 13,300 in 2017; (ii) reduce AIDS-related deaths by 50 
+percent by 2023 from 4,900 in 2017; (iii) reduce mother to child transmission of HIV from 11.3 percent to 
+less than 5 percent by 2023; and (iv) improve the efficiency and effectiveness of the national response 
+planning, coordination, and service delivery. 
+
+ 
+
+In addition, Lesotho is committed to end TB by 2030 through the National TB Strategic Plan (2019-2023) 
+through reducing the overall mortality of TB by 75 percent and reducing the overall incidence of TB by 50 
+percent. The GOL and the U.S. have a shared goal of reducing the number of new HIV, TB, and COVID-
+19 infections. The current PEPFAR strategy focuses on the saturation of high-quality, HIV and TB 
+prevention, care, and treatment services through a people-centered approach and supporting a strong policy 
+framework. In addition, USAID contributes to the Lesotho National Preparedness and Response Plan for 
+the COVID-19 pandemic in order to end the COVID-19 pandemic through acceleration of COVID-19 
+vaccine access, case management, infection prevention and control, and strengthening resilience of health 
+systems. 
+
+ 
+
+The LEADR activity intends to build on these gains by progressively realizing transformation of key 
+functionalities and program elements to local institutions e.g., non-governmental organizations, civil 
+society organizations, private sector, district health management teams, etc., using innovative, sustainable 
+organizational and capacity development approaches built on a strong health systems optimization 
+platform. 
+
+ 
+
+The LEADR activity contributes to the USAID/Southern African Regional Development Cooperation 
+Strategy (RDCS) Development Objective 3: Resilience of People and Systems Advanced through 
+Intermediate Result 3.2: Equitable Provision of Quality Health and Other Services Improved, and 
+Intermediate Result 3.3: Citizen Participation and Leadership Increased. The LEADR activity directly 
+responds to the USAID focus on resilience, localization, inclusivity, responsiveness with strong 
+engagement and utilization of digital technologies and private sector approaches. Furthermore, the LEADR 
+activity is fully in line with and PEPFAR sustainability goals to increase funding to local organizations and 
+sustain epidemic control. 
+
+ 
+
+ 
+
+V. GOAL AND RESULTS OF THE LEADR ACTIVITY 
+
+
+ 
+
+The goal of the LEADR activity is to support the GOL to deliver high-quality integrated prevention, care 
+and treatment services that will sustain the reduction in HIV, TB, and COVID-19 transmission, morbidity, 
+and mortality in Lesotho through the implementation of a comprehensive, person-centered approach in 
+Butha-Buthe and Mokhotlong districts. By the end of the award, a successful applicant should achieve the 
+following results: 
+
+
+• Result 1: Increased coverage of high-quality evidence-informed comprehensive and people-
+centered HIV and TB prevention, diagnosis, care, and treatment services. 
+• Result 2: Increased access and uptake of quality prevention, detection, vaccination, and clinical 
+services to mitigate the impact and reduce transmission of emerging public health pandemics, 
+including COVID-19. 
+• Result 3: Strengthened district and community health systems using a primary health care 
+approach to sustain epidemic control of HIV, TB, and other infectious diseases beyond activity 
+implementation. 
+
+
+ 
+
+VI. GEOGRAPHIC FOCUS 
+
+
+ 
+
+The LEADR activity will be implemented in Butha Buthe and Mokhotlong districts of Lesotho. USAID 
+desires to support an activity which provides technical assistance and direct service delivery support at 
+facility and community levels to increase access to quality and comprehensive prevention, diagnostic, care, 
+and treatment continuum of care. 
+
+ 
+
+The successful applicant must collaborate with existing USAID PEPFAR implementing partners to 
+effectively transition activities. Some of these partners include the Expanding Tuberculosis and HIV/AIDS 
+Clinical Services (ETHICS) and USAID/Providing Universal Services (PUSH) projects to ensure 
+continuity of prevention and treatment services and handover of technical and programmatic support to the 
+target districts in concert with Ministry of Health (MOH), USAID, and other key HIV/AIDS, TB, and 
+COVID-19 partners and stakeholders. 
+
+ 
+
+VII. TECHNICAL APPROACH 
+
+
+ 
+
+Result 1: Increased coverage of high quality, comprehensive and person-centered HIV and TB 
+prevention, diagnosis, care, and treatment services. 
+
+ 
+
+USAID desires to support an activity that provides direct service delivery and targeted technical assistance 
+to improve access, availability, demand for and utilization of quality HIV and TB services at facility and 
+community levels integrated into essential service delivery platforms. The incumbent should build on the 
+gains of the MOH efforts to sustain the reduction in morbidity, mortality, and HIV transmission in targeted 
+populations and locations, and will employ an adaptive management approach, adjusting strategies and 
+interventions based on data, changing environments that are responsive to local population needs. Key 
+activity deliverables should include the following intermediate results (IRs): 
+
+ 
+
+I.R 1.1: Reduce new infections among high-risk sub-populations through combination prevention services. 
+
+ 
+
+Programming priorities include, but not be limited to: 
+
+a. Increase access and provision of quality and client-centered Pre-exposure prophylaxis (PrEP) for 
+eligible target populations, including integration of PrEP in maternal newborn child health (MNCH) 
+and family planning (FP) entry points, private sector, and other service outlets and provision of multi-
+month dispensing (MMD) for PrEP clients. 
+b. Expand access, utilization, and quality of post-gender-based violence (GBV) clinical care services 
+including intimate partner violence (IPV) screening within all service outlets, saturating service 
+coverage of the post-GBV care minimum service package and ensuring optimal linkages to 
+community-based providers and services e.g., Lesotho Mountain Police Services, judiciary, and the 
+PEPFAR Community GBV implementing partners. 
+c. Provision of facility-based DREAMS HIV prevention service package to eligible HIV negative 
+adolescent girls young and women, that includes, but is not limited to HIV testing services, HIV 
+prevention education; screening and management of STIs, voluntary and informed choice in family 
+
+
+
+planning and, PrEP, and onward referral to community DREAMS services and HIV treatment for 
+those adolescents testing positive for HIV. 
+d. Integrate the Undetectable = Untransmissible (U=U) service package for PLHIV in all service outlets 
+including, but not limited to risk reduction counseling, condom promotion, ART adherence 
+counseling, STI screening and management, and voluntary family planning services. 
+e. Effective coordination with other national and sub-national stakeholders to ensure access to 
+comprehensive prevention service delivery models are responsive to the needs of clients, address 
+structural barriers, disabling sociocultural norms, and economic challenges that would increase the risk 
+of HIV infection. 
+
+
+ 
+
+I.R.1.2: Closing the HIV treatment gap in all ages and genders in the supported districts. 
+
+ 
+
+Programmatic priorities include: 
+
+a. Actively and effectively reaching undiagnosed PLHIV with targeted HIV testing services (HTS), 
+optimal linkage to care, same day/rapid ART initiation and retention services especially in the first six 
+month on treatment. 
+b. Targeted case identification focusing on high yield HTS modalities, including safe and ethical index 
+testing, use of the risk screening tools, diagnostic testing in TB, PMTCT, & inpatient settings, and 
+scale-up of innovative testing approaches. 
+c. Strengthen quality of testing services through internal and external quality control/quality assurance 
+(QC/QA) and compliance with national counseling standards. 
+d. Strengthen facility and community systems to improve differentiated service delivery for testing, 
+initiation, and retention in care for PLHIV who have been on ART for <6 months, including enhanced 
+clinical case management and universal adherence support. 
+e. Ensure availability of systematic processes to track newly identified PLHIV who are not yet prepared 
+to accept same day/rapid ART initiation to support them in their decision-making and address their 
+treatment concerns. 
+f. Integrate HIV self-testing in all testing modalities, targeting sub-populations with high unmet need 
+e.g., children, men, youth, and Key Populations (KPs). 
+g. Collaboration with PEPFAR Recency testing technical assistance implementing partners to integrate 
+service delivery for newly diagnosed PLHIV and ensure coordination with USG prevention 
+implementing partners to increase service acceleration in hot spot areas. 
+
+
+ 
+
+I.R. 1.3: Saturate treatment coverage to ensure high population viral suppression and reduction of new 
+infections in the supported districts. 
+
+ 
+
+Programmatic priorities include, but not be limited to: 
+
+a. Scale-up of innovative interventions that will increase quarterly treatment growth rates for all 
+population segments in the supported districts. 
+b. Ensure continuity of treatment for all population segments irrespective of duration on ART through 
+innovative people-centered service delivery models and use of digital health technology. 
+c. Saturate viral load coverage and sustain viral suppression rates through targeted demand creation in all 
+DSD models. 
+d. Expand decentralized drug distribution (DDD), including, but not limited to multi-month dispensing 
+(MMD), community ART Groups (CAGs), mobile outreach clinics, and community ART distribution. 
+The LEADR activity will work with GOL and supply chain stakeholders to ensure sufficient HIV 
+drugs and commodities are available at the site levels to meet the DDD demands. 
+e. Use of optimized ART regimen for both adults and children based on national and international policy 
+guidelines. 
+f. Strengthen community health systems to integrate HIV into existing community health services, 
+reduce interruption in treatment and support re-engagement in to care, including, but not limited to, 
+
+
+
+appointment reminders, active tracking systems, targeted clinical case management, non-judgmental, 
+supportive providers, and virtual adherence support, innovations for re-engaging the highly migrant 
+population in care. Sensitivities to the varied needs of the populations served (e.g., young adults, 
+adolescents, KPs, men, families) should be a focus of mentoring of all providers to address beneficiary 
+reticence in engagement in services. 
+g. Improve treatment literacy levels, including U=U messaging, among clients, particularly in the youth 
+and young adults and establish functional community support groups (e.g., peer support groups, 
+caregiver clubs, youth clubs’ post-natal clubs, etc.). Work with community and faith leaders to 
+broaden messaging platforms. 
+h. Mainstream positive youth development in the overall program based on implementing the Youth 
+Programming Assessment Tool (YPAT), or other similar tools, to ensure that service provision is 
+responsive and caters to youth that addresses key prevention, testing, and treatment barriers and 
+disseminates successes that youth accessing the full gamut of HIV services encounter. 
+
+
+ 
+
+I.R. 1.4: Reduce morbidity and mortality among people living with HIV. 
+
+ 
+
+Programming priorities include, but not be limited to: 
+
+a. Strengthen management of treatment failure at all levels of care, which includes, but is not limited to, 
+capacity building of service providers on enhanced adherence counseling; U=U treatment literacy, 
+optimal viral load coverage, and active clinical case management of viremic patients and those 
+confirmed to have treatment failure. 
+b. Scale-up Advanced HIV Disease (AHD) services to all sites and attain optimal coverage of the core 
+essential service package in eligible clients. 
+c. Strengthen secondary prevention of cervical cancer to attain PEPFAR and national screening and 
+treatment coverage rates among women living with HIV (WLHIV). 
+d. Strengthen nutrition assessment counseling and support (NACS) in all service outlets at facility and 
+community levels and ensure optimal linkage of malnourished patients to treatment based on national 
+guidelines. This activity will also support essential nutrition service uptake within the first 1,000 days 
+of life to improve pregnancy outcomes and child growth and development. 
+e. Ensure integration of non-communicable disease (NCD) and acute care services within HIV, TB and 
+COVID service outlets to ensure people-friendly, easy access to all health care needs, and non-
+stigmatizing services. 
+f. Integrate mental health, intimate partner violence (IPV) and Gender Based Violence (GBV) screening 
+and treatment/referral services access at all sites offering HIV services. 
+g. Improve bi-directional facility-community, intra-facility, and inter-facility referral systems for quality 
+prevention, clinical care, treatment, and follow-up. This includes, but is not limited to the following: 
+i. Strengthening collaboration with USG OVC partners to enroll children and adolescents living 
+with HIV and their families to access broader social development programs among eligible 
+households. 
+ii. Active linkage of GBV survivors to access ongoing legal, social, and psychological support. 
+iii. Access to the comprehensive package of DREAMS services for eligible adolescent girls and 
+young women. 
+iv. Increasing integration and access of essential health services for people living with HIV 
+
+
+
+
+
+ 
+
+I.R. 1.5: Support the national End TB strategic goals and reduce the impact of TB disease among people 
+living with HIV. 
+
+ 
+
+Activity priorities include, but not be limited to: 
+
+
+a. Develop innovative approaches for providing quality care and support services for HIV/TB co-
+infection in alignment with WHO and national TB guidelines, ensuring treatment and retention of 
+HIV and TB co-infected patients. 
+b. Strengthen TB case identification by ensuring that all people receiving HIV services (including HIV 
+testing in any setting) are screened for TB and that all people using TB services are tested for HIV. 
+c. Saturate TB Preventive Therapy (TPT) coverage in all PLHIV and eligible contacts who screen 
+negative for TB and attain national and PEPFAR TPT completion rates. 
+d. Improve TB case management by ensuring that all who are diagnosed with TB receive appropriate TB 
+care and treatment and attain national TB treatment success rates. This activity will actively link TB 
+patients to existing social support, community involvement, and economic support services. 
+e. Support coordination between TB and HIV programs to ensure linkages and retention along the 
+continuum of care for individuals with both TB and HIV infection; and strengthen TB infection 
+prevention and control measures at all supported sites. 
+f. Support the National TB Program to strengthen TB contact tracing at facility and community levels 
+with optimal linkage to TB diagnostic services and TPT. 
+g. Improve integration of TPT or TB treatment in all differentiated service delivery models in an effort to 
+ensure coordinated clinic visits for both TB and HIV. 
+
+
+
+
+ 
+
+I.R:1.6: Elimination of mother-to-child transmission of HIV (MTCT) to less than 2% at 6 weeks and at 
+final outcome (FO) through integrated PMTCT services in MNCH and keeping the mother-Baby pair 
+alive. 
+
+ 
+
+Programming priorities include, but not be limited to: 
+
+a. Primary prevention of HIV among women of reproductive age including provision of family planning, 
+dual protection, HIV testing services within MNCH to saturate knowledge of HIV status, dual HIV-
+Syphilis testing in MNCH settings, optimal re-testing coverage of negative pregnant women, ethical 
+index testing and partner notification services, social network testing, and optimal linkage to PrEP and 
+treatment services. 
+b. Prevention of unintended pregnancies among women living with HIV at facility and community 
+levels. 
+c. Improved health and treatment outcomes of pregnant and breastfeeding women and their infants, 
+including optimal maternal treatment coverage, maternal viral load coverage, maternal viral 
+suppression levels, HIV exposed infant ARV prophylaxis, and timely HIV-exposed infant viral testing 
+as per the national algorithms. All pregnant and breastfeeding women should receive optimized ART 
+regimens, differentiated service delivery models, MMD, family-centered care, use of point-of-care 
+laboratory monitoring, and clinical case management for mother-baby pairs at risk of interruption in 
+treatment or where mother is viremic or has treatment failure. 
+d. Increase access to early infant diagnosis services in all settings (emergency, pediatric ward, PMTCT, 
+and outpatient) to attain MOH and PEPFAR coverage rates within two months of birth and utilization 
+of POC and digital technology to reduce turn-around-time of results to caregivers to below seven days, 
+with optimal linkage to ART. 
+e. Strengthen integrated care and support service packages for mother-infant pairs (MIP) to saturate 
+knowledge of final infant PMTCT outcome at 18 months of age, exclusive breastfeeding and optimal 
+infant feeding practices. The activity will strengthen family-centered care aligned to the MNCH 
+schedule of services for mothers and infants. Mother-infant pairs will be prioritized for enrollment into 
+the OVC program, including adolescent mothers living with HIV. MNCH services and 
+HIV/TB/COVID services will be integrated and provided simultaneously to the MIP. 
+
+
+ 
+
+ 
+
+
+Result 2: Increased access and uptake of quality prevention, detection, vaccination, and clinical services 
+to mitigate the impact and reduce transmission of emerging public health pandemics, including 
+COVID-19: 
+
+ 
+
+The LEADR activity should provide technical support to the Ministry of Health and other relevant 
+ministries in addressing emerging public health threats and/or epidemics, including infectious diseases that 
+are threatening Lesotho's progress in achieving and sustaining HIV epidemic control and effective TB 
+management. The activity should provide technical support to improve health system resilience and 
+pandemic preparedness to address current and emerging public health threats, initially starting with the 
+COVID-19 pandemic. The initial pandemic response focus should be on strengthening district, health 
+facility, and community level planning, preparedness, and response systems to mitigate the impact of the 
+COVID-19 pandemic. USAID will provide guidance over the course of the award on additional public 
+health responses the project should undertake based on the local context of emerging pandemics and 
+availability of funding to support these activities. The COVID-19 pandemic priorities should be achieved 
+through the following intermediate results (IRs): 
+
+ 
+
+IR.2.1: Support the GOL’s national COVID-19 vaccine program. 
+
+ 
+
+The LEADR activity should align to the National Deployment and Vaccination Plan (NDVP) to implement 
+the following interventions: 
+
+a. Technical support in the development and dissemination of COVID-19 vaccination guidelines, training 
+materials, and job-aides. 
+b. Capacity building of health care providers on the provision, storage, and monitoring of individuals 
+receiving COVID-19 vaccines. 
+c. Promote equitable access and delivery of safe COVID-19 vaccinations for targeted populations 
+through expansion of service outlets e.g., mass vaccination, integration within ART/MNCH settings, 
+mobile outreaches, and other community service outlets. 
+d. Provide HRH surge support to meet the demand for vaccines, including, but not limited to, vaccine 
+service delivery, demand creation, risk communication, and data collection & reporting. 
+
+
+ 
+
+IR.2.2: Mitigate onward transmission of COVID-19 at facility and community levels. 
+
+ 
+
+Priority interventions include: 
+
+a. Capacity building of health care providers on COVID-19 infection prevention and control (IPC). 
+b. Establish functional facility-based IPC Committees to ensure development of a site IPC plan and 
+effective implementation of source control, administrative controls, and environmental and 
+engineering controls to prevent TB and COVID-19 transmission. 
+c. Ensure safety of providers and clients through procurement and optimal use of PPE, hand hygiene, and 
+physical distancing in all facility and community-based service delivery points. 
+
+
+ 
+
+I.R. 2.3: Strengthen health systems in the supported districts to rapidly respond, control and mitigate the 
+impact of the COVID-19 pandemic and any other emerging diseases. 
+
+ 
+
+Priority interventions include: 
+
+a. Capacity building of health care providers at facility and community levels on COVID-19 clinical 
+guidelines and risk communication and community engagement (RCCE) based on national strategy. 
+b. Decentralize dual TB-COVID-19 screening and other infectious diseases, triage, and clinical 
+assessments to all supported health centers, including hypoxia detection using pulse oximetry, with 
+optimal linkage for ongoing management of confirmed cases based on disease severity. 
+c. Expand screening, diagnosis, and treatment of co-morbidities that would increase the risk of severe 
+COVID-19 disease in PLHIV, and TB patients e.g., hypertension, diabetes mellitus, cancer, etc. 
+
+
+
+d. Promote access to timely, relevant, and life-saving information to support informed decision making to 
+protect community members from COVID-19 transmission communicable and non-communicable 
+diseases. 
+e. Leverage existing PEPFAR program to prevent COVID-19 transmission, IPV/GBV risk reduction, and 
+mitigate the impact of the pandemic on vulnerable populations. 
+f. Support stakeholder engagement through a district level emergency operations center that will promote 
+COVID-19 program data visibility, enhance coordination, resource leverage, and improve policy 
+decision making building. 
+
+
+ 
+
+Result 3: Strengthened district and community health systems to sustain epidemic control of HIV, TB, 
+and other infectious diseases beyond activity implementation. 
+
+ 
+
+Sustainable epidemic control requires strong national, district, and community level health systems. It 
+requires effective collaboration and coordination of multiple stakeholders, and integration of services 
+within GOL management structures, health systems, and policy environments to ensure sustained delivery 
+of quality people-centered HIV and TB services during acute infectious disease pandemics. The LEADR 
+activity will collaborate with the GOL, other PEPFAR implementing partners, the Global Fund, and 
+multilateral stakeholders to ensure coordinated implementation of HIV and TB programs at the national 
+and subnational level. This result area will be achieved through the following intermediate results (IRs): 
+
+ 
+
+I.R.3.1: Strengthened coordination and oversight of integrated HIV and TB programming in supported 
+districts. 
+
+ 
+
+Priority interventions include: 
+
+a. Technical support to the Ministry of Health in policy formulation, operationalization, and coordination 
+with district health management teams (DHMT) on sub-national dissemination of HIV, TB, COVID-
+19, and other health policies, guidelines, M&E tools, and training materials. 
+b. Work with district management on transition of district-level and site-level monitoring and oversight 
+of the HIV response to the DHMT by program year three on the following leadership elements: 
+i. Collaborative quality improvement and quality assurance (CQI/QA) activities, including 
+coaching, learning forums, and monitoring of CQI projects. 
+
+
+
+ii. Data quality assessments, verification, and site level performance monitoring. 
+iii. Oversight on site level supply chain stock management to meet demand for HIV prevention, care, 
+and treatment services 
+iv. Health care provider training, mentorship, and supportive supervision on the latest program 
+updates and innovations, etc. 
+
+
+ 
+
+c. By the end of program year two, all DHMTs in the supported districts will have a stewardship strategy 
+for leading the epidemic response in their districts, taking into account the four leadership areas listed 
+IR.3.1 (b) above. 
+
+
+ 
+
+I.R. 3.2: Strengthened capacity of local (public and private) organizations to provide quality, people-
+centered, and comprehensive HIV and TB services at facility and community levels. 
+
+ 
+
+Priority interventions include, but are not limited to: 
+
+a. Provide direct support and technical assistance to districts, private and public clinics, or local civil 
+society organizations to improve quality of services, foster programmatic efficiencies at facility and 
+community levels so as to sustain high coverage of prevention, care, and treatment services. 
+
+
+
+b. Advocate within sub-national government entities and sites to ensure the service models are responsive 
+to PLHIV and key population needs, socio-cultural norms and programing adaptability to any 
+emerging public health threats. 
+c. Provide organizational and technical capacity development of local sub-partner organizations (if any) 
+with a timely strategy that ends with the local organizations’ ability to manage an award as a prime 
+partner and effectively submit a proposal to other donor agencies in Lesotho. 
+d. Design innovative approaches to bring in private-sector capital, expertise, and market-based 
+approaches to ensure quality service delivery options and HSS efforts 
+
+
+ 
+
+I.R. 3.3: Strengthen district-level HRH systems to sustain HIV epidemic control: Key interventions 
+include. 
+
+ 
+
+a. Integration of comprehensive HIV, TB, and COVID-19 services with the primary health care at 
+facility and community levels. 
+b. Targeted HRH surge support of critical cadres of staff to improve site- and community-level service 
+delivery to bridge clinical cascade gaps required to sustain epidemic control. 
+c. By the end of program year three, LEADR will develop and implement an innovative approach for 
+phased site-level HRH transition in collaboration with national and district level policy makers. 
+
+
+ 
+
+VIII. ADDITIONAL TECHNICAL CONSIDERATIONS 
+
+
+ 
+
+1. Collaborating, Learning and Adapting (CLA): 
+
+ 
+
+USAID’s CLA approach aims to improve our development effectiveness in a more systematic and 
+intentional way by encouraging strategic collaboration, continuous learning, and adaptive management 
+throughout all our activities and programming. Successful applicants should incorporate these important 
+principles throughout their design, development, and implementation. Integrating CLA into this program 
+will help to ensure that interventions are coordinated with others, grounded in a strong evidence base, and 
+iteratively adapted to remain relevant throughout implementation. 
+
+ 
+
+In line with USAID’s CLA approach, the following are recommended during the implementation of the 
+activity: 
+
+a. Implementation science to define a core standard package that will promote the sustainability of HIV 
+epidemic control. 
+b. Utilization of a human-centered design approach to develop social, and behavior change 
+communication (SBCC) messages for targeted audiences to influence and promote positive behavior 
+changes (e.g., ensuring HIV testing, re-engagement in care, retention on treatment, and PrEP uptake of 
+PrEP, etc.), promote tailored U=U treatment literacy, and maintain safe behaviors to reduce HIV 
+incidence rates. This strategy will include community dissemination and involvement of local 
+community leaders to improve reach and uptake of messaging. 
+c. Utilize evidence-based programming shifts to mitigate the impact of the COVID-19 pandemic and 
+maintain core interventions that would sustain HIV epidemic control in the supported districts. 
+
+
+ 
+
+ 
+
+2. Gender Analysis and Integration and Youth 
+
+ 
+
+In accordance with USAID’s Gender Equality and Female Empowerment Policy, each activity must 
+identify and address any gender gaps relevant to the implementation of the activity. The incumbent must 
+complete a Gender Analysis within the first six months of the award and based on the outcomes of the 
+analysis, develop an Action Plan that will feed into a service delivery model that integrates a gender lens in 
+
+
+all supported districts to foster gender equity and reduce gender barriers and disparities over the life of the 
+award, including monitoring, evaluation, reporting, collaboration, and learning. 
+
+ 
+
+Furthermore, a successful Applicant should mainstream a positive youth development approach in the 
+activity design, implementation, monitoring and learning over the life of the award, that will be informed 
+by a Youth analysis that the recipient should conduct at the beginning of the LEADR activity. A success 
+activity should implement, track, and report on the three main results-based achievements that USAID 
+wants to support through the Gender Equity and Female Empowerment policy i.e. (i) increasing gender 
+equity, (ii) reducing gender-based violence, and (iii) empowering women and girls. The Applicant should 
+be familiar with USAID’s 2012 Youth in Development Policy and, where feasible, apply the Positive 
+Youth Development approach and measurement toolkit in building youth participation and resilience 
+throughout all relevant activities. The Monitoring, evaluation, and Learning Plan must include 
+performance indicators to measure performance of the Positive Youth Development approach and the 
+Gender Equity and Female Empowerment policy. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION A – PROGRAM DESCRIPTION] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+USAID intends to award one Cooperative Agreement with renewal periods pursuant to this notice of 
+funding opportunity. Subject to funding availability and at the discretion of the Agency, USAID intends to 
+provide an estimated $15,000,000.00 in total USAID funding over a five-year period, including 
+$8,500,000 for the initial period of performance. The estimated amount total amount may be higher or 
+lower depending on availability of funding and/or USAID needs. USAID reserves the right to issue one or 
+more awards or not to make any award based on the outcomes of the merit review process. 
+
+ 
+
+2. PERIOD OF PERFORMANCE AND RENEWAL PERIOD(S) 
+
+
+ 
+
+The anticipated period of performance of this award is up to five (5) years, with an initial period of 
+performance of three (3) years and two-one (1) year renewal periods awarded dependent upon Recipient 
+performance, availability of funding, and USAID needs. 
+
+ 
+
+RENEWALS: The anticipated award made under this NOFO may be eligible for annual renewals providing 
+a possibility of a subsequent award to receive additional support for the project for succeeding periods, 
+activities, or milestones if so, determined by USAID. The overall period of the Cooperative Agreement, 
+including all renewals, shall not exceed the five (5) year period of performance of the award under this 
+NOFO. USAID will inform the Recipient at least 90 days before the end of the period of performance of the 
+initial award if the Recipient is eligible to apply for a renewal award. The Recipient must submit a renewal 
+request 60 days prior to the end date. The renewal request should incorporate any changes in targets, 
+geographical areas of implementation or implementation strategies required in the Country Operational Plan 
+(COP) or outlined by USAID. 
+
+ 
+
+The incumbent will submit a renewal request which includes a detailed annual work plan for the renewal 
+period along with a detailed budget to be considered for the renewal opportunity. USAID. USAID will 
+provide estimated amount of funding for the renewal period for planning purposes. Any renewals will be at 
+the sole discretion of USAID. 
+
+ 
+
+Funding of any renewal period or expansion of activities is contingent on the following: 
+
+ 
+
+• Availability of funds; 
+
+• Satisfactory progress towards meeting the award objectives; 
+
+• Submittal of required reports; and 
+
+• Compliance with the terms and conditions of the award, including the conditions for 
+
+renewal. 
+
+ 
+
+ 
+
+3. AWARD TYPE 
+
+
+ 
+
+USAID anticipates the resulting award will be a Fixed Amount Award (FAA) and/or Cooperative 
+Agreement. FAAs support a program with very specific elements and are appropriate for supporting 
+specific programs when USAID is confident that a reasonable estimate of the actual cost of the overall 
+effort can be established. The Applicant must be able to identify and quantify programmatic 
+accomplishments or results in establishing award milestones. FAAs are based on the achievement of these 
+
+
+milestones. It focuses on outputs and results. Guidance on FAAs can be found in ADS 303.3.25 at the 
+following link: https://www.usaid.gov/who-we-are/agency-policy. 
+
+ 
+
+The responsibility determination of the applicant to be awarded a FAA will be made in accordance with 
+the requirements set forth under the “FAA Entity Eligibility Checklist” reflected under ADS 303.3.25, 
+https://www.usaid.gov/ads/policy/300/303mak. 
+
+ 
+
+4. Substantial Involvement 
+
+
+ 
+
+USAID will be substantially involved in the implementation of the core program described in Section A, 
+Activity Description. The intended purpose of the Agreement Officer Representative (AOR) involvement 
+during the implementation of the Activity is to assist the Recipient in achieving the supported objectives. 
+The Agreement Officer (AO) has delegated the following approvals to the AOR, except for changes to the 
+Activity Description or the approved budget, which may only be approved by the AO. Substantial 
+involvement includes the following: 
+
+ 
+
+a. Approval of the Implementation Plan: The annual implementation plan will be developed using 
+a co-creation approach in which USAID shall be substantially involved. 
+
+
+ 
+
+As per ADS 303.3.18(c), the AOR is responsible for using Collaborating, Learning, and Adapting 
+(CLA) approaches to maximize program results. Accordingly, the AOR has the authority to 
+approve changes to the Implementation Plan. Such Programmatic Revisions may include: 
+
+i. Adding or changing the number or type of interventions, or discontinuing particular 
+interventions described in the implementation plan that are no longer effective or critical 
+to achieving the programmatic objective. 
+ii. Adding or changing the geographic focus of particular interventions within the Geographic 
+Scope of the award. 
+iii. Recommendations for redirection of the Activity interventions because of 
+interrelationships with other development projects. 
+iv. Monitor to authorize specified kinds of direction or redirection because of 
+interrelationships with other projects or changing circumstances such as natural disaster or 
+global pandemic. All such activities must be included in the approved program 
+description, negotiated in the budget, and made part of the award. 
+
+
+ 
+
+b. Approval of Specified Key Personnel 
+
+
+USAID may designate as key personnel only those positions that are essential to the successful 
+implementation of the Recipient’s program. 
+
+ 
+
+c. Agency and Recipient collaboration or joint participation. 
+i. Approval of Performance Monitoring, Evaluation, and Learning Plan: The AOR will 
+review and approve the Recipient’s activity monitoring, evaluation and learning (MEL) 
+plan and any changes thereto, inclusive of realistic and appropriate performance indicators 
+and plans for periodic evaluation of activities. 
+
+
+
+
+
+ 
+
+All substantial involvement must be within the program description budget, and other terms and 
+
+conditions of the award. 
+
+ 
+
+The Recipient shall immediately notify USAID of developments that have a significant impact on the 
+award-supported activities. Also, notification shall be given in the case of problems, delays, or adverse 
+
+
+conditions which materially impair the ability to meet the objectives of the award. This notification shall 
+
+ 
+
+5. Authorized Geographic Code 
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 935, (any 
+area or country including the recipient country, but excluding any country that is a prohibited source). For 
+more information on authorized geographic code, please see ADS 310: 
+https://www.usaid.gov/sites/default/files/documents/1876/310.pdf. 
+
+ 
+
+6. Nature of the Relationship between USAID and the Recipient 
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to transfer 
+funds to accomplish a public purpose of support or stimulation of the LEADR Activity which is authorized 
+by Federal statute. The successful Recipient will be responsible for ensuring the achievement of the 
+program objectives and the efficient and effective administration of the award through the application of 
+sound management practices. The Recipient will assume responsibility for administering Federal funds in 
+a manner consistent with underlying agreements, program objectives, and the terms and conditions of the 
+Federal award. 
+
+ 
+
+ 
+
+[END OF SECTION B – FEDERAL AWARD INFORMATION] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+
+ 
+
+General: This opportunity is restricted to local and regional entities as defined below. The Country 
+Operational Plan of 2022, definition of a Local Partner: Under PEPFAR, a “local partner” may be an 
+individual, a sole proprietorship, or an entity. However, to be considered a local partner, the applicant must 
+submit supporting documentation demonstrating their organization meets at least one of the three criteria 
+listed below at the time of application. In the below definition, a region is defined as one of the 2020 State 
+Department/ ForeignAssistance.gov Sub Regional groupings (e.g., Southern Africa: Angola, Botswana, 
+Bouvet Island, Eswatini, Lesotho, Malawi, Mayotte, Mozambique, Namibia, Reunion, Saint Helena, South 
+Africa, Zambia, and Zimbabwe). 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+USAID/Southern Africa welcomes applications from organizations that have not previously received 
+financial assistance from USAID. Applicants who do not currently meet all USAID requirements for 
+systems and controls may still be eligible under special award considerations and should not be 
+discouraged from applying. The principal recipient is strongly encouraged to promote involvement of 
+
+
+“underutilized” partners and local organizations in the implementation of this activity. Applications from 
+individuals will not be accepted. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+ 
+
+There is no cost share requirement for awards issued under this NOFO. 
+
+ 
+
+"Cost sharing or matching” is defined by USAID as “contributions, both cash and in-kind, which are 
+necessary and reasonable to achieve program objectives, and which are verifiable from the recipient’s 
+records.” Cost-sharing shall be subject to 2 CFR 200.306 and the standard provision entitled “Cost Sharing 
+or Matching” for U.S. NGOs and non-U.S. NGOs. Although there is no general legislative requirement 
+that recipients of cooperative agreements must cost share, USAID policy is that cost sharing is an 
+important element of the USAID recipient relationship. 
+
+ 
+
+3. Other 
+
+ 
+
+3.1. NUMBER OF APPLICATIONS 
+
+
+
+
+ 
+
+Each applicant organizations may submit only one concept paper/application. Potential sub-awardees may 
+be proposed across multiple applications. As noted earlier, USAID discourages exclusive teaming 
+arrangements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION C – FEDERAL AWARD INFORMATION] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+1. Agency Point of Contact 
+
+
+ 
+
+Nya Kwai Boayue 
+
+Regional Agreement Officer 
+
+USAID/Southern Africa 
+
+nboayue@usaid.gov 
+
+ 
+
+Hanifa Noor 
+
+Senior Regional Acquisition and Assistance Specialist 
+
+USAID/Southern Africa 
+
+Email: hnoor@usaid.gov 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions regarding this NOFO should be submitted via email to the above agency points of contract no 
+later than the date and time indicated on the cover letter, as amended. Any information given to a 
+prospective applicant concerning this NOFO will be furnished promptly to all other prospective applicants 
+as an amendment to this NOFO, if that information is necessary in submitting applications or if the lack of 
+it would be prejudicial to any other prospective applicant. 
+
+ 
+
+3. AWARD PROCESS 
+
+
+ 
+
+The award process for USAID/Southern Africa: LEADR Activity contains three phases: 
+
+ 
+
+Phase 1 – Concept Paper 
+
+Phase 2 – Co-Design 
+
+Phase 3 – Full Application 
+
+ 
+
+1) Interested Applicants must submit a concept paper based on the instructions below; 2) USAID/Lesotho 
+will review the submitted concept papers and invite selected applicants to participate in co-design. The 
+Government reserves the limit the number of co-design invitees based on the quality of the submitted 
+applications or for reasons of efficiency. 3) At the conclusion of the co-design process USAID will invite 
+selected applicant(s) to submit a full application. Not all participants in the co-design process will be asked 
+to submit an application. Instructions for the requirements of the full application will be provided in a 
+streamlined NOFO at that time. 
+
+ 
+
+During the co-design stage, successful applicants will be invited to collaborate with USAID/Lesotho, other 
+applicants, and workshop participants to identify and develop the activities that will help achieve the 
+results desired under this NOFO. Applicants may also identify and incorporate additional partners; and 
+determine respective roles and responsibilities related to the implementation of those activities. Please note 
+that based on concept paper submissions or USAID needs; USAID reserves the right to eliminate the Co-
+Design stage and invite applicant(s) to submit full applications. 
+
+ 
+
+4. General Content and Form of Concept Paper 
+
+
+ 
+
+a. Preparation of Concept Paper 
+
+
+ 
+
+
+Concept Papers must follow the template in Annex 1. The Annex addresses general content requirements 
+applying to the concept paper. 
+
+ 
+
+b. For an application sent by multiple emails, please indicate in the subject line of the email whether the 
+email relates to the technical or cost application, and the desired sequence of multiple emails (if more 
+than one is sent) and of attachments (e.g., ''No. 1 of 4", etc.) For example, if your cost application is 
+sent in two emails, the first e-mail should have a subject line which says "[organization name], Title: 
+“USAID/Southern Africa: LEADR Activity Concept Paper, Email Part 1 of 2." 
+
+
+ 
+
+c. Applications must be submitted through Internet email (10 MB limit) per email. APPLICANTS 
+MUST NOT SUBMIT ZIPPED FILES. No Annexes are requested with the concept paper and will not 
+be reviewed. 
+
+
+ 
+
+d. The Applicant must confirm that their electronic submissions were successfully received by the 
+required due date. It is the Applicant's responsibility to ensure that all necessary documentation is 
+complete and received on time. 
+
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so may be 
+considered as being non-responsive and may be evaluated accordingly. Applicants should retain a copy of 
+the Concept Paper and all enclosures for their records. 
+
+ 
+
+4. Concept Paper Submission Procedures 
+
+ 
+
+Concept Papers in response to this NOFO must be submitted no later than the closing date and time 
+indicated on the cover letter, as amended. Late Concept Papers will not be reviewed nor considered. 
+Applicants must retain proof of timely delivery in the form of system generated documentation of delivery 
+receipt date and time/confirmation from the receiving office. 
+
+ 
+
+Email submission 
+
+USAID’s preference is that the Concept Papers be submitted as consolidated email attachments, e.g., that 
+you consolidate the various parts of a Concept Paper into a single document before sending it. If this is not 
+possible, please provide instructions on how to collate the attachments. USAID will not be responsible for 
+errors in compiling electronic applications if no instructions are provided or are unclear. 
+
+ 
+
+After submitting a Concept Paper electronically, applicants should immediately check their own email to 
+confirm that the attachments were indeed sent. If an applicant discovers an error in transmission, please 
+send the material again and note in the subject line of the email or indicate in the file name if submitted via 
+grants.gov that it is a "corrected" submission. Do not send the same email more than once unless there has 
+been a change, and if so, please note that it is a "corrected" email. 
+
+ 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several hours occur 
+from transmission to receipt. Therefore, applicants are requested to send the application in sufficient time 
+ahead of the deadline. For this NOFO, the initial point of entry to the government infrastructure is the 
+USAID mail server. 
+
+ 
+
+5. CONCEPT PAPER AND APPLICATION PROCESS 
+
+ 
+
+Competition under this NOFO may consist of a three-step process where applicants first submit a concept 
+paper for initial competitive review: 
+
+ 
+
+
+1. All concept papers received during this phase will be evaluated by a USAID Merit Review Committee 
+(MRC) for responsiveness to the merit review/evaluation criteria specified in this NOFO. 
+
+
+ 
+
+2. If there is a co-creation phase, additional instructions and criteria for full application submissions will 
+be provided after evaluation of concept papers, co-creation workshop (if necessary), and when full 
+applications are requested. 
+
+
+ 
+
+PHASE I: CONCEPT PAPER FORMAT, CONTENT AND SUBMISSION 
+
+ 
+
+Applicants are asked to submit a concept note for USAID/SA’s consideration. A Concept Paper is a short, 
+seven (7) page document where the applicant provides an overview of its idea. USAID has provided a 
+template in Annex 1. 
+
+ 
+
+Concept papers should be free of any intellectual property that the applicant wishes to protect, as the 
+concept papers may be shared with other organizations as part of the co-creation process. However, once 
+potential partners have been invited to engage in further discussions, they will work with USAID to 
+identify proprietary information that requires protection. Therefore, organizations submitting concept 
+papers provide USAID a royalty free, non-exclusive, and irrevocable right to use, disclose, reproduce, and 
+prepare derivative works, and to have, or permit others to have, use of any information contained in the 
+concept paper submitted under this NOFO. If USAID engages with the organization regarding its concept 
+paper, the parties can negotiate further intellectual property protection for the organization’s intellectual 
+property. Organizations must ensure that any submission under this NOFO is free of any third-party 
+proprietary data rights that would impact the license granted to USAID herein. 
+
+ 
+
+Compelling concepts that clearly demonstrate how they will address one or more results areas from the 
+Program Description may be included in USAID/SA’s co-creation process. Please see a description of that 
+process below. 
+
+ 
+
+Applicants must not submit a full application unless requested to do so by USAID/SA after the 
+Agency completes its review of the concept note and deems the concept stage complete. Full 
+applications submitted without direction from USAID/SA will not be reviewed nor considered for 
+Award under this NOFO. 
+
+ 
+
+USAID will respond to concept papers received with a confirmation receipt. Concept papers are reviewed 
+based upon the criteria outlined in Section E below. As soon as possible after submission, the applicant 
+will be informed by an Agreement Officer (AO) as to whether they have been chosen to engage in a co-
+creation process with the Mission and then submit a full application. If selected, they will be given a due 
+date for the submission of the full technical and cost application. This will include time for co-creation and 
+collaboration with the Mission. 
+
+ 
+
+The concept paper evaluation will result in one of three outcomes: 
+
+ 
+
+i. A decision to forego further consideration of the approach proposed in the concept paper, Or 
+ii. A decision to invite the applicant to participate in a co-design workshop, Or 
+iii. A decision to request the applicant to submit a full application. 
+
+
+ 
+
+i. CONSORTIUMS: 
+
+
+ 
+
+Applicants are encouraged, but not required, to partner with local, regional, or international organizations 
+to enable successful implementation of the program. Given the limited funding of this award and the broad 
+scope, applicants should propose innovative ways to reduce managerial costs of any sub-partners and sub-
+
+
+grantees such as sharing office space, vehicles, etc. Applicants should seek to reduce overhead by 
+considering shared office spaces with a focus on targeted technical support. Sub-awards to organizations 
+which do not meet the definition of local or regional organizations must not exceed 40 percent of the 
+proposed budget. During the co-design and full application stage applicants may modify the structure of 
+any initially proposed (subtract or add sub-partners). 
+
+ 
+
+PHASE I: BUDGET FORMAT 
+
+ 
+
+Estimated summary budget (up to 1 page): The Applicant should provide a best estimate of prime award 
+costs and costs for proposed subawards. To facilitate the Applicant’s preparation of the budget application, 
+a template is provided below. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents: 
+
+ 
+
+i. The estimated budget for the initial three-year period of the award is $8,500,000. 
+ii. Summary Budget for the initial period must be broken out by year for activities implemented by the 
+Applicant and any potential sub-applicants as shown below. No additional detail is required at the 
+concept paper stage. 
+
+
+
+
+
+
+ 
+
+ 
+
+Estimated Budget Summary 
+
+Cost Elements 
+
+Year 1 
+
+Year 2 
+
+Year 3 
+
+TOTAL 
+
+Prime Award Direct Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub-awards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOTAL AWARD BUDGET 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost Share (If proposed) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Leverage (If proposed) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+PHASE II: CO-CREATION WORKSHOP PROCESS 
+
+ 
+
+The estimated timeframe for the co-creation workshop is September – November 2022, after which 
+selected applicants will be asked to submit a full application. Applicants should expect to be given 
+between 20-30 days to submit a full application. 
+
+ 
+
+Selected applicant(s) will be invited by the Agreement Officer to participate in a facilitated three-day co-
+creation workshop with USAID using either virtual, in-person, or hybrid approaches and/or possibly other 
+successful concept paper applicants. The Agreement Officer reserves the right to limit the number of 
+applicants invited to join the co-creation workshop for efficiency should the number of potential applicants 
+exceed that which allows for a productive co-design process. 
+
+ 
+
+ADS 201.6 defines co-creation as “a design approach that brings people together to collectively produce a 
+mutually valued outcome, using a participatory process that assumes some degree of shared power and 
+decision-making.” The “Discussion Note: Co-Creation Additional Help” does not distinguish between “co-
+
+
+creation” and “co-design,” choosing instead to use “co-creation” as an umbrella term describing 
+collaborative design and development of USAID activities. 
+
+ 
+
+a) Co-design Process 
+
+
+ 
+
+Note: None of USAID’s communication during the co-creation process should be interpreted as a 
+commitment to making an award of USAID funding. 
+
+ 
+
+During the first two days, the co-creation efforts are envisioned as follows: 
+
+ 
+
+1) To explore and validate the health challenges and jointly develop an inclusive theory of change 
+that has promising locally led solutions or expand existing evidence-based solutions. 
+2) To facilitate learning, sharing, and networking across USAID, a range of partners and relevant 
+technical experts. 
+
+
+ 
+
+USAID envisages an open, creative back-and-forth process with external experts, implementers, and 
+applicants to: 
+
+ 
+
+● Build a strong analysis rooted in multiple, diverse perspectives and forms of expertise beyond 
+USAID and the applicants. 
+● Promote multiple viewpoints that shall help to identify parameters, prioritize focus areas, or 
+identify opportunities for system collaboration. 
+● Solicit the feedback, validation, and buy-in of multiple stakeholders. 
+● Better understand local needs and constraints and encourage local communities to act. 
+● Approach development through a more inclusive, collaborative, creative, and open process. 
+
+
+ 
+
+A robust theory of change (TOC) is based on an in-depth causal analysis of issues influencing the situation 
+of interest and is rooted in a rigorous and evolving evidence base. Developing and using a TOC builds a 
+common understanding of activity logic and assumptions among stakeholders, and facilitates future 
+monitoring, adaptive management, learning and evaluation. Diverse guidance exists on how to best design 
+and use a TOC. USAID has published a TOC training and more specifically, including Using Results 
+Chains to Depict Theories of Change. Use of results chains is the preferred approach for building out the 
+TOC and incorporating tightly aligned activities and monitoring components. 
+
+ 
+
+On the third day, the focus of the co-design workshop will be one-on-one sessions with potential 
+applicants with the goal of finalizing the Program Description, discuss the Work Plan, Key Personnel, the 
+subpartners and the budget threshold that will be utilized to inform the full technical and cost application 
+in Phase III. 
+
+ 
+
+USAID envisages as an outcome of the co-design process a shared understanding of the theory of change 
+and further definition of the proposed concepts and required resources. 
+
+ 
+
+If an applicant does not succeed at the co-creation phase, the process ends for that applicant. USAID 
+reserves the right to remove any co-creation participant from award consideration should the parties fail to 
+reach agreement on activity concept, design, award terms, conditions, or cost/price within a reasonable 
+time, the participant fails to provide requested additional information in a timely manner, or the U.S. 
+Government believes it is in its best interest. 
+
+ 
+
+Applicants will not be required to submit technical or cost application material for this phase. Co-creation 
+workshop participants will be expected to set aside competitive interests and work together with other 
+applicants/participants to share and discuss potential solutions collaboratively. Workshop 
+
+
+applicants/participants will rely on each other for input and insight in order to make sure that the potential 
+solutions are relevant, based on the most up-to-date information, and viable with regard to implementation 
+and documentation. There is no guarantee that participation in the co-creation workshop will lead to 
+an award from USAID. This is a collaborative process, and the outcome may be that all, some, or 
+none of the participants will be engaged in the final award. 
+
+ 
+
+Note: Any costs associated with attending a co-creation workshop will not be reimbursed by USAID. 
+
+ 
+
+Applicants are advised that participation in the co-creation process under this NOFO is entirely at their 
+own risk; the Government is not responsible for any costs incurred by the applicant if the applicant decides 
+to accept the invitation to co-create with USAID. A commitment to an award of USAID funding is only 
+made when a Fixed Amount Award is signed by the Agreement Officer. 
+
+ 
+
+6. PHASE III: FULL TECHNICAL APPLICATION REVIEW PROCESS 
+
+ 
+
+Applicants must not submit a complete application without specific written approval from the Agreement 
+officer. 
+
+ 
+
+Applicants will be asked to submit a detailed technical application that will become the program 
+description; a detailed cost application; branding and marking plan; certifications; and other information as 
+indicated by USAID. The full application also requires the applicant to complete specific USG forms and 
+to provide additional information that the USAID/Southern Africa will need to move forward with an 
+appropriate implementing instrument. All full applications will be reviewed for their technical merit 
+against the full application merit review criteria defined in the NOFO. 
+
+ 
+
+If the Merit Review Committee selects application(s) for funding, its review will be shared with the 
+Agreement Officer for cost analysis, final approval and award negotiation. During this stage, the 
+Apparently Successful Applicant(s) and USAID may further and clarify general resource requirements. 
+The Apparently Successful Applicant(s) may also be asked to provide additional information about its 
+technical approach, capacity, management and organization, proposed cost and budget, responsibility, and 
+representations and certifications. 
+
+ 
+
+Technical Application Format 
+
+ 
+
+USAID may ask selected applicants to submit a full application. Detailed submission instructions will be 
+submitted at that time. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION D - APPLICATION AND SUBMISSION INFORMATION] 
+
+
+SECTION E: CONCEPT PAPER MERIT REVIEW CRITERIA 
+
+ 
+
+1. Criteria 
+
+
+ 
+
+The application will be evaluated in accordance with the evaluation criteria defined in this section. To 
+facilitate the review of the application, the Applicant should follow the guidance in Annex 1. 
+
+ 
+
+2. Review and Selection Process 
+
+
+ 
+
+a) Merit Review 
+
+
+ 
+
+Phase I: Concept Paper 
+
+ 
+
+Concept Papers received under this NOFO will be evaluated by a USAID Selection Committee (SC) in 
+accordance with the selection criteria detailed below. The purpose of this review is to ensure that 
+prospective partners bring appropriate capabilities, experiences, and potential contributions to the co-
+creation process (if held) and ultimately the implementation of activities. A concept paper is determined to 
+be successful if it receives a PASS overall based on the four criteria in the NOFO, which are all equally 
+important. The final selection of successful concept papers will be determined by the AO. If the number of 
+participants need to be reduced for efficiency or USAID decides to proceed directly to a request for full 
+application, the AO will direct the selection committee to rank the successful concepts by order of merit 
+using the same criteria. 
+
+ 
+
+Applicants should note that these criteria: (1) serve as the standard against which all applications will be 
+evaluated, and (2) serve to identify the significant matters that applicants should address in their 
+applications. 
+
+ 
+
+Criteria 1 – The overall quality of the technical approach and innovativeness of the proposed solutions to 
+provide pathways to achieve the result areas and contribute to the goal and objectives of the LEADR 
+activity. 
+
+ 
+
+Criteria 2 – The Applicant’s proposed program has clear goals and objectives that are responsive to the 
+context and that describe how the program will address the problem(s) outlined in the problem statement. 
+
+ 
+
+Criteria 3 – The proposed program promotes localization and long-term sustainability. Ensuring 
+meaningful inclusion and participation of local actors throughout the project cycle. 
+
+ 
+
+Criteria 4 – The proposed applicant and partnerships (if proposed) demonstrate effective professional and 
+institutional capacity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION E - APPLICATION REVIEW INFORMATION] 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY.
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been appropriated, 
+allocated and committed through internal USAID procedures. While USAID anticipates that these 
+procedures will be successfully completed, potential applicants are hereby notified of these requirements 
+and conditions for the award. 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following policies and 
+regulations. 
+
+ 
+
+For US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for U.S. Non-
+governmental organizations. 
+
+ 
+
+For Non-US organizations: Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+ 
+
+See Annex 3, for a link to the Standard Provisions that will be applicable to any awards resulting from this 
+NOFO. 
+
+ 
+
+Branding and Marking Plan 
+
+ 
+
+Applicants are requested to note in their full application that in accordance with 2 CFR 700.16, USAID 
+requires the submission of a Branding Strategy and a Marking Plan prior to award. The Marking Plan may 
+include a request for approval of one or more exceptions to the marking requirements in 2 CFR 700.16. 
+The AO will request the Branding Strategy and Marking Plan from the successful applicant at the time 
+determined appropriate to do so. The AO evaluates the Branding Strategy and Marking Plan (including any 
+requests for exceptions) for approval consistent with the regulations contained in 2 CFR 700.16, ADS 303 
+and ADS 320. 
+
+ 
+
+3. Reporting Requirements 
+
+
+ 
+
+The recipient shall comply with all USAID and PEPFAR/Lesotho reporting requirements, including but 
+not limited to timely High Frequency Reports; Quarterly Financial Reports; Quarterly Progress Reports; 
+Monitoring, Evaluation and Learning Plan; Annual Work Plans; Quarterly Costing Analysis; PEPFAR 
+Annual Expenditure Reports; Semi-Annual/Annual Progress Reports; Final Agreement Completion 
+Report. The recipient will be responsible for ensuring that all of the country-specific USG reporting 
+requirements and deadlines are met. 
+
+ 
+
+PEPFAR MER INDICATOR LIST 
+
+ 
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Indicator Description 
+
+Reporting 
+Frequency 
+
+AGYW_PREV 
+
+Prevention 
+
+Percentage of adolescent girls and young women 
+(AGYW) that completed at least the DREAMS 
+primary package of evidence-based 
+
+Semi-Annual 
+
+
+
+
+Indicator Description 
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Reporting 
+Frequency 
+
+Prevention 
+
+Number of key populations reached with individual 
+and/or small group-level HIV prevention interventions 
+designed for the target population 
+
+Semi-Annual 
+
+services/interventions. 
+
+CXCA_SCRN 
+
+Testing 
+
+Number of HIV-positive women on ART screened for 
+cervical cancer 
+
+Semi-Annual 
+
+CXCA_TX 
+
+Treatment 
+
+Percentage of cervical cancer screen-positive women 
+who are HIV-positive and on ART eligible for 
+cryotherapy, thermocoagulation or LEEP who 
+received cryotherapy, thermocoagulation or LEEP 
+
+Semi-Annual 
+
+EMR_SITE 
+
+Health 
+Systems 
+
+Number of PEPFAR-supported facilities that have an 
+electronic medical record (EMR) system within the 
+following service delivery areas: HIV Testing 
+Services, Care & Treatment, Antenatal or Maternity 
+Services, Early Infant Diagnosis or Under Five Clinic, 
+or TB/HIV Services 
+
+Annual 
+
+FPINT_SITE 
+
+Prevention 
+
+Number of HIV service delivery points (SDP) at a site 
+supported by PEPFAR that are providing integrated 
+voluntary family planning (FP) services 
+
+Annual 
+
+GEND_GBV 
+
+Prevention 
+
+Number of people receiving post-gender-based 
+violence (GBV) clinical care based on the minimum 
+package 
+
+Semi-Annual 
+
+HRH_PRE 
+
+Health 
+Systems 
+
+Number of new health workers who graduated 
+
+Annual 
+
+from a pre-service training institution or program as a 
+result of PEPFAR-supported strengthening efforts, 
+within the reporting period, by select cadre 
+
+HTS_INDEX 
+
+Testing 
+
+Number of individuals who were identified and tested 
+using Index testing services and received their results 
+
+Quarterly 
+
+HTS_RECENT 
+
+Testing 
+
+Number of newly diagnosed HIV-positive persons 
+who received testing for recent infection with a 
+documented result during the reporting period 
+
+Quarterly 
+
+HTS_SELF 
+
+Testing 
+
+Number of individual HIV self-test kits distributed 
+
+Quarterly 
+
+HTS_TST 
+
+Testing 
+
+Number of individuals who received HIV Testing 
+Services (HTS) and received their test results 
+
+Quarterly 
+
+KP_MAT 
+KP_PREV 
+
+Prevention 
+
+Number of people who inject drugs (PWID) on 
+medication-assisted therapy (MAT) for at least 6 
+months 
+
+Annual 
+
+PMTCT_ART 
+
+Treatment 
+
+Percentage of HIV-positive pregnant women who 
+received ART to reduce the risk of mother-to-child-
+
+Quarterly 
+
+
+
+
+Testing 
+
+Percentage of new and relapse TB cases with 
+documented HIV status 
+
+Quarterly 
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Indicator Description 
+
+Reporting 
+Frequency 
+
+transmission (MTCT) during pregnancy 
+
+PMTCT_EID 
+
+Testing 
+
+Percentage of infants born to HIV-positive women 
+who received a first virologic HIV test (sample 
+collected) by 12 months of age 
+
+Quarterly 
+
+PMTCT_FO 
+
+Testing 
+
+Percentage of final outcomes among HIV exposed 
+infants registered in a birth cohort 
+
+Annual 
+
+PMTCT_HEI_POS 
+
+Testing 
+
+Number of HIV-infected infants identified in the 
+reporting period, whose diagnostic sample was 
+collected by 12 months of age. 
+
+Quarterly 
+
+PMTCT_STAT 
+
+Testing 
+
+Percentage of pregnant women with known HIV status 
+at antenatal care (includes those who already knew 
+their HIV status prior to ANC) 
+
+Quarterly 
+
+PP_PREV 
+
+Prevention 
+
+Number of priority populations (PP) reached with the 
+standardized, evidence-based intervention(s) required 
+that are designed to promote the adoption of HIV 
+prevention behaviors and service uptake 
+
+Semi-Annual 
+
+PrEP_CT 
+
+Prevention 
+
+Number of individuals, excluding those newly 
+enrolled, that return for a follow-up visit or reinitiation 
+visit to receive pre-exposure prophylaxis (PrEP) to 
+prevent HIV during the reporting period 
+
+Quarterly 
+
+PrEP_NEW 
+
+Prevention 
+
+Number of individuals who were newly enrolled on 
+pre-exposure prophylaxis (PrEP) to prevent HIV 
+infection in the reporting period 
+
+Quarterly 
+
+SC_ARVDISP 
+
+Health 
+Systems 
+
+The number of adult and pediatric ARV bottles (units) 
+dispensed by ARV drug category at the end of the 
+reporting period 
+
+Semi-Annual 
+
+SC_CURR 
+
+Health 
+Systems 
+
+The current number of ARV drug units (bottles) at the 
+end of the reporting period by ARV drug category 
+
+Semi-Annual 
+
+TB_ART 
+
+Treatment 
+
+Proportion of HIV-positive new and relapsed TB cases 
+on ART during TB treatment 
+
+Annual 
+
+TB_PREV 
+TB_STAT 
+
+Prevention 
+
+Proportion of ART patients who started on a standard 
+course of TB Preventive Treatment (TPT) in the 
+previous reporting period who completed therapy 
+
+Semi-Annual 
+
+TX_CURR 
+
+Treatment 
+
+Number of adults and children currently receiving 
+antiretroviral therapy (ART) 
+
+Quarterly 
+
+TX_ML 
+
+Treatment 
+
+Number of ART patients (who were on ART at the 
+beginning of the quarterly reporting period or initiated 
+
+Quarterly 
+
+
+
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Indicator Description 
+
+Reporting 
+Frequency 
+
+treatment during the reporting period) and then had no 
+clinical contact since their last expected contact 
+
+TX_NEW 
+
+Treatment 
+
+Number of adults and children newly enrolled on 
+antiretroviral therapy (ART) 
+
+Quarterly 
+
+TX_PVLS 
+
+Viral load 
+Coverage 
+and 
+Suppression 
+
+Percentage of ART patients with a suppressed viral 
+load (VL) result (<1000 copies/ml) documented in the 
+medical or laboratory records/laboratory information 
+systems (LIS) within the past 12 months 
+
+Quarterly 
+
+TX_RTT 
+
+Treatment 
+
+Number of ART patients who experienced IIT during 
+any previous reporting period, who successfully 
+restarted ARVs within the reporting period and 
+remained on treatment until the end of the reporting 
+period. 
+
+Quarterly 
+
+TX_TB 
+
+Treatment 
+
+Proportion of ART patients screened for TB in the 
+semiannual reporting period who start TB treatment. 
+
+Semi-Annual 
+
+VMMC_CIRC 
+
+Prevention 
+
+Number of males circumcised as part of the voluntary 
+medical male circumcision (VMMC) for HIV 
+prevention program within the reporting period 
+
+Quarterly 
+
+LAB_PTCQI 
+
+Health 
+Systems 
+
+Number of PEPFAR-supported laboratory-based 
+testing and/or Point-of-Care Testing (POCT) sites 
+engaged in continuous quality Improvement (CQI) and 
+proficiency testing (PT) activities. 
+
+Annual 
+
+OVC_HIVSTAT 
+
+Testing 
+
+Percentage of orphans and vulnerable children (<18 
+years old) enrolled in the OVC Comprehensive 
+program with HIV status reported to implementing 
+partners. 
+
+Semi-Annual 
+
+OVC_SERV 
+
+Prevention 
+
+Number of beneficiaries served by PEPFAR OVC 
+programs for children and families affected by HIV 
+
+Semi-Annual 
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Indicator Description 
+
+Reporting 
+Frequency 
+
+AGYW_PREV 
+
+Prevention 
+
+Percentage of adolescent girls and young women 
+(AGYW) that completed at least the DREAMS 
+primary package of evidence-based 
+services/interventions. 
+
+Semi-Annual 
+
+CXCA_SCRN 
+
+Testing 
+
+Number of HIV-positive women on ART screened for 
+cervical cancer 
+
+Semi-Annual 
+
+CXCA_TX 
+
+Treatment 
+
+Percentage of cervical cancer screen-positive women 
+who are HIV-positive and on ART eligible for 
+cryotherapy, thermocoagulation or LEEP who 
+received cryotherapy, thermocoagulation or LEEP 
+
+Semi-Annual 
+
+
+
+
+Indicator Code 
+
+Indicator 
+Group 
+
+Indicator Description 
+
+Reporting 
+Frequency 
+
+EMR_SITE 
+
+Health 
+Systems 
+
+Number of PEPFAR-supported facilities that have an 
+electronic medical record (EMR) system within the 
+following service delivery areas: HIV Testing 
+Services, Care & Treatment, Antenatal or Maternity 
+Services, Early Infant Diagnosis or Under Five Clinic, 
+or TB/HIV Services 
+
+Annual 
+
+FPINT_SITE 
+
+Prevention 
+
+Number of HIV service delivery points (SDP) at a site 
+supported by PEPFAR that are providing integrated 
+voluntary family planning (FP) services 
+
+Annual 
+
+GEND_GBV 
+
+Prevention 
+
+Number of people receiving post-gender-based 
+violence (GBV) clinical care based on the minimum 
+package 
+
+Semi-Annual 
+
+HRH_PRE 
+
+Health 
+Systems 
+
+Number of new health workers who graduated 
+
+Annual 
+
+
+
+ 
+
+COVID-19 INDICATOR LIST 
+
+Area Name 
+
+Indicator 
+
+Indicator 
+Type 
+
+Frequency 
+
+Disaggregation 
+
+Objective 1: Accelerate widespread and equitable access to and delivery of safe and effective COVID-19 
+vaccinations 
+
+Pharmacovigilance 
+and Safety 
+Monitoring 
+
+Percentage of adverse event 
+following immunization 
+(AEFI) reports reviewed by 
+the appropriate responsible 
+bodies with USAID support 
+among those submitted to 
+country monitoring systems 
+
+Technical 
+performance 
+(outcome) 
+
+Quarterly 
+required 
+
+Type of USG support 
+(direct/indirect), severity 
+(Minor, moderate, serious) 
+
+Community 
+Engagement and 
+Demand 
+
+ Number of people reached 
+through USG-supported mass 
+media and social media with 
+COVID-19 vaccine-related 
+messaging (by media type) 
+
+Adaptive 
+management 
+(output) 
+
+Monthly 
+
+TV, Radio, Print, 
+Websites, Telephone/SMS, 
+
+ Social Media 
+
+Number of vaccine campaigns 
+supported by USG (and 
+number of doses given during 
+these campaigns) 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ 
+
+Percentage of population who 
+have received a vaccine, or 
+who would receive a vaccine 
+once it became available 
+(demand cap) 
+
+Technical 
+performance 
+(outcome) 
+
+Monthly 
+
+Age, Sex, Geography 
+
+
+
+
+Frequency 
+
+Disaggregation 
+
+Area Name 
+
+Indicator 
+
+Indicator 
+Type 
+
+Policy, Planning, 
+and Coordination 
+
+USAID has supported the 
+country in the development or 
+adaptation of key vaccine 
+readiness and implementation 
+tools or activities (yes/no) 
+
+Adaptive 
+management 
+(output) 
+
+Quarterly 
+required 
+
+Active multi sectoral 
+coordination mechanisms 
+
+Tools for 
+
+ conducting safety 
+monitoring 
+
+Subnational 
+
+ COVID-19 vaccine micro 
+plans 
+
+Plans for 
+
+ vaccine distribution 
+
+Vaccine 
+
+ tracking systems 
+
+Regulatory/policy 
+
+ environment for COVID-
+19 vaccines 
+
+Studies to 
+
+ inform COVID-19 
+vaccine demand and 
+acceptance 
+
+A system for 
+
+ rumor tracking and 
+response 
+
+Cold Chain and 
+Supply Logistics 
+
+Number of vaccine doses 
+delivered to designated in-
+country destinations with 
+USG support 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ Vaccine Brand 
+
+Total number of doses 
+available 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Donated, purchased 
+disaggregation 
+
+Total number of regimens 
+available, risk adjusted, per 
+100 population - (corresponds 
+to the percentage of 
+population that could be fully 
+vaccinated given supply) 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ Vaccine Brand 
+
+Share of supply provided by 
+USG donations 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ Vaccine Brand 
+
+
+
+
+Area Name 
+
+Indicator 
+
+Indicator 
+Type 
+
+Frequency 
+
+Disaggregation 
+
+Percentage of supply which 
+has been used 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ Vaccine Brand 
+
+Rate of administration of 
+vaccines 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ Vaccine Brand 
+
+Human Resources 
+for Health 
+
+Number of staff and 
+volunteers trained on COVID-
+19 vaccine-related topics with 
+USG support 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Cadre, Sex 
+
+Number of health workers, 
+community leaders, teachers, 
+vaccine educators and 
+administrators trained on 
+vaccine related topics 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Sex 
+
+Number of health workers 
+who are remunerated by USG 
+to support workload required 
+for COVID-19 vaccine 
+delivery in the reporting 
+period 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Cadre (Clinical, 
+Community/lay, data 
+management, supervision 
+and or logistic 
+
+Service Delivery 
+
+Number of vaccination sites 
+supported by USG during the 
+reporting period and total 
+number of doses administered 
+at these sites 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Site type (Fixed sites, 
+community-based outreach 
+vaccination sites, Mobile 
+team (or clinic) or transit 
+team strategy, Mass 
+vaccination 
+sites/campaigns) 
+
+Number and percentage of 
+people who received a first 
+dose of an approved COVID-
+19 vaccine (COV-1) with 
+USG direct support 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Vaccine Brand, Sex, 
+Geography, Health care 
+workers (HCWs), and 
+other high-risk populations 
+(i.e., Elderly, adult, 
+adolescent, pediatric) 
+
+Number and percentage of 
+people who received a last 
+recommended dose of primary 
+series of an approved COVID-
+19 vaccine (COV-c) with 
+USG direct support 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+Vaccine Brand, Sex, 
+Geography, Health care 
+workers (HCWs), and 
+other high-risk populations 
+(i.e., Elderly, adult, 
+adolescent, pediatric) 
+
+
+
+
+Area Name 
+
+Indicator 
+
+Indicator 
+Type 
+
+Frequency 
+
+Disaggregation 
+
+Number and percentage of 
+people who received all 
+recommended booster dose(s) 
+of an approved COVID-19 
+vaccine (COV-2,3,4) with 
+USG direct support 
+
+Adaptive 
+management 
+(output) 
+
+ Monthly 
+
+ 
+
+Objective 2: Reduce morbidity and mortality from COVID-19, mitigate transmission, and strengthen 
+health systems, including to prevent, detect, and respond to pandemic threats 
+
+Result Area 1: Risk Communication and Community Engagement 
+
+ 
+
+Percentage of population with 
+knowledge, attitudes, 
+practices of protective 
+COVID-19 behaviors 
+
+Technical 
+performance 
+(outcomes) 
+
+Quarterly 
+required 
+
+ 
+
+Number of people reached 
+through mass and social 
+media (by media type) 
+
+Adaptive 
+management 
+(output) 
+
+Monthly 
+
+TV, Radio, Print, 
+Websites, Telephone/SMS, 
+
+ Social Media 
+
+Number of persons trained in 
+RCCE 
+
+Adaptive 
+management 
+(output) 
+
+Monthly 
+
+ 
+
+Result Area 2: Surveillance, Case Finding, Case Investigation 
+
+ 
+
+Number of health workers 
+trained on surveillance 
+
+Adaptive 
+management 
+(output) 
+
+Quarterly 
+required 
+
+Sex 
+
+Number of people trained on 
+surveillance and/or rapid 
+response (case investigation, 
+contact tracing, and case 
+finding) for COVID-19 
+
+Adaptive 
+management 
+(output) 
+
+Quarterly 
+
+Sex and Subnational unit 
+
+Result Area 3: Laboratory Systems 
+
+ 
+
+Number of COVID-19 
+specimens transported (by 
+
+ turnaround time) 
+
+Technical 
+performance 
+(outcome) 
+
+Monthly 
+
+Subnational unit and 
+Specimen transport time 
+(i.e. <24 hrs., 
+
+ 24-72hrs, >72 hours, 
+Unknown) 
+
+Number of health workers 
+
+ trained in COVID-19 testing 
+or specimen transport 
+
+Adaptive 
+management 
+(Output) 
+
+Monthly 
+
+Sex and Subnational unit 
+
+Number of diagnostics 
+
+ tests and auxiliary 
+
+Output 
+
+Monthly 
+
+Diagnostic Test Kits and 
+Reagents 
+
+
+
+
+NOFO 72067422RFA00006Local Entities Advancing and Driving Health Responses(LEADR) Activity
+
+Area NameIndicatorIndicatorTypeFrequencyDisaggregationdiagnostics supplies procured 
+and deliveredAuxiliaryDiagnostic CommoditiesResult Area 4: Infection Prevention and Control (IPC)
+Percent and number ofUSAID-supported healthfacilities meeting national IPCguidelinesTechnicalperformance 
+(outcome)
+QuarterlyrequiredBysubnational unitNumber of healthfacilitieswith staff trained in IPC forCOVID-19Adaptivemanagement(output)
+MonthlyBy subnational unitNumber of health and non-
+health workers who weretrained in IPC topicsAdaptivemanagement(output)
+MonthlySex, subnationalunit andcadreNumber of people reachedwith critical WASH suppliesand servicesAdaptivemanagement(output)
+MonthlySex and Subnational unitResult Area 5: Case Management
+Improvements in quality ofkey critical care measures inUSAID assisted healthfacilitiesTechnicalperformance 
+(outcome)
+QuarterlyRequiredNumber of facilities receivingTA for case management suchas facility-level assessments,
+guidance and/or training forreporting periodAdaptivemanagement(output)
+MonthlyNumber of health workerstrained in COVID-19 case 
+management in reporting 
+periodAdaptivemanagement(output)
+MonthlyType of training, Sex, and 
+cadreNumber ofUSAID-donated oxygen-
+related commodities delivered(3 categories)
+InputsQuarterlyPressure Swing Absorption 
+(PSA)/ Vacuum SwingAdsorption (VSA)plants,
+LOX tanks,
+Oxygen concentrators,
+Pulse oximeters,
+accessories, etc.
+
+
+NOFO 72067422RFA00006Local Entities Advancing and Driving Health Responses(LEADR) Activity
+
+Area NameIndicatorIndicatorTypeFrequencyDisaggregationNumber of confirmed/suspectcases admitted in hospital 
+Adaptivemanagement(Output)
+MonthlyAge, Sex, and co-
+morbidityProportionof hypoxemicpatients’ clients provided withsupplemental oxygenAdaptivemanagement(Output)
+MonthlyAge, Sex, andco-
+morbidityNumber of COVID-19 
+patients treatment outcomesAdaptivemanagement(Output)
+MonthlyAge, Sex, and co-
+morbidityNumber who received 
+COVID-19 symptom screen in 
+the OPD, MNCH, TB, ART,
+and specialized clinicsAdaptivemanagement(Output)
+MonthlyAge and SexNumber of hypertensive ordiabetic PLHIV and TBtreatedAdaptivemanagement(Output)
+MonthlyAge and SexNumber of PLHIV andPMTCT clients reached withmental health screening andcounseling servicesAdaptivemanagement(Output)
+MonthlyAge and SexResult Area 6: Coordinationand Operations
+Number of technicalstrategies, plans, protocolsdeveloped or upgraded to 
+operationalize the national 
+COVID-19 strategyAdaptivemanagement(output)
+QuarterlyrequiredStrategiesPlansProtocols/ GuidelinesJob aides
+
+4.Financial Reporting
+a)Quarterly Financial Reports:
+The recipient willprepare and submit to the AOR a quarterly financialreport within 30 daysaftertheend 
+of the recipient’s firstfiscal yearquarter, and quarterlythereafter.
+
+Quarterly financialreportsshould contain, at aminimum:
+
+●Total funds awarded to date by USAID into the assistance. 
+●Total funds previously reported asexpended by recipient main lineitems. 
+●Total funds expended in the current quarter by the recipient by the mainlineitems.
+●Totalunliquidated obligationsby main line items; and, 
+●Unobligated balance of USAID funds. 
+
+ 
+
+b) Annual Program Expenditure Reporting: 
+
+
+ 
+
+In 2018, the USG introduced a new annual reporting requirement of expenditures of PEPFAR 
+programs at the end of each fiscal year. The expenditure report (ER) will be an ongoing PEPFAR 
+activity and is being institutionalized as part of routine PEPFAR reporting. All PEPFAR implementing 
+partners are required to adhere to this reporting requirement. The goal of this interagency exercise is to 
+better understand the costs USG incurs to provide a broad range of HIV services and support and 
+subsequently use this information to improve program planning. Recipients of PEPFAR funding are 
+required to capture PEPFAR Program Expenditures in an Excel form, which will be uploaded and 
+submitted using the Data for Accountability, Transparency and Impact (DATIM). 
+
+ 
+
+5. Program Planning and Reporting 
+
+
+ 
+
+a) Gender and Youth Analysis: 
+
+
+ 
+
+In addressing gender issues, the incumbent should conduct an activity-specific gender analysis within 
+six months of program implementation and develop a clear action plan to address any issues identified. 
+
+ 
+
+b) Annual Work Plan: 
+
+
+ 
+
+The recipient should submit an annual work plan to the Agreement Officer’s Representative (AOR). The 
+annual work plan will describe activities to be conducted at a greater level of detail than the Program 
+Description but shall be cross-referenced with the applicable sections in the agreement Program 
+Description and the related year’s Country Operational Plan (COP). In the application, the recipient will 
+provide an illustrative Work Plan for the 5-year implementation period, with detailed activities described 
+for the first fiscal year of the Cooperative Agreement, which will be finalized in consultation with USAID 
+during the first 30 days following the awarding of the agreement. Subsequent 12-month Work Plan 
+through the end of the agreement will be prepared on a 12-month fiscal year basis (October 1 – September 
+30). Work plan development for subsequent years will be aligned to the OGAC/PEPFAR COP planning 
+cycles that may cover the periods of April- July of each COP planning cycle. The final work plan, that 
+incorporates OGAC, and USAID review recommendations should be submitted to the AOR not later than 
+30 days before the close of each preceding fiscal year, e.g., August 31. USAID will have 15 days to 
+provide comments. The Annual Work Plan will not be considered complete until it has been accepted in 
+writing by the AOR. 
+
+ The work plan should include, at a minimum: 
+
+● Proposed accomplishments and expected progress towards achieving award results. 
+● Timeline for implementation of the year’s proposed activities, including target completion dates. 
+● Information on how activities will be implemented. 
+● Personnel requirements to achieve expected outcomes. 
+● Major procurements, including sub-grants. 
+● Anticipated international travel. 
+● Details of collaboration with other major partners. 
+● Detailed budget; and, 
+● Targets and anticipated results and milestone indicators against which the recipient will be 
+evaluated (jointly established with the AOR and in line with the ME&L plan). 
+
+
+ 
+
+ 
+
+ 
+
+
+NOFO 72067422RFA00006Local Entities Advancing and Driving Health Responses(LEADR) Activity
+
+c)Quarterly Progress Reports: 
+The recipient will berequired to prepare and submit performance reportsreflecting more detailed data on 
+achievements against the PEPFAR and COVID-19 indicators on a quarterly, bi-annual basis in the Semi-
+Annual Progress Report(SAPR), and the Annual Progress Report(APR) orasrequested by OGAC and 
+USAID. These reports shall includeinformation on theagreed upon list ofindicators, targets, the results 
+achieved to date and a narrative for each indicator which include reasons justifying the under oroverachievement. Narrative performance reportsshallbe submitted by emailto the AOR and the AgreementOfficer. These reports willbe used by USAID to fulfill electronic reporting requirementsofUSAID/Washington and theOffice of theGlobalAIDSCoordinator (OGAC);consequently, they need to 
+conform to certain requirements. 
+
+Quarterly reportsshould contain, at aminimum:
+
+oProgress (activities completed, benchmarks achieved, performance standards completed)since 
+thelast report by Objectives. 
+oProblems encountered and whether they were solved or are still outstanding. 
+oProposed solutions to newor ongoing problems.
+oSuccess stories. 
+oDocumentation of best practicesthat can betaken to scale; and,
+oListof upcoming events with dates.
+In addition to submitting the detailed report to the AOR, therecipient will be required to inputachievements directlyinto the reporting system that PEPFAR is using at thetime of reporting, whichcurrently is DATIM and the USAID Development Information System(DIS) forthe COVID-19 programs. 
+The frequency of reporting into the systems depends on the program-specific indicators that the projectreports on. USAID and PEPFAR regularly provide guidance on thefrequency ofreporting foreach 
+indicator. The guidance will be shared withthe recipient as it becomes available.
+
+To simplify reporting requirements, belowis an illustrative quick reference guideto reporting deadlines. 
+
+ReportingPeriodType of ReportScope of the ReportDue DateOctober 1-
+December 31Award QuarterlyProgress ReportME&L Plan indicators and programprogress narrative aligned to award 
+results areas30 after the end ofthe reporting periodPEPFAR/OGACQuarterly DATIMReportPEPFAR MER quarterly indicators and 
+narrative for each indicator uploaded in 
+DATIMThree weeksafter endofreporting 
+periodCOVID-19 quarterlyreportUSAID COVID-19 indicators and 
+narrative reportuploaded in theDevelopment Information System (DIS)
+Three weeks afterthe end of thereporting periodJanuary 1-
+March 30Award QuarterlyProgress ReportME&L Plan indicators and programprogressNarrative aligned to awardresults areas30 after the end ofthe reporting 
+periodPEPFAR/OGACQuarterly DATIMReportPEPFAR MER quarterly indicators and 
+narrative for each indicator uploaded in 
+DATIMThree weeksafter endofreporting 
+
+
+Reporting 
+
+Period 
+
+Type of Report 
+
+Scope of the Report 
+
+Due Date 
+
+period 
+
+COVID-19 quarterly 
+report 
+
+USAID COVID-19 indicators and 
+narrative report uploaded in the 
+Development Information System (DIS) 
+
+Three weeks after 
+the end of the 
+reporting period 
+
+April 1- June 
+30 
+
+Award Quarterly 
+
+Progress Report 
+
+ME&L Plan indicators and program 
+progress 
+
+Narrative aligned to award results areas 
+
+30 after the end of 
+the reporting 
+period 
+
+PEPFAR/ OGAC 
+Quarterly DATIM 
+Report 
+
+PEPFAR MER quarterly indicators and 
+narrative for each indicator uploaded in 
+DATIM 
+
+Three weeks 
+
+after end of 
+
+reporting 
+
+period 
+
+ 
+
+COVID-19 
+quarterly report 
+
+USAID COVID-19 indicators and narrative 
+report uploaded in the Development 
+Information System (DIS) 
+
+Three weeks after 
+the end of the 
+reporting period 
+
+July 1- 
+
+September 30 
+
+Award Quarterly 
+
+Progress Report 
+
+ME&L Plan indicators and program 
+progress 
+
+Narrative aligned to award results areas 
+
+30 after the end of 
+the reporting 
+period 
+
+PEPFAR/ OGAC 
+Quarterly DATIM 
+Report 
+
+PEPFAR MER quarterly indicators and 
+narrative for each indicator uploaded in 
+DATIM 
+
+Three weeks 
+
+after end of 
+
+reporting 
+
+period 
+
+COVID-19 quarterly 
+report 
+
+USAID COVID-19 indicators and narrative 
+report uploaded in the Development 
+Information System (DIS) 
+
+Three weeks after 
+the end of the 
+reporting period 
+
+
+
+ 
+
+d) High Frequency Technical Data Reporting 
+
+
+ 
+
+i. This provision specifies the minimum required indicators that must be reported to the in-
+country High Frequency Reporting (HFR) Point of Contact (POC), (i.e., the 
+USAID/Lesotho Program Management Specialist- Strategic Information). These HFR data 
+do not have to be final and may differ from what is entered into DATIM. HFR data will be 
+used to track the Recipient’s progress to meeting targets; DATIM remains the official 
+PEPFAR system of record. 
+
+
+ 
+
+ii. Reporting Frequency – The Recipient must submit data to USAID on a monthly basis. If 
+the Recipient already has systems and processes in place that allow beneficial weekly data 
+collection and review, USAID recommends continuing to submit this same data in this 
+format. USAID will provide a HFR reporting template to the Recipient, which is due back 
+to the HFR POC as indicated in the table below. Prior to the end of each fiscal Year, the 
+Calendar in paragraph (iv) below will be replaced with an equivalent calendar for each 
+subsequent Fiscal Year. Quarterly submission of data into DATIM will still remain the 
+official system of record for PEPFAR indicators. 
+
+
+ 
+
+
+iii. Indicators – The set of indicators that are subject to HFR are listed below. In the event that 
+the indicators require a change, the award will be modified with the mutual agreement of 
+both parties. The AOR may also request additional data that is useful to monitor the 
+program. The Recipient must submit the full dataset it collects per the reporting calendar in 
+paragraph (iv) below, ensuring the required indicators below are included: 
+○ HIV testing volume [HTS_TST] 
+○ HIV positive testing volume [HTS_TST_POS] 
+○ New enrollments on treatment [TX_NEW] 
+○ Current cohort on treatment [TX_CURR] 
+○ Multi-month dispensing [TX_MMD, TX_CURR disaggregate] 
+○ VMMC services completed [VMMC_CIRC] 
+○ Newly initiated on PrEP [PrEP_NEW] 
+
+
+
+
+
+ 
+
+iv. HFR Reporting Calendar dates – 
+
+
+ 
+
+FY2022 HFR CALENDAR 
+
+Month 
+
+Recorded Date 
+
+if reporting weekly data 
+
+Submission Date 
+
+W1 
+
+W2 
+
+W3 
+
+W4 
+
+W5 
+
+Oct 
+
+2022-10-01 
+
+Oct 04 
+
+Oct 11 
+
+Oct 18 
+
+Oct 25 
+
+ 
+
+Nov 15 
+
+Nov 
+
+2022-11-01 
+
+Nov 01 
+
+Nov 08 
+
+Nov 15 
+
+Nov 22 
+
+Nov 29 
+
+Dec 15 
+
+Dec 
+
+2022-12-01 
+
+Dec 06 
+
+Dec 13 
+
+Dec 20 
+
+Dec 27 
+
+ 
+
+Jan 18 
+
+Jan 
+
+2023-01-01 
+
+Jan 03 
+
+Jan 10 
+
+Jan 17 
+
+Jan 24 
+
+ 
+
+Feb 15 
+
+Feb 
+
+2023-02-01 
+
+Jan 31 
+
+Feb 07 
+
+Feb 14 
+
+Feb 21 
+
+ 
+
+Mar 15 
+
+Mar 
+
+2023-03-01 
+
+Feb 28 
+
+Mar 07 
+
+Mar 14 
+
+Mar 21 
+
+Mar 28 
+
+Apr 15 
+
+Apr 
+
+2023-04-01 
+
+Apr 04 
+
+Apr 11 
+
+Apr 18 
+
+Apr 25 
+
+ 
+
+May 16 
+
+May 
+
+2023-05-01 
+
+May 02 
+
+May 09 
+
+May 16 
+
+May 23 
+
+May 30 
+
+Jun 15 
+
+Jun 
+
+2023-06-01 
+
+Jun 06 
+
+Jun 13 
+
+Jun 20 
+
+Jun 27 
+
+ 
+
+Jul 15 
+
+Jul 
+
+2023-07-01 
+
+Jul 04 
+
+Jul 11 
+
+Jul 18 
+
+Jul 25 
+
+ 
+
+Aug 15 
+
+Aug 
+
+2023-08-01 
+
+Aug 01 
+
+Aug 08 
+
+Aug 15 
+
+Aug 22 
+
+Aug 29 
+
+Sep 15 
+
+Sep 
+
+2023-09-01 
+
+Sep 05 
+
+Sep 12 
+
+Sep 19 
+
+Sep 26 
+
+ 
+
+Oct 17 
+
+
+
+ 
+
+v. HFR reports must contain, at a minimum: 
+● Progress (activities completed, benchmarks achieved, performance standards 
+completed) since the last report by Objectives. 
+● Problems encountered and whether they were solved or are still outstanding. 
+● Proposed solutions to new or ongoing problems. 
+
+
+
+● Success stories. 
+● Documentation of best practices that can be taken to scale; and, 
+● List of upcoming events with dates. 
+
+
+ 
+
+vi. Electronic submissions are preferred over hard copy. 
+
+
+ 
+
+e) Quarterly, Annual/Semi-Annual Performance Reports (APR & S/APR): The recipient will be required 
+to prepare and submit performance reports reflecting more detailed data on achievements against the 
+PEPFAR and COVID-19 indicators on a quarterly, bi-annual basis in the Semi-Annual Progress 
+Report (SAPR), and the Annual Progress Report (APR) or as requested by OGAC and USAID. These 
+reports shall include information on the agreed upon list of indicators, targets, the results achieved to 
+date and a narrative for each indicator which include reasons justifying the under or over achievement. 
+
+
+ 
+
+f) Consultant Reports: Scopes of work, costs, and curriculum vitae (CVs) for proposed short-term 
+consultants shall be submitted to the AOR for review and approval. Additionally, consultants’ reports 
+shall be sent to the AOR in a mutually agreed upon format and time frame. Sub-contracts will also 
+need to be reviewed by the AOR and approved by the AO. 
+
+
+ 
+
+g) Special Reports: From time to time, the recipient will be required to prepare and submit to USAID 
+special reports concerning specific activities and topics. Periodically, the recipient will be requested to 
+update budget and pipeline information to conform to PEPFAR/Lesotho requests. 
+
+
+ 
+
+h) Final Report: At the end of the award, the recipient shall prepare a completion report which highlights 
+accomplishments against work plans, gives the final status of targets, indicators, benchmarks, and 
+results, addresses lessons learned during implementation and suggests ways to resolve constraints 
+identified. The report may provide recommendations for follow-on work that might complement the 
+completed work. 
+
+
+ 
+
+i) Close-out Plan: Six months prior to the completion date of the agreement, the Recipient will submit a 
+close-out plan for AOR approval. The close-out plan will include, at a minimum, an illustrative 
+property disposition plan, a plan for the phase-out of in-country operations, a delivery schedule for all 
+reports or other deliverables required under this agreement and a timetable for completing all required 
+actions in the close out plan, including the submission date of the final property disposition plan to the 
+Agreement Officer. A final project report will be due 30 days after project closeout. 
+
+
+ 
+
+6. Results, Monitoring, Evaluation and Learning Plan 
+
+
+ 
+
+Applicants shall provide a preliminary Monitoring, Evaluation and Learning (ME&L) plan in their 
+response. This plan shall identify preliminary indicators and targets, which support and contribute to the 
+Lesotho health-sector national strategies, USAID COVID-19 & health standard indicators, and OGAC/ 
+PEPFAR Lesotho standard indicators. Applicants should familiarize themselves with USAID and 
+PEPFAR indicators appropriate to the key deliverables/results areas of this NOFO. The applicant shall 
+demonstrate the data flow systems from sub-national to national levels and show how each task relates to 
+indicators and targets over the life of the award. 
+
+ 
+
+The applicant shall elaborate in the preliminary plan the expected activity results with illustrative 
+indicators, mid-term milestones/benchmarks, and end-of-activity results. For each indicator, the ME&L 
+plan shall provide interim and final targets, data sources, collection methods and baseline information or a 
+timeline for collecting baseline information. Routine data quality assessments are also required. The 
+ME&L plan should provide for a mid-term, external project assessment and describe how the assessment’s 
+results will be used to make improvements. The ME&L plan should show how interventions will 
+
+
+contribute to evidence-based decision making, programming, and collaboration learning, & adapting 
+(CLA). 
+
+ 
+
+Upon confirmation of the award, the successful Recipient will work in consultation with the Agreement 
+Officer’s Representative (AOR) and other USAID/ Lesotho staff to develop and execute a final ME&L 
+Plan. During the initial LEADR activity mobilization period, the Recipient will work closely with the 
+AOR to develop the comprehensive ME&L plan, including establishing a final list of indicators, baseline 
+data and performance targets for each indicator. The Applicant should adapt its ME&L efforts based on the 
+PEPFAR Monitoring, Evaluation, and Reporting (MER) indicators ( https://www.state.gov/pepfar-fy-
+2022-mer-indicators/ ) (see Annex I for the PEPFAR MER indicator list attached), USAID COVID-19 
+M&E framework (see Annex II for COVID-19 indicator list attached), and other relevant USG & MOH 
+M&E frameworks. The ME&L plan shall be submitted to the AOR for approval within 60 days of the 
+confirmation of the award. The ME&L plan will be revised as appropriate on an ongoing basis in 
+collaboration with USAID and PEPFAR/Lesotho team. 
+
+ 
+
+7. Schedule of Milestones 
+
+
+ 
+
+a) The following is the Schedule of Milestones which shall be completed in compliance with the 
+parameters of the program description. 
+b) The accomplishment of all Milestones will be based on the successful submittal of documentation 
+as specified on the following pages and completion of the tasks or deliverables delineated for those 
+Milestones. 
+
+
+ 
+
+Note: The Milestone plan below is an illustrative Milestone Table only. The Applicant is required to 
+submit a Milestone Plan to achieve the overall objective of the program. The “Milestone Description” must 
+identify and describe the completion of a task or a deliverable. The Milestone must adhere to the 
+achievement of each objective. The Applicant must identify the program objective to which the milestone 
+is dedicated to. The “Documentation to be submitted to USAID” is the proof of documentation or a 
+description of the completed activity that led to the completion of the task. The documentation will be the 
+proof that the Milestone has been completed. The “Estimated Date of Completion” is the period identified 
+by the Applicant that the identified Milestone will be complete. The “Fixed Amount” is the amount that 
+the Applicant will be paid after submission of the proof that the Milestone has been completed. The AO 
+may amend milestones during the period of the grant, if the original milestones are no longer feasible or 
+appropriate due to circumstances beyond the control of the recipient, and if the amended milestones are 
+compatible with and satisfy the original purpose of the award. 
+
+ 
+
+ 
+
+ 
+
+Continued on NEXT PAGE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Milestone 
+Number 
+
+Milestone Description 
+
+Documentation Submitted to 
+USAID 
+
+Estimated Date of 
+Completion 
+
+Milestone 
+Payment 
+Amount 
+
+1A 
+
+Recruitment and hiring of staff required to carry out the pilot program. 
+Recommended staffing of: 
+
+~ Senior Strategic Information Advisor 
+~ Program Clerk 
+~ City Program Improvement Manager 
+~ District Program Improvement Manager 
+
+
+Digital submission of summary 
+cover page of number of staff 
+recruited and copies of contracts or 
+other appropriate evidence of 
+hiring of staff. 
+
+ 
+
+Within 1 month of start 
+of award 
+
+$215,000 
+
+1B 
+
+A change management plan for institutionalizing improved coordination 
+processes approved and committed to by all relevant stakeholders. This 
+plan should include consideration for communication, incident 
+management, an appropriate escalation process for decisions affecting key 
+stakeholders, and incorporate consideration of appropriate data for 
+decision-making from MOH, PEPFAR, and other sources of relevant data. 
+This change management plan should also include consideration for 
+enhancing MOH’s role in bringing patients back to care. 
+
+ Digital submission of a Microsoft 
+Word document of the plan with a 
+cover page confirmation of 
+approval from MOH, USAID, and 
+other stakeholders as deemed 
+required by MOH. 
+
+ 
+
+Within 2 months of start 
+of award 
+
+$60,000 
+
+2 
+
+Evidence of the Program’s support to the MOH for Back to Care activities 
+to recover the number of patients on treatment from pre-lockdown 
+measures. For example: mobilization of community health workers or 
+PLHIV case managers to promote back to care activities or promotional 
+efforts to increase decanting to eLocker program. 
+
+Report submitted of the Program 
+interventions enacted and evidence 
+of Lesotho TX_CURR increased 
+by at least 12,000 (which is the 
+benchmark prior to lockdown 
+measures). 
+
+At the point at which the 
+target is achieved within 
+the duration of the 
+award. 
+
+$75,000 
+
+3 
+
+Coordination and facilitation of three (3) virtual or in-person work 
+planning sessions with USAID partners in the xx-province hosted in 
+January, April, and January 2023. This includes documented 
+recommendations for USAID partner work plans and a process for 
+reporting instances when USAID partners do not implement according to 
+agree upon work plans. These engagements will build upon USAID’s 
+existing partner management protocols to ensure alignment with the xxxx 
+Province. 
+
+ Submission of summaries and 
+notes taken from each of the three 
+(3) consultations. 
+
+Within 10 months of 
+start of award 
+
+$80,000 
+
+
+
+
+Milestone 
+Number 
+
+Milestone Description 
+
+Documentation Submitted to 
+USAID 
+
+Estimated Date of 
+Completion 
+
+Milestone 
+Payment 
+Amount 
+
+4 
+
+One (1) Microsoft Word document (maximum 10 pages) of activity 
+proposals that will be used for consideration for additional USAID 
+COVID-specific funding. Successful review of proposals is subject to the 
+availability of additional COVID-19 funding and should be considered for 
+the Lesotho program. 
+
+Submission of one (1) Word 
+Document of activity proposals for 
+COVID-19 funding. 
+
+Within 4 months of the 
+start of award 
+
+$20,000 
+
+5 
+
+ 
+
+Submission of Word Document of 
+activity proposals. 
+
+Within 6 months of start 
+of award 
+
+$50,000 
+
+ 
+
+ 
+
+ 
+
+TOTAL 
+
+$500,000 
+
+
+
+
+ 
+
+ 
+
+8. Environmental Protection and Compliance 
+
+
+ 
+
+a. The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of USAID’s 
+activities on the environment be considered, and that USAID include environmental sustainability as a 
+central consideration in designing and carrying out its development programs. This mandate is 
+codified in Federal Regulations (22 CFR 216) and in USAID’s Automated Directives System (ADS) 
+Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ads/200), which, in part, require that the 
+potential environmental impacts of USAID-financed activities are identified prior to a final decision to 
+proceed and that appropriate environmental safeguards are adopted for all activities. The recipient’s 
+environmental compliance obligations under these regulations and procedures are specified here. 
+b. In addition, the recipient must comply with host country environmental regulations unless otherwise 
+directed in writing by USAID. In case of conflict between host country and USAID regulations, the 
+latter shall govern. 
+c. No activity funded under this Fixed Amount Award will be implemented unless an environmental 
+threshold determination, as defined by 22 CFR 216, has been reached for that activity, as documented 
+in a request for categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). 
+(Hereinafter, such documents are described as “approved regulation 216 environmental 
+documentation.”) 
+d. As part of its initial Implementation Plan/ Work plan, and all Annual Implementation Plans thereafter, 
+the Recipient, in collaboration with the USAID AOR and Regional Mission Environmental Officer or 
+Bureau Environmental Officer, as appropriate, shall review all ongoing and planned activities under 
+this Fixed Amount Award to determine if they are within the scope of approved Regulation 216 
+environmental documentation. 
+e. If the Recipient plans any new activities outside the scope of the approved Regulation 216 
+environmental documentation, it shall prepare an amendment to the documentation for USAID review 
+and approval for such new environmental documentation amendments. 
+f. Any ongoing activities found to be outside the scope of the approved Regulation 216 environmental 
+documentation shall be halted until an amendment to the documentation is submitted and written 
+approval is received from USAID. 
+
+
+ 
+
+An Initial Environmental Examination (IEE) has been approved for USAID’s work in Lesotho. A 
+summary of its findings are as follows: the interventions proposed under this program are expected to 
+have no significant impact on the environment. However, particular attention will be paid to the 
+recommendations from the IEE made for USAID/SA RHO and the Bureau Mission Environmental 
+Officer, which is classified under the USAID/Southern African Regional Development Cooperation 
+Strategy (RDCS) Development Objective 3: Resilience of People and Systems Advanced through 
+Intermediate Result 3.2: Equitable Provision of Quality Health and Other Services Improved, and 
+Intermediate Result 3.3: Citizen Participation and Leadership Increased. 
+
+ 
+
+The approved IEE is from the period of FY 2019 – FY 2026 and continues to align to the Foreign 
+Assistance Framework and additional considerations for activities implemented in response to the COVID-
+19 pandemic, which were not previously considered in the former IEE. This IEE does not address water 
+and sanitation-related health activities or use of pesticides, support for which would require amendment of 
+this IEE. 
+
+ 
+
+The IEE recommended Categorical Exclusion for the HIV/AIDS activities listed below because no 
+environmental impacts are expected as a result of these activities. This fall under the following citations 
+
+
+from Title 22 of the Code of Federal Regulations, Regulation 216 (22 CFR 216), subparagraph 2(c) (2) as 
+classes of activities that do not require an initial environmental examination: 
+
+● Support, strengthen and collaborate with community-based HIV adherence groups, Community-
+Based Organizations (CBOs) and Civil Society Organizations (CSOs) to mobilize awareness of 
+and demand for HIV prevention, care, and treatment services 
+● Support community-based outreach teams to provide information and education and improve 
+bidirectional information and referral systems between community and health care facilities. 
+● Develop and improve the utilization of community-based health information systems to track 
+community/facility referral. 
+● Support the integration of other health related information relevant to HIV prevention (i.e., 
+nutrition) into community-based information and education activities. 
+● Capacity building and practical skills training for community and clinical health care workers for 
+improved delivery of HIV/AIDS and TB testing and prevention services. 
+● Integrate nutrition assessments, counseling, and support HIV & TB care and treatment to detect 
+and prevent malnutrition and support strengthening treatment efficacy 
+● Implement continuous quality improvement approaches to promote adherence and improve health 
+outcomes e.g., sustained viral suppression, TB care, and reduction in new infections. 
+● Assist USAID-supported districts to develop District Implementation Plans using data analytics 
+● Strengthen district-level workforce planning and development. 
+
+
+ 
+
+While the above activities are categorically excluded from further environmental scrutiny, the IEE 
+amendment nevertheless recommends that environmental health and quality considerations be incorporated 
+into all relevant steps along the health care continuum, as part of quality assurance and infection 
+prevention approaches. To this end, the Program Element 3.1.1 under the Program Area 3.1 has an 
+opportunity to include health care waste management messages, and to provide for appropriate disposal 
+facilities in home-based care and community-based situations. Positive messages about personal and 
+household hygiene, sanitation, and proper disposal of condoms and other potentially harmful materials 
+should be delivered, as appropriate, along with the standard health care messages. 
+
+ 
+
+A Negative Determination with Conditions pursuant to 22 CFR 216.3(a) (2) (iii) is recommended for the 
+following activities that have potential for negative impact on the environment in the following categories: 
+
+ 
+
+HIV/AIDS Prevention, care, and treatment activities: 
+
+● Distribution of food parcels received from the World Food Program to Orphans and 
+Vulnerable Children. 
+● Condom distribution for HIV prevention 
+● Provision of Voluntary Male Medical Circumcision (VMMC) and Pre-exposure prophylaxis 
+(PrEP) services for HIV prevention 
+● Provision of prevention of mother-to-child-transmission of HIV (PMTCT) services 
+● Supply chain management and commodity quantification 
+● Distribution of HIV self-testing kits at health facility and community levels 
+● Increase availability of and improve HIV and TB diagnostic procedures 
+● Provision of Antiretroviral Therapy (ART) and anti-TB medications and other related drugs 
+for treatment of HIV/AIDS and TB 
+● Improved delivery of and expanded access to integrated TB/HIV services and improved 
+management of TB/HIV co-infection 
+● Differentiated Service Delivery (DSD) models to promote people-centered care (e.g., infants, 
+pregnant women, men, adolescent girls, and young women). 
+● Implement routine Early Warning Indicators and strengthen pharmacovigilance. 
+
+
+
+● Strengthen the clinic-lab interface to improve pre-analytical, analytical, and post analytical 
+phases of specimen collection and viral load documentation 
+● Minor renovations and construction to existing health care facilities as needed and provision of 
+temporary facilities as needed (e.g., mobile clinics, park homes). 
+
+
+ 
+
+Activities for COVID-19 Prevention and impact mitigation: 
+
+● Community engagement and demand creation for COVID-19 prevention, vaccine access, and 
+service delivery. 
+● Risk Communication and engagement for COVID-19 prevention, vaccine access, and risk 
+mitigation. 
+● COVID-19 Vaccine promotion. 
+● Communications on public management of infectious disease and procurement of medical 
+supplies. 
+● Support or provide technical assistance to develop processes, SOPs, and standards for specimen 
+transport, laboratory diagnostics, and services. 
+● Training, technical assistance, and capacity building of professional and paraprofessionals on 
+laboratory establishment and/or operation. 
+● Operation of a laboratory including all critical components such as procurement, storage, 
+management, and disposal of laboratory commodities and samples, including, but not limited to 
+diagnostic kits, laboratory supplies, reagents, and discarded PPE. 
+● Contribution to research of vaccine and treatment protocol development. 
+● Support or provide technical assistance to develop processes, SOPs, and standards for aspects of 
+healthcare such as waste management, disinfection, specimen transport and storage, rapid 
+diagnostics, and service delivery 
+● Training, technical assistance, and capacity building of health care workers, community healthcare 
+workers, and volunteers in PPE use, waste management, procurement, storage, and disposal of 
+commodities, and disinfection. 
+● Procurement or logistics support (distribution and transport) for healthcare commodities, 
+diagnostic kits, PPE, and equipment for response to emerging threats. 
+● COVID-19 Contact Tracing. 
+● Assessment of incineration and waste disposal capacity for health entities to ensure proper 
+disposal and limit vectors of disease via improperly managed healthcare waste. 
+● Procurement, distribution, and use of waste management equipment and systems. 
+● Infection control and prevention and provision of PPE for health care providers. 
+● Supply Chain management through procurement of buffer stocks of oxygen, oxygen cylinders, 
+medicines, and supplies for COVID-19 case management. 
+
+
+ 
+
+ 
+
+[END OF SECTION F – FEDERAL AWARD ADMINISTRATION INFORMATION] 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+1. NOFO Points of Contact 
+
+
+ 
+
+Points of contact (POC) for questions while the funding opportunity is open are Agreement Officer Nya 
+Kwai Boayue nboayue@usaid.gov and Senior Acquisition and Assistance Specialist Hanifa Noor at 
+hnoor@usaid.gov. 
+
+ 
+
+2. Acquisition and Assistance Ombudsman 
+
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all organizations who 
+are doing or wish to do business with USAID. Please visit this page for additional information: 
+https://www.usaid.gov/work-usaid/acquisition-assistance-ombudsman 
+
+ 
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement Officer is the 
+only individual who may legally commit the Government to the expenditure of public funds. Any award 
+and subsequent incremental funding will be subject to the availability of funds and continued relevance to 
+Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used by the 
+U.S. Government except for evaluation purpose, should mark the cover page with the following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in whole or in 
+part – for any purpose other than to evaluate this application. If, however, an award is made as a result 
+of – or in connection with – the submission of this data, the U.S. Government will have the right to 
+duplicate, use, or disclose the data to the extent provided in the resulting award. This restriction does 
+not limit the U.S. Government’s right to use information contained in this data if it is obtained from 
+another source without restriction. The data subject to this restriction are contained in sheets {insert 
+sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this 
+application.” 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 1 – CONCEPT PAPER TEMPLATE 
+
+ 
+
+Concept Papers must comply with the following: 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent sections. 
+Please ensure that applications comply with the page limitations. 
+● Written in English 
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12-point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive page 
+numbers, date of submission, and applicant’s name. 
+● 10-point font can be used for graphs and charts. Tables, however, must comply with the 12-point 
+Times New Roman requirement. 
+● Submitted via Microsoft Word or PDF formats, except budget files which must be submitted in 
+Microsoft Excel. 
+● The estimated start date identified in Section C of this NOFO must be used in the cost application. 
+● The Concept Paper must be a searchable and editable Word or PDF format as appropriate. 
+
+
+ 
+
+A. Concept Paper Cover Page 
+
+
+ 
+
+The cover page must include: 
+
+i. NOFO Number: 72067422RFA00006 
+ii. The Activity title. 
+iii. Name of applicant organization. 
+iv. Address of applicant organization. 
+v. Type of organization (e.g., for-profit, non-profit, university, etc.). 
+vi. Point of contact (lead contact name, title, telephone, e-mail). 
+vii. The Tax Identification Number (TIN) and/or Unique Entity Identifier (UEI) numbers of the 
+Prime Applicant. Name of the organization(s) submitting the application. 
+
+
+(a) Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address). 
+
+
+Name of any known proposed sub-recipients or partnerships (identify if any of the organizations are local 
+or regional organizations as defined in this NOFO. 
+
+1. Period of Performance (i.e., start date and end date): ________________________________ 
+
+
+ 
+
+2. Total Program Amount (in USDs): _______________________________________________ 
+
+
+ 
+
+3. Total Amount of Funding Requested from USAID and total amount of cost share or leverage (if 
+applicable), including from what source(s): _________________________________________ 
+
+
+ 
+
+4. Full Address for Applicant Organization: __________________________________________ 
+
+
+ 
+
+5. Type of Organization [please include certification of incorporation] (e.g., US, non-US, multilateral, 
+private, for-profit, nonprofit, etc.) date of incorporation, etc.): 
+______________________________________________________________________________ 
+
+
+ 
+
+
+6. (If Applicable) Name(s) of Partner(s) Organization(s) will name Sub-partners here): ____________ 
+
+
+B. Concept Introduction: (approximately 1 page). Identify the problem your organization will address, 
+linking it to one or more of the NOFO’s focus areas and briefly describe your organization’s intervention 
+for tackling this problem. Describe why there is a strategic need for your organization’s concept, how it 
+differs from alternatives, and any relevant partner-specific considerations for the problem or solution. 
+
+C. Beneficiaries: (approximately ½ page). Describe the types of benefits the intervention will produce and 
+the types and range of people who will benefit from this intervention. Was the concept designed with end 
+user input? Has it been, or can it be, adapted to reach women and men, indigenous people, ethnic and/or 
+religious minorities, and youth? How can the concept be scaled up to reach more people? 
+
+D. Geographic Location: (approximately ½ page). In what location(s) (e.g., Province, city, country, etc.) 
+is your organization proposing to operate? Describe key elements of, and actors in, the geographic 
+location(s) in which your organization proposes to work. What are the biggest challenges and 
+opportunities? Please provide a brief description of your organization’s previous work experience in this 
+geographic location. 
+
+E. Intervention approach: (approximately one [1] page). Building on the introduction, propose an 
+approach for how this intervention will produce the desired impact in the focus area(s) identified. Briefly 
+describe critical barrier(s) or problem(s) related to the focus area(s) that your organization’s concept 
+addresses. Be sure to include information describing why the approach is creative or innovative, how it is 
+potentially scalable, and evidence to support it as a tested solution or as an intervention likely to have a 
+significant development impact in the health sector and how it will be sustained. 
+
+F. Intervention results: (approximately one [1] page). As specifically as possible, describe the 
+anticipated outputs, outcomes, results and/or impact of the proposed intervention. What is the key, 
+quantifiable metrics related to your organization’s project’s performance or expected performance? What 
+is the scale needed to achieve results sufficient to address the problem? What are the baselines that your 
+organization will measure before the project begins? 
+
+G. (If applicable) Partner roles: (approximately ½ page). Describe and define the role of other entities in 
+the partnership. This must include a description of the leveraged funding, if necessary, or sub-partners if 
+submitting a mentorship program. It must describe how this meets the criteria in Section C of the LEADR 
+NOFO. If your organization is not proposing any partners, this section can be empty. 
+
+H. Applicant capacity: (approximately ½ page). Describe organizational capacity – technical, 
+managerial, financial, etc. – to carry out the proposed intervention. What is the business model for your 
+organization’s intervention? Have you worked in this sector previously? If your organization is applying 
+to mentor local and underutilized partners, describe the organization’s credibility within targeted 
+communities, and a demonstrable commitment to addressing the health program areas within the context 
+of programs already providing other health services. 
+
+Signature of authorized individual 
+
+ 
+
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+The actual Standard Provisions included in the award will be dependent on the organization that is 
+selected. The award will include the latest Mandatory Provisions for non-U.S. Nongovernmental 
+organizations. The award will also contain “required as applicable” Standard Provisions. (Note: the full 
+text of these provisions may be found at: https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab) 
+
+ 
+
+ 
+
+
+ANNEX 3 - ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+ADS Automated Directives System 
+
+AGYW Adolescent Girls and Young Women 
+
+AHD Advanced HIV Disease 
+
+AO Agreement Officer 
+
+AOR Agreement Officer’s Representative 
+
+ART Antiretroviral Therapy 
+
+CAGS Community ART Groups 
+
+CBO Community-Based Organization 
+
+CFR Code of Federal Regulations 
+
+CLA Collaborating, Learning, and Adapting 
+
+COP Chief of Party 
+
+CQI Collaborative Quality Improvement 
+
+DDD Decentralized Drug Distribution 
+
+DHMT District Health Management Team 
+
+DUNS Data Universal Numbering System 
+
+FAA Fixed Amount Award 
+
+FBO Faith-Based Organization 
+
+FP Family Planning 
+
+FP/RH Family Planning and Reproductive Health 
+
+GBV Gender-Based Violence 
+
+GH USAID’s Bureau for Global Health 
+
+GOL Government of Lesotho 
+
+HIV Human Immunodeficiency Virus 
+
+HTS HIV Testing Services 
+
+HRH Human Resources for Health 
+
+IEE Initial Environmental Examination 
+
+IPC Infection Prevention and Control 
+
+IPV Intimate Partner Violence 
+
+IR Intermediate Result 
+
+KP Key Populations 
+
+LEADR Local Entities Advancing and Driving Health Responses 
+
+LEEP Loop Electrosurgical Excision Procedure 
+
+LePHIA Lesotho Population-based HIV Impact Assessment 
+
+MCHN Maternal and Child Health and Nutrition 
+
+MEL Monitoring, Evaluation, and Learning 
+
+MIP Mother- Infant Pair 
+
+MMD Multi-Month Dispensing 
+
+MOH Ministry of Health 
+
+MRC Merit Review Committee 
+
+NACS Nutrition Assessment Counseling and Support 
+
+NCD Non-Communicable Disease 
+
+NDVP National Deployment and Vaccination Plan 
+
+NGO Non-governmental Organization 
+
+NSP National HIV/AIDS strategic plan 
+
+NOFO Notice Of Funding Opportunity 
+
+OVC Orphans and Vulnerable Children 
+
+PEP Post-Exposure Prophylaxis 
+
+PEPFAR President’s Emergency Plan for AIDS Relief 
+
+
+PLHIV People Living with HIV/AIDS 
+
+PMTCT Prevention of Mother-To-Child Transmission of HIV 
+
+POC Point-of-Care 
+
+PPE Personal Protective Equipment 
+
+PrEP Pre-Exposure Prophylaxis 
+
+QA/QC Quality Control/Quality Assurance 
+
+RCCE Risk Communication and Community Engagement 
+
+RDCS Regional Development Cooperation Strategy 
+
+RMNCAH Reproductive Maternal Newborn Child and Adolescent Health 
+
+SAM System for Award Management 
+
+SDP Service Delivery Point 
+
+SBCC Social and Behavior Change Communication 
+
+STI Sexually Transmitted Infection 
+
+TB Tuberculosis 
+
+TOC Theory of Change 
+
+TPT Tuberculosis Preventive Therapy 
+
+USAID United States Agency for International Development 
+
+USD US Dollars 
+
+USG United States Government 
+
+U=U Undetectable equals Untransmissible 
+
+WHO World Health Organization 
+
+YPAT Youth Programming Assessment Tool 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

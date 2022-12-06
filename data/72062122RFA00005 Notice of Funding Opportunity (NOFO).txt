@@ -1,0 +1,4884 @@
+ 
+
+Icon
+Description automatically generated 
+
+
+Issue Date: August 3, 2022 
+
+Deadline for Question: August 12, 2022, 17:00 hours East African Time (EAT) 
+
+Closing Date: September 19, 2022 
+
+Closing Time: 17:00 hours EAT 
+
+ 
+
+Subject: Notice of Funding Opportunity (NOFO), Request for Application Number 
+72062122RFA00005 
+
+ 
+
+Program Title: Comprehensive Child Centered Care And Services (C4s) Activity 
+
+Federal Assistance Listing Number: 98.001 
+
+ 
+
+Ladies/Gentlemen: 
+
+ 
+
+The United States Agency for International Development (USAID) in Tanzania (USAID/Tanzania) 
+is seeking applications for a Cooperative Agreement from qualified entities to implement the 
+Tanzania Malaria Surveillance Activity program. Eligibility for this award is restricted to Local 
+Non-U.S. Organizations. 
+
+ 
+
+USAID intends to make an award to the applicant(s) who best meets the objectives of this funding 
+opportunity based on the merit review criteria described in this NOFO subject to a risk assessment. 
+Eligible parties interested in submitting an application are encouraged to read this NOFO 
+thoroughly to understand the type of program sought, application submission requirements and 
+selection process. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. It is the responsibility of the applicant to regularly check 
+the website to ensure they have the latest information pertaining to this notice of funding 
+opportunity and to ensure that the NOFO has been received from the internet in its entirety. USAID 
+bears no responsibility for data errors resulting from transmission or conversion process. If you 
+have difficulty registering on www.grants.gov or accessing the NOFO, please contact the 
+Grants.gov Helpdesk at 1-800-518-4726 or via email at support@grants.gov for technical 
+assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable Unique 
+Entity Identifier (UEI) and System for Award Management (SAM) requirements detailed in Section 
+D.6.f. The registration process may take many weeks to complete. Therefore, applicants are 
+encouraged to begin registration early in the process. 
+
+ 
+
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished 
+to all potential applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the part 
+of the Government nor does it commit the Government to pay for any costs incurred in preparation 
+or submission of comments/suggestions or an application. Applications are submitted at the risk of 
+the applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID/Tanzania programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+Dennis Foster 
+
+Agreement Officer 
+
+ 
+
+ 
+
+Attachments: 
+
+Attachment 1: Initial Environmental Examination (IEE) 
+
+Attachment 2: International Travel related to Visa Renewal 
+
+Attachment 3: Past Performance Information (PPI) 
+
+Attachment 4: Value Added Tax Allowability Guidance 
+
+Attachment 5: Work Permit and Residence Permit Tips for Implementing Partners 
+
+Attachment 6: Allowability and Value added Tax on De Minimis Purchases 
+
+Attachment 7: EMMP Template 
+
+ 
+
+ 
+
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+Section A – Program Description…………………………………………………………. 6 
+
+Section B – Federal Award Information…………………………………………………. 23 
+
+Section C – Eligibility Information ……………………………………………………… 26 
+
+Section D – Application and Submission Information…………………………………… 27 
+
+Section E – Application Review Information…………………………………………….. 40 
+
+Section F – Federal Award Administration Information…………………………………. 45 
+
+Section G – Federal Awarding Agency Contacts………………………………………… 53 
+
+Section H – Other Information ……………………………………………………………54 
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE………………………………..67 
+
+ANNEX 2 - STANDARD PROVISIONS…………………………………………68 
+
+ 
+
+
+ABBREVIATIONS AND ACRONYMS 
+
+AMELP 
+
+Activity Monitoring Evaluation and Learning 
+
+APRA 
+
+America Rescue Plan 
+
+AGYW 
+
+Adolescent Girls and Young Women 
+
+ART 
+
+Antiretroviral Therapy 
+
+BMC 
+
+Bugando Medical Center 
+
+C/ALHIV 
+
+Children/ Adolescent Living with Human Immunodeficiency Virus 
+
+C4S 
+
+Comprehensive Children Centered Care and Support 
+
+CDCS 
+
+Country Development Cooperation Strategy 
+
+CLA 
+
+Collaboration Learning Adapting 
+
+COE 
+
+Center Of Excellence 
+
+CLHIV 
+
+Children Living With HIV 
+
+CRM 
+
+Climate Risk Management 
+
+COP 
+
+Country Operation Plan 
+
+CSO 
+
+Civil Society Organization 
+
+DE 
+
+Developmental Evaluation 
+
+DO 
+
+Development Objective 
+
+DP 
+
+Development Partners 
+
+eMTCT 
+
+Elimination of Mother To child Transmission 
+
+FASTER 
+
+Faith-based Action for Scaling up Testing and treatment for Epidemic 
+Response 
+
+GBV 
+
+Gender Based Violence 
+
+GFATM 
+
+Global Fund to Fight AIDS, Tuberculosis, and Malaria 
+
+GoT 
+
+Government of Tanzania 
+
+HTS HIV 
+
+HIV Testing Services 
+
+HEI HIV 
+
+HIV Exposed Infants 
+
+HFR 
+
+High Frequency Reporting 
+
+HIV 
+
+Human Immunodeficiency Virus 
+
+IEE 
+
+Initial environmental impact assessment 
+
+MCHN 
+
+Maternal Child Health and Nutrition 
+
+MEL 
+
+Monitoring Evaluation and Learning 
+
+MOH 
+
+Ministry of Health 
+
+MRH 
+
+Mbeya Referral Hospital 
+
+NSGPR 
+
+National Strategy for Growth and Poverty Reduction 
+
+NBS 
+
+National Bureau of Statistics 
+
+NTD 
+
+Neglected Tropical Diseases 
+
+OGAC 
+
+Office of Global AIDS Coordinator 
+
+OVC 
+
+Orphans and vulnerable children 
+
+PBFW 
+
+Pregnant and Breast-Feeding Women 
+
+PEPFAR 
+
+President's Emergency Plan for AIDS Relief 
+
+PLHIV 
+
+People Living with Human Immunodeficiency Virus 
+
+PMTCT 
+
+Prevention of mother-to-child Transmission of HIV 
+
+PMP 
+
+Performance Monitoring Plan 
+
+PPR 
+
+Performance Plan reporting 
+
+PO-RALG 
+
+President’s Office – Regional Administration and Local Government 
+
+PrEP 
+
+Pre-Exposure Prophylaxis 
+
+
+
+
+SIMS 
+
+Site Improvement Monitoring System 
+
+SRH 
+
+Sexual Reproductive Health 
+
+TDHS 
+
+Tanzania Demographic and Health Survey 
+
+THIS 
+
+Tanzania Health Information Survey 
+
+TPT 
+
+Tuberculosis Preventive Therapy 
+
+USAID 
+
+United States Agency for International Development 
+
+VAC 
+
+Violence Against Children 
+
+WHO 
+
+World Health Organization 
+
+UNAIDS 
+
+United Nations Programme on HIV/AIDS 
+
+UNICEF 
+
+United Nations Children's Fund 
+
+USG 
+
+United States Government 
+
+
+
+ 
+
+ 
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID 
+Supplement, 2 CFR 700, as well as additional requirements for local partners. 
+
+ 
+
+A. OVERVIEW 
+
+ 
+
+The overall goal of the Comprehensive Child Centered Care and Services (C4S) activity (“The 
+Activity'') is to ensure health facilities in priority areas provide high quality integrated pediatric 
+HIV services and that children and adolescents are able to access comprehensive health and other 
+services. Specifically, this activity will provide technical assistance to end mother-to-child-
+transmission of HIV (eMTCT) by supporting pregnant and breastfeeding women (PBFW) and 
+their HIV-exposed infants (HEI), close the HIV treatment gap for children and adolescents living 
+with HIV (C/ALHIV) and drive TB elimination and well-being for C/ALHIV in Tanzania. The 
+Activity will ensure the continued delivery of HIV services for PBFW, HEI, and C/ALHIV at two 
+pediatric centers of excellence (COE) and support these COEs to serve as hubs for service 
+delivery and clinical capacity building. This activity will advance support to the National AIDS 
+Control Programme (NACP) and the National Tuberculosis and Leprosy Programme (NTLP) to 
+end HIV and TB among children and adolescents aged 0-19 years old and inform policy decisions 
+and discussions at the national level with the Ministry of Health, Community Development, 
+Gender, Elderly and Children and other key stakeholders and will coordinate implementation. 
+
+ 
+
+C4S will build on the successes and previous experiences of Afya Bora Mtoto Imara towards 
+eMTCT, achieving UNAIDS 95-95-95 targets1 for children and adolescents living with HIV in 
+Tanzania, increasing TB prevention and treatment achievements, and bolster achievements made 
+through the FASTER mechanism2. C4S will complement other USAID health activities that 
+support service delivery, health systems strengthening, orphans and vulnerable children, and 
+social and behavior change, as well as USAID efforts in other sectors, notably education. 
+
+1 https://www.unaids.org/sites/default/files/media_asset/201506_JC2743_Understanding_FastTrack_en.pdf 
+
+2 https://www.crs.org/sites/default/files/20os-217091_faster_fact_sheet_final_1.pdf 
+
+3 USAID Tanzania, CDCS, 2020-2025. 
+
+ 
+
+The activity directly contributes to the achievement of USAID Tanzania’s Country Development 
+and Cooperation Strategy (CDCS) Development Objective (DO) 1: “Foundational skills of 
+children 0-15 years achieved” and DO 3, “capacity of state and non-state actors strengthened to 
+benefit future generations”.3 
+
+ 
+
+The expected period of performance for this Activity is five (5) years. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+B. BACKGROUND 
+
+ 
+
+Strategic Context 
+
+Challenges to a nation’s health and wellbeing, whether it is the HIV epidemic, the burden of TB 
+or more recently the COVID-19 pandemic, underscore the necessity of rapid response by local 
+organizations to support integrated health services in coordination with community systems. 
+Efforts to address these challenges must both catalyze the current and future USAID pediatric 
+health priorities and foster sustainable systems that deliver quality comprehensive services for 
+PBFW, children and adolescents living with HIV (C/ALHIV), and their families in the long term. 
+
+ 
+
+The Ministry of Health, Community Development, Gender, Elderly and Children has prioritized 
+health and well-being for children, adolescents and their families at facility and community levels. 
+The National AIDS Control Programme prioritizes comprehensive and client-centered services as 
+an effective and efficient means to achieve 95-95-95 for C/ALHIV aged 0-19 years old and 
+strengthen the social welfare systems. 
+
+ 
+
+Tanzania is a high HIV and TB burden country globally, with a large number of new child 
+infections and pediatric treatment gap.4 HIV prevalence is slowly declining but Tanzania has not 
+yet achieved epidemic control and continues to experience disproportionately high rates of AIDS 
+related mortality for children 0-14 years with 0.4% prevalence with an estimated 8,300 deaths.5,6 
+Mother to child transmission (MTCT) has stalled at 11%, resulting in an estimated 10,000 new 
+child infections each year.6 
+
+4 Pediatric HIV Treatment Gaps in 7 East and Southern African Countries: Examination of Modeled, Survey, and 
+Routine Program Data. J Acquir Immune Defic Syndr 2018;78:S134–S141 
+
+5 Tanzania HIV Impact Survey, 2017. Published, December 2018. 
+
+6 UNAIDS, 2020, https://aidsinfo.unaids.org/. 
+
+7 https://healthgap.org/wp-content/uploads/2021/03/Sauti-Yetu-COP21-%E2%80%94-Our-Voices-Tanzania.pdf 
+
+8 https://www.usaid.gov/sites/default/files/documents/Tanzania_TBRM21_TB_DIAH_Version_Final.pdf 
+
+ 
+
+National leaders identified the following key gaps for C/ALHIV in Tanzania: inequitable access 
+and low coverage of ART and TB services, inadequate capacity of health workers and caregivers 
+to provide quality care, weak integration of HIV with other disease programs such as Neglected 
+Tropical diseases (NTDs), child health and nutrition, and into community programs, and sub-
+optimal use of and compliance to national HIV management policies and SOPs at the facility 
+level. Community leaders corroborated these gaps as documented to PEPFAR Tanzania in their 
+presentation to PEPFAR Tanzania COP Planning titled “Sauti Yetu”, the PEOPLE’S COP 21. 
+Among numerous recommendations, notably HIV advocates called for greater treatment literacy 
+for caregivers of C/ALHIV and PLHIV-led support to services, especially for ALHIV and 
+PMTCT.7 
+
+ 
+
+In 2021, the National TB and Leprosy Programme (NTLP) and USAID joined to create the 
+annual roadmap to end TB in Tanzania.8 Core approaches include continued progress to reach 
+undiagnosed clients, engage all care providers at facility and community level, to cure diagnosed 
+clients including those with drug susceptible and multi-drug resistant TB, and to prevent TB 
+among household contacts and PLHIV. The NTLP has highlighted significant pediatric TB gaps, 
+
+
+including low TPT coverage among CLHIV, low (< 50%) TPT completion rates, and inadequate 
+knowledge of the benefits of TPT among adolescent clients and parents/caregivers. 
+
+ 
+
+USAID/Tanzania 
+
+ 
+
+HIV and TB Response 
+
+ 
+
+USAID/Tanzania currently supports the delivery of comprehensive HIV and TB prevention, care 
+and treatment services for pediatric and adult populations with PEPFAR funding, and in 
+collaboration with partners including the Global Fund to Fight HIV, TB, and Malaria, as 
+coordinated by the Ministry of Health (MOH). USAID Boresha Afya, ACHIEVE, DREAMS, and 
+Afya Bora Mtoto Imara, police and prison activities provide comprehensive services across 20 
+regions of Tanzania. Key accomplishments include sustaining a growing cohort of PLHIV on 
+treatment with increasing viral suppression rates, continued scaling of differentiated service 
+delivery and multi-month dispensation of optimized ART, and the approval of the national PrEP 
+framework and rapid scale up of PrEP access and service delivery. 
+
+ 
+
+The main challenges related to eMTCT and pediatric HIV care include reducing vertical 
+transmission of HIV disease from mother to infant by ensuring PBFW are diagnosed, remain on 
+treatment and are virally suppressed, enhancing pediatric case identification, case management, 
+and treatment continuity.9 Key policy changes that could reduce barriers to pediatric services 
+include increasing awareness of the recently lowered age of consent to testing for adolescents, 
+currently at 15 years old10, enabling pediatric populations to access HIV self-tests for screening in 
+HIV affected households, and allowing stable PBFW and CLHIV <5 years of age to access multi-
+month dispensing of antiretroviral treatment (ART). 
+
+9 OGAC Planning Level Letter 2022. https://www.state.gov/wp-
+content/uploads/2022/01/COP22PLL_FINAL_TANZANIA_01.19.22.pdf 
+
+10 UNAIDS Press Center, 2019. 
+
+ 
+
+The C4S Activity will build on the gains made under the pediatric Boresha Afya and Afya Bora 
+Mtoto Imara projects, with the aim of reducing inequities in HIV services and treatment coverage. 
+The C4S Activity will closely collaborate with OVC Project Kizazi Hodari and ACHIEVE to 
+ensure a whole-of-child response with a continuum of care from facility to community. 
+
+ 
+
+COVID-19 Response 
+
+ 
+
+USAID Tanzania has received American Rescue Plan Act (ARPA) funding to provide essential 
+health services during the COVID-19 pandemic, support critical case management including 
+oxygen therapy, surveillance, laboratory quality improvement, infection prevention and control, 
+and increasing COVID-19 vaccination. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Maternal and Child Health and Nutrition, Family Planning and Neglected Tropical Diseases 
+
+ 
+
+COVID-19 has impacted maternal and child health and nutrition (MCHN) services and their 
+recovery is slow, especially in Tanzania where accelerated efforts are needed to reduce maternal, 
+newborn and child mortality, invigorate returns to improve nutritional outcomes among children 
+under 5, and fill the gap in unmet need for family planning.11 Clients have multiple preventative, 
+screening, and curative service needs that change as they transition through life. Child-centered 
+care and services should address their needs where they are most effectively, including in school 
+health screening activities and into the community, with their families. Neglected tropical disease 
+investments should be leveraged to benefit C/ALHIV.12 
+
+11 https://www.usaid.gov/actingonthecall/2021-report 
+
+12 https://allafrica.com/stories/202202020089.html 
+
+13 USAID Tanzania, CDCS, 2020-2025. https://www.usaid.gov/tanzania/cdcs 
+
+14 UNAIDS, 2021. https://www.unaids.org/en/Global-AIDS-Strategy-2021-2026 
+
+ 
+
+Country Development Cooperation Strategy 2020-2025 
+
+ 
+
+The USAID Tanzania Country Development Cooperation Strategy (CDCS) envisions that If 
+children are healthy, well-nourished, educated, and supported by their caregivers and 
+communities, then they will have the necessary foundational skills to become productive young 
+adults, well-positioned to pursue and achieve their aspirations. 
+
+ 
+
+The activity will primarily support the achievement of USAID/Tanzania’s Country Development 
+Cooperative Strategy (CDCS) Development Objective 1: “Foundational skills of children 0-15 
+years achieved” with specific contributions to IRs 1.2 (household nutrition and health outcomes 
+improved), and 1.3 (safe and supportive community structures enhanced). The activity will also 
+contribute to Development Objective 3 (capacity of state and non-state actors strengthened to 
+benefit future generations) especially IR 3.1 (capacity of sub-national governments to lead 
+sustainable development improved) and 3.3 (capacity of civil society actors strengthened). A 
+limited contribution will be made to IR 2.1 (health and education outcomes improved for 15–19-
+year-old).13 
+
+ 
+
+C. STRATEGIC ALIGNMENT WITH GOVERNMENT PRIORITIES 
+
+ 
+
+The C4S will align to the National Health Sector HIV Strategic Plan V 2021-2026 (HSHSP V), 
+which builds upon global HIV14 priorities and focuses on tailored interventions including 
+appropriate differentiated service delivery (DSD) models at PMTCT sites, maternal retesting, 
+engagement of men and mentor mothers for eMTCT (impact and intervention area 3), pediatric 
+HIV services (intervention area 19), adolescent HIV services (intervention area 20), TB/HIV 
+integration (intervention area 21), and HIV integration with other diseases (intervention area 22). 
+The HSHSP V emphasizes on multi-sectoral approach, for addressing comprehensive needs of 
+adolescents with HIV as the entry point but also focuses on sexual reproductive health, mental 
+health, nutrition education and soft skills development for economic activities. 
+
+ 
+
+
+In 2021, the National TB and Leprosy Programme (NTLP) and USAID joined to create a 
+roadmap to end TB in Tanzania.15 Core approaches include continued progress to reach 
+undiagnosed clients, engage all care providers at facility and community level, to cure diagnosed 
+clients including those with drug susceptible and multi-drug resistant TB, and to prevent TB 
+among household contacts and PLHIV. The National TB and Leprosy Strategic Plan VI (2020-
+2025) aligns very well with the USAID Strategy for TB. Both of these strategies are focused 
+around patient-centered care. Importantly, children have special consideration rather than being 
+considered as small adults. The Core approaches for the USAID strategy are to reach TB 
+undiagnosed clients by addressing barriers in access and utilization of TB services including 
+childhood TB; engage all care providers at facility and community level to treat and cure 
+diagnosed clients (including children) for both those with drug susceptible and multi-drug 
+resistant TB; use local evidence based solutions and global recommendations to prevent both 
+drug-sensitive and drug-resistance TB in all geographical areas for all population groups 
+including children. 
+
+15 https://www.usaid.gov/sites/default/files/documents/Tanzania_TBRM21_TB_DIAH_Version_Final.pdf 
+
+ 
+
+Sustainability: 
+
+ 
+
+For effective implementation and sustaining the gains in pediatric centers of excellence, C4S will 
+implement interventions in close coordination with the President's Office, Regional 
+Administration (PORALG) and Ministry of Health. The recipient will prioritize whenever 
+possible to use existing Government of Tanzania monitoring systems and support strengthening 
+these systems to be more responsible to current and future needs. 
+
+In addition, C4S will build their implementation strategy with the foundation of sustainability and 
+provide a Sustainability Plan as an annex to its work plan, which will be updated annually and 
+contain milestones related to institutional capacity building and the generation of financial and in-
+kind resources from public and private stakeholders to complement implementation and sustain 
+the gains of the activity. The Sustainability Plan might include, for example, a strategy for 
+generating revenue for outreach services provided to international and local stakeholders, 
+innovations such as fee-based telemedicine and virtual training, or premium care patient rooms 
+for customers able to pay. The Sustainability Plan should embrace a market-based approach to 
+eventual self-reliance. Ideally, the Recipient will demonstrate measurable functional and financial 
+transition toward sustainability no later than the beginning of Year 4. 
+
+ 
+
+D. ACTIVITY PURPOSE TECHNICAL APPROACH AND EXPECTED RESULTS 
+
+ 
+
+Purpose: 
+
+ 
+
+USAID is seeking to partner with one (1) local organization that provides PMTCT and pediatric 
+services and values a family approach to address the immediate HIV and TB technical assistance 
+needs preventing Tanzania from achieving equitable epidemic control, amidst evolving pediatric 
+COVID-19 needs. 
+
+ 
+
+
+Goal: 
+
+The goal of the Comprehensive Child Centered Care and Services activity is: 
+
+ 
+
+Improved health status of pregnant and breastfeeding women, HIV exposed infants, 
+children and adolescents living with HIV in Tanzania through increased access to quality 
+comprehensive child centered health care and support. 
+
+ 
+
+Development Hypothesis: 
+
+USAID’s development hypothesis is: 
+
+IF technical assistance is provided to expand access to quality comprehensive child-centered 
+health services, 
+
+AND IF national policies and systems are strengthened to improve C/ALHIV outcomes, 
+
+AND IF pediatric centers of excellence model quality comprehensive child-centered care. 
+
+THEN the health status of children and adolescents living with HIV will be improved. 
+
+ 
+
+Objectives: 
+
+1. Provide technical assistance to health facilities to increase access to quality comprehensive 
+child-centered health services 
+2. Strengthen national policies and systems to improve C/ALHIV outcomes 
+3. Sustain quality HIV and TB services to C/ALHIV at pediatric centers of excellence 
+
+
+ 
+
+A results framework reflecting the Activity goal, purpose, objectives, and intermediate results is 
+displayed below. 
+
+ 
+
+Results Framework: 
+
+Objective 1: Provide technical 
+assistance to health facilities to 
+expand access to quality 
+comprehensive child-centered HIV, 
+TB and other health services 
+
+Objective 2: Strengthen national 
+policies and systems to improve 
+C/ALHIV outcomes 
+
+Objective 3: Pediatric centers 
+of excellence (COEs) model 
+quality comprehensive child-
+centered care 
+
+IR 1.1: Reduce MTCT rates and 
+close the pediatric HIV treatment 
+gap 
+
+IR 2.1: Support national HIV and 
+TB policies for Children and 
+Adolescents enhanced to achieve 
+and sustain epidemic control 
+
+IR 3.1: Sustain comprehensive 
+pediatric HIV care and 
+treatment for 0–19-year-olds at 
+COEs 
+
+IR 1.2: Optimize quality, client-
+centered differentiated services, 
+including TB, for 
+pregnant/breastfeeding women, HEI 
+and C/ALHIV 
+
+IR 2.2: Support integrated social 
+service systems for children and 
+adolescent health and wellbeing, 
+including OVCs 
+
+IR 3.2: Build the capacity of 
+staff from other health facilities 
+in pediatric HIV at COEs 
+
+IR 1.3: Facilitate C/ALHIV to 
+access comprehensive integrated 
+services related to TB, nutrition, 
+immunization, NTDs, COVID-19, 
+and SRH. 
+
+IR 2.3: Enhance linkages and 
+bidirectional referral systems 
+between projects to optimize 
+resources for children and 
+adolescents 
+
+ 
+
+
+
+
+Technical Approach: 
+
+ 
+
+C4S will employ a sustainable data-driven approach that strategically provides technical 
+assistance to reach C/ALHIV (0-19 years old), their families and community, care providers, and 
+systems. This activity will achieve the greatest return on investment by building on past 
+successful experiences in the regions identified in Section E, focusing efforts on the districts and 
+facilities in these regions that have gaps in service delivery in order to address these gaps. 
+
+ 
+
+C4S should operate in a manner that is sustainable and accountable, and which supports the 
+provision of quality technical assistance in a contextually appropriate manner. C4S will provide 
+above site support to the Ministry of Health to strengthen their pediatric health workforce and 
+systems to address HIV, TB, and COVID-19. C4S will support the NTLP's efforts to end pediatric 
+TB through improvement of pediatric TB diagnosis, preventive care and treatment. C4S will also 
+support demonstrable linkages to integrated primary health care services including immunization, 
+management of diarrhea, pneumonia, nutrition, neglected tropical diseases (NTDs), sexual and 
+reproductive health services, and relevant community socio-economic support systems. 
+
+ 
+
+Objective 1: Provide technical assistance to expand access to quality comprehensive child-
+centered health services 
+
+ 
+
+C4S will be expected to strategically implement technical assistance activities to prevent and treat 
+HIV and TB in children, adolescents, and pregnant and breastfeeding mothers. These 
+supplemental resources should increase pediatric HIV and TB treatment coverage and service 
+access, optimize client-centered services for C/ALHIV and PMTCT, and facilitate access to 
+comprehensive integrated services for C/ALHIV. 
+
+ 
+
+Technical assistance must not only adhere to international standards and evidence-based practices, 
+but also reflect Tanzania national guidelines and algorithms, and PEPFAR annual guidance and 
+directives.16 Support to priority sites should enhance results and ensure coordination with ministry 
+and implementing partner staff to achieve high yield and cost-effective assistance, designed for 
+future sustainability. Investments to support health care providers, parents/caregivers, and 
+community health workers should strengthen the continuum of HIV care and facilitate child and 
+adolescent wellness services safely in the context of COVID-19. Integrated well-child and well-
+adolescent services include nutrition, SRH, screening for NTDs, and COVID-19 mitigation. 
+
+16 https://www.state.gov/wp-content/uploads/2022/01/COP22-Guidance-Final_508-Compliant.pdf 
+
+ 
+
+IR 1.1 Reduce MTCT rates and close the pediatric HIV treatment gap 
+
+ 
+
+C4S will be expected to strategically implement technical assistance activities to close the 
+pediatric HIV treatment gap. Support should expedite identifying and enrolling treatment naive 
+clients, or welcoming clients back to treatment that have interrupted care in priority geographies 
+(see Section E). C/ALHIV requires caregiver support and case management to ensure they are 
+supported early in care and can adhere at home and in school to attain and sustain viral 
+suppression. 
+
+
+ 
+
+C4S will also be expected to provide technical assistance that optimizes existing PMTCT services 
+that have not continued to reduce the number of HIV exposed infants, or the rate of HIV 
+seroconversion during pregnancy, delivery, through breastfeeding to a final status determination. 
+Assistance efforts should seek to break through stalled progress to identify key quality 
+improvement measures, facilitate maternal re-testing and PrEP access, understand human resource 
+capabilities and streamline provider workflows, as well as engage with clients/peer PLHIV 
+leaders to find sustainable solutions. 
+
+ 
+
+IR 1.2 Optimize quality, client-centered differentiated services, including TB, for 
+pregnant/breastfeeding women, HEI and C/ALHIV 
+
+ 
+
+C4S will provide technical assistance to enhance child-centered differentiated service delivery 
+models to sustain progress towards 95-95-95 for mothers in PMTCT, children and adolescents. 
+Critical components of success ensure access to optimized ARVs, reliable laboratory (viral load) 
+services, realistic provider workloads, and respect clients' agency in their care decisions, which 
+for children includes their parents and caregivers, and assenting ALHIV that can successfully 
+transition to adult treatment. Technical assistance should ensure that returning and newly 
+identified C/ALHIV have models that ensure a successful start on treatment, and the psychosocial 
+support to adhere at home and in school to achieve and then sustain viral suppression. For 
+children, services should ensure that parents/caregivers have the skills to support adherence 
+through ARV regimen changes. Support could include digital innovations for client/caregiver or 
+provider benefit to simplify HIV and TB care schedules and adhere to COVID-19 safety 
+measures.17 C4S will also address pediatric TB through improvement of pediatric TB diagnosis, 
+preventive care and treatment. 
+
+17 https://www.usaid.gov/usaid-digital-strategy 2020-2024 
+
+ 
+
+Expected outcomes for technical assistance for differentiated services delivery models include: 
+
+● Strategic case identification and differentiated services with intensified support for the 
+first 6 months on treatment for families and their C/ALHIV 
+● Client centered services for mothers and HEI infants (mother-baby pairs), children and 
+their families, 
+● Treatment literacy for caregivers, CLHIV, and ALHIV to achieve and sustain viral 
+suppression through transition to adult services 
+● Collaboration and coordination with OVC case management and household support for 
+C/ALHIV 
+
+
+ 
+
+IR 1.3 Facilitate C/ALHIV to access comprehensive integrated services related to TB, 
+nutrition, NTDs, COVID-19, and SRH. 
+
+ 
+
+C4S is expected to facilitate C/ALHIV to access integrated health services beyond HIV, and 
+where relevant outside of the facility for stable C/ALHIV. This will require defining priority 
+integration services for a well child successfully managing HIV, considering how to reduce 
+facility/provider stigma for C/ALHIV, and supporting C/ALHIV in a life cycle approach 
+
+
+alongside their peers. Investments should seek to leverage existing efforts in screening children 
+and adolescents for COVID, TB, nutrition, NTDs, SRH/family planning, and collaborate toensure effective referral systems exist beyond HIV for pediatricclients andtheir families,
+especially mothers.18Innovative design, collaboration and coordination efforts are anticipated.
+
+Illustrativeassistanceand partnerships to increase C/ALHIV access to integrated services include:
+
+●Increased capacity to use national referral systems, tools and SOPs
+●Collaboration and coordination with school health screening in high prevalence settings
+●Collaboration and coordination with ministry child health/well child services and outreach
+●Collaboration and coordination with youth friendly services for ALHIV
+●Support pediatric HIV sites to operate in a COVID context and manage evolving 
+pandemic related PEPFAR guidance,19as well as the American Rescue PlanAct (ARPA).
+Objective 2:Strengthen national policies and systems to improve C/ALHIV outcomes
+
+C4S will contribute to and leverage existing national systems and ongoing community activitiesthat support children, adolescent and family health (including OVCs) to achieve enduring HIVtreatment success. C4S will provide technical assistance on specialized pediatric health and liaise 
+with ongoing GoT initiatives, as well as complementary USAID, PEPFAR, and Global Fund 
+projects. C4S will facilitate relationships to leverage ongoing work supporting C/ALHIV, as wellas foster new linkages with locally led and community and faith-based organizations. Technicalassistance around this objective should network with diverse community-based systems to 
+increase impact of locally available services on health outcomes for C/ALHIV.
+
+IR 2.1 Support national HIV and TBpolicies for Children and Adolescents enhanced toachieve TB elimination and sustain epidemic control
+
+C4S will play a critical role in bringing expertisein quality, integrated, comprehensive careforC/ALHIV to inform key policy discussions to update and improveexisting pediatric HIV and TBprevention, care and treatment in Tanzania. C4S will be expectedto actively engage in therevision and implementation of national strategies, guidance, and information from technicalmeetings. While much has been done to support the roll out and use of multiple national PMTCTand pediatricand adolescent HIV guidance,tools and training, therearecoverageand 
+implementation gaps to be filled. Activities in this objective should build on past progress, 
+leverage community health systems and partners, and coordinatewith implementing partner plansand budgets. C4S will advocate for the adoption of practices to reduce barriers to sustain PMTCTand pediatric treatment success.
+
+Expected Outcomes:
+
+●Pediatric HIV, TB, or integrated strategies, policies, guidelines and tools used and updated 
+according to recognized evidenceand informed by field experience
+18Measure Evaluation, 2018.https://www.measureevaluation.org/resources/publications/tr-18-
+284/at_download/document
+
+19PEPFAR Technical Guidancein the Context of COVID-19 https://www.state.gov/pepfar/coronavirus/
+
+
+● Capacity of NACP and NTLP to formulate strategies, policies, guidelines and/or tools 
+strengthened. 
+● Facilitate direct engagement of clients/peer leaders in discussions that affect their care and 
+services 
+
+
+ 
+
+IR 2.2 Support linkages to social service for children and adolescent health and wellbeing, 
+including OVCs 
+
+ 
+
+C4S will play an active role in ensuring that facility and community systems align data and are 
+mutually beneficial and supportive to clients as implemented. USAID Tanzania supports a large 
+cohort of OVC through the Kizazi Hodari and ACHIEVE. C4S will need to ensure close 
+coordination and strong collaboration with Kizazi Hodari and ACHIEVE. In areas without direct 
+OVC programming, significant gaps may be identified and filled through local social service and 
+development offices, as well as faith-based networks to enhance community services for 
+C/ALHIV and HIV-exposed infants. 
+
+ 
+
+Expected outcomes: 
+
+● Improved collaboration between C4S and Kizazi Hodari and ACHIEVE through MoUs 
+execution 
+● Enhanced access to social-economic services and case management systems for families 
+● Strengthened data sharing and monitoring outcomes for pregnant and breastfeeding 
+women, HEI, and C/ALHIV that are receiving clinical and OVC program support. 
+
+
+ 
+
+IR 2.3 Enhance linkages and bidirectional referral systems between projects to optimize 
+resources for children and adolescents 
+
+ 
+
+C4S will support and ensure linkages across projects and partners engaged in child and adolescent 
+health and wellbeing, including OVCs. An important element of this activity will be to leverage 
+existing resources, partnerships, and on-going projects to maximize project impact and reduce 
+duplication of efforts or parallel workstreams. 
+
+ 
+
+Expected outcomes: 
+
+● Improved bi-directional referral services completion rate for A/CLHI, HEI and OVC 
+● Reduced pediatric HIV treatment gap and MTCT 
+● Improved access to social services among A/CLHIV, HEI, and other OVC 
+● Sharing data and information between partners/projects/facilities and communities to 
+achieve shared results to reduce MTCT, close the pediatric treatment gap, and sustain 
+stable C/ALHIV on treatment 
+● Facilitate and formalize partnerships between community networks, implementing 
+partners, and GoT where appropriate 
+● Orient community and faith networks in above-site technical assistance activities and 
+tools, alongside MOH staff and implementing partners 
+
+
+ 
+
+ 
+
+ 
+
+
+Objective 3: Pediatric centers of excellence model quality, comprehensive care to children 
+and adolescents living with HIV 
+
+ 
+
+C4S will provide technical assistance to two pediatric centers of excellence (COEs). The two 
+COEs are co-located at Bugando Medical Center (BMC) and Mbeya Referral Hospital (MRH), 
+and are operated by Baylor Tanzania, a local organization. C4S will provide support through a 
+subaward to ensure these facilities have sufficient resources to provide quality, comprehensive 
+care to children and adolescents living with HIV and continue to function in their capacity as 
+regional training hubs. 
+
+ 
+
+IR 3.1: Scale up comprehensive pediatric HIV care and treatment 
+
+ 
+
+The COEs are important providers of pediatric HIV services and should continue to provide 
+quality, comprehensive care to children and adolescents living with HIV currently on treatment as 
+well as those newly identified. As centers of excellence, these facilities do not require technical 
+assistance from C4S. Similar to Objectives 1 and 2, the COEs will be expected to: (1) implement 
+pediatric HIV activities to close the treatment gap; (2) support evolving differentiated service 
+delivery models that address client needs and site volume without compromising treatment 
+outcomes; (3) ensure caregivers have the capacity to deliver quality comprehensive care; and (4) 
+ensure children and adolescents have access to comprehensive support by successfully linking 
+them with other essential services. COEs will also actively implement TB case finding activities 
+in HIV negative children and adolescents. 
+
+ 
+
+Expected Outcomes: 
+
+● COEs continue to scale quality, comprehensive care to C/ALHIV. 
+● COEs effectively link children and adolescents to other health and essential services. 
+
+
+ 
+
+IR 3.2: Build the capacity of staff from select health facilities based on need/gap in pediatric 
+HIV at COEs 
+
+ 
+
+The clinical COEs will serve as training facilities for staff from other facilities to build their 
+capacity, develop skills and knowledge, and view firsthand how care is delivered at the COE. C4S 
+will provide support to the COEs to ensure they have resources to run training programs and will 
+work with them to organize periodic training events. However, participants in these training 
+programs are expected to cover the full costs of their participation. 
+
+ 
+
+Expected Outcomes: 
+
+● Staff from other facilities receive high quality training and mentoring in pediatric HIV and 
+TB care and treatment. 
+
+
+ 
+
+E. GEOGRAPHIC FOCUS 
+
+ 
+
+The C4S project will operate in select priority regions which will include 11 USAID supported 
+regions in Tanzania: Arusha, Dodoma, Iringa, Kilimanjaro, Lindi, Manyara, Morogoro, Mtwara, 
+Njombe, Ruvuma, and Singida. Priority will be facilities with identified gaps in reaching children 
+
+
+with HIV and TB. C4S will also support the two pediatric centers of excellence in Mbeya and 
+Mwanza. 
+
+ 
+
+F. KEY PRINCIPLES AND ASSUMPTIONS 
+
+ 
+
+Environmental Analysis: 
+
+ 
+
+The environmental analysis for this C4S activity is based on the current health IEE 
+(https://ecd.usaid.gov/repository/pdf/54590.pdf), which was approved February 17, 2022, and 
+expires January 31, 2027. This Health IEE recommends negative determination with conditions 
+for activities/interventions focusing on: 
+
+● Direct healthcare service delivery (i.e., prevention, care and treatment) focusing on 
+HIV/AIDS, malaria, TB services, and family planning outreach. 
+● Community Engagement Strengthening Activities. 
+● Governance, policy development, and finance. 
+
+
+ 
+
+In the case of C4S the implementation of its activities will include access to integrated services 
+related to TB, child health including routine immunization, nutrition, NTDs, and SRH, to 
+strengthen national policies and systems, scale up comprehensive pediatric care and treatment, 
+and facilitate training events. These activities if not properly implemented may have a direct or 
+foreseeable indirect impact on physical or social environmental health and safety. With this case, 
+a negative determination with condition is recommended for all interventions under this C4S 
+Activity. This implies that the implementation of C4S interventions/activities are subject to the 
+specified conditions included in the Health IEE and therefore their implementation is expected to 
+have no significant adverse effect on the physical and social environment. 
+
+ 
+
+Climate Risk Analysis: 
+
+ 
+
+The climate change risk analysis for this award relies upon the Tanzania Climate Risk 
+Management (CRM) screening during the preparation of Health IEE. This CRM screening 
+identifies climate-related risks to Health activities that should be addressed to enhance resilience 
+and safeguard activity development objectives. This screening was conducted as part of 
+implementing the Reference for ADS Chapter 201 “Climate Risks Management for USAID 
+Projects and Activities”20. Based on the analysis, Tanzania is projected to experience the 
+following changes in climate by mid-century: 
+
+20 Reference to ADS Chapter 201: https://www.usaid.gov/ads/policy/200/201mal 
+
+ 
+
+● Increase in average annual temperature of 1.4 to 2.3°C, with greater warming in the west and 
+southwest 
+● Increase in duration of heat waves by 7 to 22 days and dry spells by up to 7 days 
+● Likely increase in average annual rainfall by -3 to +9 percent with greatest increase in 
+northeast and likely decline in rainfall from July to September 
+● Increase in frequency of heavy rainfall events by 7 to 40 percent, as well as an increase in 
+intensity of heavy rainfall events by 2 to 11 percent 
+
+
+
+● Increase in runoff in some river basins (Pangani, Rufiji), increasing risk of flooding and 
+sedimentation; and a decrease in runoff in other basins (Wami/Ruvu), increasing water stress 
+● Rise in sea level of 16 to 42 centimeters 
+
+
+ 
+
+Tanzania’s health infrastructure and services are highly vulnerable to climate change impacts, 
+including: 
+
+● Increased temperatures and flooding could increase the incidence of malaria 
+● Climate change could increase the spread of HIV/AIDS and TB by facilitating migration due 
+to climate shocks/stressors that force people to move 
+● Exposure to high temperatures is linked with higher rates of premature birth and low birth 
+weight 
+● Climate change impacts on agriculture (damaged crops, reduced yield) and WASH 
+infrastructure (polluted water that increases incidence of waterborne diseases) could worsen 
+overall health, particularly for sensitive populations like HIV/AIDS, TB, and malaria 
+patients. These impacts could also place a heavier burden on the national healthcare system 
+● Extreme heat and flooding could impact ability to provide technical assistance, engage with 
+communities, or carry out communication and education campaigns by affecting the health of 
+staff/participants, blocking access routes, or disrupting logistics networks 
+● Climate change shocks and stressors may disproportionately impact women and vulnerable 
+populations 
+
+
+ 
+
+Climatic change can also cause decreased productivity of freshwater and coastal fisheries and 
+increased severity of wildfires. Cognizant of these climate concerns, this award is determined to 
+be of moderate risk. The activity’s interventions will not be severely impacted by climate change, 
+but there is the possibility that an extreme climate event could affect project implementation or 
+results. 
+
+ 
+
+Gender and Women’s Empowerment 
+
+ 
+
+Gender impacts all development outcomes for women and men; to be most effective, health 
+programs must take a gender lens in all stages of programming – planning, implementation, 
+monitoring, and evaluation – and at all points along the service continuum. For children and 
+adolescent health programming, it is critical that risk vulnerability factors for girls and boys, and 
+their parents/caregivers when designing interventions and support be considered. In Tanzania, for 
+example, in most traditional households, men control decisions regarding education enrollment, 
+and access to health services. Men are the primary household decision-makers and control the 
+majority of household economic resources. Gender-based violence is also widespread in 
+Tanzania, and it limits women and girls’ ability to negotiate access to services and disclose any 
+health issue that they may be experiencing. Gender equality and women’s empowerment are 
+essential for achieving the results of the C4S Activity. 
+
+ 
+
+The Recipient will implement technical assistance and activities to reduce gender-based inequities 
+in pediatric and C/ALHIV services. Resources should address the underlying reasons for gender-
+based differences and use gender-sensitive approaches when designing, implementing, 
+monitoring, and evaluating results. The activity will be expected to: 
+
+ 
+
+
+● Provide technical assistance to balance gender inequality in service delivery — to improve 
+health outcomes more equitably. 
+● Pay particular attention to any potential increases in gender-based violence; and know 
+referral pathways to provide adequate support to survivors. 
+● Ensure that community and male engagement efforts do not compromise women’s safety 
+and ability to make decisions and access services for themselves or their children. Track 
+this carefully through monitoring and evaluation reports and participation. 
+
+
+ 
+
+Youth Inclusion 
+
+ 
+
+The USAID Youth in Development Policy aims to strengthen youth programming, participation, 
+and partnership in support of Agency development objectives and to mainstream and integrate 
+youth issues and engage young people across Agency initiatives and operations. In Tanzania, 
+youth empowerment and inclusion are critical cross-cutting issues throughout the Mission’s 
+CDCS results framework. The C4S response should provide quantifiable opportunities for 
+adolescents in co-creation, and meaningful youth engagement and employment in 
+implementation, monitoring, and advisory roles. 
+
+ 
+
+Sustainability 
+
+ 
+
+The Recipient must build their implementation strategy with the foundation of sustainability and 
+provide a Sustainability Plan as an annex to its work plan, which will be updated annually and 
+contain milestones related to institutional capacity building and the generation of financial and in-
+kind resources from public and private stakeholders to complement implementation and sustain 
+the gains of the activity. The Sustainability Plan might include, for example, a strategy for 
+generating revenue for outreach services provided to international and local stakeholders, 
+innovations such as fee-based telemedicine and virtual training, or premium care patient rooms 
+for customers able to pay. The Sustainability Plan should embrace a market-based approach to 
+eventual self-reliance. Ideally, the Recipient should demonstrate measurable functional and 
+financial transition toward sustainability no later than the beginning of Year 4. 
+
+ 
+
+Key Assumptions: 
+
+ 
+
+The operating environment in Tanzania will continue to be peaceful, predictable, and 
+characterized by political and economic stability. Security and operating conditions will change 
+positively on the ground. Current multiparty dynamics are likely to remain in place for some time, 
+with peaceful election and transition of government and power resulting in continuation of peace 
+and tranquility. 
+
+ 
+
+The Government will remain a viable and effective development partner, consistent, serve as a 
+responsible partner for development, and local and non-governmental actors are willing and able 
+to be more proactive development partners with the USG. 
+
+ 
+
+The relationship with government institutions takes place within a context of openness, 
+collaboration and accountability toward donors and other implementing partners. 
+
+ 
+
+
+The Tanzanian economy will continue to flourish in the coming years, and be driven by continued 
+currency stability, manageable inflation, stability, and increased security. 
+
+ 
+
+The Health and Education interventions will follow the revised and approved GOT policies and 
+guidelines and will play a role in improving the health outcomes of the population served. 
+
+ 
+
+USAID’s Operating Year Budget levels for this activity will be available (based on availability of 
+funding). 
+
+ 
+
+G. MONITORING, EVALUATION AND LEARNING 
+
+ 
+
+Monitoring: 
+
+ 
+
+Monitoring and evaluation data will be used to inform management decisions, resource allocation 
+and to assess where changes to the Activity may be required to help better ensure that the desired 
+impact will be achieved. C4S will develop and track targets, output and outcome indicators, as 
+well as expenditures. Measurable results at the process and outcome level are critical to achieving 
+HIV epidemic control. Program indicators must align with the USAID/Tanzania Mission and 
+Health Office strategic objectives and intermediate results framework, as well as with the required 
+USAID and PEPFAR/Tanzania strategic objectives. Indicators must feed into the 
+USAID/Tanzania’s Mission-wide Performance Management Plan (PMP) and Performance Plan 
+and Report (PPR) as well as PEPFAR’s reporting process. Additionally, any data collection must 
+support national approaches to strengthening the health information system and not be duplicative 
+of the current data demand on health providers and administrators in clinical and community 
+settings. 
+
+ 
+
+Indicators will be appropriately disaggregated by age, sex, site, cadre, and geographical region, 
+and will measure the results of the program’s strategies addressing gender. Activity Monitoring 
+and Evaluation (M&E) must be consistent with USAID’s Evaluation Policy, PEPFAR’s Site 
+Improvement Monitoring Systems (SIMS, see https://data.pepfar.gov/dataSources), High-
+Frequency reporting (HFR) and PEPFAR MER indicators. 
+
+ 
+
+PEPFAR Processes for Program Monitoring: 
+
+ 
+
+As PEPFAR 3.0 evolves, the Office of the Global AIDS Coordinator (OGAC) is keenly focused 
+on monitoring and achieving results. Several PEPFAR processes have been implemented to help 
+PEPFAR operating units and implementing partners achieve desired results. C4S will participate 
+in and contribute to all PEPFAR processes, including the ones described below. Data collection 
+processes and instruments should be dynamic and flexible, ready to accommodate regular changes 
+to PEPFAR guidance and requirements. 
+
+ 
+
+1. Non-service Delivery Investments: C4S will contribute information to complete Table 6 
+for OGAC, this tool tracks Above Site investments across USG to coordinate annual 
+planning towards achieving and then sustaining HIV epidemic control in Tanzania. 
+
+
+ 
+
+
+2. Community-led Monitoring (CLM): OGAC supports stakeholder feedback on the status of 
+HIV service delivery in Tanzania, including critical areas such as pediatric and family 
+services. This information will be shared with USG stakeholders for awareness and action. 
+C4S will review feedback gathered via CLM and address issues and/or client 
+recommendations as requested. 
+
+
+ 
+
+3. PEPFAR Oversight and Accountability Response Team (POART): OGAC conducts 
+quarterly reviews of programmatic and financial results through the POART. Data to be 
+reviewed include, but are not limited to, SIMS site- and partner-level results, financial 
+data (including pipeline and expenditures), and MER results. Before the calls, C4S will 
+review available data with USAID staff. Following these calls, C4S will act quickly to 
+address any issues or recommendations so that measurable change is made by the end of 
+the next quarter. 
+
+
+ 
+
+4. Expenditure Reporting: C4S will participate in the annual Tanzania-level expenditure 
+reporting exercise to help PEPFAR and the USG better understand the costs that the USG 
+finances to provide a broad range of HIV services and support. Data collected and 
+submitted is used to improve program planning. Expenditure data is currently collected at 
+the provincial level, although C4S should be prepared to move to reporting at lower levels, 
+including the health zone or site, if requested. 
+
+
+ 
+
+C4S will develop an Activity Monitoring, Learning and Evaluation Plan (AMELP) that reflects 
+the expected results and specific outcome indicators and targets by year. Key components of the 
+AMELP typically include: 
+
+ 
+
+● The activity’s monitoring approach, including relevant performance indicators of activity 
+● outputs and outcomes. 
+● Any proposed internal evaluations. 
+● Regular learning activities, including knowledge capture at activity close out. 
+● Estimated resources for these monitoring, evaluation and learning activities that are a part 
+of the implementing partner’s budget; and 
+● Roles and responsibilities for all proposed monitoring, evaluation and learning actions. 
+
+
+ 
+
+The AMELP will be developed in accordance with ADS 201 and USAID’s revised Evaluation 
+Policy and it will underpin a coherent monitoring and evaluation system that will objectively 
+assess the overall progress and impact of the activity as outlined in the program description. 
+
+ 
+
+Evaluation: 
+
+ 
+
+As set forth in ADS 201.3.5.13, USAID Tanzania may contract separately for an independent 
+third party to conduct a final performance evaluation of this activity with the overall objective of 
+generating evidence of what worked well and why, as well as what specific set of interventions 
+can be considered for future USAID funding. C4S will comply with USAID requirements 
+regarding evaluation planning and implementation, including selection of sites, beneficiaries, 
+providing contact information and relevant documentation, collection of data, and working 
+closely with USAID and the Evaluation Implementer. 
+
+
+ 
+
+ 
+
+ 
+
+Collaborating, Learning & Adapting (CLA): 
+
+ 
+
+Collaboration enables cross-sector integration, convergence, and effective interventions to 
+maximize development resources and enhance development results. C4S will collaborate with 
+USAID-supported activities (including those from other technical offices), other development 
+partners (e.g. multilateral donors, bilateral donors, and civil society), and the Government of 
+Tanzania in common areas of operation and engage with stakeholders to deliver integrated 
+services to target populations. 
+
+ 
+
+Learning should be intentional, systematic and resourced. Sources for learning include data from 
+monitoring, findings of research, evaluations, analyses conducted by USAID or third parties, 
+knowledge gained from experience, stocktaking exercises, and other sources. A collaborating, 
+learning, and adapting focus helps to ensure that programming is coordinated, grounded in 
+evidence, and adjusted as necessary to remain relevant and effective throughout implementation. 
+Knowledge generated by learning must be applied throughout programming to implementation 
+approaches, processes, and stakeholder engagement. Knowledge generated by learning should 
+also be disseminated to activity stakeholders, partners, and collaborators in an appropriate forum 
+and format so that it may be translated into decisions and actions that enhance the success of 
+approaches and interventions designed to achieve common intermediate results. C4S will share 
+information and knowledge generated by monitoring data, research findings, evaluations, 
+analyses, and experiences with other USAID implementing partners, development partners, and 
+the Government of Tanzania. C4S will also apply actionable information and knowledge gained 
+from collaborating partners to activity implementation in order to improve results. 
+
+ 
+
+C4S will adapt based on knowledge gained through learning and recognize behaviors and 
+incentives necessary to create change. Knowledge gained through learning will influence decision 
+making, resource allocation, and adaptation to contextual shifts. Application of new knowledge to 
+implementation decisions must be reflected in the Annual Work Plan and AMELP. Decisions to 
+adapt may be based on, but not limited to the following: 
+
+ 
+
+● Extraneous changes in the operating environment (e.g. emergency or natural disaster; 
+national policy changes); 
+● Financial and human resource constraints. 
+● Evidence that signals targets are unmet, and that the program is not achieving its goals; 
+and 
+● Emerging evidence that interventions are not working or could work if adapted. 
+
+
+ 
+
+Any changes that will affect the scope of the activity must be approved by the Cognizant 
+
+Agreement Officer in a modification to the award. Changes in technical approach may be 
+approved by the AOR by way of the AOR’s authority to provide technical direction and approve 
+Annual Work Plans. 
+
+ 
+
+END OF SECTION A 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+1. Estimate of Funds Available and Number of Awards Contemplated 
+
+
+ 
+
+USAID intends to award one Cooperative Agreement pursuant to this notice of funding 
+opportunity. Subject to funding availability and at the discretion of the Agency, USAID intends 
+to provide $13,669,994.00 million in total USAID funding over a five-year period. Below is a 
+table showing the estimated amounts for C4S on annual basis: 
+
+ 
+
+ 
+
+CategoryYear 1Year 2Year 3Year 4Year 5TotalTotal Estimated Amounts$1,741,102$2,819,195$2,923,987$3,036,152$3,149,558$13,669,994 
+
+
+2. Expected Performance Indicators, Targets, Baseline Data, and Data Collection 
+
+
+ 
+
+The Recipient will be required to create a MEL Plan detailing how they will ensure robust 
+monitoring. To that extent, the Recipient's activity MEL plan should ensure that USAID/Tanzania 
+indicators are tracked and reported on, to include relevant CDCS indicators, as identified in the 
+USAID/Tanzania's PMP and Project MEL Plan, respectively. Other required indicators, such as 
+standard foreign assistance indicators, to support USAID/Tanzania's annual reporting must also 
+be included as part of the activity's MEL Plan. 
+
+ 
+
+Start Date and Period of Performance for Federal Awards 
+
+ 
+
+The anticipated period of performance is five years. The estimated start date will be on or about 
+February 2023, through February 2028. 
+
+ 
+
+3. Substantial Involvement 
+
+
+ 
+
+Substantial Involvement is not to exceed what is allowed in ADS 303. Examples of potential 
+areas of substantial involvement during performance include, but not limited to: 
+
+ 
+
+a. Approve Recipient’s Implementation Plan 
+b. Approve Specified Key Personnel. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+Chief of Party (COP): 
+
+ 
+
+The Chief of Party (COP) shall be responsible for the overall planning, implementation, 
+and management of the performance of the C4S Activity and to provide vision and 
+strategic leadership. The COP leads efforts to collaborate and coordinate with other 
+PEPFAR and TB accelerator and USAID Tanzania projects, other donor and NGO-
+sponsored activities, and the efforts of the Government of Tanzania. The COP must 
+possess knowledge of and experience with the Office of Global AIDS Coordinator 
+(OGAC)/PEPFAR processes and working knowledge of Country Operational Planning 
+(COP) processes, PEPFAR Guidance, and PEPFAR reporting, and ability to provide 
+technical guidance to PEPFAR partners in assessment, development, and implementation 
+of the HIV/TB Activity’s data quality initiatives. The COP is intended to be a seasoned 
+
+
+health sector professional, thoroughly familiar with the current and historic health services 
+delivery sector in Tanzania, as well as with social and behavioral change approaches. 
+He/she must serve as the institutional liaison and must be responsible for chief 
+administrative and technical oversight of the project. The COP must work effectively in 
+teams and collaborate in a multi-agency setting. The COP provides guidance to senior 
+technical staff, ensures the responsiveness and quality of all work under the Activity and 
+oversees the framework to monitor and assure progress toward the achievement of the 
+Activity’s goals and objectives. 
+
+Deputy Chief of Party (DCOP) who will also be the technical director: 
+
+The Deputy Chief of Party is a senior technical advisor and contributes to the strategies for 
+all the technical requirements of the C4S Activity and provides technical expertise to 
+ensure the fulfillment of project deliverables. The Deputy Chief of Party demonstrates an 
+understanding of best practices and contributes to knowledge capture and dissemination of 
+key learnings to key stakeholders and promotes innovation, improved methodologies, and 
+project implementation. The DCOP actively engages with the Government of Tanzania, 
+local partners, other PEPFAR partners, and development organizations and promote 
+effective collaboration and cooperation across the Contractor teams. S/he will oversee all 
+HIV/TB activities in facilities and communities with a focus on children. S/he will guide 
+the quality of HIV/TB prevention, care and treatment provided with a focus on children. 
+S/he will report directly to the COP and support the COP in providing technical direction 
+to project implementation and ensure that the results are met. S/he will ensure strong 
+linkages with all other project components. 
+
+Finance and Administration Director: 
+
+The Finance and Administration Director will be responsible for the overall financial 
+management of the organization, including the accounting, invoicing, contracts 
+management, procurement, and administrative activities, and ensures that adequate and 
+appropriate internal controls are in place in compliance with USG and PEPFAR policies 
+and procedures, to meet generally recognized accounting standards. S/he will oversee the 
+effective and appropriate use of financial resources of the project; develop effective 
+mechanisms to monitor the expenditures. The Finance and Administration Director has the 
+responsibility to track project expenses and to prepare monthly financial reports and 
+annual budget projections to ensure full compliance in accordance with USG and 
+PEPFAR rules and regulations. 
+
+Monitoring and Evaluation and learning Director: 
+
+The MEL Director will be responsible for designing and implementing systems to ensure 
+appropriate tracking and assessment of all project activities. S/he will have primary 
+responsibility of reporting on project outputs and outcomes and for ensuring quality of 
+interventions and establishing and managing a data processing environment responsive to 
+USG reporting and learning requirements, including PEPFAR reporting expectations. The 
+MEL Director will lead the development, implementation, refinement, and harmonization 
+of the C4S MEL system, including developing and operationalizing indicators, setting 
+
+
+targets, monitoring implementation progress, ensuring timely data collection; and 
+determining and implementing a learning agenda across all the technical components of 
+the agenda including a community monitoring system. 
+
+c. Agency monitoring to permit specific kinds of direction or redirection of the work because 
+of the interrelationships with other projects or activities. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+d. Approval of the Recipients’ MEL plan. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+5. Authorized Geographic Code 
+
+ 
+
+The geographic code for this activity is 935. Code 935 (any area or country including the 
+recipient country but excluding any country that is a prohibited source) is the authorized USAID 
+Principal Geographic Code for procurement of commodities and services. 
+
+ 
+
+6. Nature of the Relationship between USAID and the Recipient 
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Tanzania Malaria 
+Surveillance Activity, which is authorized by Federal statute. The successful Recipient will be 
+responsible for ensuring the achievement of the program objectives and the efficient and effective 
+administration of the award through the application of sound management practices. The 
+Recipient will assume responsibility for administering Federal funds in a manner consistent with 
+underlying agreements, program objectives, and the terms and conditions of the Federal award. 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+1. Eligible Applicants 
+
+
+ 
+
+Eligibility for this NOFO is restricted per ADS 303.3.6.5.c.1(7): to restrict eligibility for a 
+componence of the activity to local organizations based on the programmatic purposes. 
+
+ 
+
+Only local organizations as defined below are eligible for award. USAID defines a “local entity” 
+as an individual, a corporation, a nonprofit organization, or another body of persons that: 
+
+ 
+
+(1) Must be incorporated or legally organized under the laws of, and have its principal place 
+of business in the country served by the PEPFAR programs are implemented; or must 
+exist in the region where the entity’s funded PEPFAR programs are implemented; and 
+(2) Must be at 75% beneficially owned at the time of application by individuals who are 
+citizens or lawfully admitted permanent residents of the same country or at least 75% of 
+the entity’s staff (senior, mid-level, support) at the time of application must be citizens or 
+lawfully admitted permanent residents of that same country; and 
+
+
+(3) Where an entity has a Board of Directors, at least 51% of the members of the Board must 
+also be citizens or lawfully admitted permanent residents of such country. 
+
+ 
+
+For purposes of this section, ‘majority owned’ and ‘managed by’ include, without limitation, 
+beneficiary interests and the power, either directly or indirectly, whether exercised or exercisable, 
+to control the election, appointment, or tenure of the organization's managers or a majority of the 
+organization's governing body by any means. 
+
+ 
+
+USAID welcomes applications from organizations that have not previously received financial 
+assistance from USAID. 
+
+ 
+
+Faith-based organizations are eligible to apply for federal financial assistance on the same basis as 
+any other organization and are subject to the protections and requirements of Federal law. 
+
+ 
+
+2. Cost Sharing or Matching 
+
+ 
+
+No cost share is anticipated under this activity. 
+
+ 
+
+3. Unique Entity Identifier and System for Award Management (SAM) https://www.sam.gov 
+and SAM.gov Requirements 
+
+ 
+
+USAID may not award to an applicant until the applicant has complied with all applicable unique 
+entity identifier and SAM requirements. Each applicant is required to: 
+
+ 
+
+a) Be registered in SAM before submitting its full application. 
+b) Provide a valid unique entity identifier (UEI) in its full application; and 
+c) Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under 
+consideration by a Federal awarding agency. 
+
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+1. Agency Point of Contact 
+
+
+ 
+
+Name: Dennis Foster 
+
+Title: Agreement Officer 
+
+Email: dfoster@usaid.gov 
+
+Mail Address: USAID/Tanzania 
+
+686 Old Bagamoyo Road, Msasani 
+
+P. O. Box 9130 
+
+Dar es Salaam, Tanzania 
+
+ 
+
+ Name: Nihal Montasser 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: nmontasser@usaid.gov 
+
+ 
+
+Name: Catherine Ryoba 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: cryoba@usaid.gov 
+
+Mail Address: USAID/Tanzania 
+
+686 Old Bagamoyo Road, Msasani 
+
+P. O. Box 9130 
+
+Dar es Salaam, Tanzania 
+
+ 
+
+2. Questions and Answers 
+
+
+ 
+
+Questions regarding this NOFO should be submitted usaidtzco@usaid.gov no later than the date 
+and time indicated on the cover letter, as amended. Any information given to a prospective 
+applicant concerning this NOFO will be furnished promptly to all other prospective applicants as 
+an amendment to this NOFO, if that information is necessary in submitting applications or if the 
+lack of it would be prejudicial to any other prospective applicant. 
+
+ 
+
+3. General Content and Form of Application 
+
+
+ 
+
+Preparation of Applications: 
+
+Each applicant must furnish the information required by this NOFO. Applications must be 
+submitted electronically in two separate parts: the Technical Application and the Business (Cost) 
+Application. This subsection addresses general content requirements applying to the full 
+application. Please see subsections 5 and 6, below, for information on the content specific to the 
+Technical and Business (Cost) applications. The Technical application must address technical 
+aspects only while the Business (Cost) Application must present the costs, and address risk and 
+other related issues. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a cover page containing the 
+following information: 
+
+• Name of the organization(s) submitting the application. 
+
+
+
+• Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address); 
+• Program name 
+• Notice of Funding Opportunity number 
+• Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ 
+under ADS 303. 
+
+
+ 
+
+Any erasures or other changes to the application must be initialed by the person signing the 
+application. Applications signed by an agent on behalf of the applicant must be accompanied by 
+evidence of that agent’s authority, unless that evidence has been previously furnished to the 
+issuing office. 
+
+ 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve 
+only as a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part 
+of the merit review criteria. 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. government except for evaluation purpose, should mark the title page with the 
+following legend: 
+
+ 
+
+“This application includes data that must not be disclosed outside the U.S. 
+government and must not be duplicated, used, or disclosed – in whole or in part – 
+for any purpose other than to evaluate this application. If, however, a grant is 
+awarded to this Applicant as a result of – or in connection with – the submission of 
+this data, the U.S. government will have the right to duplicate, use, or disclose the 
+data to the extent provided in the resulting grant. This restriction does not limit the 
+U.S. government’s right to use information contained in this data if it is obtained 
+from another source without restriction. The data subject to this restriction are 
+contained in sheets {insert sheet numbers} and, mark each sheet of data it wishes to 
+restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page of 
+
+this application” 
+
+ 
+
+Applicants should retain for their records a copy of the application and all annexes attached to it. 
+
+ 
+
+a. Application Format 
+
+
+ 
+
+All applications must comply with the following requirements to be considered by USAID: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent 
+sections. Please ensure that applications comply with the page limitations. 
+● Written in English. 
+
+
+
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12-point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive page 
+numbers, date of submission, and applicant’s name. 
+● 10-point font can be used for graphs and charts. Tables, however, must comply with the 
+12-point Times New Roman requirement. 
+● Submitted via Microsoft Word or PDF formats, except budget files which must be 
+submitted in Microsoft Excel. 
+● The estimated start date identified in Section B of this NOFO must be used in the cost 
+application. 
+● The technical application must be a searchable and editable Word or PDF format as 
+appropriate. 
+● The Cost Schedule must include an Excel spreadsheet with all cells unlocked and no 
+hidden formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in 
+addition to the Excel version at the applicant’s discretion, however, the official cost 
+application submission is the unlocked Excel version. 
+
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so 
+may be considered as being non-responsive and may be evaluated accordingly. Applicants should 
+retain a copy of the application and all enclosures for their records. 
+
+ 
+
+b. Application Content 
+
+
+ 
+
+The technical application must contain the following sections: 
+
+ 
+
+i. Table of Contents listing all page numbers and attachments 
+ii. List of Acronyms used throughout the application 
+iii. Technical Approach Narrative describing the project’s technical approach and 
+expected accomplishments during the period of the proposed Cooperative 
+Agreement. 
+iv. Annexes - Should be numbered separately as “Annex A, Annex B”, et cetera. 
+
+
+ 
+
+4. Application Submission Procedures 
+
+ 
+
+It is the Applicant’s responsibility to ensure that all necessary documentation is complete and 
+received on time. 
+
+ 
+
+Applications in response to this NOFO must be submitted no later than the closing date and time 
+indicated on the cover letter, as amended. Late applications will not be reviewed nor considered. 
+Applicants must retain proof of timely delivery in the form of system generated documentation of 
+delivery receipt date and time/confirmation from the receiving office/certified mail receipt. 
+
+ 
+
+Sample Language for email submission: 
+
+ 
+
+Applications must be submitted by email to usaidtzco@usaid.gov. Email submissions must 
+include the NOFO number and applicant’s name in the subject line heading. In addition, for an 
+application sent by multiple emails, the subject line must also indicate whether the email relates to 
+
+
+the technical or cost application, and the desired sequence of the emails and their attachments 
+(e.g. "No. 1 of 4", etc.). For example, if your cost application is being sent in two emails, the first 
+email should have a subject line that states: "[NOFO number], [organization name], Cost 
+Application, Part 1 of 2". 
+
+ 
+
+USAID’s preference is that the technical application and the cost application each be submitted as 
+consolidated email attachments, e.g. that you consolidate the various parts of a technical 
+application into a single document before sending it. If this is not possible, please provide 
+instructions on how to collate the attachments. USAID will not be responsible for errors in 
+compiling electronic applications if no instructions are provided or are unclear. 
+
+ 
+
+After submitting an application electronically, applicants should immediately check their own 
+email to confirm that the attachments were indeed sent. If an applicant discovers an error in 
+transmission, please send the material again and note in the subject line of the email or indicate in 
+the file name if submitted via grants.gov that it is a "corrected" submission. Do not send the same 
+email more than once unless there has been a change, and if so, please note that it is a "corrected" 
+email. 
+
+ 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several 
+hours occur from transmission to receipt. Therefore, applicants are requested to send the 
+application in sufficient time ahead of the deadline. For this NOFO, the initial point of entry to 
+the government infrastructure is the USAID mail server. 
+
+ 
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, 
+applicants are discouraged from sending files in this format as USAID/Tanzania cannot guarantee 
+their acceptance by the internet server. File size must not exceed 20MB limit per email 
+compatible with MS Word, Excel and PDF. Each email must not include more than three 
+attachments which in total must not add up to more than 20MB limit per email. 
+
+ 
+
+5. Technical Applications Format 
+
+ 
+
+The technical application should be specific, complete, and presented concisely. The application 
+must demonstrate the Applicant's capabilities and expertise with respect to achieving the goals of 
+this activity. The application should take into account the requirements of the activity and merit 
+review criteria found in this NOFO. 
+
+The technical application must include the following, in the order presented below: 
+
+i. Cover Sheet: Cover page (1 page) must contain the following information: 
+• Name of the organization(s) submitting the application. 
+• Identification and signature of the primary contact person (by name, title, 
+organization, mailing address, telephone number and email address) and the 
+identification of the alternate contact person (by name, title, organization, mailing 
+address, telephone number and email address). Of persons who prepared the 
+application, and corresponding signatures 
+• Activity name 
+
+
+
+• Notice of Funding Opportunity number 
+• Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ 
+under ADS 303). 
+• The Tax Identification Number (TIN) and 
+• Unique Entity Identification number (UEI) numbers of the Prime Applicant and 
+any proposed sub-applicants. 
+
+
+ 
+
+ii. Table of Contents Include major sections and page numbering to easily cross-reference 
+and identify merit review criteria. 
+
+
+ 
+
+iii. Executive Summary (Two pages): 
+
+
+The Executive Summary must provide a high-level overview of key elements of the 
+Technical Application. 
+
+iv. Technical Approach (Twenty-Five pages): Applicants must: 
+
+
+ 
+
+Submit a narrative of no more than 25 pages that describes the technical approach to 
+achieving the objectives/expected results outlined in the activity description and 
+subsequently as discussed during the co-creation workshop. The narrative must address 
+the following: 
+
+● Strategies and plans to ensure health facilities in priority areas provide high quality 
+integrated pediatric HIV services and that children and adolescents are able to access 
+comprehensive health and other services. 
+● Describe how they will provide technical assistance to end mother-to-child-
+transmission of HIV (eMTCT 
+● ) by supporting pregnant and breastfeeding women (PBFW) and their HIV-exposed 
+infants (HEI), close the HIV treatment gap for children and adolescents living with 
+HIV (C/ALHIV) and drive TB elimination and well-being for C/ALHIV in Tanzania. 
+● Demonstrate how the activity will ensure the continued delivery of HIV services for 
+PBFW, HIV Exposed Infants (HEI), and C/ALHIV at two pediatric centers of 
+excellence (COE) and support these COEs to serve as hubs for service delivery and 
+clinical capacity building. 
+● Engage with GOT (President's Office, Regional Administration (PORALG) and 
+Ministry of Health) and build sustainability from the start of the program. 
+
+
+As Annex A (not included in the 25-page Technical Approach page count), applicants 
+must submit no more than a 10-page Monitoring, Evaluation, and Learning (MEL) plan 
+describing how data will be used to monitor progress, identify lessons learned, guide 
+corrective actions, and capture and leverage emerging evidence to continuously improve 
+activity performance. 
+
+ 
+
+
+As Annex B (not included in the 25-page Technical Approach page count), applicants 
+must submit no more than a 5-page draft of the first year Work Plan. The Draft Year One 
+Workplan, which must be attached to the Technical Proposal, will illustrate in detail the 
+Offeror’s proposed activities and their planned timing and sequence, including milestones 
+and proposed incremental targets for Year 1. 
+
+ 
+
+v. Management and Staffing Plan, including Key Personnel: 
+
+
+Applicants must submit a four-page Management and Staffing Plan that includes the 
+following: 
+
+ 
+
+A clear description of the distinctive roles and responsibilities of the prime and sub-
+partners and how they will contribute to achieving the objectives/expected results. The 
+plan must include an overview of how activities and communication will be managed and 
+coordinated between the prime and sub-recipients. 
+
+ 
+
+A clear description of roles and responsibilities of the prime’s headquarters and office(s) 
+in Tanzania showing the division or responsibilities between in-country project staff, and 
+home office support (if applicable). 
+
+ 
+
+Approach to staffing and recruitment. 
+
+ 
+
+Position descriptions for positions applicants deem critical and professional summaries for 
+each known critical staff member. 
+
+ 
+
+ Description of how adaptive management will be expressed through staffing skills, 
+management structure, project organizational culture, business processes, and stakeholder 
+engagement throughout project implementation. 
+
+ 
+
+The Applicant must propose the staffing with the right skill mix required to accomplish the 
+components and results for each activity. USAID has specified three positions as Key Personnel, 
+including a Chief of Party, Technical Director (also Deputy Chief of Party) and Finance and 
+Administration Director and Monitoring and Evaluation and Learning Director. The Applicant 
+must, at a minimum, propose a candidate for each of these positions. Proposed candidates must 
+meet the minimum requirements for the positions for which they are proposed. Description of 
+how adaptive management will be expressed through staffing skills, management 
+structure, project organizational culture, business processes, and stakeholder engagement 
+throughout project implementation. 
+
+ 
+
+Annex C must provide an organizational chart with an overview of the structure of the 
+proposed team, including proposed positions, any proposed subcontractors, and the 
+reporting lines and major areas of responsibility. An organizational chart clearly 
+describing lines of reporting and decision making between the prime, sub-partners, 
+headquarter, and office(s) in Tanzania, in addition to proposed key and non-key positions. 
+
+ 
+
+Annex D must contain CVs for each proposed Key Personnel candidate. Each CV must 
+be in a standardized format that explicitly demonstrates how each candidate meets each of 
+the specific requirements for the position for which s/he is proposed. The CV must 
+
+
+include contact information for at least three recent professional references, which USAID 
+
+ 
+
+Annex E must include Letters of Commitment, each must be signed by the individuals 
+proposed as Key Personnel, confirming his/her present intention to serve in the stated 
+position, and his/her present availability to serve for the term of the proposed project. 
+
+ 
+
+6. Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. 
+While no page limit exists for the full cost application, applicants are encouraged to be as concise 
+as possible while still providing the necessary details. The business (cost) application must 
+illustrate the entire period of performance, using the budget format shown in the SF-424A. 
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary 
+for the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.206. 
+Applicants should not submit any additional information with their initial application. 
+
+The Cost Application must contain the following sections (which are further elaborated below this 
+listing with the letters for each requirement): 
+
+ 
+
+a) Cover Page (See Section D.3 above for requirements) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+b) SF 424 Form(s) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard Forms 
+can be accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+Instructions for SF-
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424-
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424a-
+instructions.html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424b-
+instructions.html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+c) Required Certifications and Assurances 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+application: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the 
+Recipient” ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+
+
+ 
+
+(2) Assurances for Non-Construction Programs (SF-424B). 
+
+
+ 
+
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if 
+your organization's systems have been certified by USAID/Washington's Office of 
+Acquisition and Assistance (M/OAA). 
+
+
+ 
+
+d) Budget and Budget Narrative 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later versions) 
+with visible formulas and references and must be broken out by project year. Files must not 
+contain any hidden or otherwise inaccessible cells. Budgets with hidden cells lengthen the cost 
+analysis time required to make an award and may result in a rejection of the cost application. 
+The Budget Narrative must contain sufficient detail to allow USAID to understand the proposed 
+costs. The applicant must ensure the budgeted costs address any additional requirements 
+identified in Section F, such as Branding and Marking. The Budget Narrative must be thorough, 
+including sources for costs to support USAID’s determination that the proposed costs are fair and 
+reasonable. 
+
+ 
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+(i) Personnel 
+
+
+(ii) Fringe Benefits 
+
+(iii) Consultants 
+
+(iv) Travel, Transportation, and Per Diem 
+
+(v) Equipment 
+
+(vi) Supplies 
+
+(vii) Contractual and Sub-awards 
+
+(viii) Participant Training 
+
+(ix) Other Direct Costs 
+
+(x) Indirect Costs 
+
+The budget must include costs to ensure appropriate coordination, collaboration and information 
+sharing with other USAID, U.S. Government Agencies, other international donors and the GOT. 
+
+Description of the cost elements are provided below: 
+
+
+Personnel: Direct salary and wages should be proposed in accordance with the applicant’s 
+personnel policies and meet the regulatory requirements. Costs of long-term and short-term 
+personnel should be broken down by person years, months, days or hours. 
+
+Fringe Benefits: Allowances and services provided by the applicant to its employees as 
+compensation in addition to regular wages and salaries are allowable. A detailed cost breakdown 
+by benefit types should be provided. 
+
+ Consultants: Services rendered by persons who are members of a particular profession or 
+possess a special skill and who are not officers or employees of the applicant are allowable costs. 
+Costs of consultants should be broken down by person years, months, days or hours. 
+
+Travel, Transportation, and Per Diem: Cost principles in 2 CFR 200, Subpart E provide for 
+costs for transportation, lodging, meals and incidental expenses. Costs should be broken down by 
+the number of trips, domestic and international, cost per trip, per diem and other related travel 
+costs. 
+
+Equipment: Must include information on estimated types of equipment, models and the cost per 
+unit and quantity. The Budget Narrative must include the purpose of the equipment and the basis 
+for the estimates. The Budget Narrative must support the necessity of any rental costs and 
+reasonableness in light of such factors as: rental costs of comparable property, if any; market 
+conditions in the area; alternatives available; and the type, life expectancy, condition, and value of 
+the property leased. 
+
+Supplies: Must include information on estimated types of Supplies and the cost per unit and 
+quantity. The Budget Narrative must include the purpose of the supplies and the basis for the 
+estimates. 
+
+Contractual and Sub-awards: Per 2 CFR 200.92, a Subaward means an award provided by a 
+pass-through entity to a subrecipient for the subrecipient to carry out part of a Federal award 
+received by the pass-through entity. It does not include payments to a contractor or payments to 
+an individual that is a beneficiary of a Federal program. A subaward may be provided through any 
+form of legal agreement, including an agreement that the pass-through entity considers a contract. 
+A breakdown of all costs associated with the program according to the costs of, if applicable, 
+headquarters, regional and/or country offices. Applicants who intend to utilize contractors or sub-
+recipients should indicate the extent intended and provide a complete cost breakdown. Extensive 
+contracts/agreement financial plans should follow the same cost format as submitted by the 
+primary Applicant. A breakdown of all costs according to each partner organization, contract or 
+sub/awardee involved in the program should be provided. 
+
+Pursuant to 2 CFR 200 Contract means a legal instrument by which the Applicant purchases 
+property or services needed to carry out the project or program under a resulting award. The term 
+does not include a legal instrument when the substance of the transaction meets the definition of a 
+Federal award or sub-award (see § 200.92 Sub-award), even if the Applicant considers it a 
+contract. 
+
+The Applicant must describe the work to be performed, the risk borne by the contractor, the 
+contractor's investment, the amount of subcontracting, the quality of its record of past 
+
+
+performance, and industry profit rates in the surrounding geographical area for similar work. All 
+vehicles need to be purchased by the prime recipient. 
+
+Individual sub-awards with a value equal to more than $500,000 proposed as part of application 
+must include the same cost element breakdowns in their budget as applicable. 
+
+Participant Training: ADS 253 provides for participant training and training in development. 
+Costs should be broken down by types and participants. 
+
+Other Direct Costs: This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any other 
+miscellaneous costs which directly benefit the program proposed by the applicant. The applicant 
+should indicate the subject, venue and duration of any proposed conferences and seminars, and 
+their relationship to the objectives of the program, along with estimates of costs. Otherwise, the 
+narrative should be minimal. 
+
+Applicants must submit a budget that responds to the proposed technical approach and is flexible 
+enough to accommodate opportunities that are likely to emerge but cannot be described with 
+specificity once a year during the annual implementation planning process. The proposed budget 
+must account for these types of activities in accordance with 2 CFR 200.433. 
+
+Allowances: Allowances should be broken down by specific type and by person and should be in 
+accordance with applicant’s policies and generally aligned with the Department of State Standard 
+Regulations (DSSR). 
+
+Indirect Costs: The Applicant must submit a Negotiated Indirect Cost Rate Agreement NICRA if 
+the organization has such an agreement with an agency or department of the U.S. Government. If 
+no NICRA exists, the Applicant should submit one of the following: 
+
+Reviewed Financial Statements Report: a report issued by a Certified Public Account (CPA) 
+documenting the review of the financial statements was performed in accordance with Statements 
+on Standards for Accounting and Review Services; that management is responsible for the 
+preparation and fair presentation of the financial statements in accordance with the applicable 
+financial reporting framework and for designing, implementing and maintaining internal control 
+relevant to the preparation. The account must also state that he or she is not aware of any material 
+modifications that should be made to the financial statements; or 
+
+ Audited Financial Statements Report: An auditor issues a report documenting the audit was 
+conducted in accordance with Generally Accepted Auditing Standards (GAAS), the financial 
+statements are the responsibility of management, provides an opinion that the financial statements 
+present fairly in all material respects the financial position of the company and the results of 
+operations are in conformity with the applicable financial reporting framework (or issues a 
+qualified opinion if the financial statements are not in conformity with the applicable financial 
+reporting framework. 
+
+If the applicant has never received a negotiated indirect cost rate, the applicant may choose to 
+charge a de minimis rate of 10% of modified total direct costs (see 2 CFR 200.414(f)). If the 
+prospective applicant chooses the de minimis rate, the Agreement Officer must incorporate the 
+
+
+10% indirect cost rate in the award budget and the recipient must follow the requirements in 2 
+CFR 200.414(f). 
+
+Note: Costs for developing the EMMP and environmental compliance implementation and 
+monitoring should be reflected in the cost application. USAID wants to ensure that applicants 
+include costs associated with environmental compliance activities in all applicable categories. 
+
+e) Prior Approvals in accordance with 2 CFR 200.407 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of any 
+cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+f) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the 
+time of award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+• Name of organization 
+• Unique Entity Identifier (UEI)Confirmation that the subrecipient does not appear on the 
+Treasury Department’s Office of Foreign Assets Control (OFAC) list 
+• Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+• Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+• Confirmation that the subrecipient is not suspended or debarred 
+• Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.332(b) 
+• Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+
+
+ 
+
+g) SAM and UEI Requirements 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable 
+unique entity identifier (UEI)and System for Award Management (SAM) requirements. Each 
+applicant (unless the applicant is an individual or Federal awarding agency that is exempted from 
+requirements under 2 CFR 25.110(b) or (c), or has an exception approved by the Federal 
+awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+1. Provide a valid UEI number for the applicant and all proposed sub-recipients, 
+2. Must be registered in SAM before submitting its application. SAM is streamlining 
+processes, eliminating the need to enter the same data multiple times, and consolidating 
+hosting to make the process of doing business with the government more efficient 
+https://www.sam.gov 
+
+
+
+3. Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under consideration 
+by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are encouraged 
+to begin the process early. If an applicant has not fully complied with the requirements above by 
+the time USAID receives the applicants’ application, USAID may determine that the applicant is 
+not qualified to receive an award and use that determination as a basis for making an award to 
+another applicant. 
+
+ 
+
+Unique Entity Identifier: https://sam.gov/content/home 
+
+ 
+
+SAM registration: https://www.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick Start 
+Guide and a video on how to obtain an NCAGE code, on https://www.sam.gov, navigate to Help, 
+then to International Registrants. 
+
+ 
+
+Requirement for Unique Entity Identifier. If you are authorized to make subawards under this 
+Federal award, you: (1) Must notify potential subrecipients that no entity (see definition in 
+paragraph c. of this award term) may receive a subaward from you until the entity has provided its 
+Unique Entity Identifier to you. (2) May not make a subaward to an entity unless the entity has 
+provided its Unique Entity Identifier to you. Subrecipients are not required to obtain an active 
+SAM registration but must obtain a Unique Entity Identifier. 
+
+g. History of Performance 
+
+The applicant must provide information regarding its recent history of performance for all its 
+cost-reimbursement contracts, grants, or cooperative agreements involving similar or related 
+programs, not to exceed five (5), as follows: 
+
+ 
+
+• Name of the Awarding Organization 
+• Award Number 
+• Activity Title 
+• A brief description of the activity 
+• Period of Performance 
+• Award Amount 
+• Reports and findings from any audits performed in the last three (3); and 
+• Name of at least two (2) updated professional contacts who most directly observed 
+the work at the organization for which the service was performed with complete 
+current contact information including telephone number, and e-mail address for 
+each proposed individual. 
+
+
+ 
+
+If the applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general 
+information on its performance. USAID reserves the right to obtain relevant information 
+
+
+concerning an applicant’s history of performance from any sources and may consider such 
+information in its review of the applicant’s risk. The Agency may request additional 
+information and conduct a pre-award survey if it determines that it is necessary to inform the 
+risk assessment. 
+
+ 
+
+h. Branding and Marking Plan 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking 
+Plan to be evaluated and approved by the Agreement Officer and incorporated into any 
+resulting award. 
+
+i. Funding Restrictions 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the explicit 
+written approval of the Agreement Officer. 
+
+ 
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+1. Criteria 
+
+
+ 
+
+The merit review criteria prescribed here are tailored to the requirements of this particular NOFO. 
+Applicants should note that these criteria serve to: (a) identify the significant matters which the 
+applicants should address in their applications, and (b) set the standard against which all 
+applications will be evaluated. 
+
+ 
+
+Technical and other factors will be evaluated relative to each other, as described here and 
+prescribed by the Technical Application Format. The Technical Application will be scored by a 
+Selection Committee (SC) using the criteria described in this section. 
+
+ 
+
+Sub Criteria 
+
+ CRITERION NAME 
+
+Criterion 1 
+
+Technical Approach 
+
+Criterion 2 
+
+Management and Staffing Approach 
+
+Sub criteria 2.1 
+
+Key Personnel 
+
+Criterion 3 
+
+Institutional Capacity 
+
+
+
+ 
+
+2. Review and Selection Process 
+
+
+ 
+
+USAID/Tanzania will screen all applications received for completeness and compliance with 
+instructions for submission. The Agreement Officer will then forward those applications that are 
+complete and comply with instructions to a Selection Committee (SC). The SC will then conduct 
+a merit review of each application. Following the merit review of the applications, a letter will be 
+sent to all applicants detailing the outcome of the review. The SC will review applications based 
+upon the merit review criteria set forth below which are tailored to this NOFO. 
+
+a) Merit Review 
+
+
+ 
+
+USAID will conduct a merit review of all applications received that comply with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following 
+criteria shown in descending order of importance for criteria 1, 2, and 3 and of equal importance 
+for sub-criteria 2.1. 
+
+ 
+
+Evaluation Criteria #1: Technical Approach 
+
+Applicants must submit a narrative of no more than 25 pages that describes the technical approach 
+to achieving the objectives/expected results outlined in the program description. The narrative 
+must address the following: 
+
+● Strategies and plans to ensure health facilities in priority areas provide high quality 
+integrated pediatric HIV services and that children and adolescents are able to access 
+comprehensive health and other services. 
+
+
+
+● Describe how they will provide technical assistance to end mother-to-child-transmission 
+of HIV (eMTCT) by supporting pregnant and breastfeeding women (PBFW) and their 
+HIV-exposed infants (HEI), close the HIV treatment gap for children and adolescents 
+living with HIV (C/ALHIV) and drive TB elimination and well-being for C/ALHIV in 
+Tanzania. 
+● Demonstrate how the activity will ensure the continued delivery of HIV services for 
+PBFW, HIV Exposed Infants (HEI), and C/ALHIV at two pediatric centers of excellence 
+(COE) and support these COEs to serve as hubs for service delivery and clinical capacity 
+building. 
+● Engage with GOT (President's Office, Regional Administration (PORALG) and Ministry 
+of Health) and build sustainability from the start of the program. 
+
+
+As Annex A (not included in the 25-page Technical Approach page count), applicants must 
+submit no more than a 10-page Monitoring, Evaluation, and Learning (MEL) plan describing how 
+data will be used to monitor progress, identify lessons learned, guide corrective actions, and 
+capture and leverage emerging evidence to continuously improve activity performance. 
+
+ 
+
+As Annex B (not included in the 25-page Technical Approach page count), applicants must 
+submit no more than a 5-page draft of the first year Work Plan. 
+
+Applicants will be evaluated on the extent to which the technical approach provides a technically 
+sound, realistic and contextually appropriate approach to achieve the overall target and successfully 
+implement the work described in Section A, Program Description" Moreover, applicants will be 
+evaluated on the strength of the collaboration and linkages with OVC partners, including 
+participation National Technical Working Groups (TWG). 
+
+The applicant’s technical approach should be evidence-based, gender-sensitive, children and 
+PBFW focus and logically sequenced to achieve the results in the regions that the applicant will 
+prioritize. It should demonstrate technical expertise in Pediatric HIV, PMTCT, HEID, TB in 
+areas where there is huge HIV treatment gap, high TB burden, ability to provide both clinical 
+services and technical assistance and the use of data to plan, prioritize and implement targeted 
+interventions. The activity will need to be ambitious but have realistic targets for indicators to 
+support results; define learning activities, including an agenda that will enhance project activities 
+to effectively and efficiently achieve objectives and results. It should also demonstrate activities 
+that will build long term sustainability with achievable milestones from the start of the program 
+that will lead to institutionalization of the program and builds on national AIDS and TB control 
+programs and reflects a collaborative approach to working with the Government of Tanzania. 
+
+ 
+
+Evaluation Criteria #2: Management and Staffing Approach 
+
+Applicants must submit a two-page Management and Staffing Plan that includes the following: 
+
+A clear description of the distinctive roles and responsibilities of the prime and sub-partners and 
+how they will contribute to achieving the objectives/expected results. The plan must include an 
+
+
+overview of how activities will be managed and coordinated between the prime and sub-
+recipients. 
+
+A clear description of roles and responsibilities of the prime’s headquarters and office(s) in 
+Tanzania showing the division or responsibilities between in-country project staff, and home 
+office support (if applicable). 
+
+ 
+
+Approach to staffing and recruitment. 
+
+ 
+
+Position descriptions for positions applicants deem critical and professional summaries for each 
+known critical staff member. 
+
+ 
+
+Description of how adaptive management will be expressed through staffing skills, management 
+structure, project organizational culture, business processes, and stakeholder engagement 
+throughout project implementation. 
+
+ 
+
+As Annex C, an organizational chart clearly describing lines of reporting and decision making 
+between the prime, sub-partners, headquarter, and office (s) in Tanzania, in addition to proposed 
+key and non-key positions. 
+
+ 
+
+The application will be evaluated on the extent to which the Management and Staffing Plan, 
+including institutional partners, can successfully carry out the activity’s objectives, achieve 
+expected results, and effectively manage and implement activities. Moreover, the plan will be 
+evaluated to the extent to which it: 
+
+ 
+
+• Shows a management structure consistent with the program approach and geographic scope. 
+
+• Demonstrates the applicant’s ability to provide appropriate technical resources and expertise to 
+realistically and efficiently meet the activity’s technical, coordination, communications and 
+collaborating, learning and adapting (CLA) needs. 
+
+• Has the right number of people and complement of technical and administrative skills to 
+effectively manage the activity towards achievement of results as outlined in the program 
+description. 
+
+• Proposes a personnel composition that achieves gender equity. 
+
+ 
+
+Sub-Criteria: Key Personnel: 
+
+ 
+
+The Key Personnel will be evaluated on the extent to which: 
+
+ 
+
+The quality and experience of the proposed combination of key personnel (1) possesses the 
+minimum knowledge, skills, expertise, and experience outlined below and (2) the past 
+performance references collected by USAID strongly support the candidate’s ability to 
+successfully accomplish the requirements of the position. 
+
+ 
+
+Minimum Requirements: 
+
+ 
+
+Chief of Party (COP) 
+
+• Master’s degree in Public Health or social science is required. 
+
+
+
+• Ten years of senior level management experience in the design, implementation, and 
+management of programs of similar size, complexity, and setting. 
+• Demonstrated experience in expertise in Pediatric HIV, Adolescent Health Prevention of 
+Mother to Child transmission of HIV, linkages with OVC, Nutrition, Family planning 
+institutional strengthening approaches. 
+• Demonstrated leadership skills and experience in building and maintaining productive 
+working relationships with colleagues and host government. 
+• Proven record of building teams and fostering collaboration to achieve program goals, 
+meet program milestones, and produce quality program results. 
+• Demonstrated knowledge of Tanzania national issues impacting HIV, TB and Nutrition, 
+including demonstrated success collaborating with NACP and NTLP, and local 
+government institutions. 
+• Knowledge of U.S. Government health initiatives and related reporting requirements and 
+funding parameters. 
+• Fluent in Swahili – Level four preferred. 
+• Demonstrated skills in both English written and oral communication. 
+• Experience working with the health sector in Tanzania is preferred. 
+
+
+ 
+
+The Deputy Chief of Party must possess at least: 
+
+• A Master’s Degree in public health or a medical degree. 
+• 10 years of experience designing, implementing and managing HIV/TB projects of similar 
+scope and size with experience in Tanzania highly desirable. 
+• Demonstrated experience in managing programs that address the needs of communities in 
+Tanzania with the aim of preventing new HIV and TB infections and providing quality 
+care and treatment to those infected, resulting in viral suppression. 
+• Demonstrated experience in expertise in Pediatric HIV, Adolescent Health Prevention of 
+Mother to Child transmission of HIV, linkages with OVC, Nutrition, Family planning 
+institutional strengthening approaches. 
+• Demonstrated skills in project reporting, preferably for PEPFAR funded programs 
+• Demonstrated experience in program financial oversight including sub grant management. 
+• Familiarity with Tanzania’s institutional, policy and programming context for pediatric 
+HIV/TB 
+
+
+ 
+
+Finance and Administration Director 
+
+• Certified Public Accountant is required. 
+• Demonstrated experience in managing and supervising a team. 
+• At minimum seven years’ experience in financial management of U.S. assistance 
+programs of similar size, complexity and setting. 
+• Expertise in U.S. Government cost principles, rules and regulations and applying these 
+in program decision-making. 
+• Demonstrated experience in supporting and working with program technical staff to 
+ensure resources are used efficiently and to accurately account for expenditures. 
+• Demonstrated experience in managing sub-grants including risk assessment and 
+working with host government entities as grantees. 
+
+
+
+• Ability to communicate effectively in English and Swahili, both verbally and in 
+writing. 
+• Demonstrated computer skills, particularly in Microsoft Excel, and experience using 
+commercially available accounting software programs. 
+• Excellent record of accurate and on-time reporting to donor agencies. 
+
+
+ 
+
+The MEL Director must possess at least: 
+
+• A Master’s degree or higher in public health evaluation, public health, epidemiology, 
+statistics, demography or related field. 
+• At least 8 years of experience in monitoring and evaluation of pediatric HIV/TB programs 
+of similar scope and size, preferably in a PEPFAR funded program. 
+• Demonstrated experience in developing and managing data collection systems, with 
+experience in Tanzania at community and facility level. 
+• Ability to develop and implement quality assurance systems. 
+• Familiarity with Government of Tanzania’s national HIV and TB prevention, care and 
+support policies and plans. 
+• Demonstrated ability to take advantage of new technologies to strengthen MEL 
+
+
+ 
+
+b) Business Review 
+
+
+ 
+
+The Agency will evaluate the cost application of the applicant(s) under consideration for an award 
+as a result of the merit criteria review to determine whether the costs are allowable in accordance 
+with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a pre-
+award survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+1. Federal Award Notices 
+
+
+ 
+
+The award made through this NOFO will be administered by USAID/Tanzania. 
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential applicants are hereby 
+notified of these requirements and conditions for the award. The AO is the only individual who 
+may legally commit the U.S. government to the expenditure of public funds. No costs chargeable 
+to the proposed Agreement may be incurred before receipt of either a fully executed Agreement 
+or a specific, written authorization from the AO. 
+
+ 
+
+ 
+
+2. Administrative & National Policy Requirements 
+
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations. 
+
+ 
+
+Non-US organizations: Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+ 
+
+See Annex #2 for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+ 
+
+3. Requirements for Plans and Reports 
+
+ 
+
+The Recipient must adhere to all reporting requirements listed below. All plans and reports must 
+be submitted in English. Documents must be submitted electronically by email. All reports must 
+be submitted by the due date for review by the USAID Agreement Officer’s Representative 
+(AOR) designated by the Agreement Officer. The Agreement Officer and designated Acquisition 
+& Assistance Specialist must be copied on each submission. The Recipient will consult the AOR 
+on the format and expected content of reports prior to submission. 
+
+ 
+
+Plans 
+
+ 
+
+Annual Implementation Plan - Within 60 calendar days of the effective date of the award, the 
+Recipient will submit the first annual work plan to cover the period of time from the effective date 
+of the Cooperative Agreement to August 4, 2023. Subsequent implementation plans will cover the 
+period August 5 to August 4 of the following year and must be submitted by August 30 of each 
+year. Plans may be revised with AOR written approval on an as needed basis to reflect unforeseen 
+adjustments in implementation. The AOR will review the implementation plan and provide 
+written comments within 15 calendar days to the Recipient and the Recipient shall finalize the 
+plan no later than 15 calendar days after receipt of the AOR’s written comments. 
+
+ 
+
+
+ 
+
+Presentation of Annual Work Plan: In addition to the submission of the electronic copy of the 
+annual work plans described above, the Recipient must present the plan to the AOR and other 
+interested USAID staff on an annual basis. This presentation will be held in or around October of 
+each year and organized in collaboration with the AOR. 
+
+ 
+
+The Implementation Plan will outline: 
+
+• Key activities, proposed accomplishments and expected progress towards 
+achieving planned results and performance targets tied to the MEL Plan. 
+• Timeline for implementation of the year’s proposed activities, including target 
+completion dates. 
+• Information on how activities will be implemented and supervised. 
+• Personnel requirements to achieve expected outcomes. 
+• Major commodities and equipment to be procured when applicable. 
+• Details of collaboration with other major partners and other USAID/USG projects 
+• Planned short-term and long-term technical assistance (STTA/LTTA) 
+• Detailed budget to allow appropriate evaluation of the implementation plan. The 
+budget should delineate an overall budget by line item. 
+• As an annex, Activity Fact Sheets 
+• As an annex, prepare an Environmental Mitigation and Monitoring Plan (EMMP) 
+describing how the Recipient will, in specific terms, implement all IEE conditions 
+that apply to proposed activity interventions. The EMMP shall include monitoring 
+the implementation of the conditions and their effectiveness, making any necessary 
+adjustments to activity implementation in order to minimize adverse impacts to the 
+environment. (An EMMP conforming to these requirements is hereinafter termed a 
+“complete EMMP.”) 
+• As an annex to the annual Implementation Plan, the Recipient must include a 
+sustainability plan that describes its approach to building the capacity of host 
+government entities to continue interventions beyond the end of this activity. The 
+plan must outline any resource leveraging from non-U.S. government sources and 
+describe linkages to the achievement of the NOFO objectives. The plan must 
+include a set of realistic benchmarks and indicators that qualify the increasing 
+sustainability of these approaches and measure the attainment of activity results. 
+The plan must outline a clear phase-out exist strategy and timeline of execution, 
+including a description of the methodology it will use in determining areas and 
+levels of sustainability. 
+
+
+ 
+
+Monitoring, Evaluation & Learning (MEL) Plan: Within 90 days of the start of the award, the 
+Recipient will be required to submit a final MEL to the USAID AOR for approval. The MEL plan 
+shall cover the full period of the Cooperative Agreement and shall include, but not necessarily be 
+limited to, the following: 
+
+• Description of how the recipient will monitor program interventions, measure results 
+ensure data quality, and use data to inform on-going activities. 
+
+
+
+
+
+• Description of how data will be collected, stored and analyzed. The indicators to be 
+used to measure achievement of the results. The method of data collection to be used 
+to obtain the indicator data. 
+• A Learning Plan, which will establish a learning agenda (including program 
+questions and evidence gaps); detail plans for conducting implementation science 
+activities; describe how program evidence will be utilized to inform other public 
+health partners and stakeholders (i.e. implementing partners, GOT, technical forums) 
+
+
+
+
+ 
+
+To that extent, the Recipient’s activity MEL plan should ensure that UDAID/Tanzania indicators 
+are tracked and reported on, to include relevant CDCS and other Project indicators, as identified 
+in the USAID/Tanzania’s PMP and Project MEL Plan, respectively. Other required indicators, 
+such as standard foreign assistance indicators, to support USAID/Tanzania’s annual reporting 
+must also be included as part of the activity’s MEL Plan. 
+
+ 
+
+All data related to beneficiaries must be sex-disaggregated by male (M)/female (F)/total. 
+
+ 
+
+The indicators for reporting should include, but are not limited to, the following: 
+
+ 
+
+1. HTS_TST: Number of individuals who received HIV Testing Services (HTS) and 
+received their test results 
+
+2. TX_NEW: Number of adults and children newly enrolled on antiretroviral therapy (ART 
+
+3. TX_CURR: Number of adults and children currently receiving antiretroviral therapy 
+(ART) 
+
+4. TX_RET: Percentage of adults and children known to be on treatment 12 months after 
+initiation of antiretroviral therapy 
+
+5. TX_PVLS: Percentage of ART patients with a viral load result documented in the medical 
+record and/or laboratory information systems (LIS) within the past 12 months with a 
+suppressed viral load (<1000 copies/ml) 
+
+6. TB_PREV: The number of ART patients who completed a standard course of TB 
+preventive therapy within the semi-annual reporting period 
+
+7. TX_TB: The proportion of ART patients screened for TB in the semi-annual reporting 
+period who are receiving TB treatment. 
+
+8. INTEG_SERV: Percentage of health facilities providing a minimum package of integrated 
+family centered pediatric and adolescent health services (FP, TB, NACS, Bidirectional 
+linkage to CBO, FCC) in the reporting period 
+
+9. ACTIVE_QIT: Percentage of HF’s with active QI team implementing Program to increase 
+case finding linkage and retention into care 
+
+10. HF_ADO_PSY: Percentage of facilities established and maintaining adolescent 
+psychosocial services 
+
+11. HCWs_TRAIN: Number of HCWs trained in different technical skills 
+
+12. MENT_VISIT: Number of mentorship visits conducted 
+
+13. HCW_MENTD: Number of HCWs mentored in different technical skills 
+
+14. TECH_SUPPORT: Number of reviews of national guidelines, SOPs, job aids that were 
+supported by C4S technical team 
+
+ 
+
+
+USAID/Tanzania will review the draft MEL plan and provide written comments/suggestions to 
+the Recipient and the Recipient shall finalize the plan no later than 15 days from receipt of 
+USAID/Tanzania’s comments/suggestions. 
+
+Close-out/Demobilization Plan 
+
+ 
+
+Six months prior to the completion date of the Cooperative Agreement, a close-
+out/demobilization plan, including the proposed disposition of equipment, such as vehicles, will 
+be submitted to the USAID Agreement Officer for approval, with a copy to the AOR. The close-
+out plan shall include a list of actions that are typically required for close-out activities to ensure 
+that all project activities are completed; conduct an analysis of progress to date and, if necessary, 
+expedite timelines to ensure completion; conduct a thorough pipeline analysis to ensure that there 
+are sufficient funds available to finalize activities and complete all requirements; ensure that all 
+reports are submitted in accordance with the terms and conditions of the agreement. All 
+subcontracts and/or sub-awards should be completed, and payments settled, if applicable. 
+
+ 
+
+Submit a final inventory of all residual non-expendable property that was acquired or furnished 
+by the U.S. Government under the Cooperative Agreement and request disposition instructions 
+for any property acquired or furnished by the Government under the program. Ensure that all staff 
+members are provided with severance and other payments, if applicable, in accordance with local 
+labor law. Ensure that all audit requirements are addressed, if applicable. For U.S. organizations, 
+demobilization plans need to include closing of offices (including cancelation of phone, 
+electricity, subscriptions, etc.), disposition of all equipment (including vehicles), disposition of 
+residual supplies, repatriation of expatriate staff, household and POV shipments, etc. 
+
+ 
+
+The types and frequency of financial and programmatic reports must be strictly limited to those 
+detailed in 2 CFR 200. 
+
+ 
+
+Reports 
+
+ 
+
+Financial Reporting – In accordance with 2 CFR 200.327, the SF 425 must be submitted on a 
+quarterly basis. The recipient must submit these forms in the following manner: 
+
+ 
+
+Quarterly Financial Report: The Recipient will report on the SF-425 Federal Financial Reporting form 
+available at Federal Financial Report | GSA . The Recipient will send the completed SF-425 by e-mail 
+to the Agreement Officer’s Representative (AOR) and copy the Agreement Officer (AO) and 
+the USAID/Tanzania Office of Financial Management (OFM) at accountspayabletz@usaid.gov, within 
+30 calendar days following the end of each USAID quarter. 
+
+ 
+
+If the Recipient has a Letter of Credit with the US government, then, a copy of the “Final” 
+Federal Financial Report (FFR/SF-425) report for this award is to be submitted to the USAID 
+LOC Team at locfinalreport@usaid.gov. 
+
+ 
+
+Reports are due as noted below: 
+
+ 
+
+Reporting Quarter SF-425 Due Date 
+
+ 
+
+
+Reporting Quarter SF-425 Due Date 
+
+October 1 – December 31 January 31 
+
+January 31 – March 30 April 30 
+
+April 1 – June 31 July 30 
+
+June 1 – September 30 October 30 
+
+ 
+
+The financial reporting form includes the following information: 
+
+• Cash receipts, disbursements, and fund balance 
+• Expenditures and unobligated balance 
+• Recipient share, amount expended, and balance 
+• Amount of activity income earned, expended, and balance 
+
+
+ 
+
+The Recipient will submit the Final Financial Report within 90 days after the end of the activity. 
+
+ 
+
+Reporting on Foreign Taxes: The Recipient must comply with the Standard Provision set forth in 
+Attachment C of the Cooperative Agreement entitled “Reporting Host Country Government Taxes (June 
+2012)”. 
+
+ 
+
+Performance Reporting - The Recipient must submit quarterly performance reports 30 calendar 
+days after the end of the reporting period (F). These reports should (January 31 – April 30, July 31 
+and October 30) activities undertaken, alliances established during the quarter, report on progress 
+made toward achieving results, and any necessary adjustment of activities and timelines that will be 
+undertaken in the following quarter. 
+
+ 
+
+Quarterly Performance Reports must include the following: 
+
+• Progress on major activities during the period. 
+• Any implementation problems and proposed remedial actions as appropriate. 
+• Planned activities for each expected result for the next quarter. 
+• Gender considerations in implementation and performance during the quarter. 
+• Environmental Compliance - Provide brief description of review all ongoing and planned 
+activities under the Cooperative Agreement to determine if they are within the scope of 
+the approved Regulation 216 environmental documentation. 
+• Success stories 
+• Progress on performance indicators in the MEL Plan. 
+• Description of efforts to ensure coordination, collaboration, and information sharing 
+during the reporting period and any problems encountered, agreements reached, and/or 
+actions taken to ensure coordination between partners. 
+• Other pertinent information, including a statement of accrued expenditures, analysis or 
+explanation of cost overruns or underruns. 
+• List of all documentation submitted to the Development Experience Clearinghouse 
+(DEC); 
+• A certification that all training events have been entered in the TraiNet database; and 
+• As an annex, at least one success story with information on the project’s outcomes, results, 
+and/or impact during the reporting period, beginning with the third quarterly reporting 
+period. 
+
+
+
+• List of upcoming events with dates (e.g. program launch, data dissemination, high-level 
+site visit) particularly those in which the recipient requires USAID Tanzania participation. 
+• PMI Reporting – The Recipient will report against designated PMI indicators in the 
+automated PMI database as instructed by USAID/Tanzania. 
+• USAID Tanzania reporting in the USAID Development Information Solution (DIS). 
+
+
+ 
+
+Annual Reports – The fourth quarterly report will be replaced by the Annual Performance 
+Report and due on February 15 of each year. The Recipient will report annually through the 
+USAID/Tanzania Monitoring and Evaluation Management Service on appropriate, standard 
+CDCS project indicators, and selected PPR indicators. In addition, the annual reports will 
+include: 
+
+• Extent to which objectives and results in the Annual Work Plan were achieved. 
+• Highlights of major achievements during the year. 
+• Significant implementation problems and challenges encountered during the year and 
+mitigation measures taken to address these (if applicable). 
+• Description of efforts and progress achieved in applying and incorporating CLA, 
+promotion of equity, sustainability of successful approaches. 
+• Description of efforts to ensure coordination, collaboration, and information sharing 
+during the reporting period and any problems encountered, agreements reached, and/or 
+actions taken to ensure coordination with relevant stakeholders. 
+• Description of efforts and progress achieved with activities to advance gender 
+equality. 
+• Update on the implementation of the Sustainability Plan, including description of 
+efforts and progress achieved with regards to sustainability of project activities. 
+• Progress achieved with regard to MEL Plan indicators and targets for the fourth 
+quarter and entire fiscal year. If proposing changes to future year targets, include the 
+new targets and justification for these changes. 
+• Updates on analysis related to project evaluation questions and the learning agenda in 
+the MEL Plan. 
+• Lessons learned, observations, and recommendations that might be relevant to the 
+design and implementation of other related activities 
+• Environmental compliance information, as applicable; and 
+• Development of manuscript and submission to publication journal 
+• Success stories for publication. 
+
+
+ 
+
+Final Performance Report - A Final Performance Report is required within 90 days of the 
+expiration of the Cooperative Agreement. The Final Performance Report should include the 
+following: 
+
+• An Executive Summary describing the project, overall accomplishments, lessons learned, 
+and conclusions about future assistance needs. 
+
+• Overall description of the project and activities implemented. 
+
+• Description of overall achievements and results during the life of the project. 
+
+• Assessment of progress made in achieving the project’s goal, objectives, and expected 
+results. 
+
+• Any shortcomings or difficulties encountered, and reasons why expected results were not 
+
+
+met, if applicable. 
+
+• Summary of MEL Plan indicator results and an assessment of indicators’ relative 
+usefulness in tracking project progress. 
+
+• Summary of key findings from internal evaluations and assessments. 
+
+• Summary of learning activities, including progress made in responding to key research 
+questions around critical knowledge gaps in the learning agenda. 
+
+• Changes in the project environment over the course of implementation. 
+
+• Changes in project design and implementation, as well as summary of adaptive 
+management approaches applied. 
+
+• Summary of lessons learned. 
+
+• Recommendations regarding unfinished work, if applicable; and 
+
+• Recommendations relevant to future project design and implementation. 
+
+ 
+
+The Final Performance Report must also include a list of all reports, publications, evaluations, and 
+information and media products produced under this agreement, as well as confirmation that all 
+products were submitted to the USAID Developmental Experience Clearinghouse (DEC). 
+
+ 
+
+4. Program Income 
+
+
+ 
+
+If there will be program income generated under the award, the AO must consider how that 
+income will be treated under the award. Any program income generated under the award will be 
+added to USAID funding and used for program purposes. 
+
+ 
+
+5. Environmental Compliance 
+
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+
+USAID’s activities on the environment be considered and that USAID include 
+
+environmental sustainability as a central consideration in designing and carrying out its 
+
+development programs. This mandate is codified in Federal Regulations (22 CFR 216) and 
+
+in USAID’s Automated Directives System (ADS) Parts 201.5.10g and 204 
+
+(http://www.usaid.gov/policy/ADS/200/), which, in part, require that the potential 
+
+environmental impacts of USAID-financed activities are identified prior to a final decision 
+
+to proceed and those appropriate environmental safeguards are adopted for all activities. 
+
+Applicant’s environmental compliance obligations under these regulations and procedures 
+
+are specified in the following paragraphs of this NOFO. 
+
+ 
+
+In addition, the applicant must comply with host country environmental regulations unless 
+
+otherwise directed in writing by USAID. In case of conflict between host country and 
+
+USAID regulations, the latter shall govern. 
+
+ 
+
+No activity funded under a resulting grant will be implemented unless environmental 
+
+threshold determination, as defined by 22 CFR 216, has been reached for that activity, as 
+
+documented in a Request for Categorical Exclusion (RCE), Initial Environmental 
+
+Examination (IEE), or Environmental Assessment (EA) duly signed by the Bureau 
+
+Environmental Officer (BEO). (Hereinafter, such documents are described as “approved 
+
+
+Regulation 216 environmental documentation.”) 
+
+ 
+
+In case of a successful application, the applicant will work with USAID staff to determine 
+
+any environmental compliance requirements, implementation procedures, and reporting 
+
+requirements on the compliance activities/results. 
+
+ 
+
+As part of its initial Work Plan, and all Annual Work Plans thereafter, the recipient in 
+
+collaboration with the USAID Cognizant Technical Officer and Mission Environmental 
+
+Officer or Bureau Environmental Officer, as appropriate, shall review all ongoing and 
+
+planned activities under the resultant grant is to determine if they are within the scope of 
+
+the approved Regulation 216 environmental documentation. 
+
+ 
+
+If the successful recipient plans any new activities outside the scope of the approved 
+
+Regulation 216 environmental documentation, it shall prepare an amendment to the 
+
+documentation for USAID review and approval. No such new activities shall be undertaken 
+
+prior to receiving written USAID approval of environmental documentation amendments. 
+
+ 
+
+Any ongoing activities found to be outside the scope of the approved Regulation 216 
+
+environmental documentation shall be halted until an amendment to the documentation is 
+
+submitted and written approval. 
+
+ 
+
+6. Other Requirements 
+
+
+ 
+
+Gender Consideration 
+
+ 
+
+Promoting gender equality and advancing the status of all women and girls around the 
+
+world is vital to achieving U.S. foreign policy and development objectives. As part of the 
+
+design of any proposed activity, the Recipient will assess and identify gender issues which 
+
+impact the participation of men and women equally in the participation of this activity. 
+
+Refer to USAID ADS 205 found at for more information on integrating this policy into the 
+applicant’s approach. 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+1. NOFO Points of Contact 
+
+
+ 
+
+Name: Dennis Foster 
+
+Title: Agreement Officer 
+
+Email: dfoster@usaid.gov 
+
+Mail Address: USAID/Tanzania 
+
+686 Old Bagamoyo Road, Msasani 
+
+P. O. Box 9130 
+
+Dar es Salaam, Tanzania 
+
+ 
+
+ Name: Nihal Montasser 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: nmontasser@usaid.gov 
+
+ 
+
+Name: Catherine Ryoba 
+
+Title: Acquisition & Assistance Specialist 
+
+Email: cryoba@usaid.gov 
+
+Mail Address: USAID/Tanzania 
+
+686 Old Bagamoyo Road, Msasani 
+
+P. O. Box 9130 
+
+Dar es Salaam, Tanzania 
+
+ 
+
+2. Acquisition and Assistance Ombudsman 
+
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in USAID’s 
+acquisition and assistance process. The A&A Ombudsman serves as a resource for all 
+organizations who are doing or wish to do business with USAID. Please refer to USAID ADS 
+205 found at Here for more information on integrating this policy into the applicant’s approach. 
+
+ 
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of 
+public funds. Any award and subsequent incremental funding will be subject to the availability of 
+funds and continued relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or used 
+by the U.S. Government except for evaluation purpose, should mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, an award 
+is made as a result of – or in connection with – the submission of this data, the U.S. 
+Government will have the right to duplicate, use, or disclose the data to the extent provided in 
+the resulting award. This restriction does not limit the U.S. Government’s right to use 
+information contained in this data if it is obtained from another source without restriction. The 
+data subject to this restriction are contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page 
+of this application.” 
+
+A. Special Provisions 
+
+ 
+
+LIMITING CONSTRUCTION ACTIVITIES (AUGUST 2013) 
+
+ 
+
+a) Construction is not eligible for reimbursement under this award unless specifically identified in 
+paragraph d) below. 
+
+ 
+
+b) Construction means —construction, alteration, or repair (including dredging and excavation) of 
+buildings, structures, or other real property and includes, without limitation, improvements, 
+renovation, alteration and refurbishment. The term includes, without limitation, roads, power 
+plants, buildings, bridges, water treatment facilities, and vertical structures. 
+
+ 
+
+c) Agreement Officers will not approve any subawards or procurements by recipients for 
+construction activities that are not listed in paragraph d) below. USAID will reimburse allowable 
+costs for only the construction activities listed in this provision not to exceed the amount specified 
+in the construction line item of the award budget. The recipient must receive prior written 
+approval from the AO to transfer funds allotted for construction activities to other cost categories, 
+or vice versa. 
+
+ 
+
+d) Description [No construction activities are authorized under this activity] 
+
+ 
+
+
+f) The recipient must include this provision in all subawards and procurements and make 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vendors providing services under this award and subrecipients aware of the restrictions of this 
+provision. 
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+USAID IMPLEMENTING PARTNER NOTICES (IPN) PORTAL FOR ASSISTANCE 
+
+(JULY 2014) 
+
+ 
+
+(a) Definitions 
+
+ 
+
+“USAID Implementing Partner Notices (IPN) Portal for Assistance (“IPN Portal)” means the 
+single point where USAID posts proposed universal bilateral amendments for USAID awards, 
+which can be accessed electronically by registered USAID recipients. The IPN Portal is located at 
+https://sites.google.com/site/usaidipnforassistance/. Universal amendments are those which affect 
+all assistance awards or a designated class of awards as specified in each amendment by the IPN 
+Portal Administrator. 
+
+ 
+
+“IPN Portal Administrator” means the USAID official designated by the Director, M/OAA, who 
+has overall responsibility for managing the USAID Implementing Partner Notices Portal for 
+Assistance. 
+
+ 
+
+“Universal bilateral amendment” means those amendments with revisions or new requirements or 
+provisions that affect all awards or a designated class of awards, as specified in the Agency 
+notification of such revisions or new requirements. 
+
+ 
+
+(b) By submission of an application and execution of an award, the Applicant/Recipient 
+acknowledges the requirement to: 
+
+ 
+
+ (1) Register with the IPN Portal if awarded an assistance award resulting from this solicitation, 
+and 
+
+ 
+
+ (2) Receive universal bilateral amendments to this award and general notices via the IPN 
+Portal. 
+
+ 
+
+(c) Procedure to register for notifications. 
+
+ 
+
+Go to https://sites.google.com/site/usaidipnforassistance/ and click the “Register” button at the 
+top of the page. Recipient representatives must use their official organization email address when 
+subscribing, not personal email addresses. 
+
+ 
+
+(d) Processing of IPN Portal Amendments 
+
+The Recipient may access the IPN Portal at any time to review all IPN Portal amendments; 
+however, the system will also notify the Recipient by email when the USAID IPN Portal 
+Administrator posts a universal bilateral amendment for Recipient’s review and signature. 
+
+
+Proposed USAID IPN Portal amendments distributed via the IPN Portal are applicable to all 
+awards, unless otherwise noted in the proposed amendment. 
+
+ 
+
+Within 15 calendar days from receipt of the notification email from the IPN Portal, the Recipient 
+must do one of the following: 
+
+ 
+
+(1) (a) verify applicability of the proposed amendment for their award(s) per the 
+instructions provided with each amendment; (b) download the amendment and 
+incorporate the following information on the amendment form: award number, 
+organization name, and organization mailing address as it appears in the basic 
+award; (c) sign the hardcopy version; and (d) send the signed amendment (by 
+email or hardcopy) to the AO for signature. The Recipient must not incorporate 
+any other changes to the IPN Portal amendment. Bilateral amendments provided 
+through the IPN Portal are not effective until the both the Recipient and the AO 
+sign the amendment. 
+
+
+
+
+ 
+
+ (2) Notify the AO in writing if the amendment requires negotiation of additional changes to 
+terms and conditions of the award; or 
+
+ 
+
+ (3) Notify the AO that the Recipient declines to sign the amendment. 
+
+Within 30 calendar days of receipt of a signed amendment from the Recipient, the AO must 
+provide the fully executed amendment to the Recipient or initiate discussions with the Recipient. 
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+USAID DISABILITY POLICY - ASSISTANCE (JUNE 2012) 
+
+ 
+
+The recipient must not discriminate against people with disabilities in the implementation of 
+USAID funded programs and should demonstrate a comprehensive and consistent approach for 
+including men, women, and children with disabilities. 
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN USAID ASSISTANCE 
+AWARDS INVOLVING CONSTRUCTION (SEPTEMBER 2004) 
+
+ 
+
+a. One of the objectives of the USAID Disability Policy is to engage other U.S. Government 
+agencies, host country counterparts, governments, implementing organizations, and other donors 
+in fostering a climate of nondiscrimination against people with disabilities. As part of this policy 
+USAID has established standards for any new or renovation construction project funded by 
+USAID to allow access by people with disabilities (PWDs). The full text of the policy paper can 
+be found at the following Website: https://pdf.usaid.gov/pdf_docs/PDABQ631.pdf 
+
+ 
+
+b. USAID requires the recipient to comply with standards of accessibility for people with 
+disabilities in all structures, buildings or facilities resulting from new or renovation construction 
+or alterations of an existing structure. 
+
+
+ c. The recipient will comply with the host country or regional standards for accessibility in 
+construction when such standards result in at least substantially equivalent accessibility and 
+usability as the standard provided in the Americans with Disabilities Act (ADA) of 1990 and the 
+Architectural Barriers Act (ABA) Accessibility Guidelines of July 2004. Where there are no host 
+country or regional standards for universal access or where the host country or regional standards 
+fail to meet the ADA/ABA threshold, the standard prescribed in the ADA and the ABA will be 
+used. 
+
+ 
+
+d. New Construction. All new construction will comply with the above standards for accessibility. 
+
+ 
+
+e. Alterations. Changes to an existing structure that affect, the usability of the structure will 
+comply with the above standards for accessibility unless the recipient obtains the Agreement 
+Officer’s advance approval that compliance is technically infeasible or constitutes an undue 
+burden or both. Compliance is technically infeasible where structural conditions would require 
+removing or altering a load-bearing member that is an essential part of the structural frame or 
+because other existing physical or site constraints prohibit modification or addition of elements, 
+spaces, or features that are in full and strict compliance with the minimum requirements of the 
+standard. Compliance is an undue burden where it entails either a significant difficulty or expense 
+or both. 
+
+ 
+
+f. Exceptions. The following construction related activities are excepted from the requirements of 
+paragraphs a. through d. above: (1) Normal maintenance, reroofing, painting or wall papering, or 
+changes to mechanical or electrical systems are not alterations and the above standards do not 
+apply unless they affect the accessibility of the building or facility; and (2) Emergency 
+construction (which may entail the provision of plastic sheeting or tents, minor repair and 
+upgrading of existing structures, rebuilding of part of existing structures, or provision of 
+temporary structures) intended to be temporary in nature. A portion of emergency construction 
+assistance may be provided to people with disabilities as part of the process of identifying 
+disaster- and crisis-affected people as “most vulnerable.” 
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD MANAGEMENT (November 
+2020) 
+
+ 
+
+a. Requirement for System for Award Management (SAM). Unless you are exempted from 
+this requirement under 2 CFR 25.110, you as the recipient must maintain current information in 
+the SAM. This includes information on your immediate and highest-level owner and subsidiaries, 
+as well as on all of your predecessors that have been awarded a federal contract or Federal 
+financial assistance within the last three years, if applicable, until you submit the final financial 
+report required under this Federal award or receive the final payment, whichever is later. This 
+requires that you review and update the information at least annually after the initial registration, 
+and more frequently, if required by changes in your information or another Federal award term. 
+
+ 
+
+
+b. Requirement for Unique Entity Identifier. If you are authorized to make subawards under 
+this Federal award, you: 
+
+ 
+
+(1) Must notify potential subrecipients that no entity (see definition in paragraph c. of this 
+award term) may receive a subaward from you until the entity has provided its Unique 
+Entity Identifier to you. 
+(2) Unique Entity Identifier means the identifier assigned by SAM to uniquely identify 
+business entities. 
+
+
+ 
+
+c. Definitions. For purposes of this term: 
+
+(1) System for Award Management (SAM) means the Federal repository into which a 
+recipient must provide information required for the conduct of business as a recipient. 
+Additional information about registration procedures may be found at the SAM Internet 
+site (currently at https://www.sam.gov). 
+(2) Unique Entity Identifier means the identifier assigned by SAM to uniquely identify 
+business entities. 
+(3) Entity includes non-Federal entities as defined in 2 CFR 200.1 and also includes all of the 
+following, for purposes of this part: 
+
+
+ 
+
+a. A foreign organization 
+b. A foreign public entity 
+c. A domestic for-profit organization; and 
+d. A Federal agency. 
+
+
+
+
+ 
+
+(4) Subaward has the meaning given in 2 CFR 200.1. 
+(5) Subrecipient has the meaning given in 2 CFR 200.1. 
+
+
+ 
+
+ADDENDUM (NOVEMBER 2020): 
+
+ 
+
+d. Exceptions. The requirements of this provision to obtain a Unique Entity Identifier and 
+maintain a current registration in the SAM do not apply, at the prime award or subaward level, to: 
+
+(1) Awards to individuals 
+(2) Awards less than $25,000, with no anticipated subawards, to foreign organizations to be 
+performed outside the United States (based on a USAID determination) 
+(3) Awards where the Agreement Officer determines, in writing, that the Agency must protect 
+entity information from disclosure due to national security or foreign policy interests of 
+the United States or that these requirements would cause personal safety concerns. 
+
+
+ 
+
+e. This provision does not need to be included in subawards. 
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION (November 2020) 
+
+ 
+
+a. Reporting of first-tier subawards. 
+
+ 
+
+
+(1) Applicability. Unless you are exempt as provided in paragraph d. of this award term, you 
+must report each action that equals or exceeds $30,000 in Federal funds for a subaward to 
+a non-Federal entity or Federal agency (see definitions in paragraph e. of this award term). 
+(2) Where and when to report 
+(i) The non-Federal entity or Federal agency must report each obligating action 
+described in paragraph a.(1) of this award term to www.fsrs.gov. 
+(ii) For subaward information, report no later than the end of the month following the 
+month in which the obligation was made. (For example, if the obligation was made 
+on November 7, 2010, the obligation must be reported by no later than December 
+31, 2010.) 
+(3) What to report. You must report the information about each obligating action that the 
+submission instructions posted at www.fsrs.gov specify. 
+
+
+ 
+
+b. Reporting total compensation of recipient executives for non-Federal entities. 
+
+ 
+
+(1) Applicability and what to report. You must report total compensation for each of your five 
+most highly compensated executives for the preceding completed fiscal year, if – 
+
+
+ 
+
+(i) The total Federal funding authorized to date under this Federal award equals or 
+exceeds $30,000 as defined in 2 CFR 170.320. 
+(ii) In the preceding fiscal year, you received— 
+
+
+ 
+
+(A) 80 percent or more of your annual gross revenues from Federal 
+procurement contracts (and subcontracts) and Federal financial 
+assistance subject to the Transparency Act, as defined at 2 CFR 
+170.320 (and subawards); and 
+(B) $25,000,000 or more in annual gross revenues from Federal 
+procurement contracts (and subcontracts) and Federal financial 
+assistance subject to the Transparency Act, as defined at 2 CFR 
+170.320 (and subawards); and 
+
+
+
+
+
+
+
+
+ 
+
+(2) Where and when to report. You must report executive total compensation described in 
+paragraph b.(1) of this award term: 
+
+
+ 
+
+(i) As part of your registration profile at www.sam.gov. 
+(ii) By the end of the month following the month in which this award is made, and 
+annually thereafter. 
+
+
+ 
+
+c. Reporting of Total Compensation of Subrecipient Executives. 
+
+ 
+
+(1) Applicability and what to report. Unless you are exempt as provided in paragraph d. of 
+this award term, for each first-tier non-Federal entity subrecipient under this award, you 
+must report the names and total compensation of each of the subrecipient’s five most 
+highly compensated executives for the subrecipient’s preceding completed fiscal year, if– 
+
+
+ 
+
+(i) In the subrecipient's preceding fiscal year, the subrecipient received— 
+
+
+
+ 
+
+(A) 80 percent or more of its annual gross revenues from Federal 
+procurement contracts (and subcontracts) and Federal financial 
+assistance subject to the Transparency Act, as defined at 2 CFR 
+170.320 (and subawards); and 
+(B) $25,000,000 or more in annual gross revenues from Federal 
+procurement contracts (and subcontracts), and Federal financial 
+assistance subject to the Transparency Act (and subawards); and 
+
+
+
+
+
+
+ 
+
+(ii) The public does not have access to information about the compensation of the 
+executives through periodic reports filed under section 13(a) or 15(d) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the 
+Internal Revenue Code of 1986. (To determine if the public has access to the 
+compensation information, see the U.S. Security and Exchange Commission total 
+compensation filings at www.sec.gov/answers/execomp.htm.) 
+
+
+ 
+
+(2) Where and when to report. You must report subrecipient executive total compensation 
+described in paragraph c.(1) of this award term: 
+
+
+ 
+
+(i) To the recipient. 
+(ii) By the end of the month following the month during which you make the 
+subaward. For example, if a subaward is obligated on any date during the month of 
+October of a given year (for example, between October 1 and 31), you must report 
+any required compensation information of the subrecipient by November 30 of that 
+year. 
+
+
+ 
+
+d. Exemptions. 
+
+ 
+
+If, in the previous tax year, you had gross income, from all sources, under $300,000, you are 
+exempt from the requirements to report: 
+
+ 
+
+(1) Subawards, and 
+(2) The total compensation of the five most highly compensated executives of any 
+subrecipient. 
+
+
+ 
+
+e. Definitions. 
+
+ 
+
+For purposes of this award term: 
+
+ 
+
+(1) Federal Agency means a Federal agency as defined at 5 U.S.C. 551(1) and further clarified 
+by 5 U.S.C. 552(f). 
+(2) Non-Federal entity means all of the following, as defined in 2 CFR 25: 
+
+
+ 
+
+(i) A governmental organization, which is a State, local government, or Indian tribe. 
+(ii) A foreign public entity. 
+(iii) A domestic or foreign nonprofit organization; and 
+
+
+
+(iv) A domestic or foreign for-profit organization. 
+
+
+ 
+
+(3) Executive means officers, managing partners, or any other employees in management 
+positions. 
+(4) Subaward: 
+
+
+ 
+
+(i) This term means a legal instrument to provide support for the performance of any 
+portion of the substantive project or program for which you received this award 
+and that you as the recipient award to an eligible subrecipient. 
+(ii) The term does not include your procurement of property and services needed to 
+carry out the project or program (for further explanation, see 2 CFR 200.331). 
+(iii) A subaward may be provided through any legal agreement, including an agreement 
+that you or a subrecipient considers a contract. 
+
+
+ 
+
+(5) Subrecipient means a non-Federal entity or Federal agency that: 
+
+
+ 
+
+(i) Receives a subaward from you (the recipient) under this award; and 
+(ii) Is accountable to you for the use of the Federal funds provided by the subaward. 
+
+
+ 
+
+(6) Total compensation means the cash and noncash dollar value earned by the executive 
+during the recipient’s or subrecipient’s preceding fiscal year and includes the following 
+(for more information see 17 CFR 229.402(c)(2)): 
+
+
+ 
+
+(i) Salary and bonus. 
+(ii) Awards of stock, stock options, and stock appreciation rights. Use the dollar 
+amount recognized for financial statement reporting purposes with respect to the 
+fiscal year in accordance with the Statement of Financial Accounting Standards 
+No. 123 (Revised 2004) (FAS 123R), Shared Based Payments. 
+(iii) Earnings for services under nonequity incentive plans. This does not include group 
+life, health, hospitalization, or medical reimbursement plans that do not 
+discriminate in favor of executives and are available generally to all salaried 
+employees. 
+(iv) Change in pension value. This is the change in present value of defined benefit and 
+actuarial pension plans. 
+(v) Above-market earnings on deferred compensation which is not tax-qualified. 
+(vi) Other compensation, if the aggregate value of all such other compensation (for 
+example, severance, termination payments, value of life insurance paid on behalf 
+of the employee, perquisites or property) for the executive exceeds $10,000. 
+
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+BRANDING STRATEGY - ASSISTANCE (JUNE 2012) 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+Strategy," describing how the program, activity, or activity is named and positioned, and 
+how it is promoted and communicated to beneficiaries and host country citizens. 
+
+
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers 
+no rights to the applicant and constitutes no USAID commitment to an award. 
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+Agreement Officer will make the applicant ineligible for an award. 
+d. The applicant must include all estimated costs associated with branding and marking 
+USAID programs, such as plaques, stickers, banners, press events, materials, and so forth, 
+in the budget portion of the application. These costs are subject to the revision and 
+negotiation with the Agreement Officer and will be incorporated into the Total Estimated 
+Amount of the grant, cooperative agreement or other assistance instrument. 
+e. The Branding Strategy must include, at a minimum, all of the following: 
+(1) All estimated costs associated with branding and marking USAID programs, such 
+as plaques, stickers, banners, press events, materials, and so forth. 
+(2) The intended name of the program, activity, or activity. 
+(i) USAID requires the applicant to use the “USAID Identity,” 
+comprised of the USAID logo and brandmark, with the tagline “from the 
+American people” as found on the USAID Web site at 
+https://www.usaid.gov/branding, unless Section VI of the RFA or APS 
+states that the USAID Administrator has approved the use of an 
+additional or substitute logo, seal, or tagline. 
+(ii) USAID prefers local language translations of the phrase “made 
+possible by (or with) the generous support of the American People” next 
+to the USAID Identity when acknowledging contributions. 
+(iii) It is acceptable to cobrand the title with the USAID Identity and 
+the applicant's identity. 
+(iv) If branding in the above manner is inappropriate or not possible, 
+the applicant must explain how USAID's involvement will be 
+showcased during publicity for the program or activity. 
+(v) USAID prefers to fund activities that do not have a separate logo 
+or identity that competes with the USAID Identity. If there is a plan to 
+develop a separate logo to consistently identify this program, the 
+applicant must attach a copy of the proposed logos. Section VI of the 
+RFA or APS will state if an Administrator approved the use of an 
+additional or substitute logo, seal, or tagline. 
+(3) The intended primary and secondary audiences for this activity or program, 
+including direct beneficiaries and any special target segments. 
+(4) Planned communication or program materials used to explain or market the 
+program to beneficiaries. 
+(i) Describe the main program message. 
+
+
+
+(ii) Provide plans for training materials, posters, pamphlets, public 
+service announcement, billboards, Web sites, and so forth, as 
+appropriate. 
+(iii) Provide any plans to announce and promote publicly this program 
+or activity to host country citizens, such as media releases, press 
+conferences, public events, and so forth. Applicant must incorporate the 
+USAID Identity and the message, “USAID is from the American 
+People.” 
+(iv) Provide any additional ideas to increase awareness that the 
+American people support this activity or program. 
+(5) Information on any direct involvement from host-country government or ministry, 
+including any planned acknowledgement of the host-country government. 
+(6) Any other groups whose logo or identity the applicant will use on program 
+materials and related materials. Indicate if they are a donor or why they will be 
+visibly acknowledged, and if they will receive the same prominence as USAID. 
+f. The Agreement Officer will review the Branding Strategy to ensure the above information 
+is adequately included and consistent with the stated objectives of the award, the 
+applicant's cost data submissions, and the performance plan. 
+g. If the applicant receives an assistance award, the Branding Strategy will be included in 
+and made part of the resulting grant or cooperative agreement 
+
+
+[END OF PROVISION] 
+
+PROHIBITION ON PROVIDING FEDERAL ASSISTANCE TO ENTITIES THAT 
+REQUIRE CERTAIN INTERNAL CONFIDENTIALITY AGREEMENTS – 
+REPRESENTATION (MAY 2017) 
+
+ 
+
+a) Definitions. “Contract” has the meaning given in 2 CFR Part 200. “Contractor” means an 
+entity that receives a contract as defined in 2 CFR Part 200. “Internal confidentiality 
+agreement or statement” means a confidentiality agreement or any other written statement 
+that the Recipient requires any of its employees or Sub-Recipients to sign regarding 
+nondisclosure of Recipient information, except that it does not include confidentiality 
+agreements arising out of civil litigation or confidentiality agreements that Recipient 
+employees or subrecipients sign at the behest of a federal agency. “Subaward” has the 
+meaning given in 2 CFR Part 200. “Subrecipient” has the meaning given in 2 CFR Part 
+200. 
+
+
+ 
+
+b) In accordance with section 743 of Division E, Title VII, of the Consolidated and Further 
+Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in 
+subsequent appropriations acts (and as extended in continuing resolutions), Government 
+agencies are not permitted to use funds appropriated (or otherwise made available) for 
+federal assistance to a nonfederal entity that requires its employees, subrecipients, or 
+contractors seeking to report waste, fraud, or abuse to sign internal confidentiality 
+agreements or statements that prohibit or otherwise restrict its employees, subrecipients, 
+or contractors from lawfully reporting such waste, fraud, or abuse to a designated 
+
+
+
+investigative or law enforcement representative of a Federal department or agency 
+authorized to receive such information. 
+
+
+ 
+
+c) The prohibition in paragraph (b) of this provision does not contravene requirements 
+applicable to Standard Form 312, (Classified Information Nondisclosure Agreement), 
+Form 4414 (Sensitive Compartmented Information Nondisclosure Agreement), or any 
+other form issued by a Federal department or agency governing the nondisclosure of 
+classified information. 
+
+
+ 
+
+d) Representation. By submission of its application, the prospective Recipient represents that 
+it will not require its employees, subrecipients, or contractors to sign or comply with 
+internal confidentiality agreements or statements prohibiting or otherwise restricting its 
+employees, subrecipients, or contractors from lawfully reporting waste, fraud, or abuse 
+related to the performance of a Federal award to a designated investigative or law 
+enforcement representative of a Federal department or agency authorized to receive such 
+information (for example, the Agency Office of the Inspector General). 
+
+
+ 
+
+[END OF PROVISION] 
+
+ 
+
+PROHIBITION ON CERTAIN TELECOMMUNICATION AND VIDEO 
+SURVEILLANCE SERVICES OR EQUIPMENT (JULY 2022) 
+
+ 
+
+a. In accordance with the cost principles in 2 CFR § 200.471, obligating or expending costs for 
+covered telecommunications and video surveillance services or equipment or services as 
+described in 2 CFR § 200.216 are unallowable. Recipients and subrecipients are prohibited from 
+using award funds, including direct and indirect costs, cost share and program income, for such 
+covered telecommunications and video surveillance services or equipment. This provision 
+
+implements temporary waivers granted to USAID under Section 889(d)(2) that allow the recipient 
+to use award funds for: 
+
+ 
+
+(1) All costs for covered telecommunications and video surveillance services or equipment 
+incurred through September 30, 2022; and 
+
+
+(2) Costs for covered telecommunications and video surveillance services or equipment 
+incurred on or after October 1, 2022, through September 30, 2028, only if the recipient has 
+determined that there is no available alternate eligible source for the covered 
+telecommunications and video surveillance services or equipment. 
+
+ 
+
+b. After September 30, 2028, in accordance with 2 CFR § 200.471 costs of all covered 
+telecommunications and video surveillance services or equipment as specified in 2 CFR § 
+200.216 will be unallowable. 
+
+ 
+
+c. The Recipient must include this provision in all subawards, and contracts issued under this 
+award. 
+
+ 
+
+[END OF PROVISION] 
+
+
+B. Applicable Regulations and References 
+
+ 
+
+Mandatory Standard Provisions for U.S. Nongovernmental Recipients: 
+
+https://www.usaid.gov/sites/default/files/documents/303maa.pdf 
+
+ 
+
+Mandatory Standard Provisions for Non-U.S. Nongovernmental Recipients: 
+
+https://www.usaid.gov/sites/default/files/documents/303mab.pdf 
+
+ 
+
+Standard Provisions for Public International Organizations: 
+
+https://www.usaid.gov/sites/default/files/documents/308.pdf 
+
+ 
+
+Certifications, Assurances, Other Statements of the Recipient and Solicitation Standard 
+
+Provisions 
+
+https://www.usaid.gov/sites/default/files/documents/303mav.pdf 
+
+ 
+
+2 CFR 200 Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+
+Federal Awards 
+
+http://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title02/2cfr200_main_02.tpl 
+
+ 
+
+2 CFR 700 Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+
+Federal Awards 
+
+https://www.ecfr.gov/cgi-bin/text-
+idx?SID=531ffcc47b660d86ca8bbc5a64eed128&mc=true&node=pt2.1.700&rgn=div5 
+
+ 
+
+ADS 303 – Grants and Cooperative Agreements to Non-Governmental Organizations 
+
+https://www.usaid.gov/sites/default/files/documents/303.pdf 
+
+ 
+
+48 CFR 31.2 - Contracts with Commercial Organizations 
+
+https://www.gpo.gov/fdsys/granule/CFR-2011-title48-vol1/CFR-2011-title48-vol1-part31-
+subpart31-2/content-detail.html 
+
+ 
+
+22 CFR 228: Rules for Procurement of Commodities and Services Financed by USAID 
+
+https://www.gpo.gov/fdsys/pkg/CFR-2012-title22-vol1/pdf/CFR-2012-title22-vol1-part228.pdf 
+
+ 
+
+SF-424 Downloads 
+
+Federal Financial Report | GSA 
+
+ 
+
+C. Additional Resources 
+
+• Initial Environmental Examination (Attached) 
+
+• Government of Tanzania (GOT) Priorities and Strategies Here 
+
+D. Special Provisions for USAID/Tanzania 
+
+ 
+
+ 
+
+ 
+
+
+PRESS RELEASES, MEDIA ENGAGEMENTS, AND PUBLIC EVENTS 
+
+“All press releases will be approved by the USAID/Tanzania AOR. The Recipient will provide 
+copies of draft press releases as well as relevant project photos for review with at least two weeks 
+advance notice prior to the planned release date. When the Recipient leadership address the media 
+or are requested by the media to comment about the activity, the concerned program staff shall 
+acknowledge U.S. Government support. Project staff will also acknowledge the source of funds 
+when granting interviews, speaking with journalists, or making speeches and presentations. The 
+Recipient must inform USAID of planned speaking engagements with press and media. When the 
+Recipient unexpectedly speaks with the press, the Recipient must notify the AOR immediately 
+afterward (within 4 hours). 
+
+ 
+
+The Recipient will inform and confer with USAID/Tanzania in advance of issuing an invitation to 
+the GOT to speak and/or be the guest of honor at a public event. The Recipient will provide the 
+USAID/Tanzania AOR with at least two weeks of lead time and notification about public events. 
+In the instance of program activities that require the attendance of USAID personnel, the below 
+guidelines on events must be adhered to: 
+
+• Requested attendance of the Ambassador, DCM, and/or Mission Director will be 
+communicated at least four weeks prior to the event; and 
+
+• Requested remarks by the Ambassador, DCM, and/or Mission Director will be 
+communicated at least four weeks prior to the event AND the Recipient will provide draft 
+talking points to USAID at least one week prior to the event 
+
+• Requested attendance of other USAID Mission staff representatives will be 
+communicated at least three weeks prior to the event.” 
+
+ 
+
+ACTIVITY INTEGRATION 
+
+Integration is a key component of USAID/Tanzania’s Country Development Cooperation 
+Strategy (CDCS). The CDCS advances USAID’s core values of empowerment and inclusion and 
+key principles of engagement which include partnership, capacity building, integration, and 
+learning. The Mission recognizes the complexity of Tanzania’s development challenges and the 
+value of addressing them using multiple tools and perspectives that cross sectors. Integration is 
+defined broadly as “Partnering to apply sound development principles and practices to address 
+political, economic, social and governance factors across sectors to improve the sustainability of 
+development investments and results.” In short, the Recipient should seek opportunities to partner 
+and collaborate across sectors to improve the sustainability and impact of planned outcomes and 
+results. 
+
+ 
+
+The Recipient is expected to include an Integration Reporting section in the Quarterly and Annual 
+Reports and describe how the Recipient has incorporated integrated development approaches into 
+its work and established platforms of coordination and collaboration among other development 
+partners and local stakeholders in the country to maximize impact and sustainability of the 
+Activity objectives. Additionally, USAID/Tanzania may develop Integration Indicators that, once 
+approved, will be applied to this Activity. 
+
+ 
+
+It is expected that the Recipient will jointly plan, collaborate, and share information with other 
+USAID-funded implementers to learn, bring best practices to scale, and ensure that OVC Next 
+Generation activity beneficiaries benefit from the integration of activities. 
+
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Object Class Category 
+
+Year 
+1 
+
+Year 
+2 
+
+Year 
+3 
+
+Year 
+4 
+
+Total 
+
+a. Personnel 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+b. Fringe Benefits 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+c. Travel 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+d. Equipment and Supplies 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+e. Sub-awards 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+f. Participant Training 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+g. Other Direct Costs 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+h. Allowances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. Total Direct Charges (a - h) 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+j. Indirect Charges 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+k. TOTALS (i and j) 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+
+
+ 
+
+ 
+
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+ (Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for non-U.S. Nongovernmental organizations. The award will also contain 
+the following “required as applicable” Standard Provisions: 
+
+ 
+
+Please note that the resulting award will include all standard provisions (both mandatory and 
+required as applicable) in full text. 
+
+ 
+
+REQUIRED AS APPLICABLE STANDARD PROVISIONS FOR NON-U.S. 
+NONGOVERNMENTAL ORGANIZATIONS 
+
+ 
+
+ 
+
+Required 
+
+ 
+
+Not 
+Required 
+
+ 
+
+Standard Provision 
+
+TBD 
+
+RAA1. ADVANCE PAYMENT AND REFUNDS (NOVEMBER 2020) 
+
+RAA2. REIMBURSEMENT PAYMENT AND REFUNDS (DECEMBER 2014) 
+
+TBD 
+
+RAA3. INDIRECT COSTS – NEGOTIATED INDIRECT COST RATE 
+AGREEMENT (NICRA) (NOVEMBER 2020) 
+
+RAA4. INDIRECT COSTS – CHARGED AS A FIXED AMOUNT 
+(NONPROFIT) (JUNE 2012) 
+
+RAA5. INDIRECT COSTS – DE MINIMIS RATE (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA6. UNIVERSAL IDENTIFIER AND SYSTEM OF AWARD 
+MANAGEMENT (NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA7. REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION 
+(NOVEMBER 2020) 
+
+ 
+
+ 
+
+RAA8. SUBAWARDS (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA9. TRAVEL AND INTERNATIONAL AIR TRANSPORTATION 
+(DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA10. OCEAN SHIPMENT OF GOODS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA11. REPORTING HOST GOVERNMENT TAXES (JUNE 2012) 
+
+ 
+
+ 
+
+RAA12. PATENT RIGHTS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA13. EXCHANGE VISITORS AND PARTICIPANT TRAINING (JUNE 
+2012) 
+
+ 
+
+ 
+
+RAA14. INVESTMENT PROMOTION (NOVEMBER 2003) 
+
+ 
+
+ 
+
+RAA 15. COST SHARE (JUNE 2012) 
+
+ 
+
+ 
+
+RAA16. PROGRAM INCOME (AUGUST 2020) 
+
+ 
+
+ 
+
+RAA17. FOREIGN GOVERNMENT DELEGATIONS TO INTERNATIONAL 
+CONFERENCES (JUNE 2012) 
+
+ 
+
+ 
+
+RAA18. STANDARDS FOR ACCESSIBILITY FOR THE DISABLED IN 
+USAID ASSISTANCE AWARDS INVOLVING CONSTRUCTION 
+(SEPTEMBER 2004) 
+
+ 
+
+ 
+
+RAA19. PROTECTION OF HUMAN RESEARCH SUBJECTS (JUNE 2012) 
+
+ 
+
+ 
+
+RAA20. STATEMENT FOR IMPLEMENTERS OF ANTI-TRAFFICKING 
+ACTIVITIES ON LACK OF SUPPORT FOR PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA21. ELIGIBILITY OF SUBRECIPIENTS OF ANTI-TRAFFICKING 
+FUNDS (JUNE 2012) 
+
+
+
+
+ 
+
+ 
+
+RAA22. PROHIBITION ON THE USE OF ANTI-TRAFFICKING FUNDS TO 
+PROMOTE, SUPPORT, OR ADVOCATE FOR THE LEGALIZATION OR 
+PRACTICE OF PROSTITUTION (JUNE 2012) 
+
+ 
+
+ 
+
+RAA23. VOLUNTARY POPULATION PLANNING ACTIVITIES – 
+SUPPLEMENTAL REQUIREMENTS (JANUARY 2009) 
+
+ 
+
+ 
+
+RAA24. CONSCIENCE CLAUSE IMPLEMENTATION (ASSISTANCE) 
+(FEBRUARY 2012) 
+
+ 
+
+ 
+
+RAA25. CONDOMS (ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA26. PROHIBITION ON THE PROMOTION OR ADVOCACY OF THE 
+LEGALIZATION OR PRACTICE OF PROSTITUTION OR SEX 
+TRAFFICKING(ASSISTANCE) (SEPTEMBER 2014) 
+
+ 
+
+ 
+
+RAA27. LIMITATION ON SUBAWARDS TO NON-LOCAL ENTITIES 
+(JULY 2014) 
+
+ 
+
+ 
+
+RAA28. CONTRACT PROVISION FOR DBA INSURANCE UNDER 
+RECIPIENT PROCUREMENTS (DECEMBER 2014) 
+
+ 
+
+ 
+
+RAA29. CONTRACT AWARD TERM AND CONDITION FOR RECIPIENT 
+INTEGRITY AND PERFORMANCE MATTERS (APRIL 2016) 
+
+ 
+
+ 
+
+RAA30. RESERVED 
+
+ 
+
+ 
+
+RAA31. NEVER CONTRACT WITH THE ENEMY (NOVEMBER 2020) 
+
+
+
+ 
+
+ 
+
+

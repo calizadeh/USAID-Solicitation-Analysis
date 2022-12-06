@@ -1,0 +1,4759 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Issue Date: 05/23/2022 
+
+ 
+
+Deadline for Questions/Clarifications: 06/06/2022 (17:00 Hours Honduras Time) 
+
+
+Closing Date: 07/23/2022 
+
+ 
+
+Closing Time: 17:00 Hours Honduras Time 
+
+ 
+
+Subject: Notice of Funding Opportunity (NOFO); Number: 72052222RFA00005 
+
+ 
+
+Program Title: Improving Pathways to Education (IPE) 
+
+ 
+
+Federal Assistance Listing Number: 98.001 
+
+ 
+
+Dear Prospective Applicants: 
+
+ 
+
+The United States Agency for International Development (USAID) is seeking applications for a 
+Cooperative Agreement from qualified entities to implement a new activity “Improving Pathways to 
+Education (IPE)” program. Eligibility for this award is not restricted. 
+
+ 
+
+USAID intends to make an award to the applicant(s) who best meets the objectives of this funding 
+opportunity based on the merit review criteria described in this NOFO subject to a risk assessment. 
+Eligible parties interested in submitting an application are encouraged to read this NOFO thoroughly 
+to understand the type of program sought, application submission requirements and selection process. 
+
+ 
+
+To be eligible for award, the applicant must provide all information as required in this NOFO and 
+meet eligibility standards in Section C of this NOFO. This funding opportunity is posted on 
+www.grants.gov, and may be amended. It is the responsibility of the applicant to regularly check the 
+website to ensure they have the latest information pertaining to this notice of funding opportunity and 
+to ensure that the NOFO has been received from the internet in its entirety. USAID bears no 
+responsibility for data errors resulting from transmission or conversion process. If you have difficulty 
+registering on www.grants.gov or accessing the NOFO, please contact the Grants.gov Helpdesk at 1-
+800-518-4726 or via email at support@grants.gov for technical assistance. 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable unique 
+entity identifier and System for Award Management (SAM) requirements detailed in Section D.6.f. 
+The registration process may take many weeks to complete. Therefore, applicants are encouraged to 
+begin registration early in the process. 
+
+ 
+
+Please send any questions to the point(s) of contact identified in Section D. The deadline for 
+questions is shown above. Responses to questions received prior to the deadline will be furnished to 
+all potential applicants through an amendment to this notice posted to www.grants.gov. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Issuance of this notice of funding opportunity does not constitute an award commitment on the part of 
+the Government nor does it commit the Government to pay for any costs incurred in preparation or 
+submission of comments/suggestions or an application. Applications are submitted at the risk of the 
+applicant. All preparation and submission costs are at the applicant’s expense. 
+
+ 
+
+Thank you for your interest in USAID programs. 
+
+ 
+
+Sincerely, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nathan Olah 
+
+Supervisory Agreement Officer 
+
+USAID/Honduras 
+
+ 
+
+
+TABLE OF CONTENTS 
+
+
+
+
+
+Section A – Program Description 4 
+
+
+
+Section B – Federal Award Information 22 
+
+
+
+Section C – Eligibility Information 24 
+
+
+
+Section D – Application and Submission Information 26 
+
+
+
+Section E – Application Review Information 48 
+
+
+
+Section F – Federal Award Administration Information 52 
+
+
+
+Section G – Federal Awarding Agency Contacts 63 
+
+
+
+Section H – Other Information 64 
+
+
+
+
+
+
+
+
+
+
+SECTION A: PROGRAM DESCRIPTION 
+
+ 
+
+This funding opportunity is authorized under the Foreign Assistance Act (FAA) of 1961, as 
+amended. The resulting award will be subject to 2 CFR 200 – Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and USAID’s 
+supplement, 2 CFR 700, as well as the additional requirements found in Section F. 
+
+ 
+
+SECTION A: Program Description - Improving Pathways to Education (IPE) 
+
+ 
+
+A.1 Introduction 
+
+ 
+
+USAID/Honduras’s goal for its 2020-2025 Country Development Cooperation Strategy (CDCS)1 is 
+“A more prosperous, democratic, and secure Honduras where citizens, especially youth, are 
+inspired to stay and invest in their future.” The Improving Pathways to Education (IPE) Activity 
+described in this program description (PD) will contribute to achieving this goal by increasing access 
+to safe, quality basic education for children and youth, particularly those in areas of high out-
+migration. This PD provides background, scope, purpose, and top-level objectives of this award. 
+
+1 USAID/Honduras’s 2020-2025 CDCS can be found at https://www.usaid.gov/honduras/cdcs 
+
+ 
+
+A.2 Summary 
+
+ 
+
+The IPE Activity will increase access to safe, quality basic education for children and youth by 
+improving socio-economic opportunities, contributing to the multi-sectoral impacts of violence 
+prevention efforts, and decreasing irregular migration. This will be achieved through evidence-
+informed interventions under three results. 
+
+1. Enhanced Governance for Effectiveness, Transparency, and Responsiveness in the 
+Education System 
+2. Increased Access to and Retention in Inclusive, Quality Education, Particularly for the 
+most Marginalized Learners 
+3. Improved Safety in and around Schools 
+
+
+ 
+
+This PD describes the objectives and results to be achieved, but intentionally does not state how the 
+work is to be accomplished. Potential applicants have flexibility to develop creative, cost-effective 
+solutions, and the opportunity to propose innovative approaches to meet the stated objectives and 
+results. Based on this PD, applicants will submit a technical approach which describes a strategy to 
+achieve the results of the Activity. The technical approach must enable USAID/Honduras to assess 
+the performance of the work against specific, clear, and measurable results (i.e., in terms of quality, 
+quantity, timeliness, etc.), and show the method of assessing applicant performance against the 
+required results. It is difficult to anticipate how USAID’s programmatic requirements will evolve 
+over the life of this award due to rapid changes that Honduras faces such as political and financial 
+instability, and emerging shocks and stresses, ranging from natural disasters to pandemics such as 
+COVID-19. These emerging challenges negatively impact education priorities and 
+USAID/Honduras’s ability to operate safely and effectively. As such, the Activity must be able to 
+rapidly incorporate changes. In addition, technical interventions will evolve during the life of 
+
+
+performance and the Activity must continuously seek ways to incorporate feasible, innovative, and 
+evidence-based approaches in support of this program’s purpose and objectives. 
+
+ 
+
+A.3 Purpose 
+
+ 
+
+The purpose of the IPE Activity is to increase access to safe learning environments, and to relevant, 
+and quality basic education for children and youth, particularly the most marginalized in communities 
+with high violence and outmigration targeted by USAID. Increased education access, ensuring safe 
+learning spaces, and improved quality in service provision will result in more citizens (stakeholders, 
+families, and youth) committed to education as a means for productive and fulfilling lives in 
+Honduras, thus contributing to higher level Mission objectives of decreasing irregular migration and 
+preventing violence. Through both monitoring and evaluation, this activity also aims to add to the 
+emergent evidence base on the link between education and violence prevention and mitigation. The 
+target population will be at least 300,000 children and youth from 11 to 17 years (grades 6-9) 
+inclusive of at-risk and out-of -school children and youth. This age group is at high risk for both 
+victimization and perpetration of violence. This Activity aims to ensure all learners exit the basic 
+primary education cycle with the necessary foundational skills in reading, math, and social emotional 
+learning to continue their education and be resilient to pull factors leading to violence and irregular 
+migration. The Activity will also address enrollment, repetition, transition, and completion of grades 
+and levels of education. This Activity will approach the stated challenges from a systems perspective, 
+working with stakeholders at national, regional, and local levels to evaluate the key blockages and 
+enablers within the system to identify levers for addressing those blockages and reap the benefits of 
+potential opportunities. One of those particular key blockages that will receive direct attention and 
+metrics in this activity is violence in and around schools, which can lead to life-long negative 
+behavior that impacts the whole Honduran society. Preventing that violence is critical to enabling at-
+risk youth to stay in school, contributing to better academic outcomes, improved lives, reduced crime, 
+and stronger communities. 
+
+A.4. Deliveries or Performance 
+
+ 
+
+The IPE Activity will be implemented over a five-year period in selected municipalities and 
+communities across Honduras characterized by high levels of out-migration and insecurity. As 
+appropriate and to the extent possible in accordance with the achievement of the objectives of the 
+Activity, the implementer will focus its interventions in key zones of influence identified by the 
+Mission. Specific community and school selection within the area of influence will be done 
+collaboratively with the Applicant with the final approval resting with USAID/Honduras. The 
+Activity will be expected to closely coordinate with other relevant USAID activities where co-
+location and coordination will assist in the achievement of higher-level Mission objectives. It will be 
+particularly important, for example, to develop strategic linkages to the Mission's violence prevention 
+activity, Sembrando Esperanza. This could include exploring ways in which successful violence 
+prevention interventions in schools can be leveraged in support of broader violence prevention efforts 
+in the community. Sembrando´s work towards supporting violence prevention in the community also 
+could be leveraged to help improve children’s safe access to and from schools. 
+
+ 
+
+
+A.5 Background 
+
+ 
+
+Public education in Honduras is characterized by low enrollment rates, high dropouts and repetition 
+rates, low achievement scores, insufficient alternative education opportunities, low graduation rates, 
+and a highly politicized, underfunded and ineffective system. National end of grade test results (2019) 
+show that approximately 30 percent of students achieve proficiency in reading and only 10 percent in 
+mathematics at the end of primary education. With the assistance of USAID and other donors, there 
+was some progress particularly in the first 15 years of the current century. However, in the last few 
+years with the reduction of resources assigned to education, dropping from 7.2 percent of the GNP in 
+2012 to 4.9 percent in 2020, academic achievement has stagnated, and enrollment rates have 
+decreased, particularly in the upper grades of primary education and in secondary education. 
+
+ 
+
+Schools and communities face several contextual challenges that affect students’ ability to attend 
+school and learn. Poverty levels in Honduras remain high; more than 60 percent of households in the 
+country live in poverty and more than 40 percent in extreme poverty. This fact makes it very difficult 
+for parents to send and keep their children in school. Grades six and nine in particular see high levels 
+of drop out. Parents also struggle to see the value of education as it is often not viewed as relevant to 
+the needs of the marketplace. Widespread insecurity and threats of violence in the home, schools, and 
+communities intimidate students and teachers alike, affecting access to education and learning. A 
+recent study by the Norwegian Refugee Council (NRC) found that half of all children living in 
+neighborhoods where criminal gangs are present are out-of-school or are forced to drop out.2 
+
+2 Consejo Noruego Para Refugiados (2019) Centroamérica: Una generación fuera de la 
+Escuela.https://nrc.org.co/2019/05/13/centroamerica-una-generacion-fuera-de-la-escuela/ 
+
+ 
+
+ 
+
+The limited and precarious conditions of school facilities, including overcrowded classrooms, 
+shortage of basic learning materials, and lack of electricity and water, also compromise the quality of 
+education. These conditions are exacerbated by repeated environmental shocks such as floods, 
+droughts, and hurricanes. 
+
+ 
+
+Pandemic-related school closures have resulted in additional drop-outs reducing recent gains in 
+enrollment and retention numbers. Recent data from the National Institute of Statistics indicates that 
+roughly 2 million children and youth are not currently enrolled in the system (almost 50 percent of 
+the school-age population). According to a recent study from the World Bank, the proportion of 
+students under the minimum sufficiency level will increase from 55 to 71 percent in the LAC region. 
+Preliminary data from the Ministry of Education (MOE) indicates that in 2021, approximately 31 
+percent fewer students in Honduras achieved the reading proficiency for second grade, compared to a 
+similar assessment administered in 2017. 
+
+ 
+
+COVID-19 has forced local and national education officials into new territory as they struggle to 
+maintain continuity of learning. Pandemic-related school closures have forced many students into 
+distance learning options that neither the MOE or communities are equipped to support. The MOE 
+does not have an adequate technological platform and curriculum to support this large-scale access to 
+online learning. Only 40 percent of households in the country have access to the internet, and in many 
+instances, where access is available, parents are not able to afford that access. As a result, 76 percent 
+
+
+of learners in public schools are only attending a maximum of five hours of online classes per week. 
+This has also resulted in the drop-out of more than 100,000 students in the current 2021 school year 
+as compared to the previous year. The value of education has also diminished as 52 percent of parents 
+who have kept their children in school report low levels of learning. According to some civil society 
+and other actors, including academic institutions, returning to a blended learning model is the only 
+option to guarantee education to 80 percent of children and young people in the public school system. 
+
+ 
+
+Honduras, including its education system, is also dealing with core challenges related to management 
+and governance. In 2020, Honduras ranked 157 out of 180 countries worldwide on Transparency 
+International’s Corruption Perceptions Index. Corruption and a lack of transparency in the system 
+have a significant impact, siphoning the limited and much needed resources away from schools, 
+affecting the hiring and professional development of teachers, administrators, and other education 
+staff, investment in school infrastructure, and the procurement of key goods and services. 
+Additionally, there is a lack of commitment to the decentralization process and the sharing of roles 
+and responsibilities among the central government and other actors, including the local government, 
+private sector and local communities, contributing to an over-centralized system that struggles to 
+meet the unique needs of communities. 
+
+ 
+
+Emergent evidence indicates that interventions to improve education access and quality, when 
+delivered in collaboration with other multi-sectoral activities, can contribute to decreased irregular 
+migration and violence prevention. According to the previous Development Objective (DO) 1 
+Victimization and Security Survey (2020), among respondents with some education, willingness to 
+migrate irregularly declines after primary school is complete. Similarly, among workforce 
+development participants (ages 16-29) in USAID/ Honduras’s previous Workforce Development 
+Activity, beneficiaries’ intent to migrate to the U.S. is highest among those students who have not 
+completed 9th grade. Forty-seven percent of Honduran parents surveyed in opinion surveys stated 
+that education would be their main reason for sending their children to another country. Moreover, 
+quality education can incentivize enrollment in school and encourage families to remain in the 
+country. However, it’s incredibly important that education initiatives work in partnership across 
+sectors to holistically address the complex causes of irregular migration, including violence. Youth, 
+in particular, are at a great risk of engaging in and being victims of violence. Although a systematic 
+evidence review revealed more research is needed to establish rigorous causal pathways between 
+education interventions and violence prevention, the review identified several education interventions 
+linked with decreases in violence and crime with emergent or moderate evidence bases. These 
+interventions are often core to basic education programs and include school-wide positive behavioral 
+interventions and supports, dropout prevention programs, classroom management, school-related 
+gender based violence programs, parenting classes, and cash transfers.3 Over the last CDCS period, 
+USAID/Honduras has learned about the importance of protective factors including the acquisition of 
+foundational and targeted academic and social and emotional skills, as well as staying in school, in 
+decreasing the risks of not only engaging in violence and delinquent behavior, but also irregular 
+migration. 
+
+3 Evidence review: The effect of education programs on violence, crime, and related outcomes, Bagby et. al. 2021. 
+https://pdf.usaid.gov/pdf_docs/PA00XGXS.pdf 
+
+ 
+
+ 
+
+
+A.6 Performance Objectives and Expected Results 
+
+ 
+
+The overall goal of the IPE Activity is to increase access to safe, relevant, and quality basic education 
+for at least 300,000 children and youth in Honduras, particularly students living in areas with high 
+rates of violence and irregular migration. This Activity will aim to ensure that students progress 
+through the higher grades of basic education, allowing them to continue their secondary acquisition 
+with strong foundational skills in reading, math, and Social and Emotional Learning (SEL). In turn, 
+those children and youth will have the knowledge, skills, and motivation to engage as productive 
+citizens in Honduras, thus reducing students’ vulnerability to participating in violent or illicit 
+activities and migrating irregularly. The results, intermediate results, expected outcomes, and 
+illustrative indicators are included below. In addition to the USAID standard and supplemental 
+indicators, the applicant shall include proposed indicators to measure progress towards the activity 
+level outcomes of violence prevention and decreased irregular migration. To the extent possible, all 
+indicators should be disaggregated by age, gender, and other demographic factors that would allow 
+further analysis to measure effectiveness of addressing marginalization. 
+
+ 
+
+To achieve this, IPE shall concentrate on the following three results: 
+
+ 
+
+Result 1: Enhanced Governance of the Education System for Effectiveness, Transparency, and 
+Responsiveness. 
+
+ 
+
+● IR 1.1 Strengthened evidence-informed decision management processes. 
+● IR 1.2 Strengthened transparency, participation and decentralization in education 
+management. 
+● IR 1.3 Strengthened capacity of the education system to respond to and recover from shocks 
+and stressors. 
+
+
+The goal of this result is to support the MOE and other entities relevant to the education sector to 
+become responsive, transparent, and effective institutions able to provide and oversee quality 
+education for all. This component seeks to identify strengths, gaps, and areas of improvement within 
+the education system in a systematic and collaborative approach and then propose viable short and 
+long-term solutions to address these challenges in a sustainable manner. The Activity shall take a 
+systems change approach4 to address the core challenges in education governance and management, 
+identifying the key system changes that are required as well as potential levers for bringing systems-
+level change. 
+
+4 USAID/Honduras will facilitate change through a systems change approach, which the Mission defines as “the use of a 
+collection of approaches and principles to achieve long-term, sustainable change through development programming, 
+which realizes fundamental changes in how interdependent parts of a system—roles, rules, relationships, resources and 
+results—across sectors, actors, populations, and geographies, are configured and interact.” The Mission chose to take a 
+systems change approach because, while the Mission achieved results as intended over the previous CDCS, its success 
+was limited to target geographies and populations and was highly dependent on USAID’s ability to invest against the 
+problems being confronted. The Mission recognizes a need to catalyze local systems-led development if sustainable 
+outcomes are to be achieved. Across the country, violence continues to affect large segments of the population, 
+corruption is still endemic, and the majority of people in western Honduras still live in poverty. The Mission has learned 
+that to achieve broad, sustainable change in Honduras, patterns need to be broken; the systems themselves which produce 
+these states need to change. 
+
+ 
+
+One key blockage is related to the culture of assessments and learning. Among other potential 
+interventions, the IPE Activity will aim to strengthen the culture of assessments for learning, data 
+
+
+collection and use, and national and local education management information systems. The Activity 
+will collaborate with the MOE and other stakeholders to increase transparency of critical decisions 
+such as resource management and allocation and teacher hiring and placement to ensure schools are 
+adequately staffed and equipped. Interventions under this result will also support decentralization 
+efforts at all levels within the education system, prioritizing local management and control and 
+providing opportunities for citizen participation in decision-making related to education. Finally, the 
+Activity will also work with the MOE to build capacity within the education system to respond to and 
+recover from shocks and stressors - including endemic violence - by investing in the resilience of the 
+education sector. Some illustrative activities include: 
+
+ 
+
+● Support the implementation of the testing system, collection of student learning data and 
+education system management data, and use of its results to improve education quality 
+● Expand the Early Warning and Response System to monitor enrollment, identify and address 
+potential drop-out risks utilizing youth input and leadership where appropriate, and facilitate 
+the re-enrollment of children and youth that are returned migrants as well as at-risk youth in 
+high violence areas 
+● Strengthen MOE’s internal controls with administrative and clerical support of core 
+operations, technical expertise, and strategic planning 
+● Support MOE and other stakeholders in strengthening transparency and accountability in the 
+hiring and allocation of teachers 
+● Support MOE’s and other key stakeholders’ crisis and disaster preparedness, planning and 
+response at the national, local and school levels 
+● Strengthen local education offices and coordination with municipalities and school networks 
+● Strengthen the engagement of citizens, civil society organizations, private sector actors and 
+others in improving the transparency, accountability and effectiveness of the educational 
+system 
+● Build capacity of local actors supporting the education sector with a special focus on 
+strengthening the technical and organizational capacity of civil society organizations focused 
+on youth, education, and violence prevention (Note that such interventions would be closely 
+linked to Result 1) 
+● Formation of an intergovernmental steering committee to respond to and address violence 
+with representatives from both the security, youth and education sectors. 
+
+
+ 
+
+Note that the above are illustrative activities. Applicants are encouraged to identify the specific 
+systems-level changes they will address along with potential interventions to support those changes 
+and indicators to better measure impact. 
+
+ 
+
+The Applicant will include the following standard indicators and will propose additional indicators to 
+measure both outputs and outcomes under Objective 1. The final list of indicators will be defined in 
+the Activity’s Monitoring, Evaluation and Learning (MEL) Plan. 
+
+ 
+
+● Supp-16: Education system strengthened through USG assistance 
+● ES.1-12: Number of education administrators and officials who complete professional 
+development activities with USG assistance 
+● ES. 1-13 Number of parent teacher associations (PTAs) or community governance structures 
+engaged in primary or secondary education supported with USG assistance 
+● 
+
+
+ 
+
+
+Expected Outcomes under Result 1: 
+
+ 
+
+● The MOE, at the central and local level, is able to collect, apply, socialize, and carry out 
+monitoring and data control on key outcomes of interest such as enrollment, retention, 
+academic achievement and transition rates. 
+● The authority of the MOE at the local level is decentralized, helping to increase transparent, 
+responsive and accountable management, and better coordination with municipalities and 
+regional offices. 
+● The MOE and key stakeholders of the education sector at the national, local, and school 
+community level have increased ability to plan for, respond to, and recover from shocks and 
+stressors such as hurricanes, pandemics, school closures, etc. 
+● There is an improvement in citizen perception of transparency, accountability, and 
+effectiveness of the educational system. 
+● There is increased engagement of citizens and civil society organizations in education 
+decision-making. 
+● Improved inclusion of, coordination with, and capacity development of local actors who have 
+experience reaching marginalized groups including at-risk youth. 
+
+
+ 
+
+Result 2: Increased Access to And Retention in Inclusive, Quality Education, Particularly for 
+the most Marginalized Learners. 
+
+ 
+
+● IR 2.1 Barriers to access reduced, particularly for the most marginalized learners 
+● IR 2.2 Expanded and strengthened alternative education modalities that provide credible 
+pathways to formal education or completion 
+● IR 2.3 Increased retention and promotion rates for learners in grades 6-9 
+● IR 2.4 Improved learning outcomes in reading and math and social and emotional skills 
+● IR 2.5 Teachers use of evidence-based, instructional practices in reading, math, and SEL 
+increased 
+● IR 2.6 Families and caregivers value education and have the resources and knowledge needed 
+to ensure their children stay in school 
+
+
+ 
+
+The IPE Activity will work with education stakeholders to reduce the barriers to access education 
+which prevent children and youth from completing basic education and enrolling in secondary 
+education. The Activity will aim to increase retention and promotion rates for students in grades 6-9, 
+and it will expand and strengthen alternative education modalities, including flexible modalities, to 
+provide credible pathways to continuing formal education or completion. Existing alternative 
+education modalities may need to be modified, expanded or strengthened, or new alternative 
+modalities created, to meet the needs of learners, particularly those outside of the education system. 
+Special attention will be given to targeting youth at risk of violence and youth in conflict with the 
+law, identifying appropriate alternative education approaches for these groups and strategically 
+aligning SEL skills and training to target these often-marginalized populations. Through a focus on 
+integrating social and emotional learning into classroom instruction and soft skill development into 
+non-formal education modalities, the Activity will aim to build skills, such as affective empathy. 
+Current evidence suggests a link between affective empathy and violence prevention outcomes in 
+
+
+youth.5 SEL interventions should build on previous successful interventions and evidence including 
+recent work from the region by Innovations for Poverty Action.6 The Activity will address learning 
+loss and access challenges presented by the pandemic and will ensure that learners participating in 
+non-formal education modalities will develop the necessary reading, math and soft skills. 
+Additionally, under this objective, IPE will improve learning outcomes in reading and math and 
+social and emotional skills with an emphasis on the use of grounded, evidence-based, responsive 
+instructional practices in the classroom. This objective is critical given pandemic-related decreases in 
+enrollment. While in-person schooling remains interrupted or not fully available, it's imperative that 
+students have a distance learning option that works for them and maintains continuity of learning. 
+Once the schools reopen, they will have to make significant efforts to enroll out-of -school children 
+and youth, re-enroll students who lost touch with the education system, and address the critical 
+learning gaps caused by the pandemic, including those related to domestic or communal violence. A 
+critical aspect of the return to learning will be helping families and caregivers identify and access the 
+necessary resources to support the education of their children as well as support families in promoting 
+lifelong learning for their children. 
+
+5 https://www.youthpower.org/sites/default/files/YouthPower/resources/Key%20Soft%20Skills%20for%20Cross-
+Sectoral%20Youth%20Outcomes_YouthPower%20Action.pdf 
+
+6 Socioemotional Skills Development in Highly Violent Contexts: Measurements and Impacts. Diaz, Lelys et al. Jan 21, 
+2022. 
+
+ 
+
+ 
+
+Some illustrative activities include: 
+
+ 
+
+● Support processes focused on the safe reopening of schools as outlined in the Plan de Retorno 
+Seguro a Clases developed by the MOE with support from USAID, which includes helping 
+schools implement school-based plans for a safe reopening, re-engagement plans for all 
+learners including the most marginalized, adapting instructional time and curricula, 
+adjustment of academic calendars, modifying exams and learner promotion plans 
+● Design and implement formative assessments to address learning loss and inform classroom 
+instruction decisions 
+● Design and implement summative, end of year assessments to measure student learning 
+● Expand accredited accelerated education options for completing education at the basic 
+education level that are also responsive to the needs of over-age and returned migrant children 
+and youth 
+● Design and implement catch-up and remedial education methodology and programs at the 
+central and local level 
+● Implement SEL instruction designed to build resilience, social cohesion, and empathy or other 
+SEL skills proven to advance target outcomes in education and violence prevention 
+● Expansion or creation of multi-modal distance learning options that meet the needs of all 
+learners, including those who have historically been excluded from the education system 
+● Implementation of Universal Design for Learning (UDL) principles into education approaches 
+to ensure inclusive learning opportunities for all students 
+● Pilot and/or expand innovative programs such as conditional or unconditional cash transfers to 
+address family resource gaps and increase enrollment and retention, taking into account the 
+national experience on these kinds of programs 
+
+
+
+ 
+
+Note that the above are illustrative activities. Applicants are encouraged to identify the specific 
+systems-level changes related to Result 2 that they hope to address along with potential interventions 
+to support those changes. 
+
+ 
+
+The applicant will include the following indicators and will propose additional indicators to measure 
+both outputs and outcomes under Result 2. The final list of indicators will be defined in the Activity’s 
+MEL Plan. 
+
+ 
+
+● Supp-9: Percent of learners with improved social and emotional skills, as locally defined, after 
+participating in USG assisted program7 
+● ES.1-2: Percent of learners targeted for USG assistance who attain minimum grade-level 
+proficiency in reading at the end of primary school 
+● Supp-3: Percent of learners attaining minimum grade-level proficiency in math at the end of 
+primary school with USG assistance 
+● Effective transition rate from primary to lower secondary education 
+● Supp-10: Percent of teachers providing quality classroom instruction with USG support 
+
+
+7 Successful applicants will work with USAID partner Supporting Holistic & Actionable Research in Education (SHARE) 
+as relevant 
+
+ 
+
+ 
+
+Expected Outcomes under Result 2: 
+
+ 
+
+● Increased enrollment and transitions in the different levels of education, with a focus on 
+transitions from 6th to 7th grade and up to 9th grade 
+● Increased completion and graduation rates in target grades 
+● Improved social and emotional skills and learning outcomes in reading and math in the target 
+grades 
+● Increased number of out-of-school children and youth completing alternative education 
+programs 
+● Increased number of vulnerable families in targeted communities decide to keep their children 
+in school. 
+
+
+ 
+
+Result 3: Improved Safety in and around Schools 
+
+ 
+
+● IR 3.1 Improve education institutions´ and support structures’ ability to identify, reduce, and 
+prevent threats to safety including violence in schools and communities through the creation 
+of safe learning environments 
+● IR 3.2 Increased protective factors among students and families 
+● IR 3.3 Strengthen partnerships for increased participation, decision-making, and funding from 
+the private sector and civil society for preventing or mitigating violence and improving 
+education outcomes 
+
+
+This objective will focus on addressing threats to safety, including violence. Addressing these threats 
+is critical to improving learning outcomes and enabling at-risk youth to stay in school which can 
+prevent victimization and perpetration of violence. To achieve this result, this Activity will work to 
+
+
+establish safe learning environments8 by locally assessing internal and external threats, empowering 
+local actors, and working with the community including actors beyond the education sector to 
+improve access to safe, relevant education and prevent and/or mitigate violence in schools and 
+communities. The Activity will reduce school-based violence including school related gender-based 
+violence and increase resilience of children and youth. The Activity will use proven, evidence-
+informed violence prevention methodologies to prevent youth from engaging in delinquent behavior, 
+including specific interventions for children and youth at highest risk of drop-out or violence; such as 
+secondary prevention services, after school activities, and integrated or standalone social and 
+emotional learning. Activities under this result should build on the success of interventions under 
+Asegurando La Educacion and other relevant activities by strengthening community engagement 
+through Community School Committees and/or Municipal Councils of Education Development to 
+support safety in schools and communities. The applicant should capitalize on USAID’s investment 
+in and knowledge of safe learning environments and school-based violence prevention. 9 
+
+8 Learning environment should be interpreted broadly and includes social (e.g. relationships with peers and adults), 
+normative (e.g. attitudes, norms and beliefs), structural (e.g. policies), physical, and digital elements. 
+
+9 Applicant should draw from, “Evidence review: The effect of education programs on violence, crime, and related 
+outcomes” Bagby et al. 2021. https://pdf.usaid.gov/pdf_docs/PA00XGXS.pdf 
+
+10 Applicants should present an evidence-based intervention package drawing on the learning of Asegurando La 
+Educacion and other relevant activities 
+
+ 
+
+Finally, the Activity will strengthen partnerships for increased local participation, decision-making, 
+and funding from the private sector and civil society for violence prevention in schools and 
+communities to improve education outcomes such as learning, retention and completion. This last 
+element will be closely linked with other Activity results, notably Result 1. Some illustrative 
+activities include: 
+
+ 
+
+● Create safe learning spaces free of violence to increase access, retention, and quality of 
+education. This effort should capitalize on previous and current USAID investments such as 
+Asegurando la Educacion, aiming to scale up proven methodologies to have a broader 
+systems-level impact10 
+● Establishing After-School Programs that are designed to foster relevant social and emotional 
+skills like emotional regulation and impulse control and offer mentorship and individualized 
+attention to students exhibiting risky behavior 
+● Leverage support from the private sector to decrease crime and violence and improve 
+educational outcomes, including scaling up remedial education programs 
+● Engage local actors to deliver evidence-informed violence prevention methodologies to 
+reduce risk of delinquency and increase youth resilience, capitalizing on USAID's investment 
+● Support community engagement in school-based violence prevention through strengthened 
+parent teacher associations, school community committees, and other mechanisms, with an 
+eye to scaling successful interventions to have a systems-level impact 
+● Ensure active referral pathways for students in need of specialized services, particularly 
+students who experienced or perpetrated violence, partnering as relevant with Sembrando 
+Esperanza and other USAID activities 
+● Assist teachers and administrators to integrate locally tailored violence prevention techniques 
+into teacher training and after school activities 
+
+
+
+● Train educators on applying screening models to identify high-risk youth and to provide early 
+intervention and additional support 
+● Strategically link school-based violence prevention efforts with broader community efforts to 
+prevent and mitigate violence 
+
+
+ 
+
+Note that the above are illustrative activities. Applicants are encouraged to identify the specific 
+systems-level changes related to Result 3 that they will address along with potential interventions to 
+support those changes. 
+
+ 
+
+The Applicant will include the following indicators and shall propose additional indicators to 
+measure both outputs and outcomes under Result 3. The final list of indicators will be defined in the 
+Activity’s MEL Plan. 
+
+ 
+
+● Supp-7: Number of parents or community members trained to support children’s education 
+with USG assistance 
+● ES.1-51: Number of learning environments supported by USG assistance that have improved 
+safety, according to locally-defined criteria (linked to CDCS sub IR 3.2.3). 
+● Custom: Number of incidents of school violence and crime reduced 
+● Custom: Number/percentage of youth with reduced risk factors that drive crime and violence 
+
+
+ 
+
+Expected Outcomes under Result 3: 
+
+ 
+
+● Children, youth, teachers, and other education stakeholders in target communities feel safe in 
+their learning environment in schools and on route to schools. 
+● Schools and their support structures are actively addressing and reducing threats to safety 
+including school-based violence, cyber bullying, and school-related gender-based violence. 
+● Improved linkages are established with the other Ministries, local governments, donors, and 
+civil society, including private sector actors, resulting in additional resources and services to 
+improve safety and reduction of violence in schools 
+● Local organizations, parents and students value education and engage actively with others in 
+planning and decision making around safety in schools 
+● Improved linkages between violence prevention, education, and economic opportunities for 
+youth, in coordination with other USAID activities 
+● Improved collaboration among education, community, and security actors to mitigate and 
+prevent violence in schools and communities. 
+
+
+ 
+
+To achieve the results and objectives detailed above, the IPE Activity must actively seek and promote 
+coordination and implementation with other USAID and donor activities and initiatives working 
+towards improving the quality and reach of Honduras’s education system, including the reduction of 
+violence. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Figure 1. IPE Activity - Theory of Change 
+
+ 
+
+ 
+
+A.7 Adaptive, Flexible, and Collaborative Management 
+
+ 
+
+USAID recognizes the importance of thinking critically and shifting strategic decisions to respond to 
+emerging development challenges. The Activity should incorporate adaptive programming that is 
+able to respond nimbly to emerging evidence, opportunities, and challenges. In particular, the 
+Activity should be flexible to provide support for unanticipated needs and initiate support in new 
+contexts or with new local partners as needs arise. While implementation plans will be annual, they 
+should be viewed as living documents, and semi-annual review will be expected to ensure more 
+adaptive and responsive programming. Structured Pause and Reflect discussions to revisit 
+assumptions, review progress, and make course corrections, if necessary, will strengthen 
+programmatic relevancy, promote sustainability, and help the Activity achieve the expected results. 
+Maintaining this flexibility and adaptability to ensure responsiveness to evolving local and contextual 
+dynamics, including pandemic-related health concerns, and to take advantage of opportunities and 
+mitigate challenges is important for successful activity implementation. Interventions require an 
+iterative, adaptive management approach that regularly reassesses and re-evaluates the operating 
+environment(s) where the Activity works and adjusts program planning, implementation, and results 
+measurement as necessary. Changes in the Activity implementation will also be affected by funds 
+availability. 
+
+ 
+
+USAID intends to award one Cooperative Agreement pursuant to this notice of funding opportunity. 
+Subject to funding availability, USAID intends to provide up to $80 million in total funding 
+over a 5-year period. This $80 million consists of a base of $60 million and three program 
+modifiers for a potential total of an additional $20 million. 
+
+ 
+
+ 
+
+
+A.8 Program Modifiers 
+
+ 
+
+USAID may employ program modifiers11 to respond to evolving programmatic opportunities that 
+require a high degree of flexibility. Unforeseen opportunities or exigencies may entail implementing 
+interventions in other programmatic spheres under the broad mantle of education programming. 
+Program modifiers are subject to availability of funding and will be invoked at the discretion of 
+USAID. As needed and as directed by the Agreement Officer, in consultation with the 
+USAID/Honduras Agreement Officer’s Representative, the awardee must be able to present new 
+areas of assistance programming related to the following program modifier categories. The “program 
+modifier” cost line item will allow the release of separate, rapid response funds to the recipient and its 
+partners for immediate activities to address emergencies or seize opportunities. 
+
+11 For additional information on the use of Modifiers in awards, please see the following USAID Help Document: 
+https://usaidlearninglab.org/sites/default/files/resource/files/shock_responsive_programming_guidance_compliant.pdf 
+
+ 
+
+Subject to the availability of additional funding, USAID/Honduras may choose to invoke any of the 
+following program modifiers to implement additional interventions at any point in the life of the 
+Activity. The program modifiers have an additional total estimated budget of $20 million. The 
+concepts for the program modifiers will be developed prior to the modification of the 
+anticipated award. The expenditure of funds for a program modifier will be dependent on rapid 
+review and approval of a Program Modifier Plan submitted by the Recipient once notified by 
+USAID/Honduras during implementation. The Plan shall include a work plan for the modifier 
+interventions, revised budget and budget narrative, an updated Program Description including 
+staffing and organizational updates reflecting the new interventions (if applicable); and identify 
+linkages with existing award implementation activities, as appropriate. 
+
+ 
+
+A. Program Modifier 1. Improved Quality Education 
+
+ 
+
+Efforts under this program modifier will support interventions under Result 2: Increased access to 
+and retention in inclusive, quality education, particularly for the most marginalized learners. 
+Interventions may include but are not limited to expansion to new geographic areas, new grades, 
+increased or additional support for remedial, catch-up, or accelerated education including new or 
+additional alternative education modalities, target support for marginalized populations including 
+over-age and returned migrant children and youth learners, teacher training and support, and school 
+or community level preparedness, planning and response to support continued access to quality 
+learning opportunities. 
+
+ 
+
+B. Program Modifier 2. Improved Safety in and around Schools 
+
+ 
+
+Efforts under this program modifier will support interventions under Result 3: Improved safety in 
+and around schools. This modifier is subject to the availability of additional CARSI funds. Outyear 
+increases in CARSI allocation are contingent upon: A) comparable increases to the CARSI account 
+overall, and B) that program results also justify increased use of CARSI. Possible programmatic 
+interventions may include but aren’t limited to school and community safety and resilience analyses, 
+advocacy for policy interventions to increase safety and reduction of crime both in schools and 
+communities, support to parents and communities to enroll their children in school, outreach and 
+advocacy with the private sector to reduce security-related barriers to youth employment, and 
+
+
+a. Beneficiaries: This Activity will target learners between the ages of 11-17 years old, 
+with a focus on children and youth at-risk of irregular migration, including returned 
+migrants; children and youth at-risk of engaging in violence; and children and youth at 
+risk of dropping out of school, inclusive of children and youth who are out of school. 
+The Activity will also support the learners’ parents/caregivers. Additionally, it will 
+enhance the capacity of the education community, including school officials, 
+administrators, and teachers in target municipalities to deliver quality education 
+services. 
+b. Target Grade Levels: This Activity will focus on basic education in Honduras, with a 
+particular focus on grades 6 through 9, when dropouts accelerate. Depending on 
+available funding, there is the potential to employ a program modifier to work in 
+additional grades, as needed to achieve the Activity goal and results to improve 
+retention and completion within the education system. 
+c. Coordination with USAID Activities: In alignment with the U.S. Government 
+Strategy for International Basic Education, the Applicant should consider areas for 
+potential coordination with other U.S. Government programs, including but not 
+limited to relevant USAID activities in education and other sectors and the U.S. 
+Department of Agriculture McGovern-Dole school feeding program. It is particularly 
+important that the Applicant coordinate closely with USAID activities in areas such as 
+youth workforce development, school-based violence prevention, nutrition, local 
+governance and transparency and accountability. Coordination is critical for achieving 
+the desired outcomes outlined in the theory of change. 
+d. Coordination with Government of Honduras and other Donors: The Applicant 
+should consider areas for collaboration and coordination with other donors working in 
+Honduras, particularly donors working in areas such as migration, school-based 
+violence, reading and math. The Applicant will also work closely with the MOE and 
+other ministries, as well as relevant partner government agencies to achieve the results 
+of this Activity, in support of the Government of Honduras’s strategic plans. The 
+Applicant shall work closely with USAID to establish the best approach for 
+partnership with the Government of Honduras. The Applicant is encouraged to 
+develop a learning agenda to address policy issues that are a priority of the GOH. 
+e. Mathematics Programming: The Activity should build on mathematics education 
+interventions that have taken place to date in Honduras. Drawing on lessons learned 
+
+
+increased engagement with targeted civil society organizations to improve community linkages to 
+education. 
+
+ 
+
+C. Program Modifier 3. Unforeseen Opportunities 
+
+ 
+
+The purpose of this modifier is to enable USAID to respond to unforeseen opportunities that may 
+arise to support an expanded geographic scope under IPE, or support the roll-out of a broader range 
+of IPE education-related activities to achieve the Activity’s goal and results. In such an instance, 
+USAID will work with the Recipient to integrate additional interventions, expand geographic focus, 
+and/or expand program efforts. This program modifier may be exercised only at the discretion of the 
+Agreement Officer and is contingent upon availability of funds. USAID reserves the right to fund any 
+or none of the applications submitted by the Recipient. 
+
+ 
+
+A.9 Operating Parameters 
+
+ 
+
+
+from other donors, particularly the Japan International Cooperation Agency, the 
+Applicant should develop an approach to strengthen mathematics education that builds 
+on curriculum, training and materials that have been developed, drawing on lessons 
+learned and best practices to ensure teachers have the necessary knowledge, skills, and 
+materials to provide quality instruction and that classrooms are equipped with grade-
+level appropriate materials to support mathematics instruction. The Activity should 
+focus on developing, piloting and implementing teacher guides and student 
+workbooks, as well as incorporating problem solving and critical thinking into 
+classroom mathematics instruction. 
+f. Reading Programming: The Activity should build on previous and current USAID 
+investments to support early grade reading in Honduras. The reading approach should 
+also incorporate best practices outlined in USAID’s Reading MATTERS Conceptual 
+Framework.12 
+g. Social Emotional Learning Programming: The Activity should build on previous 
+and current USAID investments and approaches in social and emotional learning to 
+provide contextually appropriate SEL to beneficiaries. The Activity will aim to 
+integrate principles outlined in the USAID Social and Emotional Learning or Soft 
+Skills Education Policy Brief to apply or adapt a contextually relevant and evidence-
+based approach to support the development of social and emotional skills, or soft skills 
+for youth learners in both formal and non-formal education. 
+h. Private Sector Engagement: Private sector should be motivated to play a substantial 
+role in strengthening the education system, reducing violence in schools and 
+communities, and ensuring access to quality basic education in Honduras. The 
+Applicant must present a plan for engaging the private sector in the education sector 
+and encouraging investment in education. 
+i. Supporting the most Marginalized Students: The Applicant must consider the 
+barriers the most marginalized students face in accessing and completing a quality 
+basic education. The Applicant will ensure the program is inclusive to all learners, and 
+works to mitigate the specific barriers students face related to, but not limited to 
+gender, language, economic status, disability status, violence in communities by 
+integrating the principles of UDL and inclusive education into the approach. 
+j. Flexibility. Given the challenges and constraints, the Applicant must present an 
+adaptive management approach, ensuring the Activity can adapt and respond to 
+challenges and shifts that might arise in Honduras over the life of the Activity, as well 
+as potential shifts in policy and priorities for the U.S. Government. USAID may 
+encourage the implementing partner to undertake additional activities that are 
+within the parameters of this PD in response to unforeseen crises, challenges or 
+changes in strategic priorities. Adjustments will be agreed upon through changes to 
+annual work plans, and may require corresponding reductions in other planned 
+activities in order to remain within the available obligated amount and budget ceiling. 
+k. Geographic: The Activity will work in targeted geographic areas of Honduras. The 
+primary focus will be areas that experience high levels of out-migration and insecurity 
+as described above, and if necessary to reach Activity targets areas with high numbers 
+of out-of-school youth. For more information on the Mission’s geo targeting strategy, 
+
+
+
+
+
+12 Information on the USAID’s Reading MATTERS Conceptual Framework can be found at 
+https://www.globalreadingnetwork.net/resources/usaid-reading-matters-conceptual-framework 
+
+
+which includes a focus on 40 municipalities with high out-migration, please see the 
+USAID/Honduras website: https://www.usaid.gov/honduras/fact-sheets/placed-based-
+geographic 
+l. Digital Technologies: The IPE Activity will integrate and leverage digital 
+technologies to achieve the Activity results. The Applicant must identify ways to 
+utilize digital technologies to support resource management, hybrid learning , as 
+necessary, as well as improving transparency and reducing corruption within the 
+education system. The Applicant will also draw on best practices to leverage 
+technology to support improved learning outcomes, by identifying the ways in which 
+technology can support teachers, and the ways technology can be leveraged to support 
+instruction and learning for students. 
+m. Engaging Local Organizations: USAID is looking for substantial local buy-in and 
+engagement in this award. The Applicant shall identify opportunities to increase local 
+engagement in decision making and strategic direction of this Activity and build local 
+capacity in the provision of safe, relevant and quality education. The Activity includes 
+a sizable sub-grants mechanism that will be used to engage local partners as well as an 
+intermediary result focused specifically on strengthening the capacity of local CSOs 
+and actors engaged in the education space. 
+
+
+
+
+
+ 
+
+ 
+
+A.10 Monitoring and Evaluation: 
+
+ 
+
+USAID/Honduras intends the Activity to be subject to rigorous monitoring and evaluation, including 
+complexity-aware monitoring13 to ensure intended results and impact are being generated and to 
+inform Activity course corrections if and when necessary. USAID/Honduras will monitor and 
+evaluate Activity performance based on a Monitoring, Evaluation and Learning (MEL) plan to be 
+developed by the applicant. Activity evaluations will guide major activities and document lessons 
+learned, as well as measure results at the end of the project. In compliance with ADS 201, the activity 
+will also be subject to an external impact assessment. 
+
+13 Additional information on complexity-aware monitoring can be found at 
+https://usaidlearninglab.org/library/complexity-aware-monitoring-discussion-note-brief 
+
+14 Rapid Education and Risk Analysis Toolkit available at: https://www.edu-links.org/resources/rapid-education-and-risk-
+analysis-rera-toolkit-
+1#:~:text=A%20Rapid%20Education%20and%20Risk,multiple%20contextual%20risks%20and%20assets.&text=It%20involves%20the%20collection%20and%20analysis%20of%20secondary%20and%20primary%20data. 
+
+ 
+
+Monitoring during the life of activity will be critical to ensure programming responds to and 
+addresses relevant contextual factors like rates of violence and irregular migration and the effects of 
+political changes and natural hazards. In collaboration with USAID/Honduras, the applicant should 
+conduct Rapid Education and Risk Analyses,14 conflict analyses, or a political economy analyses at 
+various points throughout the life of the activity to ensure programming reflects an up to date 
+understanding of the interaction of contextual risks and the education system. 
+
+ 
+
+USAID is also retaining the services of a third-party activity to provide support for monitoring and 
+evaluation. The MEL, monitored by the Program Office, will be used to inform technical direction to 
+the applicant regarding within-scope adjustments that may be needed to the Activity work plan during 
+
+
+implementation. Applicant implementation at the activity level will require the Applicant to 
+cooperate and provide access to this activity for the purposes of evaluation, under the supervision of 
+USAID/Honduras personnel. The evaluation design will be finalized in consultation with the 
+applicant and will align with the annual work plan. However, the monitoring done by this third-party 
+activity will not substitute nor supersede the applicant's obligations regarding implementation 
+surveillance and reporting to USAID/Honduras officials, as appropriate. 
+
+ 
+
+The applicant will coordinate and collaborate with this third-party activity, the anticipated Mission-
+wide mechanism for Monitoring and Evaluation, and build on the work conducted under MESCLA 
+around teacher training and coaching, enrollment, transition, online and distance learning modalities, 
+and COVID-19. Additionally, the Applicant should consider the Education in Crisis and Conflict 
+learning agenda and the foundational skills learning agenda, as well as other relevant learning 
+agendas, and consider how this activity can contribute to global or regional learning questions on 
+education outcomes, violence and irregular migration. The awardee should anticipate participating in 
+broader learning efforts aimed at exploring the impact of strategically integrating projects from 
+different sectors with the broader goal of reducing irregular migration. 
+
+ 
+
+A.11 Collaboration, Learning and Adapting (CLA) 
+
+ 
+
+USAID expects that the implementation of this Activity, and progress towards the aforementioned 
+results, is guided by analysis of a wide variety of information sources and knowledge. These may 
+include: M&E data, internal and/or external performance evaluations, innovations and new learning 
+that bring to light new best practices or call into question received wisdom, collected observations 
+from those who have particularly deep or unique insight in a given area, and complementary research 
+studies, among others. The intent is to ensure that the partway to desired outcomes is continuously 
+assessed and adjusted to yield the most effective course of action. 
+
+ 
+
+The MEL Plan should apply best practices that meet USAID and international standards as well as 
+organizational Collaborating, Learning, and Adapting (CLA) approaches/processes throughout the 
+Activity cycle to reward candid knowledge sharing and leadership of/participation in collaborative 
+learning efforts. The Activity should integrate Collaborating, Learning, and Adapting (CLA) into the 
+MEL plan and its implementation to maximize the use of M&E results for course corrections and 
+adjusting implementation plans throughout the Activity life as deemed appropriate. 
+
+ 
+
+A.12 Cross-cutting Considerations 
+
+ 
+
+Youth: To build youth resilience and agency in order to become healthy, productive, and contributing 
+citizens, USAID/Honduras requires the applicant to apply the Positive Youth Development (PYD) 
+Framework in their technical approach. The PYD framework provides key guiding principles in how 
+to engage youth in their own development, how they can contribute to USAID’s work, and to create 
+an enabling environment for their development. Applicants should consider involving youth in 
+activities that promote increased engagement in education and other social and political processes and 
+topical public policy matters as well as initiatives that impart practical technical and leadership skills. 
+
+ 
+
+Gender Equality: The applicant must address gender integration during implementation of the award 
+and demonstrate in its application how it would integrate gender equality into core approaches, 
+incorporating the principles outlined in USAID’s Gender Equality and Female Empowerment Policy. 
+Incorporating gender considerations into these interventions involves an in-depth analysis of all of the 
+
+
+dimensions of gender inclusion, equality, and empowerment, including employment, access to 
+property and resources, health, education, governance, gender-based violence, and LGBTI rights. 
+Each intervention must be based on gender gaps and dynamics found in the targeted communities, 
+and gender sensitive and responsive to ensure women, men, male and female youth, minorities, 
+disabled, ethnic, religious, and transgender persons are an integrated part of interventions. The 
+applicant should provide local entities guidance, tools, training, resources and defining roles and 
+responsibilities for gender integration in program planning, design, implementation, monitoring, 
+evaluation and reporting, and organizational capacity development. 
+
+ 
+
+Constraints or Challenges: The Applicant must demonstrate an understanding of the local context, 
+and the specific challenges and barriers that might impact Activity implementation. The Applicant 
+must develop an Activity that is responsive to the non-permissive environment in Honduras. The 
+Applicant has to consider the challenges from Covid-19 that can impact Activity implementation, 
+including public health concerns and safety, as well as disruptions that can impact operations. 
+Additionally, the applicant must also consider the ways in which corruption and a lack of 
+transparency can impact education management and delivery. The Applicant must clearly articulate 
+plans to mitigate and respond to natural disasters, particularly hurricanes, and the impact on the 
+education system after disasters. Finally, the Applicant must identify the ways in which the Activity 
+will address security concerns, particularly when schools close temporarily, as well as potential 
+political transitions in the upcoming election. 
+
+ 
+
+Sustainability and Systems Focus: The Applicant will consider sustainability as a prerequisite to 
+any provided assistance. With a focus on resilience and locally led development, the applicant must 
+demonstrate the ways in which the intervention will be sustained and incorporated into the education 
+system. The Applicant must identify the particular conditions that should be incorporated into the 
+Activity to ensure sustainability of the interventions, including, from a systems perspective, the key 
+blockages or systems-level changes that need to be addressed to achieve the Activity’s results. 
+Changes which result in more students completing primary and lower secondary education will 
+require changes in the dynamics between perspectives, roles, relationships, rules, and resources at the 
+individual, household, peer-group, and community levels. The Activity must work to affect change 
+across these dimensions and levels in order to improve the efficiency and effectiveness of moving 
+students through the education system. 
+
+ 
+
+The Activity is expected to support, and measure impact related to local sustainability. Sustainability 
+planning is in part expected to address this requirement as well as advance key indicators such as 
+citizen and targeted CSO capacity strengthening. Furthermore, partnership with local non-
+governmental and civil society organizations to conduct proposed activities is part of a sustainability 
+strategy to promote local participation and ownership and increase impact. 
+
+ 
+
+ 
+
+[END OF SECTION A – PROGRAM DESCRIPTION] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION B: FEDERAL AWARD INFORMATION 
+
+ 
+
+B.1 Estimate of Funds Available and Number of Awards Contemplated 
+
+ 
+
+USAID intends to award One (1) Cooperative Agreement (CA) pursuant to this notice of funding 
+opportunity. Subject to funding availability and at the discretion of the Agency, USAID intends to 
+provide US$80,000,000.00 in total USAID funding over a Five (5) year period. 
+
+ 
+
+USAID reserves the right to change the funding amounts, cycle, and terms of the resulting award as a 
+result of availability of funding and U.S. Government requirements. The recipient will be notified in 
+writing should such changes occur. 
+
+ 
+
+B.2 Expected Performance Indicators, Targets, Baseline Data, and Data Collection 
+
+ 
+
+As described in the Program Description – See Section A of the NOFO. 
+
+ 
+
+B.3 Start Date and Period of Performance for Federal Awards 
+
+ 
+
+The anticipated period of performance is Five (5) years. The estimated start date will be upon the 
+Agreement Officer’s signature of the award, or as determined by the Agreement Officer. 
+
+ 
+
+B.4 Substantial Involvement 
+
+ 
+
+Consistent with ADS 303.3.11, USAID/Honduras anticipates a close working partnership with the successful 
+Applicant for this activity to assist in achieving the objectives. The specific areas of USAID involvement will 
+include, but are not limited to: 
+
+ 
+
+1. Approval of the Recipient’s Annual Implementation Plans during performance by the designated 
+Agreement Officer’s Representative (AOR). Significant changes to the approved Annual Work Plan will 
+require additional AOR approval. 
+
+ 
+
+2. Agency and Recipient Collaboration or Joint Participation: The Recipient must request prior review and 
+written concurrence from the AOR and obtain review and written approval from the AO before entering into 
+any sub-awards under the performance of this agreement. 
+
+ 
+
+3. Approval of the Recipient’s Monitoring, Evaluation and Learning (MEL) Plan by the AOR. 
+
+ 
+
+4. Approval of selection of Recipient Key Personnel: The Recipient shall request prior approval from the 
+USAID Agreement Officer (AO) for the replacement of Key Personnel or changes in the Key Personnel 
+positions. 
+
+ 
+
+B.5 Authorized Geographic Code 
+
+ 
+
+The geographic code for the procurement of commodities and services under this program is 937, 
+which includes the United States, the Recipient country, and developing countries other than advanced 
+developing countries, but excluding any country that is a prohibited source. 
+
+For more information on authorized geographic code, please see ADS 310: 
+https://www.usaid.gov/sites/default/files/documents/310.pdf 
+
+ 
+
+
+B.6 Nature of the Relationship between USAID and the Recipient 
+
+ 
+
+The principal purpose of the relationship with the Recipient and under the subject program is to 
+transfer funds to accomplish a public purpose of support or stimulation of the Improving Pathways to 
+Education (IPE) which is authorized by Federal statute. The successful Recipient will be responsible 
+for ensuring the achievement of the program objectives and the efficient and effective administration 
+of the award through the application of sound management practices. The Recipient will assume 
+responsibility for administering Federal funds in a manner consistent with underlying agreements, 
+program objectives, and the terms and conditions of the Federal award. 
+
+ 
+
+B.7 Selection of Instrument 
+
+ 
+
+The Improving Pathways to Education (IPE) Activity aims to provide funds to an organization who 
+will provide assistance to the Government of Honduras, specifically the Ministry of Education, and 
+Honduran private and public education sector stakeholders. The overall objective of the IPE Activity 
+is to increase access to safe, quality basic education for children and youth, by improving socio-
+economic opportunities, contributing to the multi-sectoral impacts of violence prevention efforts, and 
+decreasing irregular migration. This will be achieved through evidence-informed interventions under 
+the following three results: 
+
+ 
+
+1. Enhanced governance for effectiveness, transparency, and responsiveness in the education system; 
+
+ 
+
+2. Increased access to and retention in inclusive, quality education, particularly for the most 
+marginalized learners; and 
+
+ 
+
+3. Improved safety in and around schools 
+
+ 
+
+Increased education access, ensuring safe learning spaces, and improved quality in service provision 
+will result in more citizens (stakeholders, families, and youth) committed to education as a means for 
+productive and fulfilling lives in Honduras, thus contributing to higher level Mission objectives of 
+decreased irregular migration and violence prevention. The Activity will approach the stated 
+challenges from a systems perspective, working with stakeholders at national, regional, and local 
+levels to evaluate the key blockages and enablers within the system to identify levers for addressing 
+those blockages and reap the benefits of potential opportunities. 
+
+ 
+
+[END OF SECTION B – FEDERAL AWARD INFORMATION] 
+
+ 
+
+
+SECTION C: ELIGIBILITY INFORMATION 
+
+ 
+
+C.1 Eligible Applicants 
+
+ 
+
+Eligibility for this NOFO is not restricted. 
+
+ 
+
+These eligibility requirements apply to both the principal applicant and to any sub-awardee. 
+
+ 
+
+While for-profit firms may participate, pursuant to 2 CFR 200.400(g), it is USAID policy not to 
+
+award profit to prime recipients and subrecipients under assistance instruments. However, while 
+
+profit is not allowed for sub-awards, the prohibition does not apply when the recipient acquires 
+
+goods and services in accordance with 2 CFR 200.317 -326, “Procurement Standards.” Forgone 
+
+profit does not qualify as cost-share. 
+
+ 
+
+Each applicant must be found to be a responsible entity before receiving an award. The Agreement 
+Officer (AO) may determine that a pre-award survey is required in accordance with ADS 303.3.9.1 to 
+determine whether the applicant has the necessary organization, experience, accounting and 
+operational controls, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with established U.S. Government standards, laws, and 
+regulations. Applicants who do not currently meet all USAID requirements for systems and controls 
+may still be eligible under special award considerations and should not be discouraged from applying. 
+
+ 
+
+USAID welcomes applications from organizations that have not previously received financial 
+assistance from USAID. The prime recipient is encouraged to promote involvement of 
+“underutilized” partners and local organizations in the implementation of this activity. 
+
+ 
+
+Faith-based organizations are eligible to apply for federal financial assistance on the same basis as 
+any other organization and are subject to the protections and requirements of Federal law. 
+
+ 
+
+C.2 Cost Sharing or Matching 
+
+ 
+
+USAID has established a mandatory minimum recipient cost share of 10% of the total estimated cost 
+for this award, which is approximately US$8,000,000.00, to be contributed through the life of the 
+activity. Such funds may be provided directly by the recipient; other multilateral, bilateral, and 
+foundation donors; host governments; and local organizations, communities and private businesses 
+that contribute financially and in-kind to implementation of activities at the country level, but not 
+from other USG funding sources. This may include contribution of staff level of effort, office space 
+or other facilities or equipment which may be used for the program, provided by the recipient. For 
+guidance on cost sharing in grants and cooperative agreements please see ADS 303.3.10 and 2 CFR 
+200.306 for U.S. NGOs. For non-US NGOs, all cost sharing would be subject to the Required as 
+Applicable Provision “Cost Sharing” in the Mandatory Reference for ADS Chapter 303 Standard 
+Provisions for Non-U.S. Nongovernmental Organizations. 
+
+ 
+
+C.3 Other 
+
+ 
+
+a) Limitations on Submissions 
+
+ 
+
+Each applicant is limited to one application submission under this NOFO as the prime Applicant. 
+
+
+There is no limitation on being included as a potential sub-awardee across multiple applications. 
+
+The use of exclusive teaming arrangements is discouraged. 
+
+ 
+
+b) Eligibility of Goods and Services for USAID Financing 
+
+ 
+
+● Applicable Rules 
+
+The recipient must comply with USAID’s Rules for Procurement of Commodities and Services 
+
+Financed by USAID in 22 CFR 228 in the procurement and long-term lease (as defined in 22 CFR 
+228.01) of goods and services with USAID funds. These rules govern the source of USAID financed 
+commodities and the nationality of suppliers of USAID-financed commodities and 
+
+services, which must be in a country that is included in the authorized geographic code. These rules 
+apply to the recipient’s procurement contracts (as defined in 2 CFR 200) with vendors and to 
+subcontracts at all tiers under the recipient’s procurement contracts. 
+
+ 
+
+● Sub-Awards 
+
+These rules do not apply to sub-awards (as defined in 2 CFR 200.92) but do apply to the 
+
+procurement and long-term lease of goods and services by sub-recipients (as defined in 2 CFR 
+
+200.93) at all tiers, and to those sub-recipients’ procurement contracts and subcontracts with 
+
+vendors at all tiers. These rules do not apply to procurement or long-term lease of goods and 
+
+services with cost-sharing or program income funds. 
+
+ 
+
+● Restricted Commodities 
+
+“Restricted Commodities” are certain agricultural commodities, motor vehicles (excluding driver 
+
+service), pharmaceuticals, condoms and contraceptives, pesticides, used equipment, and non-local 
+purchase of fertilizer. Special rules apply to restricted commodities and are described in ADS 
+312.3.3. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION C – ELIGIBILITY INFORMATION] 
+
+ 
+
+
+SECTION D: APPLICATION AND SUBMISSION INFORMATION 
+
+ 
+
+D.1 Agency Point of Contact 
+
+ 
+
+Only the Agreement Officer is authorized to make commitments on behalf of USAID. The 
+Agreement Officer is listed below: 
+
+ 
+
+Nathan Olah 
+
+Supervisory Agreement Officer 
+
+USAID/Honduras 
+
+Email: nolah@usaid.gov 
+
+ 
+
+The point of contact for information about this NOFO is: 
+
+ 
+
+ Anne L. Busaka 
+
+ Sr. Acquisition & Assistance Specialist 
+
+ USAID/Honduras 
+
+ Email: abusaka@usaid.gov 
+
+ 
+
+The above contact information is only for informational purposes. The NOFO itself and any 
+subsequent amendments can be found at www.grants.gov. All Applications must be submitted 
+according to instructions contained in this NOFO. 
+
+ 
+
+In order to maintain a fair and transparent funding opportunity, USAID maintains strict guidelines on 
+who within USAID may be contacted regarding applications or questions about the opportunity. 
+Applicants may only contact USAID via the email address provided above in this NOFO. Failure to 
+comply with the USAID points of contact guidance mandated in the NOFO may disqualify the 
+Applicant(s). 
+
+ 
+
+D.2 Questions and Answers 
+
+ 
+
+Questions regarding this NOFO should be submitted in writing via email to oaahonduras@usaid.gov 
+no later than the date and time indicated on the cover letter, as amended. Any information given to a 
+prospective applicant concerning this NOFO will be furnished promptly to all other prospective 
+applicants as an amendment to this NOFO on www.grants.gov , if that information is necessary in 
+submitting applications or if the lack of it would be prejudicial to any other prospective applicant. 
+Please check www.grants.gov for any amendments. 
+
+ 
+
+D.3 General Content and Form of Application 
+
+ 
+
+Preparation of Applications: 
+
+ 
+
+Each applicant must furnish the information required by this NOFO. Applications must be submitted 
+in two separate parts: 
+
+ 
+
+(a) the Technical Application; and 
+
+(b) the Business (Cost) Application. 
+
+
+ 
+
+This subsection addresses general content requirements applying to the full application. Please see 
+subsections 5 and 6, below, for information on the content specific to the Technical and Business 
+(Cost) applications. The Technical application must address technical aspects only while the 
+Business (Cost) Application must present the costs, and address risk and other related issues. 
+
+ 
+
+Both the Technical and Business (Cost) Applications must include a cover page containing the 
+following information: 
+
+● Name of the organization(s) submitting the application; 
+● Identification and signature of the primary contact person (by name, title, organization, 
+mailing address, telephone number and email address) and the identification of the 
+alternate contact person (by name, title, organization, mailing address, telephone 
+number and email address); 
+● Program name 
+● Notice of Funding Opportunity number 
+● Name of any proposed sub-recipients or partnerships (identify if any of the 
+organizations are local organizations, per USAID’s definition of ‘local entity’ under 
+ADS 303. 
+
+
+ 
+
+Any erasures or other changes to the application must be initialed by the person signing the 
+application. Applications signed by an agent on behalf of the applicant must be accompanied by 
+evidence of that agent’s authority, unless that evidence has been previously furnished to the issuing 
+office. 
+
+ 
+
+Applicants may choose to submit a cover letter in addition to the cover pages, but it will serve only as 
+a transmittal letter to the Agreement Officer. The cover letter will not be reviewed as part of the merit 
+review criteria. 
+
+ 
+
+Applications must comply with the following: 
+
+ 
+
+● USAID will not review any pages in excess of the page limits noted in the subsequent 
+sections. Please ensure that applications comply with the page limitations. 
+● Written in English . 
+● Use standard 8 ½” x 11”, single sided, single-spaced, 12 point Times New Roman font, 1” 
+margins, left justification and headers and/or footers on each page including consecutive page 
+numbers, date of submission, and applicant’s name. 
+● 10 point font can be used for graphs and charts. Tables however, must comply with the 12 
+point Times New Roman requirement. 
+● Submitted via Microsoft Word or PDF formats, except budget files which must be submitted 
+in Microsoft Excel. 
+● The estimated start date identified in Section B of this NOFO must be used in the cost 
+application. 
+● The technical application must be a searchable and editable Word or PDF format as 
+appropriate. 
+● The Cost Schedule must include an Excel spreadsheet with all cells unlocked and no hidden 
+formulas or sheets. A PDF version of the Excel spreadsheet may be submitted in addition to the 
+
+
+
+Excel version at the applicant’s discretion, however, the official cost application submission is the 
+unlocked Excel version. 
+
+
+ 
+
+Applicants must review, understand, and comply with all aspects of this NOFO. Failure to do so may 
+be considered as being non-responsive and may be evaluated accordingly. Applicants should retain a 
+copy of the application and all enclosures for their records. 
+
+ 
+
+D.4 Application Submission Procedures 
+
+ 
+
+Applications in response to this NOFO must be submitted no later than the closing date and time 
+indicated on the cover letter, as amended. Late applications will not be reviewed nor considered. 
+Applicants must retain proof of timely delivery in the form of system generated documentation of 
+delivery receipt date and time/confirmation from the receiving office/certified mail receipt. 
+
+ 
+
+Applications must be submitted by email to oaahonduras@usaid.gov. Email submissions must 
+include the NOFO number and applicant’s name in the subject line heading (NOFO No.: 
+72052222RFA00005; Title: Improving Pathways to Education (IPE); name of the Applicant. In 
+addition, for an application sent by multiple emails, the subject line must also indicate whether the 
+email relates to the technical or cost application, and the desired sequence of the emails and their 
+attachments (e.g. "No. 1 of 4", etc.). For example, if your cost application is being sent in two emails, 
+the first email should have a subject line that states: "[NOFO number], [organization name], Cost 
+Application, Part 1 of 2". 
+
+ 
+
+USAID’s preference is that the technical application and the cost application each be submitted as 
+consolidated email attachments, e.g. that you consolidate the various parts of a technical application 
+into a single document before sending it. If this is not possible, please provide instructions on how to 
+collate the attachments. USAID will not be responsible for errors in compiling electronic applications 
+if no instructions are provided or are unclear. 
+
+ 
+
+After submitting an application electronically, applicants should immediately check their own email 
+to confirm that the attachments were indeed sent. If an applicant discovers an error in transmission, 
+please send the material again and note in the subject line of the email or indicate in the file name if 
+submitted via grants.gov that it is a "corrected" submission. Do not send the same email more than 
+once unless there has been a change, and if so, please note that it is a "corrected" email. 
+
+ 
+
+Applicants are reminded that e-mail is NOT instantaneous, and in some cases delays of several hours 
+occur from transmission to receipt. Therefore, applicants are requested to send the application in 
+sufficient time ahead of the deadline. For this NOFO, the initial point of entry to the government 
+infrastructure is the USAID mail server. 
+
+ 
+
+There may be a problem with the receipt of *.zip files due to anti-virus software. Therefore, 
+applicants are discouraged from sending files in this format as USAID/Honduras cannot guarantee 
+their acceptance by the internet server. File size must not exceed 10 MB limit per email. 
+
+ 
+
+Restriction on Disclosure and Use of Data 
+
+ 
+
+a. Applicants that include in their applications data that they do not want disclosed to the public 
+
+for any purpose, or used by the Government except for evaluation purposes shall: 
+
+
+ 
+
+i. Mark the title page with the following legend: “This application includes data that shall 
+
+not be disclosed outside the Government and shall not be duplicated, used, or disclosed - 
+
+in whole or in part - for any purpose other than to evaluate this application. If, however, 
+
+a grant or cooperative agreement is awarded to this Applicant as a result of - or in 
+
+connection with - the submission of this data, the Government shall have the right to 
+
+duplicate, use, or disclose the data to the extent provided in the resulting award. This 
+
+restriction does not limit the Government's right to use information contained in this data 
+
+if it is obtained from another source without restriction. The data subject to this 
+
+restriction are contained in sheets [insert numbers or other identification of sheets]”; and 
+
+ 
+
+ii. Mark each page containing restricted data with the following legend: “Use or disclosure 
+
+of data contained on this sheet is subject to the restriction on the title page of this 
+
+application.” 
+
+ 
+
+b. Applicants are advised that it is anticipated that the successful program narrative, submitted as 
+
+part of the technical application, will become the Program Description of the cooperative 
+
+agreement awarded as a result of this NOFO. Pursuant to the Freedom of Information Act of 
+
+1981, the public is entitled to request information from Agency award files. As a general rule, 
+
+information will be disclosed except: 
+
+ 
+
+i. Information submitted in response to this NOFO, prior to award of the grant, or 
+
+modifications or revisions thereto. 
+
+ 
+
+ii. Information properly classified or administratively controlled by USAID. 
+
+ 
+
+iii. Information specifically exempted from disclosure under the Freedom of Information 
+
+Act. 
+
+ 
+
+c. Upon award of the cooperative agreement resulting from this NOFO, USAID will disclose, use, 
+
+or duplicate any information submitted in response to this NOFO to the extent provided in the 
+
+award, and as required by the Freedom of Information Act. 
+
+ 
+
+Pre-Award Audits/Surveys and Discussions 
+
+ 
+
+USAID reserves the right to perform a pre-award audit/survey which may include but is not limited 
+
+to: (1) interviews with individuals to establish their ability to perform award duties under project 
+
+conditions; (2) a review of the Applicant's financial condition, business and personnel policies and 
+
+procedures, etc.; and (3) site visits to the Applicant's institution. However, it must be understood 
+
+that USAID undertakes no obligation to perform any of the foregoing elements. Accordingly, 
+
+Applicants should submit their best and most complete application initially. 
+
+ 
+
+Authority to Commit USAID 
+
+ 
+
+The Agreement Officer is the only individual who may legally commit USAID to the expenditure 
+
+of public funds. No costs allocable to the proposed award will be reimbursed by USAID before 
+
+receipt of either a fully executed grant or cooperative agreement, or a specific written authorization 
+
+from the Agreement Officer. 
+
+
+ 
+
+D.5 Technical Application Format 
+
+ 
+
+The technical application should be specific, complete, and presented concisely. The application must 
+demonstrate the applicant's capabilities and expertise with respect to achieving the goals of this 
+program. The application should take into account the requirements of the program and merit review 
+criteria found in this NOFO. 
+
+ 
+
+Please note that per ADS 303.3.20, it is USAID policy that English is the official language of all 
+award documents because a translation may not convey the full meaning of the original. Therefore, 
+applications in response to this NOFO must be in English, and in U.S. dollars. 
+
+ 
+
+Applicants must organize the application to follow the technical evaluation criteria specified in 
+Section E. The page length for the application shall not exceed fifteen (25) pages. Within these 
+pages, the executive summary shall not exceed three (3) page. The only annexes to be evaluated are 
+listed hereunder and have page limitation as indicated below. 
+
+ 
+
+(a) Cover Page (See Section D.3 above for requirements) 
+
+
+ 
+
+(b) Table of Contents 
+
+ 
+
+Include major sections and page numbering to easily cross-reference and identify merit review 
+criteria. 
+
+ 
+
+c) Executive Summary (Three (3) pages) 
+
+
+ 
+
+The Executive Summary must provide a high-level overview of key elements of the Technical 
+Application. 
+
+ 
+
+ i) Technical Understanding and Approach 
+
+ ii) Management Approach 
+
+ iii) Institutional Capacity 
+
+ iv) Annexes: (see below) 
+
+ Annex C – Activity Monitoring and Learning Plan (not to exceed 3 pages) 
+
+ Annex D - Activity Work Plan (not to exceed 3 pages) 
+
+ Annex E - Rapid Start-Up Plan (not to exceed 3 pages) 
+
+ Annex F - Sustainability and Local Engagement Plan (not to exceed 2 pages) 
+
+ Annex G - Past Performance Narrative (not to exceed 3 pages) 
+
+ 
+
+d) Content of the Technical Application 
+
+ 
+
+Technical applications should include the sections and content below and should be directed at the 
+
+program as described in Section A. Funding Opportunity Description. The technical application will 
+
+be the critical item of consideration in selection of an Applicant for an award. The information 
+
+provided in the technical application must be specific, complete, and presented concisely. The 
+
+technical application must demonstrate the Applicant's capabilities and expertise with respect to 
+
+achieving the goals of this program and specify the specific results to be achieved. The merit review 
+
+criteria set forth in Section E. Application Review Information of this NOFO indicate the relative 
+
+
+importance of each criterion so that Applicants will know which areas require emphasis in the 
+
+preparation of the technical application. Applicants are advised that lack of completeness or 
+
+superficiality of the application may constitute grounds for excluding it from consideration. 
+
+ 
+
+It is anticipated that a portion of the successful application will become the Program Description for 
+
+the award resulting from this NOFO. Thus, applications submitted in response to this NOFO 
+
+should, in addition to being responsive to the requirements described herein, be written in the active 
+
+voice and in results-oriented terms in order to address what is proposed to be done; why it is 
+
+proposed to be done, how it is proposed to be done, who will do it, where it will be done, when it 
+
+will be done, and the anticipated results and impact. 
+
+ 
+
+The Technical Application includes the information set forth below: 
+
+ 
+
+1) Technical Understanding and Approach (See Section E.2.1) 
+
+ 
+
+Technical understanding and approach will be the most important factor for consideration in 
+
+selection for award of the proposed Cooperative Agreement. The technical understanding and 
+
+approach should be specific, complete and presented concisely. The application should demonstrate 
+the Applicant's capabilities and expertise with respect to achieving the goals of this activity. The 
+
+application should take into account the requirements of the activity and evaluation criteria found in 
+
+the RFA/NOFO. 
+
+ 
+
+The Applicant in the technical understanding and approach narrative should present an overall 
+
+strategic approach, with proposed activity components, and specific interventions, that will 
+
+effectively and efficiently contribute to achieving the activity goal, expected results, and outcomes. 
+
+The Recipient will serve as the technical lead, working with both public and private sectors, to 
+
+accelerate and sustain improvements in basic education in Honduras. The technical approach will 
+
+describe in sufficient detail the conceptual methodology and techniques for the implementation of a 
+
+dynamic, innovative, and results oriented IPE activity. The expected results and outcome of the 
+
+proposed technical approach is to dramatically improve education outcomes for children and youth 
+
+in Honduras by ways of improving the equity and quality of basic education services and 
+
+strengthening the Ministry of Education and key stakeholder capacity to act as a stewards for 
+
+improving quality of basic education services, particularly in those areas with high outmigration. 
+
+ 
+
+Applicants should present a comprehensive plan to achieve specific, measurable, and sustainable 
+
+results through technically sound and cutting-edge approaches which align with the Program 
+Description’s expected results and outcomes. This plan is expected to include innovative solutions to 
+address the major education and youth challenges confronting Honduras, with an emphasis on 
+strengthening Honduran systems. 
+
+ 
+
+As part of the Applicant’s narrative, the Applicant is expected to clearly articulate the project’s 
+
+technical approach, indicating how it will address Honduras’ core educational challenges from a 
+
+systems perspective, including identifying core systems-level changes that are expected and how the 
+
+project would seek to bring about those changes. The plan should indicate how the private sector 
+
+and other stakeholders would be engaged to advance educational outcomes. The application should 
+
+also demonstrate the Applicant’s understanding of Honduras current children and education context 
+
+and landscape, including both challenges and opportunities. The contextual analysis should also 
+
+reflect a strong understanding of the impact of COVID-19 on education, the migration context and 
+
+
+the security environment. In addition to demonstrating this contextual understanding, the application 
+
+should also indicate how the project will address these factors. 
+
+ 
+
+Additionally, Applicants should highlight how their proposed plans address the following: 1) gender 
+
+and social inclusion; 2) Elevation of youth voice and engagement, with an emphasis on strategically 
+
+engaging with youth throughout the project cycle to address educational challenges; 3) 
+
+Demonstrating realistic innovative models that can be institutionalized based on results; and 3) 
+
+adaptive collaborative learning; 4) country ownership. And finally, the Applicant’s approach should 
+
+demonstrate how they will partner with existing USAID/Honduras activities in order to create 
+
+synergies, maximize resources, and promote a holistic approach to improving basic education 
+
+outcomes and results. 
+
+ 
+
+In support of the above narrative, the Applicant must include the following as Annexes, which are 
+
+included within the Evaluation Criteria. The Work Plan should include a clearly defined and 
+
+comprehensive Gantt chart that outlines milestones and demonstrates linkages across different 
+
+activities. The Monitoring and Evaluation Plan should incorporate systems-related indicators and 
+
+clearly reflect a plan for incorporating Collaborating, Learning and Adapting (CLA) approaches into 
+
+the project. 
+
+ 
+
+● Annex C- Activity Monitoring and Learning Plan ( not to exceed 3 pages) 
+
+● Annex D- Activity Work Plan (not to exceed 3 pages) 
+
+CR 
+
+2) Management Approach (See Section E.2.2) 
+
+ 
+
+The Management Approach will be the second most important factor for consideration in 
+
+selection for award of the proposed Cooperative Agreement. This Approach should include both 
+
+a management and staffing plan and a rapid start-up plan. 
+
+ 
+
+The applicants must propose a Management Approach of how they will implement the proposed 
+
+Technical Approach. Specifically, applicants must provide the following: 
+
+ 
+
+(i) The Management and Staffing Plan should propose a core management and staffing structure 
+
+for the Activity. The core management and staffing structure should possess the technical competence 
+and strategic management skills to manage the project, and supplement that team as needed with 
+
+technical specialists. The staffing structure should describe how the proposed combination of 
+
+management, long-term staff, and short-term technical assistance will collectively possess the 
+
+requisite technical and management expertise, skills and capabilities to effectively implement 
+
+the proposed Technical Approach. Additionally, applicants may propose requisite consortia, 
+
+partnerships, and/or sub-partnering arrangements and other relationships necessary to implement the 
+
+Technical Approach. If so, Applicants should explain how they will manage the proposed 
+
+arrangement to foster a single unified identity under the Activity. 
+
+ 
+
+Other key considerations include the following: maximizing use of local staff (with additional 
+
+considerations of gender balance); integrating capacity building of relevant local stakeholders 
+
+into activity implementation; integrating gender equality and inclusive development throughout 
+
+activity implementation; and measures to ensure collaborative learning and adaptive 
+
+management are fully integrated throughout activity implementation. 
+
+ 
+
+
+(ii) An Organizational Chart displaying the Activity’s organizational structure and office(s) 
+
+with lines of authority, and general descriptions for all home office and field employees. It will 
+
+be used as a reference for the Management and Staffing Plan. It will be an Annex to the 
+
+Technical Application and is not included in the page limitation. 
+
+ 
+
+(iii) A Table of Management Positions with Qualifications displaying minimum (required) 
+
+and preferred qualifications/attributes to determine qualified candidates for the core 
+
+management positions proposed in the Management and Staffing Plan. This table may include 
+
+strategic and technical positions that are critical to implementing the proposed Technical 
+
+Approach. It will be an Annex to the Technical Application and is not included in the page 
+
+limitation. 
+
+ 
+
+Applicants MUST NOT submit names, CVs, or other information on candidates (actual or 
+illustrative) for the proposed key personnel positions in the Technical Application. Applicants can 
+propose up to four (4) key personnel positions. Subject to approval by USAID, the qualifications for 
+the selected key personnel positions will be included in the resulting award. After award, the 
+Awardee will propose qualified candidates for key personnel positions no later than 30 days after 
+award, subject to the review and approval of the Agreement Officer’s Representative and the 
+Agreement Officer. At that time, the Awardee will provide a Statement of Qualifications (SOQ) for 
+all proposed key personnel describing how the candidate meets or exceeds the qualifications of the 
+proposed position. SOQs include items normally associated with CVs or resumes, including but not 
+limited to information such as work experience, references, language capability, and progressive 
+levels of responsibilities. 
+
+ 
+
+In terms of the Rapid Start Up Plan, the Applicant must describe a proposed rapid start-up plan to 
+
+support a rapid, effective and efficient start-up of the proposed activity. Refer to Instructions under 
+
+Criterion 2. 
+
+ 
+
+In support of the above narrative, the Applicant must include the following as Annex: 
+
+ 
+
+Annex E - Rapid Start-Up Plan (not to exceed 3 pages) 
+
+ 
+
+3) Institutional Capacity (See Section E.2.3) 
+
+ 
+
+The extent to which the Applicant demonstrates effective engagement with local organizations and 
+
+institutions as well as strong organizational capacity and management expertise for implementing 
+IPE’s objectives. 
+
+ 
+
+This includes, but is not limited to: 
+
+ 
+
+● Explanation of the Applicant’s plan for engagement with local civil society and other 
+
+stakeholders in the context of the IPE activity, and their plan for helping to increase local civil 
+
+society’s voice in the project and in achieving the project’s objectives (Special consideration 
+will be given to applications that focused on increasing meaningful youth engagement in the 
+IPE 
+
+activity and in education decision-making) 
+
+ 
+
+
+a) Cover Page (See Section D.3 above for requirements) 
+b) SF 424 Form(s) 
+
+
+
+
+
+
+
+
+● Explanation of how Applicant will substantively involve and build capacity of local 
+partners to advance Honduras’ journey to self-reliance. 
+
+ 
+
+● Applicant’s previous experience in working with local organizations and stakeholders on 
+projects of similar scope and objectives of the IPE activity. 
+
+ 
+
+● Applicant’s previous experience successfully implementing projects with a similar scope 
+and objectives of the IPE activity. 
+
+ 
+
+In support of the above points, the Applicant must include the following Annexes: 
+
+ 
+
+Annex F - Sustainability and Local Engagement Plan (not to exceed 2 pages) 
+
+Annex G- Past Performance Narrative (not to exceed 3 pages) 
+
+ 
+
+The Application must include a Sustainability and Local Engagement Plan that outlines how the 
+
+Applicant will substantially involve and build the capacity of local partners, including youth, to 
+
+contribute to IPE’s goals and objectives. The Application must also include a brief narrative outlining 
+
+the Applicant’s previous experience in successfully implementing projects with similar scope and 
+
+objectives of the IPE activity. The latter should include the names and contact information of the 
+persons responsible for overseeing the projects (i.e., the agreements officer’s representatives). 
+
+ 
+
+D.6 Business (Cost) Application Format 
+
+ 
+
+The Business (Cost) Application must be submitted separately from the Technical Application. 
+While no page limit exists for the full cost application, applicants are encouraged to be as concise as 
+possible while still providing the necessary details. The business (cost) application must illustrate the 
+entire period of performance, using the budget format shown in the SF-424A. 
+
+ 
+
+Budget summaries must show US Dollars (USD) 
+
+ 
+
+Prior to award, applicants may be required to submit additional documentation deemed necessary for 
+the Agreement Officer to assess the applicant’s risk in accordance with 2 CFR 200.206. Applicants 
+should not submit any additional information with their initial application. 
+
+ 
+
+The Cost Application must contain the following sections (which are further elaborated below this 
+listing with the letters for each requirement): 
+
+ 
+
+ 
+
+ 
+
+The applicant must sign and submit the cost application using the SF-424 series. Standard Forms can 
+be accessed electronically at www.grants.gov or using the following links: 
+
+ 
+
+ 
+
+
+c) Required Certifications and Assurances 
+
+
+
+
+
+
+
+
+
+
+
+Instructions for SF-
+424 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424-
+instructions.html 
+
+Application for 
+Federal Assistance 
+(SF-424) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424A 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424a-
+instructions.html 
+
+Budget Information 
+(SF-424A) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+Instructions for SF-
+424B 
+
+http://www.grants.gov/web/grants/form-instructions/sf-424b-
+instructions.html 
+
+Assurances (SF-424B) 
+
+https://www.grants.gov/web/grants/forms/sf-424-family.html 
+
+
+
+ 
+
+Failure to accurately complete these forms could result in the rejection of the application. 
+
+ 
+
+ 
+
+The applicant must complete the following documents and submit a signed copy with their 
+application: 
+
+ 
+
+(1) “Certifications, Assurances, Representations, and Other Statements of the Recipient” 
+ADS 303mav document found at 
+http://www.usaid.gov/sites/default/files/documents/1868/303mav.pdf 
+(2) Assurances for Non-Construction Programs (SF-424B) 
+(3) Certificate of Compliance: Please submit a copy of your Certificate of Compliance if your 
+organization's systems have been certified by USAID/Washington's Office of Acquisition 
+and Assistance (M/OAA). 
+d) Budget and Budget Narrative 
+
+
+
+
+
+ 
+
+ 
+
+The Budget must be submitted as one unprotected Excel file (MS Office 2000 or later versions) with 
+visible formulas and references and must be broken out by project year, including itemization of the 
+federal and non-federal (cost share) amount. Files must not contain any hidden or otherwise 
+inaccessible cells. Budgets with hidden cells lengthen the cost analysis time required to make award, 
+and may result in a rejection of the cost application. The Budget Narrative must contain sufficient 
+detail to allow USAID to understand the proposed costs. The applicant must ensure the budgeted 
+costs address any additional requirements identified in Section F, such as Branding and Marking. The 
+Budget Narrative must be thorough, including sources for costs to support USAID’s determination 
+that the proposed costs are fair and reasonable. 
+
+ 
+
+ 
+
+
+The Budget must include the following worksheets or tabs, and contents, at a minimum: 
+
+ 
+
+● Summary Budget, inclusive of all program costs (federal and non-federal), broken out by 
+major budget category and by year for activities implemented by the applicant and any 
+potential sub-applicants for the entire period of the program. See Section H, Annex 1 for 
+Summary Budget Template 
+● Detailed Budget, including a breakdown by year, sufficient to allow the Agency to determine 
+that the costs represent a realistic and efficient use of funding to implement the applicant’s 
+program and are allowable in accordance with the cost principles found in 2 CFR 200 Subpart 
+E. 
+● Detailed Budgets for each sub-recipient, for all federal funding and cost share, broken out by 
+budget category and by year, for the entire implementation period of the project. 
+
+
+ 
+
+The Detailed Budget must contain the following budget categories and information, at a minimum: 
+
+ 
+
+1) Salaries and Allowances – Must be proposed consistent with 2 CFR 200.430 Compensation - 
+Personal Services. The applicant’s budget must include position title, salary rate, level of effort, 
+and salary escalation factors for each position. Allowances, when proposed, must be broken 
+down by specific type and by position. Applicants must explain all assumptions in the Budget 
+Narrative. The Budget Narrative must demonstrate that the proposed compensation is reasonable 
+for the services rendered and consistent with what is paid for similar work in other activities of 
+the applicant. Applicants must provide their established written policies on personnel 
+compensation. If the applicant’s written policies do not address a specific element of 
+compensation that is being proposed, the Budget Narrative must describe the rationale used and 
+supporting market research. 
+
+
+ 
+
+2) Fringe Benefits – (if applicable) If the applicant has a fringe benefit rate approved by an agency 
+of the U.S. Government, the applicant must use such rate and provide evidence of its approval. If 
+an applicant does not have a fringe benefit rate approved, the applicant must propose a rate and 
+explain how the applicant determined the rate. In this case, the Budget Narrative must include a 
+detailed breakdown comprised of all items of fringe benefits (e.g., superannuation, gratuity, etc.) 
+and the costs of each, expressed in U.S. dollars and as a percentage of salaries. 
+
+
+ 
+
+3) Travel and Transportation – Provide details to explain the purpose of the trips, the number of 
+trips, the origin and destination, the number of individuals traveling, and the duration of the trips. 
+Per Diem and associated travel costs must be based on the applicant’s normal travel policies. 
+When appropriate please provide supporting documentation as an attachment, such as company 
+travel policy, and explain assumptions in the Budget Narrative. 
+
+
+ 
+
+4) Procurement or Rental of Goods (Equipment & Supplies), Services, and Real Property – Must 
+include information on estimated types of equipment, models, supplies and the cost per unit and 
+quantity. The Budget Narrative must include the purpose of the equipment and supplies and the 
+basis for the estimates. The Budget Narrative must support the necessity of any rental costs and 
+reasonableness in light of such factors as: rental costs of comparable property, if any; market 
+conditions in the area; alternatives available; and the type, life expectancy, condition, and value of 
+the property leased. 
+
+
+ 
+
+
+5) Subawards – Specify the budget for the portion of the program to be passed through to any 
+subrecipients. See 2 CFR 200 for assistance in determining whether the sub-tier entity is a 
+subrecipient or contractor. The subrecipient budgets must align with the same requirements as 
+the applicant’s budget, including those related to fringe and indirect costs. 
+
+
+ 
+
+6) Construction – Construction will not be authorized under this award. 
+
+
+ 
+
+7) Other Direct Costs – This may include other costs not elsewhere specified, such as report 
+preparation costs, passports and visas fees, medical exams and inoculations, as well as any other 
+miscellaneous costs which directly benefit the program proposed by the applicant. The applicant 
+should indicate the subject, venue and duration of any proposed conferences and seminars, and 
+their relationship to the objectives of the program, along with estimates of costs. Otherwise, the 
+narrative should be minimal. 
+
+
+ 
+
+8) Indirect Costs – Applicants must indicate whether they are proposing indirect costs or will charge 
+all costs directly. In order to better understand indirect costs please see Subpart E of 2 CFR 200. 
+The application must identify which approach they are requesting and provide the applicable 
+supporting information. Below are the most commonly used Indirect Cost Rate methods: 
+
+ 
+
+ 
+
+Method 
+
+ 
+
+Eligibility 
+
+Initial application 
+requirements 
+
+Direct 
+Charge 
+Only 
+
+ 
+
+Any 
+applicant 
+
+See above on direct costs 
+
+Existing 
+Negotiated 
+Indirect 
+Cost Rate 
+Agreement 
+(NICRA) 
+
+ 
+
+Any 
+applicant 
+with an 
+approved 
+NICRA 
+
+Submit your approved NICRA and the associated 
+disclosed practices. 
+
+De minimis 
+rate of 10% 
+of Modified 
+Total Direct 
+Costs 
+(MTDC) 
+
+ 
+
+Any 
+applicant 
+that does 
+not have a 
+current 
+NICRA 
+
+Costs must be consistently charged as either indirect or 
+direct costs but may not be double charged or 
+inconsistently charged as both. If chosen, this 
+methodology once elected must be used consistently for 
+all Federal awards until such time as a non-Federal 
+entity chooses to negotiate for a rate, which the non-
+Federal entity may apply to do at any time. The 
+applicant must describe which cost elements it charges 
+
+indirectly vs. directly. 
+
+Indirect 
+Costs 
+Charged As 
+A Fixed 
+Amount 
+
+ 
+
+Certain U.S. 
+educational 
+institutions 
+& non-U.S. 
+non- profit 
+
+Provide the proposed fixed amount and a worksheet that 
+includes the following (For Education institutions, see 2 
+CFR 200 App III): 
+
+● Total costs incurred by the organization for previous 
+fiscal year and estimates for the current year 
+
+
+
+
+
+ 
+
+ 
+
+organizations 
+may request, 
+
+● Indirect costs (common costs that benefit the day-to-day 
+operations of the organization, including categories such 
+
+
+but approval is 
+
+as salaries and expenses of executive officers, personnel 
+
+at the 
+
+administration, and accounting, or that benefit and are 
+
+discretion of 
+
+identifiable to more than one program or activity(ies), 
+
+the AO 
+
+such as depreciation, rental costs, operations and 
+
+ 
+
+maintenance of facilities, and telephone expenses) for the 
+
+ 
+
+previous fiscal year and estimates for the current year 
+
+ 
+
+● Proposed method for prorating the indirect costs equitably 
+
+
+and consistently across all programs and activities of using 
+
+ 
+
+a base that measures the benefits of that particular cost to 
+
+ 
+
+each program or activity(ies) to which the cost applies. 
+
+No current 
+
+Any applicant 
+
+A NICRA may be negotiated after award at the discretion of 
+
+NICRA, but 
+
+may request 
+
+the Agency. Provisional rates may be set forth in the award 
+
+applicant has 
+
+but approval is 
+
+subject to audit and finalization. The applicant must identify 
+
+an indirect 
+
+at the 
+
+the indirect cost rate and base it is proposing. See USAID’s 
+
+rate other than 
+
+discretion of 
+
+Indirect Cost Rate Guide for Non Profit Organizations for 
+
+the de 
+
+the Agency 
+
+further guidance. 
+
+minimis 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+If the applicant does not have an approved NICRA and does not elect to utilize the 10% de 
+minimis rate, the Agreement Officer will provide further instructions and may request additional 
+supporting information, including financial statements and audits, should the application still be 
+under consideration after the merit review. USAID is under no obligation to approve the 
+applicant’s requested method. 
+
+ 
+
+9) Cost Sharing – The applicant should estimate the amount of cost-sharing resources to be 
+provided over the life of the agreement and specify the sources of such resources, and the 
+basis of calculation in the budget narrative. Applicants should also provide a breakdown of 
+the cost share (financial and in-kind contributions) of all organizations involved in 
+implementing the resulting award. 
+e) Prior Approvals in accordance with 2 CFR 200.407 
+
+
+
+
+
+ 
+
+ 
+
+Inclusion of an item of cost in the detailed application budget does not satisfy any requirements 
+for prior approval by the Agency. If the applicant would like the award to reflect approval of 
+any cost elements for which prior written approval is specifically required for allowability, the 
+applicant must specify and justify that cost. See 2 CFR 200.407 for information regarding which 
+cost elements require prior written approval. 
+
+ 
+
+e) Approval of Subawards 
+
+ 
+
+The applicant must submit information for all subawards that it wishes to have approved at the 
+time of award. For each proposed subaward the applicant must provide the following: 
+
+ 
+
+
+● Name of organization 
+● DUNS Number 
+● Confirmation that the subrecipient does not appear on the Treasury Department’s Office 
+of Foreign Assets Control (OFAC) list 
+● Confirmation that the subrecipient does not have active exclusions in the System for 
+Award Management (SAM) 
+● Confirmation that the subrecipient is not listed in the United Nations Security designation 
+list 
+● Confirmation that the subrecipient is not suspended or debarred 
+● Confirmation that the applicant has completed a risk assessment of the subrecipient, in 
+accordance with 2 CFR 200.332(b) 
+● Any negative findings as a result of the risk assessment and the applicant’s plan for 
+mitigation. 
+f) Dun and Bradstreet and SAM Requirements 
+
+
+
+
+
+ 
+
+ 
+
+USAID may not award to an applicant unless the applicant has complied with all applicable 
+unique entity identifier (DUNS number) and System for Award Management (SAM) 
+requirements. Each applicant (unless the applicant is an individual or Federal awarding agency 
+that is exempted from requirements under 2 CFR 25.110(b) or (c), or has an exception approved 
+by the Federal awarding agency under 2 CFR 25.110(d)) is required to: 
+
+ 
+
+1. Provide a valid DUNS number for the applicant and all proposed sub-recipients; 
+2. Be registered in SAM before submitting its application. SAM is streamlining processes, 
+eliminating the need to enter the same data multiple times, and consolidating hosting to 
+make the process of doing business with the government more efficient 
+(www.beta.sam.gov). 
+3. Continue to maintain an active SAM registration with current information at all times 
+during which it has an active Federal award or an application or plan under consideration 
+by a Federal awarding agency. 
+
+
+ 
+
+The registration process may take many weeks to complete. Therefore, applicants are 
+encouraged to begin the process early. If an applicant has not fully complied with the 
+requirements above by the time USAID is ready to make an award, USAID may determine that 
+the applicant is not qualified to receive an award and use that determination as a basis for making 
+an award to another applicant. 
+
+ 
+
+DUNS number: http://fedgov.dnb.com/webform 
+
+SAM registration: http://www.beta.sam.gov 
+
+ 
+
+Non-U.S. applicants can find additional resources for registering in SAM, including a Quick 
+Start Guide and a video on how to obtain an NCAGE code, on www.beta.sam.gov, navigate to 
+Help, then to International Registrants. 
+
+ 
+
+ 
+
+ 
+
+
+g) History of Performance 
+h) Branding Strategy & Marking Plan 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+The applicant must provide information regarding its recent history of performance for all its 
+cost-reimbursement contracts, grants, or cooperative agreements involving similar or related 
+programs, not to exceed three (3) years as follows: 
+
+ 
+
+• Name of the Awarding Organization; 
+
+• Award Number; 
+
+• Activity Title; 
+
+• A brief description of the activity; 
+
+• Period of Performance; 
+
+• Award Amount; 
+
+• Reports and findings from any audits performed in the last three (3) years; and 
+
+• Name of at least two (2) updated professional contacts who most directly observed the work at 
+the organization for which the service was performed with complete current contact information 
+including telephone number, and e-mail address for each proposed individual. 
+
+ 
+
+If the applicant encountered problems on any of the referenced Awards, it may provide a short 
+explanation and the corrective action taken. The applicant should not provide general 
+information on its performance. USAID reserves the right to obtain relevant information 
+concerning an applicant’s history of performance from any sources and may consider such 
+information in its review of the applicant’s risk. The Agency may request additional information 
+and conduct a pre-award survey if it determines that it is necessary to inform the risk assessment. 
+
+ 
+
+ 
+
+The apparently successful applicant will be asked to provide a Branding Strategy and Marking 
+Plan to be evaluated and approved by the Agreement Officer and incorporated into any resulting 
+award. The Marking Plan may include a request for approval of one or more exceptions to the 
+marking requirements in 2 CFR 700.16. 
+
+ 
+
+Branding Strategy – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a "Branding 
+
+Strategy," describing how the program, project, or activity is named and positioned, and how it 
+
+is promoted and communicated to beneficiaries and host country citizens. 
+
+ 
+
+b. The request for a Branding Strategy, by the Agreement Officer from the applicant, confers no 
+
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+c. Failure to submit and negotiate a Branding Strategy within the time frame specified by the 
+
+Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget 
+
+
+portion of the application. These costs are subject to the revision and negotiation with the 
+
+Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+
+cooperative agreement or other assistance instrument. 
+
+ 
+
+e. The Branding Strategy must include, at a minimum, all of the following: 
+
+ 
+
+(1) All estimated costs associated with branding and marking USAID programs, such as 
+
+plaques, stickers, banners, press events, materials, and so forth. 
+
+ 
+
+(2) The intended name of the program, project, or activity. 
+
+ 
+
+(i) USAID requires the applicant to use the “USAID Identity,” comprised of the 
+
+USAID logo and brandmark, with the tagline “from the American people” as found 
+
+on the USAID Web site at http://www.usaid.gov/branding, unless Section VI of 
+
+the RFA or APS states that the USAID Administrator has approved the use of an 
+
+additional or substitute logo, seal, or tagline. 
+
+ 
+
+(ii) USAID prefers local language translations of the phrase “made possible by (or 
+
+with) the generous support of the American People” next to the USAID Identity 
+
+when acknowledging contributions. 
+
+ 
+
+(iii) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+
+identity. 
+
+ 
+
+(iv) If branding in the above manner is inappropriate or not possible, the applicant must 
+
+explain how USAID's involvement will be showcased during publicity for the 
+
+program or project. 
+
+ 
+
+(v) USAID prefers to fund projects that do not have a separate logo or identity that 
+
+competes with the USAID Identity. If there is a plan to develop a separate logo to 
+
+consistently identify this program, the applicant must attach a copy of the proposed 
+
+logos. Section VI of the RFA or APS will state if an Administrator approved the use 
+
+of an additional or substitute logo, seal, or tagline. 
+
+ 
+
+(3) The intended primary and secondary audiences for this project or program, including 
+
+direct beneficiaries and any special target segments. 
+
+ 
+
+(4) Planned communication or program materials used to explain or market the program to 
+
+beneficiaries. 
+
+ 
+
+(i) Describe the main program message. 
+
+ 
+
+(ii) Provide plans for training materials, posters, pamphlets, public service 
+
+announcement, billboards, Web sites, and so forth, as appropriate. 
+
+ 
+
+(iii) Provide any plans to announce and promote publicly this program or project to host 
+
+
+country citizens, such as media releases, press conferences, public events, and so 
+
+forth. Applicant must incorporate the USAID Identity and the message, “USAID is 
+
+from the American People.” 
+
+ 
+
+(iv) Provide any additional ideas to increase awareness that the American people support 
+
+this project or program. 
+
+ 
+
+(5) Information on any direct involvement from host-country government or ministry, 
+
+including any planned acknowledgement of the host-country government. 
+
+ 
+
+(6) Any other groups whose logo or identity the applicant will use on program materials and 
+
+related materials. Indicate if they are a donor or why they will be visibly acknowledged, 
+
+and if they will receive the same prominence as USAID. 
+
+ 
+
+f. The Agreement Officer will review the Branding Strategy to ensure the above information is 
+
+adequately included and consistent with the stated objectives of the award, the applicant's cost 
+
+data submissions, and the performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Branding Strategy will be included in and 
+
+made part of the resulting grant or cooperative agreement. 
+
+ 
+
+Marking Plan – Assistance (June 2012) 
+
+ 
+
+a. Applicants recommended for an assistance award must submit and negotiate a “Marking 
+Plan,” detailing the public communications, commodities, and program materials, and other 
+items that will visibly bear the “USAID Identity,” which comprises of the USAID logo and 
+brandmark, with the tagline “from the American people.” The USAID Identity is the official 
+marking for the Agency, and is found on the USAID Web site at http://www.usaid.gov/branding. 
+Section VI of the RFA or APS will state if an Administrator approved the use of an additional or 
+substitute logo, seal, or tagline. 
+
+ 
+
+b. The request for a Marking Plan, by the Agreement Officer from the applicant, confers no 
+rights to the applicant and constitutes no USAID commitment to an award. 
+
+ 
+
+c. Failure to submit and negotiate a Marking Plan within the time frame specified by the 
+
+Agreement Officer will make the applicant ineligible for an award. 
+
+ 
+
+d. The applicant must include all estimated costs associated with branding and marking USAID 
+
+programs, such as plaques, stickers, banners, press events, materials, and so forth, in the budget 
+
+portion of the application. These costs are subject to the revision and negotiation with the 
+
+Agreement Officer and will be incorporated into the Total Estimated Amount of the grant, 
+
+cooperative agreement or other assistance instrument. 
+
+ 
+
+e. The Marking Plan must include all of the following: 
+
+ 
+
+(1) A description of the public communications, commodities, and program materials that 
+
+
+the applicant plans to produce and which will bear the USAID Identity as part of the 
+
+award, including: 
+
+ 
+
+(i) Program, project, or activity sites funded by USAID, including visible infrastructure 
+
+projects or other sites physical in nature; 
+
+ 
+
+(ii) Technical assistance, studies, reports, papers, publications, audio- visual productions, 
+
+public service announcements, Web sites/Internet activities, promotional, 
+
+informational, media, or communications products funded by USAID; 
+
+ 
+
+(iii) Commodities, equipment, supplies, and other materials funded by USAID, including 
+
+commodities or equipment provided under humanitarian assistance or disaster relief 
+
+programs; and 
+
+ 
+
+(iv) It is acceptable to cobrand the title with the USAID Identity and the applicant's 
+
+identity. 
+
+ 
+
+(v) Events financed by USAID, such as training courses, conferences, seminars, 
+
+exhibitions, fairs, workshops, press conferences and other public activities. If the 
+
+USAID Identity cannot be displayed, the recipient is encouraged to otherwise 
+
+acknowledge USAID and the support of the American people. 
+
+ 
+
+(2) A table on the program deliverables with the following details: 
+
+ 
+
+(i) The program deliverables that the applicant plans to mark with the USAID Identity; 
+
+ 
+
+(ii) The type of marking and what materials the applicant will use to mark the program 
+
+deliverables; 
+
+ 
+
+(iii) When in the performance period the applicant will mark the program deliverables, 
+
+and where the applicant will place the marking; 
+
+ 
+
+(iv) What program deliverables the applicant does not plan to mark with the USAID 
+
+Identity, and 
+
+ 
+
+(v) The rationale for not marking program deliverables. 
+
+ 
+
+(3) Any requests for an exemption from USAID marking requirements, and an explanation 
+
+of why the exemption would apply. The applicant may request an exemption if USAID 
+
+marking requirements would: 
+
+ 
+
+(i) Compromise the intrinsic independence or neutrality of a program or materials where 
+
+independence or neutrality is an inherent aspect of the program and materials. The 
+
+applicant must identify the USAID Development Objective, Interim Result, or 
+
+program goal furthered by an appearance of neutrality, or state why an aspect of the 
+
+award is presumptively neutral. Identify by category or deliverable item, examples of 
+
+
+i) Funding Restrictions 
+
+
+
+
+
+
+
+
+
+
+
+material for which an exemption is sought. 
+
+ 
+
+(ii) Diminish the credibility of audits, reports, analyses, studies, or policy 
+
+recommendations whose data or findings must be seen as independent. The applicant 
+
+must explain why each particular deliverable must be seen as credible. 
+
+ 
+
+(iii) Undercut host-country government “ownership” of constitutions, laws, regulations, 
+
+policies, studies, assessments, reports, publications, surveys or audits, public service 
+
+announcements, or other communications. The applicant must explain why each 
+
+particular item or product is better positioned as host-country government item or 
+
+product. 
+
+ 
+
+(iv) Impair the functionality of an item. The applicant must explain how marking the item 
+
+or commodity would impair its functionality. 
+
+ 
+
+(v) Incur substantial costs or be impractical. The applicant must explain why marking 
+
+would not be cost beneficial or practical. 
+
+ 
+
+(vi) Offend local cultural or social norms, or be considered inappropriate. The applicant 
+
+must identify the relevant norm, and explain why marking would violate that norm 
+
+or otherwise be inappropriate. 
+
+ 
+
+(vii) Conflict with international law. The applicant must identify the applicable 
+
+international law violated by the marking. 
+
+ 
+
+f. The Agreement Officer will consider the Marking Plan's adequacy and reasonableness and will 
+
+approve or disapprove any exemption requests. The Marking Plan will be reviewed to ensure 
+
+the above information is adequately included and consistent with the stated objectives of the 
+
+award, the applicant's cost data submissions, and the performance plan. 
+
+ 
+
+g. If the applicant receives an assistance award, the Marking Plan, including any approved 
+
+exemptions, will be included in and made part of the resulting grant or cooperative agreement, 
+and will apply for the term of the award unless provided otherwise. 
+
+ 
+
+[END OF PRE-AWARD TERMS] 
+
+ 
+
+ 
+
+Profit is not allowable for recipients or subrecipients under this award. See 2 CFR 200.331 for 
+assistance in determining whether a sub-tier entity is a subrecipient or contractor. 
+
+ 
+
+Construction will not be authorized under this award. 
+
+ 
+
+USAID will not allow the reimbursement of pre-award costs under this award without the 
+explicit written approval of the Agreement Officer. 
+
+ 
+
+
+j) Conflict of Interest Pre-Award Term 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Except as may be specifically approved in advance by the AO, all commodities and services that 
+will be reimbursed by USAID under this award must be from the authorized geographic code 
+specified in Section B.4 of this NOFO and must meet the source and nationality requirements set 
+forth in 22 CFR 228. 
+
+ 
+
+ 
+
+a. Personal Conflict of Interest 
+
+ 
+
+1. An actual or appearance of a conflict of interest exists when an applicant organization or an 
+
+employee of the organization has a relationship with an Agency official involved in the 
+
+competitive award decision-making process that could affect that Agency official’s 
+
+impartiality. The term “conflict of interest” includes situations in which financial or other 
+
+personal considerations may compromise, or have the appearance of compromising, the 
+
+obligations and duties of a USAID employee or recipient employee. 
+
+ 
+
+2. The applicant must provide conflict of interest disclosures when it submits the applications. 
+
+Should the applicant discover a previously undisclosed conflict of interest after submitting 
+
+the application, the applicant must disclose the conflict of interest to the AO no later than 
+
+ten (10) calendar days following discovery. 
+
+ 
+
+b. Organizational Conflict of Interest 
+
+ 
+
+The applicant must notify USAID of any actual or potential conflict of interest that they are 
+
+aware of that may provide the applicant with an unfair competitive advantage in competing for 
+
+this financial assistance award. Examples of an unfair competitive advantage include but are not 
+
+limited to situations in which an applicant or the applicant’s employee gained access to 
+nonpublic information regarding a federal assistance funding opportunity, or an applicant or 
+
+applicant’s employee was substantially involved in the preparation of a federal assistance 
+
+funding opportunity. USAID will promptly take appropriate action upon receiving any such 
+
+notification from the applicant. 
+
+ 
+
+[END OF PRE-AWARD TERMS] 
+
+ 
+
+D.7 Pre-Award Responsibility Determination and Risk Assessment 
+
+ 
+
+Upon consideration of award or during the discussions leading to an award, the selected 
+Applicant may be required to submit additional documentation deemed necessary for the 
+Agreement Officer to make an affirmative determination of responsibility. 
+
+ 
+
+IMPORTANT NOTE: 
+
+ 
+
+Applicants should not submit the information below with their Applications. The information in 
+this section is provided so that Applicants may become familiar with additional documentation 
+that may be requested by the AO before award in order to make the responsibility determination: 
+
+ 
+
+
+These documents may include, but are not limited to: 
+
+ 
+
+1. Audited financial statements for the past three (3) years that have been audited by a 
+certified public accountant or other auditor satisfactory to USAID; 
+
+ 
+
+2. Bylaws, constitution, and articles of incorporation, if applicable; 
+
+ 
+
+3. Copies of organizational travel, procurement, financial management, accounting 
+manual and personnel policies and procedures, especially regarding salary, promotion, 
+leave, differentials, etc., and indicate whether such policies and procedures have been 
+reviewed and approved by any agency of the Federal Government. If so, provide the 
+name, address, and phone number of the cognizant reviewing official; 
+
+ 
+
+4. Other documentation, as required by the Agreement Officer, to substantiate that the 
+Applicant: 
+
+ 
+
+● Has adequate financial resources or the ability to obtain such resources as 
+required during the performance of the Cooperative Agreement; 
+
+ 
+
+● Has the ability to comply with the award’s terms and conditions, taking into 
+account all existing and currently prospective commitments of the Applicant, non-
+governmental and governmental; 
+
+ 
+
+● Has a satisfactory record of performance. Past relevant unsatisfactory 
+performance is ordinarily sufficient to justify a finding of non-responsibility, 
+unless there is clear evidence of subsequent satisfactory performance; 
+
+ 
+
+● Has a satisfactory record of integrity and business ethics; 
+
+ 
+
+● Is otherwise qualified and eligible to receive a Cooperative Agreement/Grant 
+under applicable laws and regulations (e.g., Equal Employment Opportunity 
+Laws). 
+
+ 
+
+An award may be made only by the Agreement Officer after making a positive responsibility 
+
+determination that the Applicant possesses, or has the ability to obtain, the necessary 
+management competence in planning and carrying out assistance programs, specifically the 
+proposed Activity; and that it will practice mutually agreed upon methods of accountability for 
+funds and other assets provided by USAID. 
+
+ 
+
+For organizations that are new to working with USAID or for organizations with outstanding 
+audit findings, or otherwise at USAID’s discretion, USAID may perform a pre-award survey to 
+assess the Applicant’s management and financial capabilities. If notified by USAID that a pre-
+award survey is necessary, Applicants must prepare, in advance, the required information and 
+documents. See ADS 303.3.9.1 at https://www.usaid.gov/ads/policy/300/303 for more 
+information on pre-award surveys. 
+
+ 
+
+
+Please note that a pre-award survey does not commit USAID to make any award. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION D – APPLICATION AND SUBMISSION INFORMATION] 
+
+
+SECTION E: APPLICATION REVIEW INFORMATION 
+
+ 
+
+E.1 Criteria 
+
+ 
+
+The merit review criteria prescribed here are tailored to the requirements of this particular 
+NOFO. Applicants should note that these criteria serve to: (a) identify the significant matters 
+which the applicants should address in their applications, and (b) set the standard against which 
+all applications will be evaluated. 
+
+ 
+
+Technical and other factors will be evaluated relative to each other, as described here and 
+prescribed by the Technical Application Format. The Technical Application will be scored by a 
+Selection Committee (SC) using the criteria described in this section. 
+
+ 
+
+E.2 Review and Selection Process 
+
+ 
+
+The submitted technical information will be evaluated by a technical evaluation committee using 
+
+the criteria shown above. The cost/business application will be reviewed by the Agreement 
+
+Officer/Agreement Specialist. 
+
+ 
+
+As a result of this process, USAID intends to select the apparently successful recipient based 
+upon the initial application submission. Once the selection is made, the Government may address 
+any concerns to the selected recipient for resolution. However, the Government reserves the right 
+to negotiate with all applicants prior to selection of the successful recipient if in the best interest 
+of the Government. 
+
+ 
+
+If USAID and the apparently successful Applicant cannot come to a mutual understanding 
+during the course of discussions, or if the apparently successful Applicant is unable to provide 
+satisfactory Technical and Cost Applications, or does not meet deadlines for submissions, or 
+presents an unacceptable risk as a result of the risk assessment, then the Agreement Officer may 
+designate the next highest-evaluated Applicant as the apparently successful Applicant. This 
+decision is at the sole discretion of the Agreement Officer. The Agreement Officer’s decision 
+regarding funding of an award is final and not subject to review. 
+
+ 
+
+Note: Section C.2 provides a minimum required cost share of 10% for this activity. 
+Applications that do not meet the minimum cost share requirement may not be eligible for award 
+consideration. While it is a minimum requirement for eligibility, cost share will not be 
+considered in the merit review criteria. 
+
+ 
+
+The Technical application will be evaluated in accordance with the Merit Evaluation Criteria set 
+forth below: 
+
+ 
+
+a) Merit Review 
+
+
+ 
+
+USAID will conduct a merit review of all applications received that comply with the instructions 
+in this NOFO. Applications will be reviewed and evaluated in accordance with the following 
+
+
+criteria by major categories and shown in descending order of importance. This will allow the 
+Applicants identify which areas require emphasis in the preparation of the applications. 
+
+ 
+
+ 
+
+Criteria 
+
+Criterion Name 
+
+Criterion 1 
+
+Technical Understanding and Approach 
+
+Sub Criterion 1.1 
+
+Systems and Technical Approach 
+
+Sub Criterion 1.2 
+
+Work Plan and Monitoring and Evaluation 
+Plan 
+
+Sub Criterion 1.3 
+
+Contextual Understanding 
+
+Criterion 2 
+
+Management Approach 
+
+Sub Criterion 2.1 
+
+Management and Staffing Plan 
+
+Sub Criterion 2.2 
+
+Rapid Start-Up Plan 
+
+Criterion 3 
+
+Institutional Capacity 
+
+Sub Criterion 3.1 
+
+Local stakeholder engagement 
+
+Sub Criterion 3.2 
+
+Past performance 
+
+
+
+ 
+
+E.2.1 Technical Understanding and Approach 
+
+ 
+
+The applicants Technical Understanding and Approach will be evaluated based on the following: 
+
+ 
+
+The extent to which the Applicant’s proposed technical approach (including systems approach; 
+
+development/country context, including understanding and incorporation of migration, COVID-
+19, and security factors; approach to private sector engagement; strategic approach to youth 
+
+engagement, and broader plan for gender and social inclusion; implementation strategy and 
+
+collaboration with existing efforts to address the basic education needs of children and youth in 
+high out migration areas) comprehensively describes convincing, sound, realistic, and 
+sustainable approaches which will achieve the results specified in the Program Description. 
+
+ 
+
+E.2.2 Management Approach 
+
+ 
+
+The applicants Management Approach will be evaluated based on the following: 
+
+ 
+
+(a) The extent to which the Applicant’s Management Approach demonstrates the capability 
+
+to successfully implement the proposed Technical Application, which fully integrates 
+
+maximizing use of local staff (with additional considerations of gender balance); integrating 
+
+capacity building of relevant local stakeholders into activity implementation; integrating 
+
+gender equality and inclusive development throughout activity implementation; and measures 
+
+to ensure collaborative learning and adaptive management. 
+
+ 
+
+(b) The Applicant’s Management and Staffing Plan and Organizational Chart will be 
+
+evaluated as part of this evaluation criteria. 
+
+ 
+
+(c) The applicant’s Rapid Start-up Plan will be evaluated in terms of timelines, feasibility and 
+
+purported effectiveness. 
+
+
+E.2.3 Institutional Capacity 
+
+ 
+
+The applicants Institutional Capacity will be evaluated based on the following: 
+
+ 
+
+The extent to which the Applicant demonstrates a strategic and feasible plan for meaningfully 
+engaging local stakeholders, including youth, in the IPE activity, and demonstrated past 
+performance in successfully implementing projects with a similar scope and set of objectives. 
+
+ 
+
+This includes two sub-criteria in descending order of importance: 
+
+ 
+
+1. Local Stakeholder Engagement 
+
+2. Past Performance 
+
+ 
+
+For the first aspect, the Applicant must describe a plan for engaging with local civil society and 
+other stakeholders in the context of the IPE activity, including plans for increasing local civil 
+society’s voice in the project and in achieving the project’s objectives (Special consideration will 
+be given to applications that focused on increasing meaningful youth engagement in the IPE 
+activity and in education decision-making). The Applicant must also demonstrate previous 
+experience in effectively engaging with local stakeholders. Refer to Instructions under 
+
+Criterion 3. 
+
+. 
+
+The Local Stakeholder Engagement will be evaluated to the extent to which the Applicant’s 
+
+Sustainability and Local Engagement Plan demonstrates a strategic and effective approach for 
+engaging stakeholders, including youth, in the IPE project and in achieving IPE objectives, as 
+well as demonstrated past performance in effectively engaging with local stakeholders. 
+
+In terms of past performance, the Applicant must describe its past performance in successfully 
+
+implementing projects with a similar scope and set of objectives to the IPE activity. Refer to 
+Instructions under Criterion 3. 
+
+ 
+
+In terms of evaluation, applicants will be evaluated based on the demonstration of experience 
+and success in implementing similar activities in terms of scope, magnitude, and complexity; and 
+the extent to which the Applicant demonstrates how they have achieved previous program 
+successes. 
+
+ 
+
+b) Business Review 
+
+
+ 
+
+The Agency will evaluate the cost application of the applicant(s) under consideration for an 
+award as a result of the merit criteria review to determine whether the costs are allowable in 
+accordance with the cost principles found in 2 CFR 200 Subpart E. 
+
+ 
+
+The Agency will also consider (1) the extent of the applicant's understanding of the financial 
+aspects of the program and the applicant's ability to perform the activities within the amount 
+requested; (2) whether the applicant's plans will achieve the program objectives with reasonable 
+economy and efficiency; and (3) whether any special conditions relating to costs should be 
+included in the award. 
+
+ 
+
+
+Proposed cost share, if provided, will be reviewed for compliance with the standards set forth in 
+2 CFR 200.306, 2 CFR 700.10, and the Standard Provision "Cost Sharing (Matching)" for U.S. 
+entities, or the Standard Provision "Cost Share" for non-U.S. entities. 
+
+ 
+
+The AO will perform a risk assessment (2 CFR 200.206). The AO may determine that a pre-
+award survey is required to inform the risk assessment in determining whether the prospective 
+recipient has the necessary organizational, experience, accounting and operational controls, 
+financial resources, and technical skills – or ability to obtain them – in order to achieve the 
+objectives of the program and comply with the terms and conditions of the award. Depending on 
+the result of the risk assessment, the AO will decide to execute the award, not execute the award, 
+or award with “specific conditions” (2 CFR 200.208). 
+
+ 
+
+ 
+
+[END OF SECTION E – APPLICATION REVIEW INFORMATION] 
+
+ 
+
+ 
+
+
+SECTION F: FEDERAL AWARD ADMINISTRATION INFORMATION 
+
+ 
+
+F.1 Federal Award Notices 
+
+ 
+
+Award of the agreement contemplated by this NOFO cannot be made until funds have been 
+appropriated, allocated and committed through internal USAID procedures. While USAID 
+anticipates that these procedures will be successfully completed, potential applicants are hereby 
+notified of these requirements and conditions for the award. 
+
+ 
+
+F.2 Administrative & National Policy Requirements 
+
+ 
+
+The resulting award from this NOFO will be administered in accordance with the following 
+policies and regulations. 
+
+ 
+
+For US organizations: ADS 303, 2 CFR 700, 2 CFR 200, and Standard Provisions for U.S. Non-
+governmental organizations. 
+
+ 
+
+For Non US organizations: Standard Provisions for Non-U.S. Non-governmental Organizations. 
+
+ 
+
+See Annex 2, for a list of the Standard Provisions that will be applicable to any awards resulting 
+from this NOFO. 
+
+ 
+
+F.3 Reporting Requirements 
+
+ 
+
+● Financial Reporting: 
+
+
+ 
+
+ Financial Reports will be in keeping with 2 CFR 200.327. In accordance with 2 CFR 200.327, 
+the SF-425 will be required as follows: 
+
+ 
+
+The Recipient must submit the Federal Financial Form (SF-425) on a quarterly basis via 
+electronic format. These reports must be submitted within 30 calendar days from the end of each 
+quarter. 
+
+ 
+
+● Performance Reporting 
+
+
+ 
+
+1. Annual Work Plans. A draft annual work plan for the first year of the program will be 
+submitted within 60 days of award, developed in consultation with USAID and relevant 
+stakeholders. In subsequent years, an annual work plan will be submitted at least 30 days prior to 
+the beginning of the next U.S. fiscal year (i.e. by September 1). 
+
+ 
+
+2. M&E Plan. A detailed M&E Plan will be submitted within 90 days of award. The M & E will 
+cover the entire period of the Agreement and will be revised as needed, and in cases of a 
+program modification including the additional of activities under the opportunity modules 
+
+ 
+
+3. Quarterly and Annual Results Reports. 
+
+ 
+
+
+Quarterly Reports: The recipient shall submit quarterly results reports describing performance 
+and results achieved. Quarterly narrative reports should generally not exceed 20 pages, excluding 
+Annexes, and must be submitted within 30 days of the end of each U.S. Government fiscal 
+quarter. 
+
+ 
+
+Annual Report: The annual results report should cover the period of October 1 through 
+September 30th, or any part thereof in which the project was active, and must be submitted 
+within 90 days of the end of each fiscal year. 
+
+ 
+
+4. Final Report 
+
+ 
+
+The recipient must submit a final life-of-project report not later than 90 days after the award end 
+date. The final report shall meet the requirements set forth in 2 CFR 200. It shall cover the entire 
+period of the award and include the cumulative results achieved, an assessment of the impact of 
+the program, lessons learned and recommendations, notable impacts, and detailed financial 
+information. It should be grounded in evidence and data. 
+
+ 
+
+F.4 Program Income 
+
+ 
+
+Program Income earned under this resultant award will be added to the Total Estimated Amount 
+(exclusive of cost share) in accordance with 2 CFR 200.307(e)(2). 
+
+ 
+
+F.5 Environmental Compliance 
+
+ 
+
+The Foreign Assistance Act of 1961, as amended, Section 117 requires that the impact of 
+USAID’s activities on the environment be considered and that USAID include environmental 
+sustainability as a central consideration in designing and carrying out its development programs. 
+This mandate is codified in Federal Regulations (22 CFR 216) and in USAID’s Automated 
+Directives System (ADS) Parts 201.5.10g and 204 (http://www.usaid.gov/policy/ADS/200), 
+which, in part, require that the potential environmental impacts of USAID-financed activities are 
+identified prior to a final decision to proceed and that appropriate environmental safeguards are 
+adopted for all activities. Recipient environmental compliance obligations under these 
+regulations and procedures are specified in the following paragraphs of this NOFO. 
+
+ 
+
+In addition, the Recipient must comply with host country environmental regulations unless 
+
+otherwise directed in writing by USAID. In case of conflict between host country and USAID 
+
+regulations, the latter shall govern. 
+
+ 
+
+No activity funded under this CA will be implemented unless an environmental threshold 
+
+determination, as defined by 22 CFR 216, has been reached for that activity, as documented in a 
+
+Request for Categorical Exclusion (RCE), Initial Environmental Examination (IEE), or 
+
+Environmental Assessment (EA) duly signed by the Bureau Environmental Officer (BEO). 
+
+(Hereinafter, such documents are described as “approved Regulation 216 environmental 
+
+documentation.”). 
+
+ 
+
+
+An Initial Environmental Examination (IEE) LAC-IEE-20-49 (Annex 4) has been approved for 
+Honduras IPE activity, which covers activities expected to be implemented under this agreement. 
+USAID has determined that these do not have an effect on the natural or physical environment. 
+
+ 
+
+F.6 Other Requirements 
+
+ 
+
+F.6.1 Terrorism Risk Assessment 
+
+USAID/Honduras’s 2021 Risk Based Assessment for Terrorist Financing (RBA), which 
+considers the terrorism threat environment in Honduras and is intended to reduce the risk of 
+USAID assistance benefitting terrorist groups, their members, or their supporters, was approved 
+by the USAID’s Office of Security on August 3, 2021. The RBA covers this Activity. 
+
+SPECIAL PROVISIONS – REQUIRED 
+
+ 
+
+F.6.2 Climate Risk Screening 
+
+ 
+
+Climate change is having and will continue to have far-reaching impacts on human health, 
+agriculture, urban development, and other sectors for decades to come. By assessing and 
+addressing climate risk, USAID can increase the sustainability and impact of its investments. 
+Climate-resilient development will deliver better, more sustainable project results in the 
+countries where we work, save taxpayers’ money, and safeguard our investments. 
+
+If USAID/Honduras identifies that this activity has moderate or high climate risk, there will be a 
+need to do further assessment and build climate resilience into the activity. The Recipient] may 
+be asked to carry-out this assessment following USAID guidelines and guidance from the 
+Mission Environmental Officer. Relevant findings from this assessment shall be incorporated 
+into the activity as inputs to the work plan. 
+
+ 
+
+F.6.3 Interface with USAID/Honduras’ Third-Party Monitoring, Evaluation, and Learning 
+Activity 
+
+ 
+
+USAID/Honduras Program Office manages the Monitoring and Evaluation Support for 
+Collaborative Learning and Adapting (MESCLA) activity, implemented by DEXIS. This 
+Activity provides technical support to the Mission’s multi-level monitoring, evaluation, and 
+learning needs. With support from this Activity, USAID is designing a structured and ambitious 
+learning agenda to allow the Mission to gather and analyze evidence that will help improve inter 
+and intra-Mission learning, as well as improve management and design of interventions at the 
+activity and project level in order to achieve the intended results. 
+
+Under the direction of USAID/Honduras personnel, Recipients are required to cooperate and 
+allow MESCLA access to activity documentation, planning, monitoring, and other related 
+documents for the purposes of evaluation and learning. MESCLA’s third-party monitoring and 
+evaluation will not substitute nor supersede the Recipients’ obligations regarding activity 
+implementation, monitoring, evaluation, learning, and reporting to USAID/Honduras officials, as 
+
+
+(1) “Dataset” is an organized collection of structured data, including data contained in 
+spreadsheets, whether presented in tabular or non-tabular form. For example, a Dataset 
+may represent a single spreadsheet, an extensible mark-up language (XML) file, a 
+geospatial data file, or an organized collection of these. This requirement does not apply 
+to aggregated performance reporting data that the applicant submits directly to a USAID 
+portfolio management system or to unstructured data, such as email messages, PDF files, 
+PowerPoint presentations, word processing documents, photos and graphic images, 
+audio files, collaboration software, and instant messages. Neither does the requirement 
+apply to the applicant’s information that is incidental to award administration, such as 
+financial, administrative, cost or pricing, or management information. Datasets 
+submitted to the DDL will generally be those generated with USAID resources and 
+created in support of Intellectual Work that is uploaded to the Development Experience 
+Clearinghouse (DEC) (see AIDAR 752.7005 “Submission Requirements for 
+Development Experience Documents”). 
+(2) “Intellectual Work” includes all works that document the implementation, monitoring, 
+evaluation, and results of international development assistance activities developed or 
+acquired under this award, which may include program and communications materials, 
+evaluations and assessments, information products, research and technical reports, 
+progress and performance reports required under this award (excluding administrative 
+financial information), and other reports, articles and papers prepared by the applicant 
+under the award, whether published or not. The term does not include the applicant’s 
+information that is incidental to award administration, such as financial, administrative, 
+cost or pricing, or management information. 
+
+
+
+
+
+
+
+
+appropriate. The Recipient] must interface effectively with MESCLA to provide operational and 
+technical support for project level evaluation and learning, and activity level monitoring and 
+evaluation without superseding the Recipients’ responsibilities under this activity award. 
+
+ 
+
+F.6.4 Submissions of Datasets to the Development Data Library (DDL) 
+
+ 
+
+ (a) Definitions. For the purpose of submissions to the DDL: 
+
+ 
+
+ 
+
+(b) Submissions to the Development Data Library (DDL) 
+
+The Recipient must submit to the Development Data Library (DDL), at 
+
+www.usaid.gov/data, in a machine-readable, non-proprietary format, a copy of any Dataset 
+created or obtained in performance of this award, including Datasets produced by a subrecipient 
+at any tier. The submission must include supporting documentation describing the Dataset, such 
+as code books, data dictionaries, data gathering tools, notes on data quality, and explanations of 
+redactions. 
+
+Unless otherwise directed by the Agreement Officer (AO) or the Agreement Officer 
+Representative (AOR), the Recipient must submit the Dataset and supporting documentation 
+
+
+within thirty (30) calendar days after the Dataset is first used to produce an Intellectual Work or 
+is of sufficient quality to produce an Intellectual Work. Within thirty (30) calendar days after 
+award completion, the Recipient must submit to the DDL any Datasets and supporting 
+documentation that have not previously been submitted to the DDL, along with an index of all 
+Datasets and Intellectual Work created or obtained under the award. The Recipient must also 
+provide to the AOR an itemized list of any and all DDL submissions. 
+
+The Recipient is not required to submit the data to the DDL, when, in accordance with the terms 
+and conditions of this award, Datasets containing results of federally funded scientific research 
+are submitted to a publicly accessible research database. However, the Recipient must submit a 
+notice to the DDL by following the instructions at www.usaid.gov/data, with a copy to the AOR, 
+providing details on where and how to access the data. The direct results of federally funded 
+scientific research must be reported no later than when the data are ready to be submitted to a 
+peer-reviewed journal for publication, or no later than five calendar days prior to the conclusion 
+of the award, whichever occurs earlier. 
+
+The Recipient must submit the Datasets following the submission instructions and acceptable 
+formats found at www.usaid.gov/data. 
+
+The Recipient must ensure that any Dataset submitted to the DDL does not contain any 
+proprietary or personally identifiable information, such as social security numbers, home 
+addresses, and dates of birth. Such information must be removed prior to submission. The 
+Recipient must not submit classified data to the DDL. 
+
+F.6.5 Private Public Partnerships 
+
+ 
+
+The success of USAID/Honduras’ Country Development Cooperation Strategy (CDCS) relies on 
+strong partnerships, which are key to ensuring that development solutions can be sustained in the 
+long-term by local stakeholders and markets. Private sector engagement is crucial to the success 
+of this proposed activity because (describe how private sector involvement will contribute to 
+Activity objectives). The private sector refers to businesses, entrepreneurs, investors, business 
+associations, chambers of commerce, private grant-making foundations and philanthropic 
+entities. 
+
+The goal of private sector engagement, including but not limited to public private partnerships, is 
+to help solve a development challenge and/or to further advance development objectives by 
+leveraging and applying private sector expertise, capabilities, networks and other resources. The 
+latter includes, but is not limited to, business expertise, market access, networks, financial 
+resources and in-kind contributions such as equipment, technology or personnel time. 
+
+USAID/Honduras has a Mission Alliance Builder and Public Private Partnerships Working 
+Group (WG). The WG is in the process of developing relationships with locally based companies 
+that have the potential to contribute to USAID/Honduras’ CDCS development objectives. As 
+
+
+such, the Awardee will be expected to submit its private sector engagement plan to the AOR 
+prior to formalizing any partnerships. 
+
+Given the importance of private sector engagement, including public-private partnerships, 
+USAID/Honduras has developed guidance for Implementing Partners (IPs) on due diligence and 
+steps to take prior to engaging a private sector entity as a partner. The objective of this guidance 
+is to assist USAID IPs in weighing the benefits and risks associated with partnering with a 
+private sector entity to support an informed decision. The Awardee will be expected to plan and 
+budget for due diligence procedures, and the Chief of Party/Director of the Activity will be 
+required to document the analysis of the due diligence in a memorandum that will require AOR 
+concurrence. IPs will be expected to adhere to the due diligence guidance. 
+
+USAID/Honduras tracks public private partnerships under its Performance Monitoring Plan. This 
+information is included in the public USAID Partnerships Database. The Awardee will be 
+expected to report all leveraging under public private partnerships using a format to be provided 
+by USAID/Honduras. 
+
+F.6.6 Survey Datasets 
+
+ 
+
+The Recipient shall submit raw data collected through the activity monitoring and evaluation 
+process in an appropriate format to USAID/Honduras. USAID/Honduras will retain ownership of 
+the survey and all datasets developed. The Recipient must follow the standard and ethical 
+practices of the American Association for Public Opinion Research 
+(http://www.aapor.org/Standards-Ethics.aspx) in developing and conducting survey work. The 
+Recipient must also comply with USAID’s Human Subject Protection Policy and other survey 
+relevant policies, including those of the GOH, as applicable. Safeguarding the rights and welfare 
+of human subjects involved in the survey research supported by USAID is the responsibility of 
+the Recipient]. USAID has adopted the Common Federal Policy for the Protection of Human 
+Subjects, Part 225 of Title 22 of the Code of Federal Regulations (the "Policy"): 
+https://www.usaid.gov/sites/default/files/documents/1864/303maa.pdf 
+
+ 
+
+F.6.7 Geographic Data and Cartographic Product Reporting Requirement 
+
+ 
+
+Throughout data collection (where practical and economical) for both, context and performance 
+indicators, the Recipient must include geographic information. USAID/Honduras has a dedicated 
+Geographic Information Systems (GIS) Specialist who will develop a GIS database. The GIS 
+database could support geographic mapping and representation of geocoded performance 
+information in MESCLA’s performance system. The Recipient must support this GIS function 
+by working with the specialist and implementing partners to ensure that relevant performance 
+information is geocoded. Once the Recipient, USAID, and implementing partners agree on 
+which indicators can be geocoded, USAID will require implementing partners to include this 
+additional information in their regular reporting processes. The awardee should plan and budget 
+to comply with GIS requirements. Further GIS details will be provided post-award. 
+
+
+When Geographic Data is acquired through data use or ownership agreements with the host-
+country government or other entity, the Applicant must ensure that the agreement makes it 
+permissible for the Geographic Data to be submitted to, and used by, USAID. 
+
+A. Standards 
+
+I. Geographic Data: 
+
+a. Geographic Data must be submitted in industry standard formats such as Shapefile (.shp) 
+or GeoTIFF, or in a File Geodatabase. 
+
+b. Geographic Data submitted shall include metadata following the XML schema, ISO 
+19139, which was developed to provide a consistent manner for presenting the ISO 19115 
+standard. 
+
+c. Geographic Data must be projected to the Geographic Coordinate System World 
+Geodetic System 1984 (GCS WGS 1984). All data must use the World Geodetic System 1984 
+(WGS 1984) datum. 
+
+a. Cartographic products shall be submitted in Adobe PDF format. 
+
+b. Cartographic products generated using GIS technology shall be submitted in the industry 
+standard formats of an Esri Map Document (.mxd) or Quantum GIS Project (.qgs). Use of any 
+other format requires the express written approval of the Agreement Officer. 
+
+B. Definitions 
+
+I. Activity Location Data 
+
+The Recipient must submit Activity Location Data which indicates the geographic location or 
+locations where an activity is implemented. Activity Location Data shall be compiled and 
+submitted electronically in Microsoft Excel format using the USAID/Mission Activity Location 
+Template (attached, Section J). If Activity Location Data exists in a Geographic Information 
+System (GIS) data format, it shall be submitted in accordance with the Geographic Data 
+formatting requirements outlined above in addition to the USAID/Mission Activity Location 
+Template. Activity Location Data shall be submitted as part of the second (2nd) and fourth (4th) 
+quarterly reports. 
+
+II. Geographic Data 
+
+The Applicant shall submit Geographic Data that is acquired or created from an analysis during 
+the implementation of the activity. Geographic Data that is acquired during the process of 
+implementing an activity refers to geographically-referenced data such as demographic and 
+health indicators, infrastructure, and land use land cover that is obtained by the Applicant during 
+the implementation of the activity. Geographic Data that is created during the process of 
+
+
+implementing an activity refers to geographically-referenced data that is generated as the result 
+of an analysis, survey, or by any other means by the Applicant. This includes geographically 
+explicit indicators included in the PMEP. Geographic Data shall be submitted to the COR 
+digitally or on a DVD or an external hard drive, as a part of annual reports. 
+
+III. Cartographic Products 
+
+Cartographic Products refer to maps or geographic data visualizations that are generated using 
+Activity Location Data or Geographic Data during the implementation of an activity. All 
+Cartographic Products must be clearly labeled with the source of the data and a legend that 
+defines the symbols used. When submitting cartographic products in industry standard formats 
+such as an Esri Map Document (.mxd) or Quantum GIS Project (.qgs), all data contained in the 
+.mxd or .qgs must be also be submitted according to the Geographic Data standards specified 
+above. Cartographic Products shall be submitted as part of annual reports. 
+
+ 
+
+SPECIAL PROVISIONS – REQUIRED WITH CONDITIONS 
+
+ 
+
+F.6.8 Monitoring, Evaluation, and Learning Plan 
+
+ 
+
+The Monitoring, Evaluation, and Learning (MEL) plan shall guide key activities, indicators of 
+achievement, and the associated annual and life-of-activity targets. This plan shall be developed 
+by the Recipient and reviewed and approved by the AOR. The Recipient shall submit a final 
+MEL plan no later than 90 calendar days after award. It is expected that the Recipient will 
+mobilize within 30 days after award. The final MEL plan shall be incorporated into the award 
+by reference. 
+
+Performance monitoring must take into account the requirements for two levels of reporting: (1) 
+the selection of indicators consistent with USAID/Honduras’ strategic reporting requirements as 
+well as USAID’s Standard Foreign Assistance Indicators; and (2) the selection of indicators for 
+internal, activity-level management. While the Recipient may suggest more relevant indicators 
+to better illustrate progress and outcomes of the Activity, the AOR will make final indicator 
+selection upon the review and approval of the MEL plan. These indicators will take into account 
+the results and performance requirements outlined in Section C. All people-level indicators 
+must be sex disaggregated. At a minimum, the indicators outlined in Section C must be included 
+in the MEL Plan. Standard Foreign Assistance Indicators must be listed with their standard 
+indicator numbers. Within the MEL Plan, the Recipient is also encouraged to propose research 
+studies, evaluations, assessments, and other learning activities that are relevant to the overall 
+goals and objectives of this Activity. 
+
+The Recipient shall also include the following "integration" indicator in the MEL plan: 
+
+● Percentage of interventions implemented in coordination with other USAID/Honduras 
+activities. 
+
+
+Further, the USAID Evaluation Policy defines evaluation as the systematic collection and 
+analysis of information about the characteristics and outcome of programs and projects to 
+
+
+improve effectiveness and/or inform decisions about current and future programming. The 
+Recipient may be expected to include specific evaluation activities throughout the life of the 
+Activity. These could include performance or impact evaluations. For all external evaluations, 
+the Recipient]is expected to cooperate fully with the evaluators. 
+
+F.6.9 Collaboration, Learning, and Adapting 
+
+The Recipient is expected to contribute to USAID/Honduras’ commitment to a multi-faceted 
+Collaborating, Learning and Adapting (CLA) approach to development. The CLA approach is 
+based on the understanding that development efforts yield more effective results if they are 
+coordinated and collaborative, test promising, new approaches in a continuous manner, and seek 
+to generate improvements and efficiencies in programming. Further, CLA stresses the 
+importance of building on what works and eliminating what does not. To support CLA efforts in 
+creating conditions that foster broader development success, the Recipient is expected to 
+promote: 
+
+● Collaboration: Facilitating collaboration both within and outside USAID. This 
+collaboration includes that with other USAID Activities, with the Government of 
+Honduras, local actors and other groups operating in the same sector, municipality, or 
+region. This may involve enhancing existing stakeholder engagement in learning and 
+coordinating with other USG- or other donor activities to ensure complementarity, while 
+also facilitating information sharing and the strengthening of knowledge networks. 
+● Learning: Integrating new learning, innovations, and performance information back into 
+the Activity to inform program management, design, USG-GOH policy dialogue 
+opportunities, and funding allocations. This is achieved by creating regular pauses within 
+the Activity implementation plan wherein stakeholders and partners reflect on progress 
+and lessons learned to date. Further, by conducting an analytical review of existing and/or 
+new evidence that may inform the Activity’s implementation. Learning activities relevant 
+to the overall goals and objectives of this Activity will be reviewed and approved by the 
+AOR. 
+● Adapting: Translating learning from implementation experience or external sources into 
+strategic and programmatic adjustments, considering changing conditions and emerging 
+risks and game changers. This is achieved by adjusting work plans, interventions, and 
+management structures and operational approaches to account for contextual shifts or 
+tacit learning from a team’s experience, while explicitly sharing a clear, well-articulated 
+rationale for adjustments along the way. Changes to the work plans and interventions, 
+and allowable changes to management structures and operational approaches, will be 
+reviewed and approved by the AOR. 
+
+
+It is also understood that CLA takes into account programmatic learning and shifts generated by 
+the Activity (outward-generating) as well as those adopted by the Recipient from external 
+learning sources. 
+
+F.6.10 Reducing Irregular Migration 
+
+ 
+
+The United States Government, including USAID, has prioritized efforts to reduce irregular 
+
+
+migration to the United States. Specifically, USAID seeks to mitigate its drivers and maximize 
+the potential to reintegrate returned migrants. As a result, each Applicant for a USAID/Honduras 
+Activity is required to include a discussion of how a final award would affect irregular migration 
+and/or the reintegration of returnees. 
+
+The Applicant must also discuss adherence to Do No Harm principles that can ensure an Activity 
+would not inadvertently create perverse incentives for irregular migration, dangers to returnees 
+or obstacles to their reintegration. 
+
+F.6.11 Youth Programming and Development 
+
+Given the key roles youth ages 10-29 play in Honduran society, the challenges they face, and 
+that 75 percent of Honduran migrants at the U.S. Southwest border between 2013 and 2019 were 
+under age 30, USAID has increased efforts to effectively engage youth as partners. USAID is 
+pursuing more responsive, innovative, and cost-effective approaches for empowering youth to 
+contribute to and benefit from their country’s development. 
+
+In response to Agency requirements and to increase the effectiveness of the Activity, the 
+Applicant, following Positive Youth Development principles established in the USAID Youth in 
+Development Policy, must incorporate in the application clear and practical approaches to 
+involve youth and address the challenges they face to accomplish the Activity’s results. The 
+Applicant must describe its specific experience implementing, and monitoring sector-specific 
+and cross-sectoral youth programs in diverse settings, including conflict-affected areas, as well 
+as include illustrative youth indicators to measure the Activity goals. 
+
+F.6.12 Anti-Corruption and Transparency 
+
+The United States Government, including USAID, has prioritized and increased its focus on 
+integrating anti-corruption and transparency efforts across its interventions. As defined in 
+USAID Honduras’s Country Development Cooperation Strategy, anti-corruption efforts are 
+paramount to effecting positive change across its Development Objectives. Given the endemic 
+levels of corruption in Honduras, the Applicant must incorporate in the application clear, 
+practical, and measurable approaches to promote anti-corruption, access to information, and 
+transparency principles and initiatives in the sectors where interventions are planned. To prevent 
+or mitigate inherent risks in doing business in Honduras, as applicable, the Applicant must 
+describe in its application the preventive measures to be applied to reduce the risk that USAID 
+resources inadvertently contribute to corruption, its supporters, financiers, or affiliates. 
+
+To the extent possible and as appropriate the Applicant should include at least one illustrative 
+indicator that measures advancement of anti-corruption and transparency efforts. 
+
+F.6.13 Geographic Approach 
+
+To achieve the goal and results set forth in USAID/Honduras’s Country Development 
+
+
+Cooperation Strategy (CDCS), the Mission has defined geographic zones of influence to guide 
+its programming and strategic implementation. The purpose of the zones of influence is to create 
+synergies and promote integration across activities and portfolios, fostering an environment 
+conducive to results achievement and reduced irregular migration and its drivers as articulated in 
+the Development Objectives. 
+
+As a data-driven Mission, USAID/Honduras incorporates evidence-based data to define the 
+geographies that meet the basic conditions to achieve its CDCS goal and Development 
+Objectives. A robust spectrum of dimensions are considered in this analysis, including: irregular 
+migration trends, USAID historic intervention, citizen security metrics, youth demographics, 
+gender based violence indicators, poverty and unsatisfied needs, existing judicial and security 
+structures that provide access to justice, economic conditions, education metrics, COVID-19 
+pandemic, and patterns of land use and production potential. The final list of municipalities 
+within the defined zones of influence where the Activity will focus its implementation will be 
+reviewed and approved by the Mission. 
+
+While the Applicant may suggest the expansion to other municipalities that meet 
+USAID/Honduras’ geo targeting criteria and improve the Activity’s progress and outcomes, the 
+Mission will make the final selection. 
+
+F.6.14 Title to Property 
+
+Property title under the resulting agreement, except for motor vehicles, shall vest with the 
+recipient in accordance with the requirements of 2 CFR 200.310 - 200.316. Title to motor 
+vehicles shall be vested in the USG (2 CFR 200.313) until changes in the corresponding GoH 
+Resolution/Document state otherwise. 
+
+ 
+
+ 
+
+ 
+
+[END OF SECTION F – FEDERAL AWARD ADMINISTRATION INFORMATION] 
+
+ 
+
+ 
+
+
+SECTION G: FEDERAL AWARDING AGENCY CONTACT(S) 
+
+ 
+
+1. NOFO Points of Contact 
+
+
+ 
+
+Agreement Officer: 
+
+ 
+
+Nathan Olah 
+
+USAID/Honduras 
+
+Office of Acquisition and Assistance 
+
+Ave. La Paz 
+
+Tegucigalpa, Honduras 
+
+Email: nolah@usaid.gov 
+
+ 
+
+Acquisition and Assistance Specialist 
+
+ 
+
+Anne L. Busaka 
+
+USAID/Honduras 
+
+Office of Acquisition and Assistance 
+
+Ave. La Paz 
+
+Tegucigalpa, Honduras 
+
+Email: abusaka@usaid.gov 
+
+ 
+
+Agreement Officer’s Representative: To be Determined (TBD) 
+
+ 
+
+Questions to this NOFO should be sent to the following Email address: oaahonduras@usaid.gov 
+
+ 
+
+2. Acquisition and Assistance Ombudsman 
+
+
+ 
+
+The A&A Ombudsman helps ensure equitable treatment of all parties who participate in 
+USAID’s acquisition and assistance process. The A&A Ombudsman serves as a resource for all 
+organizations who are doing or wish to do business with USAID. Please visit this page for 
+additional information: https://www.usaid.gov/work-usaid/acquisition-assistance-ombudsman 
+
+ 
+The A&A Ombudsman may be contacted via: Ombudsman@usaid.gov 
+
+ 
+
+ 
+
+[END OF SECTION G – FEDERAL AWARDING AGENCY CONTACT] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SECTION H: OTHER INFORMATION 
+
+ 
+
+USAID reserves the right to fund any or none of the applications submitted. The Agreement 
+Officer is the only individual who may legally commit the Government to the expenditure of 
+public funds. Any award and subsequent incremental funding will be subject to the availability 
+of funds and continued relevance to Agency programming. 
+
+ 
+
+Applications with Proprietary Data 
+
+ 
+
+Applicants who include data that they do not want disclosed to the public for any purpose or 
+used by the U.S. Government except for evaluation purpose, should mark the cover page with the 
+following: 
+
+ 
+
+“This application includes data that must not be disclosed duplicated, used, or disclosed – in 
+whole or in part – for any purpose other than to evaluate this application. If, however, an 
+award is made as a result of – or in connection with – the submission of this data, the U.S. 
+Government will have the right to duplicate, use, or disclose the data to the extent provided in 
+the resulting award. This restriction does not limit the U.S. Government’s right to use 
+information contained in this data if it is obtained from another source without restriction. The 
+data subject to this restriction are contained in sheets {insert sheet numbers}.” 
+
+ 
+
+Additionally, the applicant must mark each sheet of data it wishes to restrict with the following: 
+
+ 
+
+“Use or disclosure of data contained on this sheet is subject to the restriction on the title page 
+of this application.” 
+
+ 
+
+ 
+
+[END OF SECTION H – OTHER INFORMATION] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 1 - SUMMARY BUDGET TEMPLATE 
+
+ 
+
+Line Item 
+
+Year 1 
+
+Year 2 
+
+Year 3 
+
+Year 4 
+
+Year 5 
+
+Total 
+Amount 
+
+(USD) 
+
+Salaries and Allowances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fringe Benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travel and Transportation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Procurement or Rental of 
+Goods (Equipment and 
+Supplies) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub-awards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Other Direct Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Direct Charges 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indirect Charges (if any) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sub-Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost Share 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Costs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 2 - STANDARD PROVISIONS 
+
+ 
+
+ (Note: the full text of these provisions may be found at: 
+https://www.usaid.gov/ads/policy/300/303maa and 
+https://www.usaid.gov/ads/policy/300/303mab). The actual Standard Provisions included in the 
+award will be dependent on the organization that is selected. The award will include the latest 
+Mandatory Provisions for either U.S. or non-U.S. Nongovernmental organizations. The award 
+will also contain the following “required as applicable” Standard Provisions: 
+
+ 
+
+Please note that the resulting award will include all standard provisions (both mandatory 
+and required as applicable) in full text. 
+
+ 
+
+ 
+
+ 
+
+
+ANNEX 3 - ABBREVIATIONS AND ACRONYMS 
+
+ 
+
+ACRONYMS 
+
+ 
+
+ADS Automated Directive System 
+
+ 
+
+AOR Agreement Officer’s Representative 
+
+ 
+
+CARSI Central America Regional Security Initiative 
+
+ 
+
+CDCS Country Development Cooperation Strategy 
+
+ 
+
+CLA Collaboration, Learning and Adapting 
+
+ 
+
+CoP Chief of Party 
+
+ 
+
+CRS Catholic Relief Services 
+
+ 
+
+CSO Civil Society Organization 
+
+ 
+
+DO Development Objective 
+
+ 
+
+DQA Data Quality Assessment 
+
+ 
+
+GNP Gross National Product 
+
+ 
+
+INE Instituto Nacional de Estadística (National Statistics Institute) 
+
+ 
+
+IP Implementing Partner 
+
+ 
+
+IPE Improving Pathways to Education 
+
+ 
+
+LAPOP Latin American Public Opinion Project 
+
+ 
+
+MELP Monitoring, Evaluation and Learning Plan 
+
+ 
+
+MESCLA Monitoring & Evaluation Support for Collaborative Learning and Adapting 
+
+ 
+
+MOE Ministry of Education 
+
+NGO Non-gubernamental Organizations 
+
+NRC Norwegian Refugee Council 
+
+PD Program Description 
+
+PTA Parent Teacher Association 
+
+
+SEDUC Secretaria de Educación 
+
+SEL Social and Emotional Learning 
+
+UDL Universal Design for Learning 
+
+UNICEF United Nations Children Fund 
+
+USAID United States Agency for International Development 
+
+USG United States Government 
+
+ToC Theory of Change 
+
+WASH Water, Sanitation and Hygiene 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+ANNEX 4 - INITIAL ENVIRONMENTAL EXAMINATION 
+
+ 
+
+See attachment – LAC-IEE-20-49 
+
+ 
+
+ 
+
+
